@@ -1,7 +1,7 @@
 class  IssuesController < ApplicationController
 
   def index
-
+    render json: ['hi']
   end
 
   def show

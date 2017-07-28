@@ -1,7 +1,23 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
-#   Character.create(name: 'Luke', movie: movies.first)
+require_relative 'fake_server_response'
+
+Repos.delete_all
+Issues.delete_all
+
+ @repos[:data][:search][:edges].each do |repo|
+   repo = repo[:node]
+
+   Repo.new(
+   :name=>"freeCodeCamp",
+   :url=>"https://github.com/freeCodeCamp/freeCodeCamp",
+   :owner[:login],
+   :description=>"The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
+   :primaryLanguage=>{:name=>"JavaScript"},
+   :mentionableUsers[:totalCount]
+   :stargazers[:totalCount]
+   :issues=[:totalCount]
+   :forks[:totalCount]
+   :pullRequests[:totalCount]
+   :updatedAt=>"2017-07-28T21:18:32Z"}
+   )
+
+ end

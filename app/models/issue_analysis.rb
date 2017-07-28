@@ -1,0 +1,2 @@
+class IssueAnalysis < ApplicationRecord
+end

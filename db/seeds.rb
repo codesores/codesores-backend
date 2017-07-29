@@ -4,7 +4,7 @@ require_relative 'fake_server_response'
 Repo.delete_all
 Issue.delete_all
 
-@repos[:data][:search][:edges].each do |repo|
+@javascript_repos[:data][:search][:edges].each do |repo|
   repo = repo[:node]
 
   repo_entry = Repo.new(
@@ -35,6 +35,7 @@ end
     issue_entry = Issue.new(
     title: issue[:title],
     labels: issue[:labels][:edges],
+    body: issue[:body],
     issue_created_at: DateTime.parse(issue[:createdAt]),
     comment_count: issue[:comments][:totalCount],
     url: issue[:url],

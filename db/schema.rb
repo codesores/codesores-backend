@@ -29,6 +29,7 @@ ActiveRecord::Schema.define(version: 20170728220846) do
     t.datetime "issue_created_at"
     t.integer "comment_count"
     t.string "url"
+    t.string "body"
     t.string "author"
     t.integer "participant_count"
     t.integer "assignee_count"

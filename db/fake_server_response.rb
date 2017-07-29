@@ -253,7 +253,7 @@
   }
 }
 
-@repos = {
+@javascript_repos = {
   "data": {
     "search": {
       "repositoryCount": 171,
@@ -1806,6 +1806,3116 @@
               "totalCount": 388
             },
             "updatedAt": "2017-07-28T21:26:08Z"
+          }
+        }
+      ]
+    }
+  }
+}
+
+@ruby_repos = {
+  "data": {
+    "search": {
+      "repositoryCount": 590,
+      "edges": [
+        {
+          "node": {
+            "name": "rails",
+            "url": "https://github.com/rails/rails",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjQyMjM=",
+              "login": "rails"
+            },
+            "nameWithOwner": "rails/rails",
+            "description": "Ruby on Rails",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 998
+            },
+            "stargazers": {
+              "totalCount": 36473
+            },
+            "issues": {
+              "totalCount": 10427
+            },
+            "forks": {
+              "totalCount": 14473
+            },
+            "pullRequests": {
+              "totalCount": 19526
+            },
+            "updatedAt": "2017-07-29T17:33:42Z"
+          }
+        },
+        {
+          "node": {
+            "name": "jekyll",
+            "url": "https://github.com/jekyll/jekyll",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjMwODM2NTI=",
+              "login": "jekyll"
+            },
+            "nameWithOwner": "jekyll/jekyll",
+            "description": ":globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 780
+            },
+            "stargazers": {
+              "totalCount": 30542
+            },
+            "issues": {
+              "totalCount": 3342
+            },
+            "forks": {
+              "totalCount": 6524
+            },
+            "pullRequests": {
+              "totalCount": 2812
+            },
+            "updatedAt": "2017-07-29T18:06:30Z"
+          }
+        },
+        {
+          "node": {
+            "name": "legacy-homebrew",
+            "url": "https://github.com/Homebrew/legacy-homebrew",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE1MDM1MTI=",
+              "login": "Homebrew"
+            },
+            "nameWithOwner": "Homebrew/legacy-homebrew",
+            "description": ":skull: The former home of Homebrew",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 999
+            },
+            "stargazers": {
+              "totalCount": 28963
+            },
+            "issues": {
+              "totalCount": 17043
+            },
+            "forks": {
+              "totalCount": 13109
+            },
+            "pullRequests": {
+              "totalCount": 33606
+            },
+            "updatedAt": "2017-07-29T16:32:47Z"
+          }
+        },
+        {
+          "node": {
+            "name": "public-apis",
+            "url": "https://github.com/toddmotto/public-apis",
+            "owner": {
+              "id": "MDQ6VXNlcjE2NTU5Njg=",
+              "login": "toddmotto"
+            },
+            "nameWithOwner": "toddmotto/public-apis",
+            "description": "A collective list of public JSON APIs for use in web development.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 273
+            },
+            "stargazers": {
+              "totalCount": 23028
+            },
+            "issues": {
+              "totalCount": 43
+            },
+            "forks": {
+              "totalCount": 1757
+            },
+            "pullRequests": {
+              "totalCount": 385
+            },
+            "updatedAt": "2017-07-29T17:55:05Z"
+          }
+        },
+        {
+          "node": {
+            "name": "discourse",
+            "url": "https://github.com/discourse/discourse",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjMyMjAxMzg=",
+              "login": "discourse"
+            },
+            "nameWithOwner": "discourse/discourse",
+            "description": "A platform for community discussion. Free, open, simple.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 613
+            },
+            "stargazers": {
+              "totalCount": 22241
+            },
+            "issues": {
+              "totalCount": 419
+            },
+            "forks": {
+              "totalCount": 5426
+            },
+            "pullRequests": {
+              "totalCount": 4585
+            },
+            "updatedAt": "2017-07-29T16:11:34Z"
+          }
+        },
+        {
+          "node": {
+            "name": "gitlabhq",
+            "url": "https://github.com/gitlabhq/gitlabhq",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEwODYzMjE=",
+              "login": "gitlabhq"
+            },
+            "nameWithOwner": "gitlabhq/gitlabhq",
+            "description": "GitLab CE | Please open new issues in our issue tracker on GitLab.com",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 963
+            },
+            "stargazers": {
+              "totalCount": 19633
+            },
+            "issues": {
+              "totalCount": 6689
+            },
+            "forks": {
+              "totalCount": 5093
+            },
+            "pullRequests": {
+              "totalCount": 3584
+            },
+            "updatedAt": "2017-07-29T10:14:18Z"
+          }
+        },
+        {
+          "node": {
+            "name": "awesome-awesomeness",
+            "url": "https://github.com/bayandin/awesome-awesomeness",
+            "owner": {
+              "id": "MDQ6VXNlcjg2NDIxMw==",
+              "login": "bayandin"
+            },
+            "nameWithOwner": "bayandin/awesome-awesomeness",
+            "description": "A curated list of awesome awesomeness",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 164
+            },
+            "stargazers": {
+              "totalCount": 19341
+            },
+            "issues": {
+              "totalCount": 44
+            },
+            "forks": {
+              "totalCount": 2386
+            },
+            "pullRequests": {
+              "totalCount": 269
+            },
+            "updatedAt": "2017-07-29T16:19:03Z"
+          }
+        },
+        {
+          "node": {
+            "name": "devise",
+            "url": "https://github.com/plataformatec/devise",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEyNzY3OQ==",
+              "login": "plataformatec"
+            },
+            "nameWithOwner": "plataformatec/devise",
+            "description": "Flexible authentication solution for Rails with Warden.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 533
+            },
+            "stargazers": {
+              "totalCount": 17413
+            },
+            "issues": {
+              "totalCount": 3539
+            },
+            "forks": {
+              "totalCount": 3937
+            },
+            "pullRequests": {
+              "totalCount": 1048
+            },
+            "updatedAt": "2017-07-29T17:58:12Z"
+          }
+        },
+        {
+          "node": {
+            "name": "fastlane",
+            "url": "https://github.com/fastlane/fastlane",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjExMDk4MzM3",
+              "login": "fastlane"
+            },
+            "nameWithOwner": "fastlane/fastlane",
+            "description": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 577
+            },
+            "stargazers": {
+              "totalCount": 17157
+            },
+            "issues": {
+              "totalCount": 6214
+            },
+            "forks": {
+              "totalCount": 2585
+            },
+            "pullRequests": {
+              "totalCount": 3667
+            },
+            "updatedAt": "2017-07-29T12:24:49Z"
+          }
+        },
+        {
+          "node": {
+            "name": "huginn",
+            "url": "https://github.com/huginn/huginn",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjIzMjI1MTQy",
+              "login": "huginn"
+            },
+            "nameWithOwner": "huginn/huginn",
+            "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 153
+            },
+            "stargazers": {
+              "totalCount": 16683
+            },
+            "issues": {
+              "totalCount": 1152
+            },
+            "forks": {
+              "totalCount": 1806
+            },
+            "pullRequests": {
+              "totalCount": 919
+            },
+            "updatedAt": "2017-07-29T09:37:14Z"
+          }
+        },
+        {
+          "node": {
+            "name": "vagrant",
+            "url": "https://github.com/mitchellh/vagrant",
+            "owner": {
+              "id": "MDQ6VXNlcjEyOTk=",
+              "login": "mitchellh"
+            },
+            "nameWithOwner": "mitchellh/vagrant",
+            "description": "Vagrant is a tool for building and distributing development environments.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 850
+            },
+            "stargazers": {
+              "totalCount": 14993
+            },
+            "issues": {
+              "totalCount": 6502
+            },
+            "forks": {
+              "totalCount": 3088
+            },
+            "pullRequests": {
+              "totalCount": 2317
+            },
+            "updatedAt": "2017-07-29T08:08:49Z"
+          }
+        },
+        {
+          "node": {
+            "name": "awesome-react-native",
+            "url": "https://github.com/jondot/awesome-react-native",
+            "owner": {
+              "id": "MDQ6VXNlcjgzMzkw",
+              "login": "jondot"
+            },
+            "nameWithOwner": "jondot/awesome-react-native",
+            "description": "Awesome React Native components, news, tools, and learning material!",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 288
+            },
+            "stargazers": {
+              "totalCount": 13948
+            },
+            "issues": {
+              "totalCount": 29
+            },
+            "forks": {
+              "totalCount": 1618
+            },
+            "pullRequests": {
+              "totalCount": 481
+            },
+            "updatedAt": "2017-07-29T17:37:46Z"
+          }
+        },
+        {
+          "node": {
+            "name": "devdocs",
+            "url": "https://github.com/Thibaut/devdocs",
+            "owner": {
+              "id": "MDQ6VXNlcjE3NTc5",
+              "login": "Thibaut"
+            },
+            "nameWithOwner": "Thibaut/devdocs",
+            "description": "API Documentation Browser",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 57
+            },
+            "stargazers": {
+              "totalCount": 13582
+            },
+            "issues": {
+              "totalCount": 528
+            },
+            "forks": {
+              "totalCount": 869
+            },
+            "pullRequests": {
+              "totalCount": 130
+            },
+            "updatedAt": "2017-07-29T13:40:05Z"
+          }
+        },
+        {
+          "node": {
+            "name": "ruby",
+            "url": "https://github.com/ruby/ruby",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjIxMDQxNA==",
+              "login": "ruby"
+            },
+            "nameWithOwner": "ruby/ruby",
+            "description": "The Ruby Programming Language",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 103
+            },
+            "stargazers": {
+              "totalCount": 12660
+            },
+            "issues": {
+              "totalCount": 1
+            },
+            "forks": {
+              "totalCount": 3170
+            },
+            "pullRequests": {
+              "totalCount": 1660
+            },
+            "updatedAt": "2017-07-29T14:18:42Z"
+          }
+        },
+        {
+          "node": {
+            "name": "bootstrap-sass",
+            "url": "https://github.com/twbs/bootstrap-sass",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI5MTg1ODE=",
+              "login": "twbs"
+            },
+            "nameWithOwner": "twbs/bootstrap-sass",
+            "description": "Official Sass port of Bootstrap 2 and 3.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 111
+            },
+            "stargazers": {
+              "totalCount": 12256
+            },
+            "issues": {
+              "totalCount": 779
+            },
+            "forks": {
+              "totalCount": 3102
+            },
+            "pullRequests": {
+              "totalCount": 349
+            },
+            "updatedAt": "2017-07-29T13:36:02Z"
+          }
+        },
+        {
+          "node": {
+            "name": "engineering-blogs",
+            "url": "https://github.com/kilimchoi/engineering-blogs",
+            "owner": {
+              "id": "MDQ6VXNlcjEzNTYwMDc=",
+              "login": "kilimchoi"
+            },
+            "nameWithOwner": "kilimchoi/engineering-blogs",
+            "description": "A curated list of engineering blogs",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 272
+            },
+            "stargazers": {
+              "totalCount": 11833
+            },
+            "issues": {
+              "totalCount": 47
+            },
+            "forks": {
+              "totalCount": 1212
+            },
+            "pullRequests": {
+              "totalCount": 713
+            },
+            "updatedAt": "2017-07-29T16:04:12Z"
+          }
+        },
+        {
+          "node": {
+            "name": "diaspora",
+            "url": "https://github.com/diaspora/diaspora",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI5MzIwNw==",
+              "login": "diaspora"
+            },
+            "nameWithOwner": "diaspora/diaspora",
+            "description": "A privacy-aware, distributed, open source social network.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 355
+            },
+            "stargazers": {
+              "totalCount": 11327
+            },
+            "issues": {
+              "totalCount": 4300
+            },
+            "forks": {
+              "totalCount": 2745
+            },
+            "pullRequests": {
+              "totalCount": 3195
+            },
+            "updatedAt": "2017-07-29T07:35:57Z"
+          }
+        },
+        {
+          "node": {
+            "name": "homebrew-cask",
+            "url": "https://github.com/caskroom/homebrew-cask",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjU2NDc3MTE=",
+              "login": "caskroom"
+            },
+            "nameWithOwner": "caskroom/homebrew-cask",
+            "description": "A CLI workflow for the administration of Mac applications distributed as binaries",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 999
+            },
+            "stargazers": {
+              "totalCount": 11309
+            },
+            "issues": {
+              "totalCount": 3852
+            },
+            "forks": {
+              "totalCount": 5108
+            },
+            "pullRequests": {
+              "totalCount": 33346
+            },
+            "updatedAt": "2017-07-29T10:29:02Z"
+          }
+        },
+        {
+          "node": {
+            "name": "sass",
+            "url": "https://github.com/sass/sass",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjMxNzg4OQ==",
+              "login": "sass"
+            },
+            "nameWithOwner": "sass/sass",
+            "description": "Sass makes CSS fun again.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 201
+            },
+            "stargazers": {
+              "totalCount": 10194
+            },
+            "issues": {
+              "totalCount": 1930
+            },
+            "forks": {
+              "totalCount": 1818
+            },
+            "pullRequests": {
+              "totalCount": 415
+            },
+            "updatedAt": "2017-07-29T16:47:18Z"
+          }
+        },
+        {
+          "node": {
+            "name": "mastodon",
+            "url": "https://github.com/tootsuite/mastodon",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI0OTc5MDMy",
+              "login": "tootsuite"
+            },
+            "nameWithOwner": "tootsuite/mastodon",
+            "description": "A GNU Social-compatible microblogging server",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 373
+            },
+            "stargazers": {
+              "totalCount": 9825
+            },
+            "issues": {
+              "totalCount": 1981
+            },
+            "forks": {
+              "totalCount": 1682
+            },
+            "pullRequests": {
+              "totalCount": 2463
+            },
+            "updatedAt": "2017-07-29T15:59:10Z"
+          }
+        },
+        {
+          "node": {
+            "name": "capistrano",
+            "url": "https://github.com/capistrano/capistrano",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjU4MjU3",
+              "login": "capistrano"
+            },
+            "nameWithOwner": "capistrano/capistrano",
+            "description": "Remote multi-server automation tool",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 367
+            },
+            "stargazers": {
+              "totalCount": 9715
+            },
+            "issues": {
+              "totalCount": 999
+            },
+            "forks": {
+              "totalCount": 1516
+            },
+            "pullRequests": {
+              "totalCount": 795
+            },
+            "updatedAt": "2017-07-28T10:56:39Z"
+          }
+        },
+        {
+          "node": {
+            "name": "CocoaPods",
+            "url": "https://github.com/CocoaPods/CocoaPods",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjExODk3MTQ=",
+              "login": "CocoaPods"
+            },
+            "nameWithOwner": "CocoaPods/CocoaPods",
+            "description": "The Cocoa Dependency Manager.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 240
+            },
+            "stargazers": {
+              "totalCount": 9602
+            },
+            "issues": {
+              "totalCount": 5769
+            },
+            "forks": {
+              "totalCount": 1766
+            },
+            "pullRequests": {
+              "totalCount": 1135
+            },
+            "updatedAt": "2017-07-29T04:04:37Z"
+          }
+        },
+        {
+          "node": {
+            "name": "octopress",
+            "url": "https://github.com/imathis/octopress",
+            "owner": {
+              "id": "MDQ6VXNlcjEyNzMy",
+              "login": "imathis"
+            },
+            "nameWithOwner": "imathis/octopress",
+            "description": "Octopress is an obsessively designed framework for Jekyll blogging. It’s easy to configure and easy to deploy. Sweet huh?",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 121
+            },
+            "stargazers": {
+              "totalCount": 9561
+            },
+            "issues": {
+              "totalCount": 984
+            },
+            "forks": {
+              "totalCount": 2842
+            },
+            "pullRequests": {
+              "totalCount": 799
+            },
+            "updatedAt": "2017-07-28T15:18:00Z"
+          }
+        },
+        {
+          "node": {
+            "name": "sinatra",
+            "url": "https://github.com/sinatra/sinatra",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjgzMTI=",
+              "login": "sinatra"
+            },
+            "nameWithOwner": "sinatra/sinatra",
+            "description": "Classy web-development dressed in a DSL (official / canonical repo)",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 349
+            },
+            "stargazers": {
+              "totalCount": 9480
+            },
+            "issues": {
+              "totalCount": 617
+            },
+            "forks": {
+              "totalCount": 1649
+            },
+            "pullRequests": {
+              "totalCount": 706
+            },
+            "updatedAt": "2017-07-29T10:49:55Z"
+          }
+        },
+        {
+          "node": {
+            "name": "metasploit-framework",
+            "url": "https://github.com/rapid7/metasploit-framework",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEwMTM2NzE=",
+              "login": "rapid7"
+            },
+            "nameWithOwner": "rapid7/metasploit-framework",
+            "description": "Metasploit Framework",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 591
+            },
+            "stargazers": {
+              "totalCount": 9195
+            },
+            "issues": {
+              "totalCount": 1831
+            },
+            "forks": {
+              "totalCount": 5306
+            },
+            "pullRequests": {
+              "totalCount": 6944
+            },
+            "updatedAt": "2017-07-29T13:50:45Z"
+          }
+        },
+        {
+          "node": {
+            "name": "paperclip",
+            "url": "https://github.com/thoughtbot/paperclip",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjYxODM=",
+              "login": "thoughtbot"
+            },
+            "nameWithOwner": "thoughtbot/paperclip",
+            "description": "Easy file attachment management for ActiveRecord",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 452
+            },
+            "stargazers": {
+              "totalCount": 8628
+            },
+            "issues": {
+              "totalCount": 1719
+            },
+            "forks": {
+              "totalCount": 1788
+            },
+            "pullRequests": {
+              "totalCount": 751
+            },
+            "updatedAt": "2017-07-29T17:55:41Z"
+          }
+        },
+        {
+          "node": {
+            "name": "spree",
+            "url": "https://github.com/spree/spree",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjU2NzAy",
+              "login": "spree"
+            },
+            "nameWithOwner": "spree/spree",
+            "description": "Spree is a complete open source ecommerce solution for Ruby on Rails",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 728
+            },
+            "stargazers": {
+              "totalCount": 8586
+            },
+            "issues": {
+              "totalCount": 3317
+            },
+            "forks": {
+              "totalCount": 3750
+            },
+            "pullRequests": {
+              "totalCount": 4859
+            },
+            "updatedAt": "2017-07-29T03:21:12Z"
+          }
+        },
+        {
+          "node": {
+            "name": "bourbon",
+            "url": "https://github.com/thoughtbot/bourbon",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjYxODM=",
+              "login": "thoughtbot"
+            },
+            "nameWithOwner": "thoughtbot/bourbon",
+            "description": "A Lightweight Sass Tool Set",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 226
+            },
+            "stargazers": {
+              "totalCount": 8252
+            },
+            "issues": {
+              "totalCount": 533
+            },
+            "forks": {
+              "totalCount": 889
+            },
+            "pullRequests": {
+              "totalCount": 503
+            },
+            "updatedAt": "2017-07-28T11:17:27Z"
+          }
+        },
+        {
+          "node": {
+            "name": "brew",
+            "url": "https://github.com/Homebrew/brew",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE1MDM1MTI=",
+              "login": "Homebrew"
+            },
+            "nameWithOwner": "Homebrew/brew",
+            "description": "🍺 The missing package manager for macOS",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 563
+            },
+            "stargazers": {
+              "totalCount": 8186
+            },
+            "issues": {
+              "totalCount": 1065
+            },
+            "forks": {
+              "totalCount": 2072
+            },
+            "pullRequests": {
+              "totalCount": 1896
+            },
+            "updatedAt": "2017-07-29T16:32:57Z"
+          }
+        },
+        {
+          "node": {
+            "name": "grape",
+            "url": "https://github.com/ruby-grape/grape",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEzNjI0NTUz",
+              "login": "ruby-grape"
+            },
+            "nameWithOwner": "ruby-grape/grape",
+            "description": "An opinionated framework for creating REST-like APIs in Ruby.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 303
+            },
+            "stargazers": {
+              "totalCount": 8101
+            },
+            "issues": {
+              "totalCount": 794
+            },
+            "forks": {
+              "totalCount": 951
+            },
+            "pullRequests": {
+              "totalCount": 873
+            },
+            "updatedAt": "2017-07-28T19:12:34Z"
+          }
+        },
+        {
+          "node": {
+            "name": "capybara",
+            "url": "https://github.com/teamcapybara/capybara",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjIzNDY1NjIz",
+              "login": "teamcapybara"
+            },
+            "nameWithOwner": "teamcapybara/capybara",
+            "description": "Acceptance test framework for web applications",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 232
+            },
+            "stargazers": {
+              "totalCount": 7930
+            },
+            "issues": {
+              "totalCount": 1164
+            },
+            "forks": {
+              "totalCount": 1124
+            },
+            "pullRequests": {
+              "totalCount": 728
+            },
+            "updatedAt": "2017-07-28T19:04:50Z"
+          }
+        },
+        {
+          "node": {
+            "name": "fpm",
+            "url": "https://github.com/jordansissel/fpm",
+            "owner": {
+              "id": "MDQ6VXNlcjEzMTgxOA==",
+              "login": "jordansissel"
+            },
+            "nameWithOwner": "jordansissel/fpm",
+            "description": "Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 226
+            },
+            "stargazers": {
+              "totalCount": 7903
+            },
+            "issues": {
+              "totalCount": 831
+            },
+            "forks": {
+              "totalCount": 787
+            },
+            "pullRequests": {
+              "totalCount": 556
+            },
+            "updatedAt": "2017-07-29T17:37:28Z"
+          }
+        },
+        {
+          "node": {
+            "name": "resque",
+            "url": "https://github.com/resque/resque",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjM4NzY3NDc=",
+              "login": "resque"
+            },
+            "nameWithOwner": "resque/resque",
+            "description": "Resque is a Redis-backed Ruby library for creating background jobs, placing them on multiple queues, and processing them later.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 204
+            },
+            "stargazers": {
+              "totalCount": 7901
+            },
+            "issues": {
+              "totalCount": 749
+            },
+            "forks": {
+              "totalCount": 1352
+            },
+            "pullRequests": {
+              "totalCount": 819
+            },
+            "updatedAt": "2017-07-29T03:26:02Z"
+          }
+        },
+        {
+          "node": {
+            "name": "rubocop",
+            "url": "https://github.com/bbatsov/rubocop",
+            "owner": {
+              "id": "MDQ6VXNlcjEwMzg4Mg==",
+              "login": "bbatsov"
+            },
+            "nameWithOwner": "bbatsov/rubocop",
+            "description": "A Ruby static code analyzer, based on the community Ruby style guide.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 400
+            },
+            "stargazers": {
+              "totalCount": 7876
+            },
+            "issues": {
+              "totalCount": 2222
+            },
+            "forks": {
+              "totalCount": 1377
+            },
+            "pullRequests": {
+              "totalCount": 2410
+            },
+            "updatedAt": "2017-07-29T03:19:58Z"
+          }
+        },
+        {
+          "node": {
+            "name": "logstash",
+            "url": "https://github.com/elastic/logstash",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjY3NjQzOTA=",
+              "login": "elastic"
+            },
+            "nameWithOwner": "elastic/logstash",
+            "description": "Logstash - transport and process your logs, events, or other data",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 747
+            },
+            "stargazers": {
+              "totalCount": 7786
+            },
+            "issues": {
+              "totalCount": 3933
+            },
+            "forks": {
+              "totalCount": 2164
+            },
+            "pullRequests": {
+              "totalCount": 3907
+            },
+            "updatedAt": "2017-07-29T17:16:38Z"
+          }
+        },
+        {
+          "node": {
+            "name": "sidekiq",
+            "url": "https://github.com/mperham/sidekiq",
+            "owner": {
+              "id": "MDQ6VXNlcjI5MTE=",
+              "login": "mperham"
+            },
+            "nameWithOwner": "mperham/sidekiq",
+            "description": "Simple, efficient background processing for Ruby",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 381
+            },
+            "stargazers": {
+              "totalCount": 7715
+            },
+            "issues": {
+              "totalCount": 2592
+            },
+            "forks": {
+              "totalCount": 1302
+            },
+            "pullRequests": {
+              "totalCount": 974
+            },
+            "updatedAt": "2017-07-29T09:33:04Z"
+          }
+        },
+        {
+          "node": {
+            "name": "carrierwave",
+            "url": "https://github.com/carrierwaveuploader/carrierwave",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjM5ODI1ODk=",
+              "login": "carrierwaveuploader"
+            },
+            "nameWithOwner": "carrierwaveuploader/carrierwave",
+            "description": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 322
+            },
+            "stargazers": {
+              "totalCount": 7593
+            },
+            "issues": {
+              "totalCount": 1521
+            },
+            "forks": {
+              "totalCount": 1315
+            },
+            "pullRequests": {
+              "totalCount": 686
+            },
+            "updatedAt": "2017-07-29T14:16:41Z"
+          }
+        },
+        {
+          "node": {
+            "name": "activeadmin",
+            "url": "https://github.com/activeadmin/activeadmin",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjgxNDU3MA==",
+              "login": "activeadmin"
+            },
+            "nameWithOwner": "activeadmin/activeadmin",
+            "description": "The administration framework for Ruby on Rails applications.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 546
+            },
+            "stargazers": {
+              "totalCount": 7457
+            },
+            "issues": {
+              "totalCount": 3209
+            },
+            "forks": {
+              "totalCount": 2542
+            },
+            "pullRequests": {
+              "totalCount": 1899
+            },
+            "updatedAt": "2017-07-29T17:57:53Z"
+          }
+        },
+        {
+          "node": {
+            "name": "whenever",
+            "url": "https://github.com/javan/whenever",
+            "owner": {
+              "id": "MDQ6VXNlcjUzNTU=",
+              "login": "javan"
+            },
+            "nameWithOwner": "javan/whenever",
+            "description": "Cron jobs in Ruby",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 81
+            },
+            "stargazers": {
+              "totalCount": 7164
+            },
+            "issues": {
+              "totalCount": 471
+            },
+            "forks": {
+              "totalCount": 615
+            },
+            "pullRequests": {
+              "totalCount": 237
+            },
+            "updatedAt": "2017-07-27T04:14:40Z"
+          }
+        },
+        {
+          "node": {
+            "name": "postal",
+            "url": "https://github.com/atech/postal",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjMxODExMg==",
+              "login": "atech"
+            },
+            "nameWithOwner": "atech/postal",
+            "description": "📨 A fully featured open source mail delivery platform for incoming & outgoing e-mail",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 10
+            },
+            "stargazers": {
+              "totalCount": 7080
+            },
+            "issues": {
+              "totalCount": 270
+            },
+            "forks": {
+              "totalCount": 293
+            },
+            "pullRequests": {
+              "totalCount": 17
+            },
+            "updatedAt": "2017-07-29T11:52:36Z"
+          }
+        },
+        {
+          "node": {
+            "name": "tmuxinator",
+            "url": "https://github.com/tmuxinator/tmuxinator",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjY1NzQyNzY=",
+              "login": "tmuxinator"
+            },
+            "nameWithOwner": "tmuxinator/tmuxinator",
+            "description": "Manage complex tmux sessions easily",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 107
+            },
+            "stargazers": {
+              "totalCount": 6858
+            },
+            "issues": {
+              "totalCount": 319
+            },
+            "forks": {
+              "totalCount": 425
+            },
+            "pullRequests": {
+              "totalCount": 227
+            },
+            "updatedAt": "2017-07-29T14:53:54Z"
+          }
+        },
+        {
+          "node": {
+            "name": "simple_form",
+            "url": "https://github.com/plataformatec/simple_form",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEyNzY3OQ==",
+              "login": "plataformatec"
+            },
+            "nameWithOwner": "plataformatec/simple_form",
+            "description": "Forms made easy for Rails! It's tied to a simple DSL, with no opinion on markup.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 242
+            },
+            "stargazers": {
+              "totalCount": 6720
+            },
+            "issues": {
+              "totalCount": 1027
+            },
+            "forks": {
+              "totalCount": 1072
+            },
+            "pullRequests": {
+              "totalCount": 477
+            },
+            "updatedAt": "2017-07-29T18:06:37Z"
+          }
+        },
+        {
+          "node": {
+            "name": "guides",
+            "url": "https://github.com/thoughtbot/guides",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjYxODM=",
+              "login": "thoughtbot"
+            },
+            "nameWithOwner": "thoughtbot/guides",
+            "description": "A guide for programming in style.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 163
+            },
+            "stargazers": {
+              "totalCount": 6661
+            },
+            "issues": {
+              "totalCount": 72
+            },
+            "forks": {
+              "totalCount": 994
+            },
+            "pullRequests": {
+              "totalCount": 427
+            },
+            "updatedAt": "2017-07-29T16:15:53Z"
+          }
+        },
+        {
+          "node": {
+            "name": "kaminari",
+            "url": "https://github.com/kaminari/kaminari",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjU2Mzc5NTE=",
+              "login": "kaminari"
+            },
+            "nameWithOwner": "kaminari/kaminari",
+            "description": "⚡ A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for Ruby webapps",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 127
+            },
+            "stargazers": {
+              "totalCount": 6619
+            },
+            "issues": {
+              "totalCount": 544
+            },
+            "forks": {
+              "totalCount": 845
+            },
+            "pullRequests": {
+              "totalCount": 359
+            },
+            "updatedAt": "2017-07-29T01:58:06Z"
+          }
+        },
+        {
+          "node": {
+            "name": "rails_admin",
+            "url": "https://github.com/sferik/rails_admin",
+            "owner": {
+              "id": "MDQ6VXNlcjEwMzA4",
+              "login": "sferik"
+            },
+            "nameWithOwner": "sferik/rails_admin",
+            "description": "RailsAdmin is a Rails engine that provides an easy-to-use interface for managing your data",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 362
+            },
+            "stargazers": {
+              "totalCount": 6579
+            },
+            "issues": {
+              "totalCount": 1964
+            },
+            "forks": {
+              "totalCount": 1826
+            },
+            "pullRequests": {
+              "totalCount": 942
+            },
+            "updatedAt": "2017-07-29T17:58:10Z"
+          }
+        },
+        {
+          "node": {
+            "name": "omniauth",
+            "url": "https://github.com/omniauth/omniauth",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE3MDY0MzU2",
+              "login": "omniauth"
+            },
+            "nameWithOwner": "omniauth/omniauth",
+            "description": "OmniAuth is a flexible authentication system utilizing Rack middleware.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 165
+            },
+            "stargazers": {
+              "totalCount": 6319
+            },
+            "issues": {
+              "totalCount": 550
+            },
+            "forks": {
+              "totalCount": 780
+            },
+            "pullRequests": {
+              "totalCount": 355
+            },
+            "updatedAt": "2017-07-28T16:59:56Z"
+          }
+        },
+        {
+          "node": {
+            "name": "cancan",
+            "url": "https://github.com/ryanb/cancan",
+            "owner": {
+              "id": "MDQ6VXNlcjE2MQ==",
+              "login": "ryanb"
+            },
+            "nameWithOwner": "ryanb/cancan",
+            "description": "Authorization Gem for Ruby on Rails.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 68
+            },
+            "stargazers": {
+              "totalCount": 6205
+            },
+            "issues": {
+              "totalCount": 848
+            },
+            "forks": {
+              "totalCount": 777
+            },
+            "pullRequests": {
+              "totalCount": 200
+            },
+            "updatedAt": "2017-07-29T08:26:52Z"
+          }
+        },
+        {
+          "node": {
+            "name": "better_errors",
+            "url": "https://github.com/charliesome/better_errors",
+            "owner": {
+              "id": "MDQ6VXNlcjE3OTA2NQ==",
+              "login": "charliesome"
+            },
+            "nameWithOwner": "charliesome/better_errors",
+            "description": "Better error page for Rack apps",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 64
+            },
+            "stargazers": {
+              "totalCount": 6168
+            },
+            "issues": {
+              "totalCount": 224
+            },
+            "forks": {
+              "totalCount": 391
+            },
+            "pullRequests": {
+              "totalCount": 155
+            },
+            "updatedAt": "2017-07-29T15:04:44Z"
+          }
+        },
+        {
+          "node": {
+            "name": "quine-relay",
+            "url": "https://github.com/mame/quine-relay",
+            "owner": {
+              "id": "MDQ6VXNlcjIxNTU3",
+              "login": "mame"
+            },
+            "nameWithOwner": "mame/quine-relay",
+            "description": "An uroboros program with 100 programming languages",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 12
+            },
+            "stargazers": {
+              "totalCount": 6014
+            },
+            "issues": {
+              "totalCount": 53
+            },
+            "forks": {
+              "totalCount": 305
+            },
+            "pullRequests": {
+              "totalCount": 30
+            },
+            "updatedAt": "2017-07-29T08:55:54Z"
+          }
+        },
+        {
+          "node": {
+            "name": "middleman",
+            "url": "https://github.com/middleman/middleman",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEyODA4MjA=",
+              "login": "middleman"
+            },
+            "nameWithOwner": "middleman/middleman",
+            "description": "Hand-crafted frontend development",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 167
+            },
+            "stargazers": {
+              "totalCount": 5900
+            },
+            "issues": {
+              "totalCount": 1454
+            },
+            "forks": {
+              "totalCount": 591
+            },
+            "pullRequests": {
+              "totalCount": 644
+            },
+            "updatedAt": "2017-07-29T09:10:52Z"
+          }
+        },
+        {
+          "node": {
+            "name": "liquid",
+            "url": "https://github.com/Shopify/liquid",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjgwODU=",
+              "login": "Shopify"
+            },
+            "nameWithOwner": "Shopify/liquid",
+            "description": "Liquid markup language. Safe, customer facing template language for flexible web apps. ",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 1000
+            },
+            "stargazers": {
+              "totalCount": 5691
+            },
+            "issues": {
+              "totalCount": 429
+            },
+            "forks": {
+              "totalCount": 684
+            },
+            "pullRequests": {
+              "totalCount": 483
+            },
+            "updatedAt": "2017-07-29T03:32:41Z"
+          }
+        },
+        {
+          "node": {
+            "name": "progit",
+            "url": "https://github.com/progit/progit",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjk1NTg4",
+              "login": "progit"
+            },
+            "nameWithOwner": "progit/progit",
+            "description": "Pro Git Book Content, 1st Edition - See 2nd edition at progit2",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 408
+            },
+            "stargazers": {
+              "totalCount": 5631
+            },
+            "issues": {
+              "totalCount": 158
+            },
+            "forks": {
+              "totalCount": 2292
+            },
+            "pullRequests": {
+              "totalCount": 793
+            },
+            "updatedAt": "2017-07-28T18:20:01Z"
+          }
+        },
+        {
+          "node": {
+            "name": "faker",
+            "url": "https://github.com/stympy/faker",
+            "owner": {
+              "id": "MDQ6VXNlcjEwNzA=",
+              "login": "stympy"
+            },
+            "nameWithOwner": "stympy/faker",
+            "description": "A library for generating fake data such as names, addresses, and phone numbers.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 365
+            },
+            "stargazers": {
+              "totalCount": 5547
+            },
+            "issues": {
+              "totalCount": 247
+            },
+            "forks": {
+              "totalCount": 1239
+            },
+            "pullRequests": {
+              "totalCount": 747
+            },
+            "updatedAt": "2017-07-29T14:13:04Z"
+          }
+        },
+        {
+          "node": {
+            "name": "synx",
+            "url": "https://github.com/venmo/synx",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI1Njk5OA==",
+              "login": "venmo"
+            },
+            "nameWithOwner": "venmo/synx",
+            "description": "A command-line tool that reorganizes your Xcode project folder to match your Xcode groups",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 55
+            },
+            "stargazers": {
+              "totalCount": 5529
+            },
+            "issues": {
+              "totalCount": 91
+            },
+            "forks": {
+              "totalCount": 260
+            },
+            "pullRequests": {
+              "totalCount": 43
+            },
+            "updatedAt": "2017-07-29T14:53:47Z"
+          }
+        },
+        {
+          "node": {
+            "name": "dotfiles",
+            "url": "https://github.com/skwp/dotfiles",
+            "owner": {
+              "id": "MDQ6VXNlcjE3MzE=",
+              "login": "skwp"
+            },
+            "nameWithOwner": "skwp/dotfiles",
+            "description": "YADR - The best vim,git,zsh plugins and the cleanest vimrc you've ever seen",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 91
+            },
+            "stargazers": {
+              "totalCount": 5514
+            },
+            "issues": {
+              "totalCount": 448
+            },
+            "forks": {
+              "totalCount": 1239
+            },
+            "pullRequests": {
+              "totalCount": 316
+            },
+            "updatedAt": "2017-07-29T01:31:54Z"
+          }
+        },
+        {
+          "node": {
+            "name": "fluentd",
+            "url": "https://github.com/fluent/fluentd",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjg1OTUxOA==",
+              "login": "fluent"
+            },
+            "nameWithOwner": "fluent/fluentd",
+            "description": "Fluentd: Unified Logging Layer (project under CNCF)",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 124
+            },
+            "stargazers": {
+              "totalCount": 5490
+            },
+            "issues": {
+              "totalCount": 666
+            },
+            "forks": {
+              "totalCount": 646
+            },
+            "pullRequests": {
+              "totalCount": 980
+            },
+            "updatedAt": "2017-07-29T13:14:07Z"
+          }
+        },
+        {
+          "node": {
+            "name": "factory_girl",
+            "url": "https://github.com/thoughtbot/factory_girl",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjYxODM=",
+              "login": "thoughtbot"
+            },
+            "nameWithOwner": "thoughtbot/factory_girl",
+            "description": "A library for setting up Ruby objects as test data.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 252
+            },
+            "stargazers": {
+              "totalCount": 5446
+            },
+            "issues": {
+              "totalCount": 668
+            },
+            "forks": {
+              "totalCount": 1340
+            },
+            "pullRequests": {
+              "totalCount": 359
+            },
+            "updatedAt": "2017-07-28T21:42:31Z"
+          }
+        },
+        {
+          "node": {
+            "name": "guard",
+            "url": "https://github.com/guard/guard",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjM1MTg0Ng==",
+              "login": "guard"
+            },
+            "nameWithOwner": "guard/guard",
+            "description": "Guard is a command line tool to easily handle events on file system modifications.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 216
+            },
+            "stargazers": {
+              "totalCount": 5389
+            },
+            "issues": {
+              "totalCount": 526
+            },
+            "forks": {
+              "totalCount": 451
+            },
+            "pullRequests": {
+              "totalCount": 345
+            },
+            "updatedAt": "2017-07-29T11:09:33Z"
+          }
+        },
+        {
+          "node": {
+            "name": "pundit",
+            "url": "https://github.com/elabs/pundit",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjM0NDM4",
+              "login": "elabs"
+            },
+            "nameWithOwner": "elabs/pundit",
+            "description": "Minimal authorization through OO design and pure Ruby classes",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 90
+            },
+            "stargazers": {
+              "totalCount": 5299
+            },
+            "issues": {
+              "totalCount": 266
+            },
+            "forks": {
+              "totalCount": 390
+            },
+            "pullRequests": {
+              "totalCount": 209
+            },
+            "updatedAt": "2017-07-29T13:32:58Z"
+          }
+        },
+        {
+          "node": {
+            "name": "rails-api",
+            "url": "https://github.com/rails-api/rails-api",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI4MjAzNjA=",
+              "login": "rails-api"
+            },
+            "nameWithOwner": "rails-api/rails-api",
+            "description": "Rails for API only applications",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 65
+            },
+            "stargazers": {
+              "totalCount": 5203
+            },
+            "issues": {
+              "totalCount": 134
+            },
+            "forks": {
+              "totalCount": 293
+            },
+            "pullRequests": {
+              "totalCount": 89
+            },
+            "updatedAt": "2017-07-29T00:37:37Z"
+          }
+        },
+        {
+          "node": {
+            "name": "will_paginate",
+            "url": "https://github.com/mislav/will_paginate",
+            "owner": {
+              "id": "MDQ6VXNlcjg4Nw==",
+              "login": "mislav"
+            },
+            "nameWithOwner": "mislav/will_paginate",
+            "description": "Pagination library for Rails, Sinatra, Merb, DataMapper, and more",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 51
+            },
+            "stargazers": {
+              "totalCount": 5091
+            },
+            "issues": {
+              "totalCount": 377
+            },
+            "forks": {
+              "totalCount": 764
+            },
+            "pullRequests": {
+              "totalCount": 168
+            },
+            "updatedAt": "2017-07-29T13:56:55Z"
+          }
+        },
+        {
+          "node": {
+            "name": "formtastic",
+            "url": "https://github.com/justinfrench/formtastic",
+            "owner": {
+              "id": "MDQ6VXNlcjUyNDA=",
+              "login": "justinfrench"
+            },
+            "nameWithOwner": "justinfrench/formtastic",
+            "description": "A Rails form builder plugin with semantically rich and accessible markup.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 180
+            },
+            "stargazers": {
+              "totalCount": 4983
+            },
+            "issues": {
+              "totalCount": 867
+            },
+            "forks": {
+              "totalCount": 592
+            },
+            "pullRequests": {
+              "totalCount": 378
+            },
+            "updatedAt": "2017-07-29T18:06:39Z"
+          }
+        },
+        {
+          "node": {
+            "name": "cucumber-ruby",
+            "url": "https://github.com/cucumber/cucumber-ruby",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjMyMDU2NQ==",
+              "login": "cucumber"
+            },
+            "nameWithOwner": "cucumber/cucumber-ruby",
+            "description": "Cucumber for Ruby",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 342
+            },
+            "stargazers": {
+              "totalCount": 4981
+            },
+            "issues": {
+              "totalCount": 605
+            },
+            "forks": {
+              "totalCount": 1063
+            },
+            "pullRequests": {
+              "totalCount": 561
+            },
+            "updatedAt": "2017-07-28T16:59:02Z"
+          }
+        },
+        {
+          "node": {
+            "name": "chef",
+            "url": "https://github.com/chef/chef",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI5NzQw",
+              "login": "chef"
+            },
+            "nameWithOwner": "chef/chef",
+            "description": "A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 628
+            },
+            "stargazers": {
+              "totalCount": 4927
+            },
+            "issues": {
+              "totalCount": 1975
+            },
+            "forks": {
+              "totalCount": 1955
+            },
+            "pullRequests": {
+              "totalCount": 4317
+            },
+            "updatedAt": "2017-07-28T07:38:23Z"
+          }
+        },
+        {
+          "node": {
+            "name": "puma",
+            "url": "https://github.com/puma/puma",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEyNjQyOTI=",
+              "login": "puma"
+            },
+            "nameWithOwner": "puma/puma",
+            "description": "A ruby web server built for concurrency",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 251
+            },
+            "stargazers": {
+              "totalCount": 4902
+            },
+            "issues": {
+              "totalCount": 851
+            },
+            "forks": {
+              "totalCount": 724
+            },
+            "pullRequests": {
+              "totalCount": 529
+            },
+            "updatedAt": "2017-07-29T02:59:37Z"
+          }
+        },
+        {
+          "node": {
+            "name": "linguist",
+            "url": "https://github.com/github/linguist",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjk5MTk=",
+              "login": "github"
+            },
+            "nameWithOwner": "github/linguist",
+            "description": "Language Savant. If your repository's language is being reported incorrectly, send us a pull request!",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 987
+            },
+            "stargazers": {
+              "totalCount": 4899
+            },
+            "issues": {
+              "totalCount": 1372
+            },
+            "forks": {
+              "totalCount": 1741
+            },
+            "pullRequests": {
+              "totalCount": 2314
+            },
+            "updatedAt": "2017-07-29T11:54:17Z"
+          }
+        },
+        {
+          "node": {
+            "name": "pry",
+            "url": "https://github.com/pry/pry",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjg0NTY4Mg==",
+              "login": "pry"
+            },
+            "nameWithOwner": "pry/pry",
+            "description": "An IRB alternative and runtime developer console",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 134
+            },
+            "stargazers": {
+              "totalCount": 4765
+            },
+            "issues": {
+              "totalCount": 1197
+            },
+            "forks": {
+              "totalCount": 422
+            },
+            "pullRequests": {
+              "totalCount": 425
+            },
+            "updatedAt": "2017-07-29T05:36:54Z"
+          }
+        },
+        {
+          "node": {
+            "name": "maximum-awesome",
+            "url": "https://github.com/square/maximum-awesome",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjgyNTky",
+              "login": "square"
+            },
+            "nameWithOwner": "square/maximum-awesome",
+            "description": "Config files for vim and tmux.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 73
+            },
+            "stargazers": {
+              "totalCount": 4744
+            },
+            "issues": {
+              "totalCount": 110
+            },
+            "forks": {
+              "totalCount": 898
+            },
+            "pullRequests": {
+              "totalCount": 125
+            },
+            "updatedAt": "2017-07-28T07:52:52Z"
+          }
+        },
+        {
+          "node": {
+            "name": "bullet",
+            "url": "https://github.com/flyerhzm/bullet",
+            "owner": {
+              "id": "MDQ6VXNlcjY2ODM2",
+              "login": "flyerhzm"
+            },
+            "nameWithOwner": "flyerhzm/bullet",
+            "description": "help to kill N+1 queries and unused eager loading",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 91
+            },
+            "stargazers": {
+              "totalCount": 4724
+            },
+            "issues": {
+              "totalCount": 218
+            },
+            "forks": {
+              "totalCount": 236
+            },
+            "pullRequests": {
+              "totalCount": 128
+            },
+            "updatedAt": "2017-07-29T12:38:06Z"
+          }
+        },
+        {
+          "node": {
+            "name": "paper_trail",
+            "url": "https://github.com/airblade/paper_trail",
+            "owner": {
+              "id": "MDQ6VXNlcjcyNjU=",
+              "login": "airblade"
+            },
+            "nameWithOwner": "airblade/paper_trail",
+            "description": "Track changes to your models' data.  Good for auditing or versioning.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 149
+            },
+            "stargazers": {
+              "totalCount": 4709
+            },
+            "issues": {
+              "totalCount": 542
+            },
+            "forks": {
+              "totalCount": 600
+            },
+            "pullRequests": {
+              "totalCount": 437
+            },
+            "updatedAt": "2017-07-29T03:44:41Z"
+          }
+        },
+        {
+          "node": {
+            "name": "friendly_id",
+            "url": "https://github.com/norman/friendly_id",
+            "owner": {
+              "id": "MDQ6VXNlcjUwNDI=",
+              "login": "norman"
+            },
+            "nameWithOwner": "norman/friendly_id",
+            "description": "FriendlyId is the “Swiss Army bulldozer” of slugging and permalink plugins for ActiveRecord. It allows you to create pretty URL’s and work with human-friendly strings as if they were numeric ids for ActiveRecord models.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 122
+            },
+            "stargazers": {
+              "totalCount": 4643
+            },
+            "issues": {
+              "totalCount": 583
+            },
+            "forks": {
+              "totalCount": 453
+            },
+            "pullRequests": {
+              "totalCount": 239
+            },
+            "updatedAt": "2017-07-28T07:49:01Z"
+          }
+        },
+        {
+          "node": {
+            "name": "geocoder",
+            "url": "https://github.com/alexreisner/geocoder",
+            "owner": {
+              "id": "MDQ6VXNlcjMyMDY5",
+              "login": "alexreisner"
+            },
+            "nameWithOwner": "alexreisner/geocoder",
+            "description": "Complete Ruby geocoding solution.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 267
+            },
+            "stargazers": {
+              "totalCount": 4613
+            },
+            "issues": {
+              "totalCount": 695
+            },
+            "forks": {
+              "totalCount": 880
+            },
+            "pullRequests": {
+              "totalCount": 514
+            },
+            "updatedAt": "2017-07-28T14:41:03Z"
+          }
+        },
+        {
+          "node": {
+            "name": "jazzy",
+            "url": "https://github.com/realm/jazzy",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjc1NzUwOTk=",
+              "login": "realm"
+            },
+            "nameWithOwner": "realm/jazzy",
+            "description": "Soulful docs for Swift & Objective-C",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 91
+            },
+            "stargazers": {
+              "totalCount": 4581
+            },
+            "issues": {
+              "totalCount": 580
+            },
+            "forks": {
+              "totalCount": 228
+            },
+            "pullRequests": {
+              "totalCount": 288
+            },
+            "updatedAt": "2017-07-29T09:24:00Z"
+          }
+        },
+        {
+          "node": {
+            "name": "puppet",
+            "url": "https://github.com/puppetlabs/puppet",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjIzNDI2OA==",
+              "login": "puppetlabs"
+            },
+            "nameWithOwner": "puppetlabs/puppet",
+            "description": "Server automation framework and application",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 719
+            },
+            "stargazers": {
+              "totalCount": 4563
+            },
+            "issues": {
+              "totalCount": 0
+            },
+            "forks": {
+              "totalCount": 1778
+            },
+            "pullRequests": {
+              "totalCount": 6090
+            },
+            "updatedAt": "2017-07-29T03:23:44Z"
+          }
+        },
+        {
+          "node": {
+            "name": "evil-icons",
+            "url": "https://github.com/evil-icons/evil-icons",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjIzMjQ1NTM3",
+              "login": "evil-icons"
+            },
+            "nameWithOwner": "evil-icons/evil-icons",
+            "description": "Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 8
+            },
+            "stargazers": {
+              "totalCount": 4441
+            },
+            "issues": {
+              "totalCount": 74
+            },
+            "forks": {
+              "totalCount": 197
+            },
+            "pullRequests": {
+              "totalCount": 19
+            },
+            "updatedAt": "2017-07-28T15:42:03Z"
+          }
+        },
+        {
+          "node": {
+            "name": "foreman",
+            "url": "https://github.com/ddollar/foreman",
+            "owner": {
+              "id": "MDQ6VXNlcjMzMDg=",
+              "login": "ddollar"
+            },
+            "nameWithOwner": "ddollar/foreman",
+            "description": "Manage Procfile-based applications",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 153
+            },
+            "stargazers": {
+              "totalCount": 4371
+            },
+            "issues": {
+              "totalCount": 380
+            },
+            "forks": {
+              "totalCount": 485
+            },
+            "pullRequests": {
+              "totalCount": 304
+            },
+            "updatedAt": "2017-07-29T09:12:49Z"
+          }
+        },
+        {
+          "node": {
+            "name": "slim",
+            "url": "https://github.com/slim-template/slim",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjMxNzAwMzI=",
+              "login": "slim-template"
+            },
+            "nameWithOwner": "slim-template/slim",
+            "description": "Slim is a template language whose goal is reduce the syntax to the essential parts without becoming cryptic.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 82
+            },
+            "stargazers": {
+              "totalCount": 4368
+            },
+            "issues": {
+              "totalCount": 605
+            },
+            "forks": {
+              "totalCount": 398
+            },
+            "pullRequests": {
+              "totalCount": 173
+            },
+            "updatedAt": "2017-07-29T17:58:04Z"
+          }
+        },
+        {
+          "node": {
+            "name": "shenzhen",
+            "url": "https://github.com/nomad/shenzhen",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE4MzMxOTM=",
+              "login": "nomad"
+            },
+            "nameWithOwner": "nomad/shenzhen",
+            "description": "CLI for Building & Distributing iOS Apps (.ipa Files)",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 65
+            },
+            "stargazers": {
+              "totalCount": 4329
+            },
+            "issues": {
+              "totalCount": 215
+            },
+            "forks": {
+              "totalCount": 450
+            },
+            "pullRequests": {
+              "totalCount": 133
+            },
+            "updatedAt": "2017-07-29T13:53:31Z"
+          }
+        },
+        {
+          "node": {
+            "name": "t",
+            "url": "https://github.com/sferik/t",
+            "owner": {
+              "id": "MDQ6VXNlcjEwMzA4",
+              "login": "sferik"
+            },
+            "nameWithOwner": "sferik/t",
+            "description": "A command-line power tool for Twitter.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 57
+            },
+            "stargazers": {
+              "totalCount": 4301
+            },
+            "issues": {
+              "totalCount": 243
+            },
+            "forks": {
+              "totalCount": 324
+            },
+            "pullRequests": {
+              "totalCount": 131
+            },
+            "updatedAt": "2017-07-29T17:36:27Z"
+          }
+        },
+        {
+          "node": {
+            "name": "brakeman",
+            "url": "https://github.com/presidentbeef/brakeman",
+            "owner": {
+              "id": "MDQ6VXNlcjc1NjEz",
+              "login": "presidentbeef"
+            },
+            "nameWithOwner": "presidentbeef/brakeman",
+            "description": "A static analysis security vulnerability scanner for Ruby on Rails applications",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 72
+            },
+            "stargazers": {
+              "totalCount": 4293
+            },
+            "issues": {
+              "totalCount": 411
+            },
+            "forks": {
+              "totalCount": 386
+            },
+            "pullRequests": {
+              "totalCount": 659
+            },
+            "updatedAt": "2017-07-28T15:56:00Z"
+          }
+        },
+        {
+          "node": {
+            "name": "active_model_serializers",
+            "url": "https://github.com/rails-api/active_model_serializers",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI4MjAzNjA=",
+              "login": "rails-api"
+            },
+            "nameWithOwner": "rails-api/active_model_serializers",
+            "description": "ActiveModel::Serializer implementation and Rails hooks",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 284
+            },
+            "stargazers": {
+              "totalCount": 4247
+            },
+            "issues": {
+              "totalCount": 987
+            },
+            "forks": {
+              "totalCount": 1127
+            },
+            "pullRequests": {
+              "totalCount": 1181
+            },
+            "updatedAt": "2017-07-29T09:09:29Z"
+          }
+        },
+        {
+          "node": {
+            "name": "backup",
+            "url": "https://github.com/backup/backup",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEwNTIwNTIy",
+              "login": "backup"
+            },
+            "nameWithOwner": "backup/backup",
+            "description": "Easy full stack backup operations on UNIX-like systems.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 102
+            },
+            "stargazers": {
+              "totalCount": 4208
+            },
+            "issues": {
+              "totalCount": 590
+            },
+            "forks": {
+              "totalCount": 520
+            },
+            "pullRequests": {
+              "totalCount": 287
+            },
+            "updatedAt": "2017-07-28T17:58:03Z"
+          }
+        },
+        {
+          "node": {
+            "name": "httparty",
+            "url": "https://github.com/jnunemaker/httparty",
+            "owner": {
+              "id": "MDQ6VXNlcjIzNQ==",
+              "login": "jnunemaker"
+            },
+            "nameWithOwner": "jnunemaker/httparty",
+            "description": "Makes http fun again!",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 161
+            },
+            "stargazers": {
+              "totalCount": 4191
+            },
+            "issues": {
+              "totalCount": 295
+            },
+            "forks": {
+              "totalCount": 687
+            },
+            "pullRequests": {
+              "totalCount": 254
+            },
+            "updatedAt": "2017-07-29T16:26:47Z"
+          }
+        },
+        {
+          "node": {
+            "name": "scientist",
+            "url": "https://github.com/github/scientist",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjk5MTk=",
+              "login": "github"
+            },
+            "nameWithOwner": "github/scientist",
+            "description": ":microscope: A Ruby library for carefully refactoring critical paths.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 687
+            },
+            "stargazers": {
+              "totalCount": 4175
+            },
+            "issues": {
+              "totalCount": 23
+            },
+            "forks": {
+              "totalCount": 112
+            },
+            "pullRequests": {
+              "totalCount": 45
+            },
+            "updatedAt": "2017-07-29T15:29:14Z"
+          }
+        },
+        {
+          "node": {
+            "name": "draper",
+            "url": "https://github.com/drapergem/draper",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI0OTQwOTE=",
+              "login": "drapergem"
+            },
+            "nameWithOwner": "drapergem/draper",
+            "description": "Decorators/View-Models for Rails Applications",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 149
+            },
+            "stargazers": {
+              "totalCount": 4149
+            },
+            "issues": {
+              "totalCount": 405
+            },
+            "forks": {
+              "totalCount": 432
+            },
+            "pullRequests": {
+              "totalCount": 411
+            },
+            "updatedAt": "2017-07-28T14:41:03Z"
+          }
+        },
+        {
+          "node": {
+            "name": "dotenv",
+            "url": "https://github.com/bkeepers/dotenv",
+            "owner": {
+              "id": "MDQ6VXNlcjE3Mw==",
+              "login": "bkeepers"
+            },
+            "nameWithOwner": "bkeepers/dotenv",
+            "description": "A Ruby gem to load environment variables from `.env`. ",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 68
+            },
+            "stargazers": {
+              "totalCount": 4149
+            },
+            "issues": {
+              "totalCount": 128
+            },
+            "forks": {
+              "totalCount": 267
+            },
+            "pullRequests": {
+              "totalCount": 180
+            },
+            "updatedAt": "2017-07-28T21:02:42Z"
+          }
+        },
+        {
+          "node": {
+            "name": "hanami",
+            "url": "https://github.com/hanami/hanami",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjMyMTAyNzM=",
+              "login": "hanami"
+            },
+            "nameWithOwner": "hanami/hanami",
+            "description": "The web, with simplicity.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 113
+            },
+            "stargazers": {
+              "totalCount": 4065
+            },
+            "issues": {
+              "totalCount": 336
+            },
+            "forks": {
+              "totalCount": 379
+            },
+            "pullRequests": {
+              "totalCount": 475
+            },
+            "updatedAt": "2017-07-28T21:03:16Z"
+          }
+        },
+        {
+          "node": {
+            "name": "wraith",
+            "url": "https://github.com/BBC-News/wraith",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE0MDE0NzU=",
+              "login": "BBC-News"
+            },
+            "nameWithOwner": "BBC-News/wraith",
+            "description": "Wraith — A responsive screenshot comparison tool",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 266
+            },
+            "stargazers": {
+              "totalCount": 4065
+            },
+            "issues": {
+              "totalCount": 309
+            },
+            "forks": {
+              "totalCount": 262
+            },
+            "pullRequests": {
+              "totalCount": 222
+            },
+            "updatedAt": "2017-07-29T03:25:34Z"
+          }
+        },
+        {
+          "node": {
+            "name": "acts-as-taggable-on",
+            "url": "https://github.com/mbleigh/acts-as-taggable-on",
+            "owner": {
+              "id": "MDQ6VXNlcjEwMjI=",
+              "login": "mbleigh"
+            },
+            "nameWithOwner": "mbleigh/acts-as-taggable-on",
+            "description": "A tagging plugin for Rails applications that allows for custom tagging along dynamic contexts.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 158
+            },
+            "stargazers": {
+              "totalCount": 4062
+            },
+            "issues": {
+              "totalCount": 541
+            },
+            "forks": {
+              "totalCount": 845
+            },
+            "pullRequests": {
+              "totalCount": 304
+            },
+            "updatedAt": "2017-07-27T08:21:36Z"
+          }
+        },
+        {
+          "node": {
+            "name": "fog",
+            "url": "https://github.com/fog/fog",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjk5MTE0OQ==",
+              "login": "fog"
+            },
+            "nameWithOwner": "fog/fog",
+            "description": "The Ruby cloud services library.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 695
+            },
+            "stargazers": {
+              "totalCount": 4043
+            },
+            "issues": {
+              "totalCount": 1259
+            },
+            "forks": {
+              "totalCount": 1466
+            },
+            "pullRequests": {
+              "totalCount": 2700
+            },
+            "updatedAt": "2017-07-29T03:16:45Z"
+          }
+        },
+        {
+          "node": {
+            "name": "rest-client",
+            "url": "https://github.com/rest-client/rest-client",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjIzODY3MDE=",
+              "login": "rest-client"
+            },
+            "nameWithOwner": "rest-client/rest-client",
+            "description": "Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 88
+            },
+            "stargazers": {
+              "totalCount": 4020
+            },
+            "issues": {
+              "totalCount": 356
+            },
+            "forks": {
+              "totalCount": 690
+            },
+            "pullRequests": {
+              "totalCount": 265
+            },
+            "updatedAt": "2017-07-29T13:15:54Z"
+          }
+        },
+        {
+          "node": {
+            "name": "kss",
+            "url": "https://github.com/kneath/kss",
+            "owner": {
+              "id": "MDQ6VXNlcjEzNTQ=",
+              "login": "kneath"
+            },
+            "nameWithOwner": "kneath/kss",
+            "description": "A methodology for documenting CSS and generating styleguides.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 33
+            },
+            "stargazers": {
+              "totalCount": 3997
+            },
+            "issues": {
+              "totalCount": 56
+            },
+            "forks": {
+              "totalCount": 269
+            },
+            "pullRequests": {
+              "totalCount": 72
+            },
+            "updatedAt": "2017-07-28T03:06:06Z"
+          }
+        },
+        {
+          "node": {
+            "name": "authlogic",
+            "url": "https://github.com/binarylogic/authlogic",
+            "owner": {
+              "id": "MDQ6VXNlcjE2NjMyODY=",
+              "login": "binarylogic"
+            },
+            "nameWithOwner": "binarylogic/authlogic",
+            "description": "A simple ruby authentication solution.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 96
+            },
+            "stargazers": {
+              "totalCount": 3980
+            },
+            "issues": {
+              "totalCount": 354
+            },
+            "forks": {
+              "totalCount": 501
+            },
+            "pullRequests": {
+              "totalCount": 201
+            },
+            "updatedAt": "2017-07-28T11:37:47Z"
+          }
+        },
+        {
+          "node": {
+            "name": "mailcatcher",
+            "url": "https://github.com/sj26/mailcatcher",
+            "owner": {
+              "id": "MDQ6VXNlcjE0MDI4",
+              "login": "sj26"
+            },
+            "nameWithOwner": "sj26/mailcatcher",
+            "description": "Catches mail and serves it through a dream.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 32
+            },
+            "stargazers": {
+              "totalCount": 3940
+            },
+            "issues": {
+              "totalCount": 234
+            },
+            "forks": {
+              "totalCount": 381
+            },
+            "pullRequests": {
+              "totalCount": 109
+            },
+            "updatedAt": "2017-07-27T12:59:19Z"
+          }
+        },
+        {
+          "node": {
+            "name": "twitter",
+            "url": "https://github.com/sferik/twitter",
+            "owner": {
+              "id": "MDQ6VXNlcjEwMzA4",
+              "login": "sferik"
+            },
+            "nameWithOwner": "sferik/twitter",
+            "description": "A Ruby interface to the Twitter API.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 165
+            },
+            "stargazers": {
+              "totalCount": 3870
+            },
+            "issues": {
+              "totalCount": 573
+            },
+            "forks": {
+              "totalCount": 965
+            },
+            "pullRequests": {
+              "totalCount": 292
+            },
+            "updatedAt": "2017-07-28T07:27:27Z"
+          }
+        },
+        {
+          "node": {
+            "name": "bundler",
+            "url": "https://github.com/bundler/bundler",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjExMzc2Mzg=",
+              "login": "bundler"
+            },
+            "nameWithOwner": "bundler/bundler",
+            "description": "Manage your Ruby application's gem dependencies",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 587
+            },
+            "stargazers": {
+              "totalCount": 3857
+            },
+            "issues": {
+              "totalCount": 3752
+            },
+            "forks": {
+              "totalCount": 1756
+            },
+            "pullRequests": {
+              "totalCount": 2093
+            },
+            "updatedAt": "2017-07-29T02:41:08Z"
+          }
+        },
+        {
+          "node": {
+            "name": "markup",
+            "url": "https://github.com/github/markup",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjk5MTk=",
+              "login": "github"
+            },
+            "nameWithOwner": "github/markup",
+            "description": "The code we use to render README.your_favorite_markup",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 735
+            },
+            "stargazers": {
+              "totalCount": 3843
+            },
+            "issues": {
+              "totalCount": 604
+            },
+            "forks": {
+              "totalCount": 3063
+            },
+            "pullRequests": {
+              "totalCount": 173
+            },
+            "updatedAt": "2017-07-29T03:26:23Z"
+          }
+        },
+        {
+          "node": {
+            "name": "lolcommits",
+            "url": "https://github.com/mroth/lolcommits",
+            "owner": {
+              "id": "MDQ6VXNlcjQwNjUw",
+              "login": "mroth"
+            },
+            "nameWithOwner": "mroth/lolcommits",
+            "description": ":camera: git-based selfies for software developers",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 61
+            },
+            "stargazers": {
+              "totalCount": 3841
+            },
+            "issues": {
+              "totalCount": 172
+            },
+            "forks": {
+              "totalCount": 240
+            },
+            "pullRequests": {
+              "totalCount": 177
+            },
+            "updatedAt": "2017-07-26T19:13:21Z"
+          }
+        },
+        {
+          "node": {
+            "name": "exercism.io",
+            "url": "https://github.com/exercism/exercism.io",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjU2MjQyNTU=",
+              "login": "exercism"
+            },
+            "nameWithOwner": "exercism/exercism.io",
+            "description": "Quickly ramp up in new programming languages.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 406
+            },
+            "stargazers": {
+              "totalCount": 3828
+            },
+            "issues": {
+              "totalCount": 1913
+            },
+            "forks": {
+              "totalCount": 904
+            },
+            "pullRequests": {
+              "totalCount": 1688
+            },
+            "updatedAt": "2017-07-29T12:06:30Z"
+          }
+        },
+        {
+          "node": {
+            "name": "thor",
+            "url": "https://github.com/erikhuda/thor",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE3MDk0OTc=",
+              "login": "erikhuda"
+            },
+            "nameWithOwner": "erikhuda/thor",
+            "description": "Thor is a toolkit for building powerful command-line interfaces.",
+            "primaryLanguage": {
+              "name": "Ruby"
+            },
+            "mentionableUsers": {
+              "totalCount": 140
+            },
+            "stargazers": {
+              "totalCount": 3772
+            },
+            "issues": {
+              "totalCount": 308
+            },
+            "forks": {
+              "totalCount": 387
+            },
+            "pullRequests": {
+              "totalCount": 260
+            },
+            "updatedAt": "2017-07-29T09:51:36Z"
           }
         }
       ]
@@ -12262,3 +15372,8597 @@
   }
 }
 
+# @rails_issues = {
+#   "data": {
+#     "repository": {
+#       "issues": {
+#         "edges": [
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "rails new does not work with --webpack and --skip-bundle on Rails 5.1",
+#               "number": 28916,
+#               "url": "https://github.com/rails/rails/issues/28916",
+#               "body": "### Steps to reproduce\r\n\r\nRun this command: `rails new --webpack --skip-bundle test_app`\r\n\r\n### Expected behavior\r\n\r\nProbably bailing out and informing the user that it's not possible to install webpacker without running bundle is the best option here.\r\n\r\n### Actual behavior\r\n\r\nIt generates the initial project structure and then errors out at the `webpacker:install` step.\r\n\r\n```\r\n       rails  webpacker:install\r\nCould not find gem 'rails (~> 5.1.0)' in any of the gem sources listed in your Gemfile.\r\nRun `bundle install` to install missing gems.\r\n```\r\n\r\n### System configuration\r\n**Rails version**: 5.1.0\r\n\r\n**Ruby version**: 2.4.0p0\r\n\r\n**bundler version**: 1.14.6",
+#               "createdAt": "2017-04-28T01:03:46Z",
+#               "lastEditedAt": "2017-04-28T01:04:04Z",
+#               "updatedAt": "2017-04-28T23:11:46Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/471667?v=4",
+#                 "login": "jarednorman",
+#                 "resourcePath": "/jarednorman",
+#                 "url": "https://github.com/jarednorman"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "asset pipeline"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "railties"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "head method inside a format.any results in an incorrect Content-Type",
+#               "number": 28927,
+#               "url": "https://github.com/rails/rails/issues/28927",
+#               "body": "### Steps to reproduce\r\n\r\nIn a controller's routed method:\r\n\r\n```ruby\r\nrespond_to do |format|\r\n  format.any  { head 404 }\r\nend\r\n```\r\n\r\nthen GET URI with a bogus extension, e.g. ```GET /1.foobar```\r\n\r\nA full failing test example [here](https://gist.github.com/happycoloredbanana/3515bd8c6843b25fd2c686bd0a24b71a)\r\n\r\n### Expected behavior\r\nThe response includes a ```Content-Type``` header that makes sense or no such header at all\r\n\r\n### Actual behavior\r\n```Content-Type``` that looks like this: ```#<Mime::nilType:0x00000009abcdef>```\r\n\r\n### System configuration\r\n**Rails version**: 5.0.2, 5.1.0\r\n\r\n**Ruby version**: 2.4.1\r\n",
+#               "createdAt": "2017-04-29T10:20:35Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-04-30T15:08:41Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/16704632?v=4",
+#                 "login": "happycoloredbanana",
+#                 "resourcePath": "/happycoloredbanana",
+#                 "url": "https://github.com/happycoloredbanana"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "With reproduction steps"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "System test with Selenium Fails with EOFError",
+#               "number": 28940,
+#               "url": "https://github.com/rails/rails/issues/28940",
+#               "body": "### Steps to reproduce\r\n\r\nCreate a scaffold resource and run rails test:system.\r\n\r\nHere is the repo: https://github.com/bparanj/r51st\r\n\r\n### Expected behavior\r\n\r\nThe system test generated by the scaffold should run in the browser.\r\n\r\n### Actual behavior\r\n\r\n```\r\n$ rails test:system\r\nRun options: --seed 8150\r\n\r\n# Running:\r\n\r\nE\r\n\r\nError:\r\nThoughtsTest#test_visiting_the_index:\r\nEOFError: end of file reached\r\n    \r\nError:\r\nThoughtsTest#test_visiting_the_index:\r\nEOFError: end of file reached\r\n\r\nbin/rails test test/system/thoughts_test.rb:4\r\n\r\nFinished in 2.928448s, 0.3415 runs/s, 0.0000 assertions/s.\r\n\r\n1 runs, 0 assertions, 0 failures, 1 errors, 0 skips\r\n```\r\n\r\n### System configuration\r\n\r\n**Rails version**: 5.1\r\n\r\n**Ruby version**: ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-darwin14]\r\n\r\nChromeDriver : 2.9\r\nCapybara : 2.13.0\r\nMac OS : 10.10.5\r\nChrome : 58.0.3029.81 (64-bit)\r\n\t \t \r\n\r\n",
+#               "createdAt": "2017-04-30T22:22:42Z",
+#               "lastEditedAt": "2017-04-30T22:25:12Z",
+#               "updatedAt": "2017-07-04T15:36:14Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 7
+#               },
+#               "comments": {
+#                 "totalCount": 7
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/12740?v=4",
+#                 "login": "bparanj",
+#                 "resourcePath": "/bparanj",
+#                 "url": "https://github.com/bparanj"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "ActiveRecord::RecordNotUnique: Mysql2::Error: Duplicate entry '' for key 'PRIMARY': INSERT INTO ar_internal_metadata",
+#               "number": 28949,
+#               "url": "https://github.com/rails/rails/issues/28949",
+#               "body": "I recently upgraded to Rails 5.0.1 from 4.2.x, running with Ruby 2.4.0p0.  Upon attempting a db:migrate I encountered an issue with ar_internal_metadata, which appears to be incompatible with MySQL5.\r\n\r\nTo reproduce:\r\n\r\n0. Drop the ar_internal_metadata table from the development database (if it's there).\r\n1. Run \"bundle exec rake db:migrate\"\r\n2. Run it again.\r\n3. On the second run (regardless of whether migrations are pending or not), this error is raised:\r\n\r\n````\r\nActiveRecord::RecordNotUnique: Mysql2::Error: Duplicate entry '' for key 'PRIMARY': INSERT INTO ar_internal_metadata (created_at, updated_at) VALUES ('2017-04-30 20:49:17', '2017-04-30 20:49:17')\r\n````\r\n\r\nThe ar_internal_metadata schema indicates to me that MySQL5 does seem to have a valid gripe: The primary key field is set up as not nil, but the default is nil. And, since it's a varchar(255) type, it can't auto-increment. Apparently, the ActiveRecord machinery is not providing a value for 'key'.\r\n\r\n    mysql> desc ar_internal_metadata;\r\n    +------------+--------------+------+-----+---------+-------+\r\n    | Field      | Type         | nil | Key | Default | Extra |\r\n    +------------+--------------+------+-----+---------+-------+\r\n    | key        | varchar(255) | NO   | PRI | nil    |       |\r\n    | value      | varchar(255) | YES  |     | nil    |       |\r\n    | created_at | datetime     | NO   |     | nil    |       |\r\n    | updated_at | datetime     | NO   |     | nil    |       |\r\n    +------------+--------------+------+-----+---------+-------+\r\n\r\nHere are the contents of ar_internal_metadata just before the second call to db:migrate:\r\n    \r\n    mysql> select * from ar_internal_metadata;\r\n    +-----+-------+---------------------+---------------------+\r\n    | key | value | created_at          | updated_at          |\r\n    +-----+-------+---------------------+---------------------+\r\n    |     | nil  | 2017-04-30 20:56:39 | 2017-04-30 20:56:39 |\r\n    +-----+-------+---------------------+---------------------+\r\n\r\n\r\n\r\n",
+#               "createdAt": "2017-05-01T22:42:10Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-01T23:49:55Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/176816?v=4",
+#                 "login": "walquis",
+#                 "resourcePath": "/walquis",
+#                 "url": "https://github.com/walquis"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "`#blank?` fails on non-UTF8 strings",
+#               "number": 28953,
+#               "url": "https://github.com/rails/rails/issues/28953",
+#               "body": "### Steps to reproduce\r\n\r\n```\r\nbegin\r\n  require \"bundler/inline\"\r\nrescue LoadError => e\r\n  $stderr.puts \"Bundler version 1.10 or later is required. Please update your Bundler\"\r\n  raise e\r\nend\r\n\r\ngemfile(true) do\r\n  source \"https://rubygems.org\"\r\n  # Activate the gem you are reporting the issue against.\r\n  gem \"activemodel\", \"5.1.0\"\r\nend\r\n\r\nrequire \"active_model\"\r\nrequire \"minitest/autorun\"\r\nrequire \"logger\"\r\n\r\n# Ensure backward compatibility with Minitest 4\r\nMinitest::Test = MiniTest::Unit::TestCase unless defined?(Minitest::Test)\r\n\r\nclass BugTest < Minitest::Test\r\n  def test_blankness\r\n    non_utf8_string = \"my value\".encode(\"UTF-16LE\")\r\n\r\n    assert_false non_utf8_string.blank?\r\n  end\r\nend\r\n```\r\n\r\n### Expected behavior\r\n`#blank?` should return false if the string is not blank.\r\n\r\n### Actual behavior\r\nAn `Encoding::CompatibilityError` error is raised\r\n\r\n### System configuration\r\n**Rails version**: 5.1.0 (also tested on 5.0.2)\r\n\r\n**Ruby version**: 2.4.0",
+#               "createdAt": "2017-05-02T13:01:01Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-18T20:28:04Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 7
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/764206?v=4",
+#                 "login": "BrentWheeldon",
+#                 "resourcePath": "/BrentWheeldon",
+#                 "url": "https://github.com/BrentWheeldon"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activesupport"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "With reproduction steps"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "How to disable stdout logger in development in 5.1",
+#               "number": 28968,
+#               "url": "https://github.com/rails/rails/issues/28968",
+#               "body": "### Steps to reproduce\r\n\r\nStart rails server, logging appears in stdout\r\n\r\n### Expected behavior\r\nLogging would appear only in log/development.log\r\n\r\n### Actual behavior\r\nUndesiredly logging appears in stdout\r\n\r\n### System configuration\r\n**Rails version**:\r\n5.1.0\r\n\r\n**Ruby version**:\r\n2.4.1\r\n\r\nTrying right now using config/boot.rb\r\n````\r\n# No stdout for logger\r\nrequire 'rack'\r\nrequire 'rails/command'\r\nrequire 'rails/commands/server/server_command'\r\n\r\nmodule Rails\r\n  class Server < ::Rack::Server\r\n    alias_method :orig_start, :start\r\n\r\n    def start\r\n      orig_start\r\n      options[:log_stdout] = false\r\n    end\r\n\r\n    private\r\n    def log_to_stdout\r\n      # No stdout for logger\r\n    end\r\n  end\r\nend\r\n```\r\nHowever, after this still part of logging goes into stdout.\r\nstdout:\r\n```\r\n...\r\n::1 - - [03/May/2017:11:45:04 EEST] \"GET /favicon.ico HTTP/1.1\" 200 1193\r\nhttp://localhost:3000/xxx -> /favicon.ico\r\n... etc.\r\n```\r\nIn <= 5.0 was possible to disable logging into stdout completely. \r\n",
+#               "createdAt": "2017-05-03T08:49:48Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-07T18:55:34Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 6
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/478935?v=4",
+#                 "login": "kikonen",
+#                 "resourcePath": "/kikonen",
+#                 "url": "https://github.com/kikonen"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "railties"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Inflector + I18n fallbacks do not play well together",
+#               "number": 28972,
+#               "url": "https://github.com/rails/rails/issues/28972",
+#               "body": "### Steps to reproduce\r\n\r\n```ruby\r\nbegin\r\n  require \"bundler/inline\"\r\nrescue LoadError => e\r\n  $stderr.puts \"Bundler version 1.10 or later is required. Please update your Bundler\"\r\n  raise e\r\nend\r\n\r\ngemfile(true) do\r\n  source \"https://rubygems.org\"\r\n  # Activate the gem you are reporting the issue against.\r\n  gem \"activesupport\", \"5.1.0\"\r\n  gem 'pry-byebug'\r\nend\r\n\r\nrequire \"active_support/core_ext/object/blank\"\r\nrequire \"minitest/autorun\"\r\nrequire 'active_support'\r\n# require 'I18n'\r\nrequire 'i18n/backend/fallbacks'\r\nI18n::Backend::Simple.send(:include, I18n::Backend::Fallbacks)\r\n\r\n# Ensure backward compatibility with Minitest 4\r\nMinitest::Test = MiniTest::Unit::TestCase unless defined?(Minitest::Test)\r\n\r\nclass BugTest < Minitest::Test\r\n  def setup\r\n    # Declare the available locales for my application\r\n    I18n.available_locales = ['en', 'en-FR']\r\n    # Create a fallback on 'en-fr' -> 'en' \r\n    I18n.fallbacks.map('en-FR': :en)\r\n    # Memoize the fallbacks so we can test their presence.\r\n    I18n.available_locales.map{|x| I18n.fallbacks[x]}\r\n  end\r\n\r\n  def test_locale_fallback_setup\r\n    assert_equal I18n.fallbacks, {:en=>[:en], :\"en-FR\"=>[:\"en-FR\", :en]}\r\n  end\r\n\r\n  def test_i18n_fallbacks_with_inflector\r\n    assert_equal ActiveSupport::Inflector.inflections(:'en-FR'), ActiveSupport::Inflector.inflections(:'en')\r\n  end\r\n\r\n  def test_inflector_specific_rules_for_language\r\n    assert_equal 'cats', ActiveSupport::Inflector.pluralize('cat', locale: 'en')\r\n    assert_equal 'cats', ActiveSupport::Inflector.pluralize('cat', locale: :'en-FR')\r\n    assert_equal 'cats', ActiveSupport::Inflector.pluralize('cat', locale: 'en-FR')\r\n  end\r\nend\r\n```\r\n\r\n### Expected behavior\r\n`test_i18n_fallbacks_with_inflector` should return true\r\nThe second and third assertions should return true. \r\n\r\n### Actual behavior\r\nLocale fallback is not used by the inflector. \r\nAlso, I could not reproduce it here, but in Rails, behaviour are completly different if the locale is passed as a Symbol or as a String: \r\n```ruby\r\n[10] pry(main)> helper.pluralize(2, 'cat', locale: 'en-FR')\r\n=> \"2 cats\"\r\n\r\n[11] pry(main)> helper.pluralize(2, 'cat', locale: :'en-FR')\r\n=> \"2 cat\"\r\n``` \r\n\r\n### System configuration\r\n**Rails version**: 5.0.2\r\n\r\n**Ruby version**: 2.4.1p111",
+#               "createdAt": "2017-05-03T13:05:23Z",
+#               "lastEditedAt": "2017-05-03T13:10:42Z",
+#               "updatedAt": "2017-06-29T17:46:36Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/1775878?v=4",
+#                 "login": "Erowlin",
+#                 "resourcePath": "/Erowlin",
+#                 "url": "https://github.com/Erowlin"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activesupport"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Rails constant autoloading fails to load modules transitively.",
+#               "number": 28997,
+#               "url": "https://github.com/rails/rails/issues/28997",
+#               "body": "### Steps to reproduce\r\n\r\nRun [this small self contained rails application](https://github.com/mijoharas/rails-dependency-autoloading-bug-ssce) keeping `config.eager_load = false`. Try to navigate to root path `/`. Observe error message:\r\n\r\n```\r\nNameError (uninitialized constant TestClass::ChildClass):\r\n  \r\napp/models/test_class.rb:4:in `foobar'\r\napp/controllers/test_controller.rb:3:in `test'\r\n```\r\nSee [README.md](https://github.com/mijoharas/rails-dependency-autoloading-bug-ssce/blob/master/README.md) for a short explanation of what's going on.\r\n\r\n### Expected behavior\r\nWhen run with `config.eager_load = true` there is no error message and the page is displayed.\r\n\r\n### Actual behavior\r\nConstant autoloading has failed to load the transitively included class `TestClass`.\r\n\r\nExplanation:\r\n\r\nWe have a class `TestClass` which includes a module `IncludeModule`. `IncludeModule` itself also includes a module called `ContainerModule` which contains a class `ChildClass`.\r\n\r\nWe simply want to access `ChildClass` from within `TestClass` to call a method on it. This does not seem to be allowed by rails constant autoloading.\r\n\r\n### System configuration\r\n**Rails version**: ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-linux]\r\n\r\n**Ruby version**: Rails 5.1.0\r\n",
+#               "createdAt": "2017-05-05T16:28:55Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-16T22:09:04Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/4069743?v=4",
+#                 "login": "mijoharas",
+#                 "resourcePath": "/mijoharas",
+#                 "url": "https://github.com/mijoharas"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activesupport"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs feedback"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "assert_routing fails due to assert_recognizes not returning path in expected options",
+#               "number": 28998,
+#               "url": "https://github.com/rails/rails/issues/28998",
+#               "body": "### Steps to reproduce\r\n\r\nCreate a route\r\n```rb\r\nnamespace 'platform' do\r\n  resources :administrators, only: [:index, :create, :update, :destroy]\r\nend\r\n```\r\nCreate a test\r\n```rb\r\nrequire 'test_helper'\r\n\r\nclass RoutesTest < ActionDispatch::IntegrationTest\r\n  def test_platform_administrators\r\n    assert_routing '/platform/administrators', controller: 'platform/administrators', action: 'index'\r\n  end\r\nend\r\n```\r\n\r\nRun tests\r\n\r\n### Expected behavior\r\n\r\nI would assume the expected result would include the asserted path '/platform/administrators'\r\n\r\n### Actual behavior\r\n```\r\nThe recognized options <{\"controller\"=>\"platform/administrators\", \"action\"=>\"index\", \"path\"=>\"platform/administrators\"}> did not match <{\"controller\"=>\"platform/administrators\", \"action\"=>\"index\"}>, difference:.\r\nExpected: {\"controller\"=>\"platform/administrators\", \"action\"=>\"index\"}\r\n  Actual: {\"controller\"=>\"platform/administrators\", \"action\"=>\"index\", \"path\"=>\"platform/administrators\"}\r\n```\r\n### Proposal\r\nShouldn't the expected above include the path key? `assert_routing` calls `assert_recognizes` where `assert_recognizes` fails to include the path within. I have modified the `assert_recognizes` and got my tests to work, please let me know what you think.\r\n\r\n```rb\r\n\r\ndef assert_recognizes(expected_options, path, extras = {}, msg = nil)\r\n    if path.is_a?(Hash) && path[:method].to_s == \"all\"\r\n      [:get, :post, :put, :delete].each do |method|\r\n         assert_recognizes(expected_options, path.merge(method: method), extras, msg)\r\n      end\r\n    else\r\n      request = recognized_request_for(path, extras, msg)\r\n\r\n      expected_options = expected_options.clone\r\n\r\n      # Documentation when using `assert_routing` includes a leading `/` however \r\n      # `request.path_parameters` does not return paths with the leading `/` so I have normalized the expected path here.\r\n      if path.is_a?(Hash)\r\n        # expected_options should include the path \r\n        expected_options[:path] = path[:path].gsub(/^\\//, '')\r\n      else\r\n        # expected_options should include the path \r\n        expected_options[:path] = path.gsub(/^\\//, '')\r\n      end\r\n\r\n      expected_options.stringify_keys!\r\n\r\n      msg = message(msg, \"\") {\r\n        sprintf(\"The recognized options <%s> did not match <%s>, difference:\",\r\n                request.path_parameters, expected_options)\r\n      }\r\n\r\n      assert_equal(expected_options, request.path_parameters, msg)\r\n    end\r\nend\r\n```\r\n\r\nWith these changes I was able to get the following tests to pass\r\n\r\n```rb\r\nassert_routing '/platform/administrators', controller: 'platform/administrators', action: 'index'\r\nassert_routing({path: '/platform/administrators', method: :post}, controller: 'platform/administrators', action: 'create')\r\nassert_routing({path: '/platform/administrators/75', method: :put}, controller: 'platform/administrators', action: 'update', id: '75')\r\n```\r\n\r\nSystem configuration\r\n\r\nRails version:\r\n5.0.1\r\nRuby version:\r\n2.3.3p222\r\n\r\n[Docs](http://api.rubyonrails.org/v5.1.0/classes/ActionDispatch/Assertions/RoutingAssertions.html)",
+#               "createdAt": "2017-05-05T16:58:49Z",
+#               "lastEditedAt": "2017-05-05T17:00:13Z",
+#               "updatedAt": "2017-05-05T17:00:13Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/4642469?v=4",
+#                 "login": "pyrabbit",
+#                 "resourcePath": "/pyrabbit",
+#                 "url": "https://github.com/pyrabbit"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Unexpected count value with Rspec + Worker +.deliveries.count",
+#               "number": 29008,
+#               "url": "https://github.com/rails/rails/issues/29008",
+#               "body": "Not really sure if this is due to something with Rspec or ActionMailer itself...please note that I didn't include the views for the mailers, but included everything else relevant.\r\n\r\n### Steps to reproduce\r\n\r\n1. Have a worker that triggers two mailers\r\n\r\n```\r\nclass MailerWorker\r\n  include Sidekiq::Worker\r\n\r\n  def perform\r\n    PrimaryMailer.email.deliver_later\r\n    SecondaryMailer.email.deliver_later\r\n    puts \"Primary mailer delivery count: #{PrimaryMailer.deliveries.count}\"\r\n    puts \"Secondary mailer delivery count: #{SecondaryMailer.deliveries.count}\"\r\n  end\r\nend\r\n```\r\n2. Have the appropriate mailers\r\n\r\nPrimary:\r\n\r\n```\r\nclass PrimaryMailer < ApplicationMailer\r\n  def email\r\n    mail(to: 'isuPatches@yahoo.com', subject: 'Primary Email')\r\n  end\r\nend\r\n```\r\n\r\nSecondary:\r\n\r\n```\r\nclass SecondaryMailer < ApplicationMailer\r\n  def email\r\n    mail(to: 'isuPatches@yahoo.com', subject: 'Secondary Email')\r\n  end\r\nend\r\n```\r\n\r\n3. Run a set of specs\r\n\r\n```\r\nrequire 'spec_helper'\r\n\r\ndescribe MailerWorker do\r\n  it 'has the appropriate count for PrimaryMailer' do\r\n    expect {\r\n      perform_enqueued_jobs do\r\n        subject.perform\r\n      end\r\n    }.to change{ PrimaryMailer.deliveries.count }.by(1)\r\n  end\r\n\r\n  it 'has the appropriate count for SecondaryMailer' do\r\n    expect {\r\n      perform_enqueued_jobs do\r\n        subject.perform\r\n      end\r\n    }.to change{ SecondaryMailer.deliveries.count }.by(1)\r\n  end\r\nend\r\n```\r\n\r\n4. Note the count for both PrimaryMailer and SecondaryMailer is 2 instead of 1\r\n\r\n```\r\nPrimary mailer delivery count: 2\r\nSecondary mailer delivery count: 2\r\nF\r\n\r\nFailures:\r\n\r\n  1) MailerWorker has the appropriate count for SecondaryMailer\r\n     Failure/Error:\r\n       expect {\r\n         perform_enqueued_jobs do\r\n           subject.perform\r\n         end\r\n       }.to change{ SecondaryMailer.deliveries.count }.by(1)\r\n     \r\n       expected `SecondaryMailer.deliveries.count` to have changed by 1, but was changed by 2\r\n     # ./spec/workers/mailer_worker_spec.rb:13:in `block (2 levels) in <top (required)>'\r\n```\r\n\r\n### Expected behavior\r\nPrimaryMailer.deliveries is 1\r\nSecondaryMailer.deliveries is 1\r\n\r\n### Actual behavior\r\nPrimaryMailer.deliveries is 2\r\nSecondaryMailer.deliveries is 2\r\n\r\n### System configuration\r\n**Rails version**: 5.0.2\r\n\r\n**Ruby version**: 2.4.1\r\n\r\n**Rspec version**: 3.6.0\r\n",
+#               "createdAt": "2017-05-07T16:52:12Z",
+#               "lastEditedAt": "2017-05-07T16:59:00Z",
+#               "updatedAt": "2017-05-21T19:52:41Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/4986380?v=4",
+#                 "login": "isuPatches",
+#                 "resourcePath": "/isuPatches",
+#                 "url": "https://github.com/isuPatches"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "AR::Base#save doesn't assert valid keys",
+#               "number": 29011,
+#               "url": "https://github.com/rails/rails/issues/29011",
+#               "body": "### Steps to reproduce\r\n`save` doesn't use `assert_valid_keys`, so a typo of `save(validate: false)`, such as `save(validates: false)` will work unexpectedly.\r\n\r\n### Expected behavior\r\n`.save(validates: false)` raises `ArgumentError: Unknown key: :validates. Valid keys are: :validate, :touch`\r\nor\r\n`.save(validates: false)` raises `ArgumentError: unknown keyword: validates`\r\n### Actual behavior\r\n`.save(validates: false)` silently acts like `.save()` because `:validates` does nothing.\r\n\r\n### System configuration\r\n**Rails version**: 5.0.1\r\n**Ruby version**: 2.3.1\r\n\r\nbecause save is redefined so many times It wasn't a straightforward PR, but I can have a go if you agree this should be an ArgumentError\r\n",
+#               "createdAt": "2017-05-08T06:26:18Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-09T22:30:54Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/295007?v=4",
+#                 "login": "dnl",
+#                 "resourcePath": "/dnl",
+#                 "url": "https://github.com/dnl"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs feedback"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Arrays of hashes deserialized with HWIA",
+#               "number": 29013,
+#               "url": "https://github.com/rails/rails/issues/29013",
+#               "body": "### Steps to reproduce\r\n\r\n```ruby\r\nbegin\r\n  require \"bundler/inline\"\r\nrescue LoadError => e\r\n  $stderr.puts \"Bundler version 1.10 or later is required. Please update your Bundler\"\r\n  raise e\r\nend\r\n\r\ngemfile(true) do\r\n  source \"https://rubygems.org\"\r\n  # Activate the gem you are reporting the issue against.\r\n  gem \"activerecord\", \"5.1.0\"\r\n  gem \"sqlite3\"\r\nend\r\n\r\nrequire \"active_record\"\r\nrequire \"minitest/autorun\"\r\nrequire \"logger\"\r\n\r\n# Ensure backward compatibility with Minitest 4\r\nMinitest::Test = MiniTest::Unit::TestCase unless defined?(Minitest::Test)\r\n\r\n# This connection will do for database-independent bug reports.\r\nActiveRecord::Base.establish_connection(adapter: \"sqlite3\", database: \":memory:\")\r\nActiveRecord::Base.logger = Logger.new(STDOUT)\r\n\r\nActiveRecord::Schema.define do\r\n  create_table :posts, force: true do |t|\r\n    t.text :content\r\n  end\r\nend\r\n\r\nclass Post < ActiveRecord::Base\r\n  serialize :content, Array\r\nend\r\n\r\nclass BugTest < Minitest::Test\r\n  # This passes on Rails 5.0.x, fails on 5.1.x\r\n  # The hashes in this array are Hash in 5.0, HashWithIndifferentAccess in 5.1\r\n  def test_hashes_in_array\r\n    post = Post.create!(content: [{ foo: 'bar' }])\r\n    puts post.content.first.class\r\n    assert_equal Hash, post.content.first.class\r\n  end\r\nend\r\n```\r\n\r\n### Expected behavior\r\nSerialized hashes in arrays should deserialize as hashes\r\n\r\n### Actual behavior\r\nThey're now HashWithIndifferentAccess\r\n\r\nThis might be intended (or not), whatever, but I even if it is I don't see any noted API change in the changelog. Does anyone know where and when did this change occurred?\r\n\r\n### System configuration\r\n**Rails version**: 5.1.0\r\n\r\n**Ruby version**: 2.4.1\r\n",
+#               "createdAt": "2017-05-08T16:29:55Z",
+#               "lastEditedAt": "2017-05-08T16:31:45Z",
+#               "updatedAt": "2017-06-20T21:55:30Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/2430490?v=4",
+#                 "login": "chrisarcand",
+#                 "resourcePath": "/chrisarcand",
+#                 "url": "https://github.com/chrisarcand"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "regression"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "With reproduction steps"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "MissingAttributeError goes away after save",
+#               "number": 29017,
+#               "url": "https://github.com/rails/rails/issues/29017",
+#               "body": "### Steps to reproduce\r\n\r\nTake a record from a scope that uses `select` to load only some columns.\r\n\r\nIf you try to reference once of the other columns that you didn't load, you will get a MissingAttributeError.\r\n\r\nBut if you first `save` or `save!` the record, you get `nil` instead of an error.\r\n\r\n### Expected behavior\r\nYou should continue to get `MissingAttributeError` after `save`.\r\n\r\n### Actual behavior\r\nYou get a nil from the attribute reader.\r\n\r\n### System configuration\r\n**Rails version**:\r\n5.0.2 and 5.1.0\r\n\r\n**Ruby version**:\r\n2.3.1\r\n\r\nThis is because dirty.rb uses `@attributes = @attributes.map(&:forgetting_assignment)` which converts the `Attribute::Uninitialized` to an `Attribute::FromDatabase`.",
+#               "createdAt": "2017-05-09T09:36:25Z",
+#               "lastEditedAt": "2017-05-09T09:36:42Z",
+#               "updatedAt": "2017-05-09T11:50:55Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/12062?v=4",
+#                 "login": "willbryant",
+#                 "resourcePath": "/willbryant",
+#                 "url": "https://github.com/willbryant"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "With reproduction steps"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "url_for() produces path with double namespace",
+#               "number": 29019,
+#               "url": "https://github.com/rails/rails/issues/29019",
+#               "body": "I have routes defined like this:\r\n\r\n```\r\n namespace :dealer, path: '' do\r\n   resources :images, except: :index do\r\n     resources :comments, only: [:create, :destroy] do\r\n       resources :attachments, only: :show\r\n     end\r\n   end\r\n end\r\n```\r\n\r\nIn my view using `link_to [@image, @comment]` results in a url named:\r\n\r\n`dealer_image_dealer_comment_path` which doesn't exist. It should be `dealer_image_comment_path`. Any way to avoid the double namespace?\r\n\r\nI'm receiving this error:\r\n\r\n```\r\nundefined method `dealer_image_dealer_comment_path' for #<#<Class:0x007fb599499520>:0x007fb5994980d0>\r\nDid you mean?  dealer_image_comments_path\r\n               dealer_image_comment_path\r\n```\r\n\r\nrake routes:\r\n\r\n```\r\ndealer_image_comments POST      /images/:image_id/comments(.:format)                                                                   dealer/comments#create {:subdomain=>\"dealer\"}\r\ndealer_image_comment DELETE    /images/:image_id/comments/:id(.:format) \r\n```\r\n\r\n**Rails version**: 5.0.2\r\n\r\n**Ruby version**: 2.4.0\r\n",
+#               "createdAt": "2017-05-09T16:31:08Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-11T20:53:40Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/15311062?v=4",
+#                 "login": "cristian-rivera",
+#                 "resourcePath": "/cristian-rivera",
+#                 "url": "https://github.com/cristian-rivera"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "routing"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Bring back before_filter and friends as aliases",
+#               "number": 29030,
+#               "url": "https://github.com/rails/rails/issues/29030",
+#               "body": "We deprecated `before_filter` and friends in favor of `before_action`. That's a win for new applications, but it's an undue burden for gem engines and people who use them. While you can easily upgrade your own app, it's a lot harder to just upgrade every dependency you rely on.\r\n\r\nAnd that's just not a proportionate amount of pain to inflict on the ecosystem given the light weight of a few aliases.\r\n\r\nSo let's bring back `before_filter` and friends as documented, historical aliases to soothe the pain.\r\n\r\nMea culpa!",
+#               "createdAt": "2017-05-10T14:14:17Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-20T21:55:30Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 8
+#               },
+#               "comments": {
+#                 "totalCount": 13
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/2741?v=4",
+#                 "login": "dhh",
+#                 "resourcePath": "/dhh",
+#                 "url": "https://github.com/dhh"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Validation run twice in association if parent updated since rails 5.1",
+#               "number": 29032,
+#               "url": "https://github.com/rails/rails/issues/29032",
+#               "body": "I have an relation between order and order lines. Order has many OrderLine\r\n\r\nIn OrderLine I have one validation  where I save the order\r\n\r\n```\r\nvalidate: :check\r\n\r\ndef check\r\n  puts 'Check'\r\n  self.order.update_attributes!(check: true)\r\nend\r\n```\r\n\r\nIn rails 5.0 this scenario work fine.\r\n\r\n```\r\norder = Order.create \r\n\r\norder_line = order.lines.new(quantity: 1 , price: 10)\r\norder_line.save\r\n```\r\n\r\nIt create Order, update the check attributes, in once time\r\n\r\nSince Rails 5.1 it pass to the validate, then on the line` self.order.update_attributes!(check: true)`, this produce a new pass in validate.\r\nSo this code print 'Check' twice.\r\n\r\nFor information, this code work on rails 5 and 5.1, the change is passing order as attribute or new OrderLine\r\n```\r\norder = Order.create \r\norder_line = OrderLine.new(quantity: 1 , price: 10, order: order)\r\norder_line.save\r\n```\r\n\r\nI don't see anything in release log, but maybe is in...\r\n",
+#               "createdAt": "2017-05-10T15:51:31Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-12T21:52:39Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/372462?v=4",
+#                 "login": "kaluznyo",
+#                 "resourcePath": "/kaluznyo",
+#                 "url": "https://github.com/kaluznyo"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "With reproduction steps"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Flash.now is not rendered when form_with is used",
+#               "number": 29036,
+#               "url": "https://github.com/rails/rails/issues/29036",
+#               "body": "### Steps to reproduce\r\n\r\nConsider this controller action:\r\n\r\n```ruby\r\ndef create\r\n  @user = User.new(user_params)\r\n  if @user.save\r\n    flash[:notice] = \"User saved to database.\"\r\n    redirect_to user_url @user\r\n  else\r\n    flash.now[:alert] = \"Error: #{@user.errors.full_messages.join(', ')}\"\r\n    render :new\r\n  end\r\nend\r\n```\r\n\r\nThis model:\r\n```ruby\r\nclass User < ApplicationRecord\r\n  validates :name, presence: true\r\nend\r\n```\r\n\r\nAnd this form:\r\n```ruby\r\n<%= form_with @user do |f| %>\r\n  <%= f.label :name %>\r\n  <%= f.text_field :name %>\r\n  <%= f.submit %>\r\n<% end %>\r\n```\r\n\r\nThis is pretty standard. Elsewhere in your application, the flash would be rendered if it is set.\r\n\r\nThe issue appears when we try to enter an empty name. Validation fails, and we should see a flash with the error message.\r\n\r\n\r\nHowever, if the form that is used to call this is using the new `form_with` method, flash.now is not set. If you enter invalid input and cause the `else` path to be tripped, the flash will never be set. Using the older `form_for` method works as expected\r\n\r\n### Expected behavior\r\n\r\nflash.now should be set and be displayed.\r\n\r\n### Actual behavior\r\n\r\nThe flash is not set. Including `flash debug` in the page shows that it is not set. Additionally, the page does not reload - meaning it does not jump back to the top of the page. This might indicate that `form_with` does some caching, which in this case causes the issue.\r\n\r\nUsing the old `form_for` helper fixes the issue, which leads me to believe the issue is caused by the new `form_with` helper.\r\n\r\n### System configuration\r\n**Rails version**: 5.1.0\r\n\r\n**Ruby version**: ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-darwin15]\r\n\r\n**Google Chrome**: \r\n- Version: 57.0.2987.133 (Official Build) (64-bit) \r\n- Revision: ec33cd0c06881d919ac0de419d829ad914e0be8f-refs/branch-heads/2987@{#887}\r\n- OS: Mac OS X \r\n- JavaScript: V8 5.7.492.71\r\n",
+#               "createdAt": "2017-05-10T18:58:48Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-11T00:06:43Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/15855093?v=4",
+#                 "login": "mdorr",
+#                 "resourcePath": "/mdorr",
+#                 "url": "https://github.com/mdorr"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "actionview"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "AR containing an attribute of it's pluralized name cause typecasting exceptions.",
+#               "number": 29045,
+#               "url": "https://github.com/rails/rails/issues/29045",
+#               "body": "### Steps to reproduce\r\n```ruby\r\nbegin\r\n  require \"bundler/inline\"\r\nrescue LoadError => e\r\n  $stderr.puts \"Bundler version 1.10 or later is required. Please update your Bundler\"\r\n  raise e\r\nend\r\n\r\ngemfile(true) do\r\n  source \"https://rubygems.org\"\r\n  # Activate the gem you are reporting the issue against.\r\n  gem \"activerecord\", \"5.1.0\"\r\n  gem \"sqlite3\"\r\nend\r\n\r\nrequire \"active_record\"\r\nrequire \"minitest/autorun\"\r\nrequire \"logger\"\r\n\r\n# Ensure backward compatibility with Minitest 4\r\nMinitest::Test = MiniTest::Unit::TestCase unless defined?(Minitest::Test)\r\n\r\n# This connection will do for database-independent bug reports.\r\nActiveRecord::Base.establish_connection(adapter: \"sqlite3\", database: \":memory:\")\r\nActiveRecord::Base.logger = Logger.new(STDOUT)\r\n\r\nActiveRecord::Schema.define do\r\n  create_table :users, force: true do |t|\r\n  end\r\n\r\n  create_table :hours, force: true do |t|\r\n    t.integer  \"user_id\"\r\n    t.float :hours\r\n  end\r\nend\r\n\r\nclass User < ActiveRecord::Base\r\n  has_many :hours\r\nend\r\n\r\nclass Hour < ActiveRecord::Base\r\n  belongs_to :user\r\nend\r\n\r\nclass BugTest < Minitest::Test\r\n  # This passes on Rails 5.0.x, fails on 5.1.x\r\n  def test_collection_with_plural_of_class_name_as_attribute_fails_typecasting\r\n    user = User.create!\r\n    hour = user.hours.build\r\n    assert hour.save\r\n  end\r\nend\r\n```\r\n### Expected behavior\r\nA new hour object is built, and saved with only the attribute user_id assigned.\r\n\r\n### Actual behavior\r\nAn error in typecasting attempted to convert the hash `{\"user_id\"=>1}` to a float.\r\n\r\n### System configuration\r\nUsing activerecord 5.1.0\r\nruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-darwin16]\r\n",
+#               "createdAt": "2017-05-11T04:50:20Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-13T13:43:33Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/243989?v=4",
+#                 "login": "rposborne",
+#                 "resourcePath": "/rposborne",
+#                 "url": "https://github.com/rposborne"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "form_with - rails_ujs error on submit ",
+#               "number": 29046,
+#               "url": "https://github.com/rails/rails/issues/29046",
+#               "body": "Standard form_with tag being handled via js without setting local true when hitting submit and not filling in form data I get an error in the js console of Cannot read property 'call' of undefined. \r\n\r\nThis error leads to line 34 of rails/actionview/app/assets/javascripts/rails-ujs/utils/event.coffee\r\n\r\nIt responds to my error and displays the errors on the front end once i set up the respond to but there is still an error in the base code as handler is not being set.\r\n",
+#               "createdAt": "2017-05-11T10:37:06Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-19T15:17:50Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 7
+#               },
+#               "comments": {
+#                 "totalCount": 10
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/6472996?v=4",
+#                 "login": "aandy28",
+#                 "resourcePath": "/aandy28",
+#                 "url": "https://github.com/aandy28"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "rails-ujs"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "More info on previous_changes deprecation message.",
+#               "number": 29047,
+#               "url": "https://github.com/rails/rails/issues/29047",
+#               "body": "Now when I try to use previous_changes in after_save callback I am greeted with\r\n```md\r\nDEPRECATION WARNING: The behavior of `previous_changes` inside of after callbacks is\r\ndeprecated without replacement. In the next release of Rails,\r\nthis method inside of `after_save` will return the changes that\r\nwere just saved.\r\n```\r\nI think the url to the original thread should also puts there inside the deprecation message.  \r\nHere the original discussion thread: https://github.com/rails/rails/pull/25337  \r\n  \r\nOr I will never knows what's going on.  \r\nThis is not the first time the code references github thread.  \r\nFor instance:  \r\nhttps://github.com/rails/rails/blob/92703a9ea5d8b96f30e0b706b801c9185ef14f0e/activerecord/lib/active_record/associations/join_dependency/join_part.rb#L50  \r\nalso reference to a pull request.",
+#               "createdAt": "2017-05-11T11:09:39Z",
+#               "lastEditedAt": "2017-05-11T15:36:16Z",
+#               "updatedAt": "2017-05-13T13:52:15Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/7634596?v=4",
+#                 "login": "MidnightWonderer",
+#                 "resourcePath": "/MidnightWonderer",
+#                 "url": "https://github.com/MidnightWonderer"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Multiple calls to validate with same symbol will overwrite it",
+#               "number": 29048,
+#               "url": "https://github.com/rails/rails/issues/29048",
+#               "body": "It would be useful to be able to call validate with the same symbol multiple times.\r\nThis could be used when you have multiple blocks of `with_options if: -> { some_condition }` grouping some validations.\r\n\r\n### Steps to reproduce\r\n```\r\nclass MyModel\r\n  include ActiveModel::Model   \r\n  validate :validate_me, if: -> { true }\r\n  validate :validate_me, if: -> { false }\r\nend                     \r\nDbd.new.valid? # returns true\r\n```\r\n\r\n### Expected behavior\r\n`NoMethodError: undefined method `validate_me' for #<MyModel:0x00557688c5bdf0>` since I didn't define that method.\r\n\r\n### Actual behavior\r\nThe second `validate :validate_me` call overwrites the first one.\r\nSo it returns `true`\r\n\r\n### System configuration\r\n**Rails version**:\r\n5.1\r\n\r\n**Ruby version**:\r\n2.3.4",
+#               "createdAt": "2017-05-11T12:39:51Z",
+#               "lastEditedAt": "2017-05-11T12:41:58Z",
+#               "updatedAt": "2017-05-16T14:56:51Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 9
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/948625?v=4",
+#                 "login": "runephilosof",
+#                 "resourcePath": "/runephilosof",
+#                 "url": "https://github.com/runephilosof"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "db:structure:load broken on linux with a default postgres install",
+#               "number": 29049,
+#               "url": "https://github.com/rails/rails/issues/29049",
+#               "body": "### Steps to reproduce\r\n\r\nRE [this PR](https://github.com/rails/rails/pull/24773)\r\n\r\n* Have a database with installed extensions, like `plpgsql`\r\n* Run a default linux postgres install - meaning, you access postgres as a non-superuser.\r\n* Attempt to load a `db/structure.sql` file that includes pointless but super-user only functions like\r\n\r\n```\r\nCOMMENT ON EXTENSION plpgsql IS 'PL/pgSQL procedural language';\r\n```\r\n\r\nThis is especially an issue for projects where folks work in mixed environments, say osx homebrew postgres (whjch runs all databases as a superuser for \"convenience\", I suppose) and default linux postgres installs.\r\n\r\nUltimately the issue is osx postgres running as superuser and creating dump files in that context, but I don't think this is going to change any time soon.\r\n\r\nIt'd be ideal to at least be able to disable this behavior, as it is now I can't set up a project. I imagine this is going to happen for some production / CI environments as well. I don't think the correct solution is to tell linux users to access their rails databases as superusers, that's the equivalent of running your machine as root.\r\n\r\n### Expected behavior\r\nIt should work with warnings as it did on previous versions of rails.\r\n\r\n### Actual behavior\r\nIt fails with:\r\n```\r\npsql:/home/dcollispuro/code/work/addons.heroku.com/db/structure.sql:27: ERROR:  42501: must be owner of extension plpgsql\r\nLOCATION:  aclcheck_error, aclchk.c:3367\r\nTime: 0.211 ms\r\nrake aborted!\r\nfailed to execute:\r\npsql -v ON_ERROR_STOP=1 -q -f /home/dcollispuro/code/work/addons.heroku.com/db/structure.sql addons-development\r\n\r\nPlease check the output above for any errors and make sure that `psql` is installed in your PATH and has proper permissions.\r\n```\r\n\r\n### System configuration\r\n**Rails version**: 5.1.0\r\n\r\n**Ruby version**: 2.3.1p112\r\n",
+#               "createdAt": "2017-05-11T13:47:40Z",
+#               "lastEditedAt": "2017-05-11T13:49:54Z",
+#               "updatedAt": "2017-05-16T14:57:24Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/3966?v=4",
+#                 "login": "djcp",
+#                 "resourcePath": "/djcp",
+#                 "url": "https://github.com/djcp"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "PostgreSQL"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Record not touched when removing associated has_many through",
+#               "number": 29078,
+#               "url": "https://github.com/rails/rails/issues/29078",
+#               "body": "### Steps to reproduce\r\nhttps://gist.github.com/thomasfedb/04ca6b5d476679e6550d4b849531cf42\r\n\r\n```ruby\r\nclass Post < ActiveRecord::Base\r\n  has_many :taggings\r\n  has_many :tags, through: :taggings\r\nend\r\n\r\nclass Tagging < ActiveRecord::Base\r\n  belongs_to :post, touch: true\r\n  belongs_to :tag\r\nend\r\n\r\nclass Tag < ActiveRecord::Base\r\nend\r\n\r\nclass BugTest < Minitest::Test\r\n  def test_has_many_through_touch\r\n    post = Post.create!\r\n    tag = Tag.create!\r\n\r\n    updated_at_before_tag_added = post.updated_at\r\n    post.update(tags: [tag])\r\n    updated_at_after_tag_added = post.updated_at\r\n\r\n    assert_equal 1, post.tags.count\r\n    assert updated_at_before_tag_added < updated_at_after_tag_added\r\n\r\n    updated_at_before_tag_removed = post.updated_at\r\n    post.update(tags: [])\r\n    updated_at_after_tag_removed = post.updated_at\r\n\r\n    assert_equal 0, post.tags.count\r\n    assert updated_at_before_tag_removed < updated_at_after_tag_removed,\r\n      \"post is not touched\"\r\n  end\r\nend\r\n```\r\n\r\n### Expected behavior\r\nThe post record should be touched both when the tag is added and when the tag is removed, as this results in a tagging being created and destroyed, which is configured with `touch: true`\r\n\r\n### Actual behavior\r\nThe post record is touched when the tagging is created, but not when it is destroyed\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n**Ruby version**: 2.4.0\r\n",
+#               "createdAt": "2017-05-14T04:38:20Z",
+#               "lastEditedAt": "2017-05-14T04:38:41Z",
+#               "updatedAt": "2017-05-24T02:53:24Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/193831?v=4",
+#                 "login": "thomasfedb",
+#                 "resourcePath": "/thomasfedb",
+#                 "url": "https://github.com/thomasfedb"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "With reproduction steps"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "enable_extension regression in 5.1?",
+#               "number": 29080,
+#               "url": "https://github.com/rails/rails/issues/29080",
+#               "body": "### Steps to reproduce\r\n\r\nWhen upgrading from Rails 5.0 to 5.1, it seems that there is a regression with `enable_extension`. I have in my schema the line:\r\n\r\n```ruby\r\nenable_extension \"intarray\"\r\n```\r\n\r\n### Expected behavior\r\n\r\nThis should enable the `intarray` extension for Postgres, which includes adding an `idx` function.\r\n\r\n### Actual behavior\r\n\r\nWhen I run `rake db:reset` it runs as expected, but then when I try to make use of the `intarray` extension, I see an error:\r\n\r\n```\r\nActiveRecord::StatementInvalid - PG::UndefinedFunction: ERROR:  function idx(integer[], bigint) does not exist\r\n```\r\n\r\nIf I revert to Rails 5.1 and run `rake db:reset`, the `intarray` extension works.\r\n\r\n### System configuration\r\n**Rails version**: 5.1\r\n\r\n**Ruby version**: 2.3.3\r\n",
+#               "createdAt": "2017-05-14T20:06:57Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-14T21:19:49Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/80543?v=4",
+#                 "login": "mockdeep",
+#                 "resourcePath": "/mockdeep",
+#                 "url": "https://github.com/mockdeep"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "weird behavior of per_form_csrf_tokens",
+#               "number": 29085,
+#               "url": "https://github.com/rails/rails/issues/29085",
+#               "body": "### Steps to reproduce\r\nI am created a demo app for testing [here](https://github.com/apinrdw/test-csrf-token), and also override the `RequestForgeryProtection#valid_authenticity_token?` for logging.\r\n- open http://localhost:3000/posts/new\r\n- fill and submit the form  \r\n- and see the console.\r\n\r\n### Expected behavior\r\n```\r\nper_form_csrf_tokens: true\r\ncompare_with_real_token: false\r\nvalid_per_form_csrf_token?: true\r\n```\r\n\r\n### Actual behavior\r\n```\r\nper_form_csrf_tokens: true\r\ncompare_with_real_token: true\r\nvalid_per_form_csrf_token?: false\r\n```\r\n\r\n### System configuration\r\n**Rails version**:\r\n5.0.3\r\n**Ruby version**:\r\n2.4.1",
+#               "createdAt": "2017-05-15T06:56:22Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-06T15:12:10Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/4516973?v=4",
+#                 "login": "apinrdw",
+#                 "resourcePath": "/apinrdw",
+#                 "url": "https://github.com/apinrdw"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "security"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Special characters in app directory path causes 'rails server' to fail on Windows systems",
+#               "number": 29087,
+#               "url": "https://github.com/rails/rails/issues/29087",
+#               "body": "### Steps to reproduce\r\n\r\n1. On Windows 10 system, create directory: `C:\\Rails Server Test Ø`\r\n2. Open command prompt, then navigate to `C:\\Rails Server Test Ø`\r\n3. From within `C:\\Rails Server Test Ø`, run `rails new MyTestApp`\r\n5. From within `C:\\Rails Server Test Ø\\MyTestApp`, run `rails server`\r\n6. Notice error message: _C:/Rails Server Test ?/MyTestApp/Gemfile not found_\r\n7. Rename directory `C:\\Rails Server Test Ø` to `C:\\Rails Server Test` (removing `Ø`)\r\n8. Repeat step 4; notice `rails server` now works as expected\r\n\r\n### Expected behavior\r\nRails server starts under localhost.\r\n\r\n### Actual behavior\r\nRails server does not start and misleading error message occurs:\r\n_C:/Rails Server Test ?/MyTestApp/Gemfile not found_\r\n\r\nError message is misleading, because `Gemfile` actually does exist within the working directory.\r\n\r\n### System configuration\r\n**Operating system**:\r\nWindows 10 Enterprise (64-bit)\r\n\r\n**Rails version**:\r\nRails 5.1.1\r\n\r\n**Ruby version**:\r\nruby 2.3.3p222 (2016-11-21 revision 56859) [i386-mingw32]",
+#               "createdAt": "2017-05-15T09:50:43Z",
+#               "lastEditedAt": "2017-05-15T10:56:42Z",
+#               "updatedAt": "2017-05-15T10:56:42Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/463422?v=4",
+#                 "login": "IRLeif",
+#                 "resourcePath": "/IRLeif",
+#                 "url": "https://github.com/IRLeif"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "When migrating down, enable_extension will delete every column from every table that use the extension",
+#               "number": 29091,
+#               "url": "https://github.com/rails/rails/issues/29091",
+#               "body": "When independent migrations apply the same extension,\r\n\r\ne.g.:\r\n\r\n```ruby\r\nclass CreateItems < ActiveRecord::Migration\r\n  def change\r\n    enable_extension 'citext'\r\n    create_table :items do |t|\r\n      …\r\n      t.citext      :code\r\n      …\r\n    end\r\n    …\r\n  end\r\nend\r\n\r\nclass CreateMembers < ActiveRecord::Migration\r\n  def change\r\n    enable_extension 'citext'\r\n    create_table :members do |t|\r\n      …\r\n      t.citext      :email\r\n      …\r\n    end\r\n    …\r\n  end\r\nend\r\n\r\n```\r\n\r\nmigrating down one of these (e.g. Items) results in the extension being deleted even if other table still needs it, and _every column using the extension is being deleted from every table_.\r\n\r\nI.e., after taking down “items” table — `rake db:migrate:down VERSION=xxxx # Create Items`,\r\n\r\n```diff\r\ndiff --git a/db/structure.sql b/db/structure.sql\r\nindex 559dfab..b92fa7e 100644\r\n--- a/db/structure.sql\r\n+++ b/db/structure.sql\r\n@@ -23,20 +23,6 @@ CREATE EXTENSION IF NOT EXISTS plpgsql WITH SCHEMA pg_catalog;\r\n COMMENT ON EXTENSION plpgsql IS 'PL/pgSQL procedural language';\r\n \r\n \r\n---\r\n--- Name: citext; Type: EXTENSION; Schema: -; Owner: -\r\n---\r\n-\r\n-CREATE EXTENSION IF NOT EXISTS citext WITH SCHEMA public;\r\n-\r\n-\r\n…\r\n@@ -103,7 +40,6 @@ CREATE TABLE members (\r\n     …\r\n-    email citext NOT nil,\r\n     …\r\n```\r\n\r\ncitext is deleted at a whole, and email column in “members” table is deleted as well.\r\n\r\nWorst of all, if “items” is brought up again — `rake db:migrate:up VERSION=xxxx # Create Items`, the extension is re-introduced but the columns from other table are not.\r\n\r\nIt makes sense that the extension is declared by every migration that needs it, there are some scenarios where you may want to be able to take down or redo some migration without affecting others. But deleting every column using the same extension from every other table without even a warning is a dangerous side effect.\r\n\r\nSome checks should be done to make sure the extension is not needed elsewhere before deleting it.",
+#               "createdAt": "2017-05-15T13:54:53Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-16T22:07:48Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/1420435?v=4",
+#                 "login": "ClaudioFloreani",
+#                 "resourcePath": "/ClaudioFloreani",
+#                 "url": "https://github.com/ClaudioFloreani"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Clarify ActiveSupport String#first and String#last behavior for negative limit value",
+#               "number": 29106,
+#               "url": "https://github.com/rails/rails/issues/29106",
+#               "body": "### Steps to reproduce\r\n\r\n1. Create a string\r\n```ruby\r\nstr = \"hello\"\r\n```\r\n2. Use the ActiveSupport `first` and `last` methods with a negative limit:\r\n```ruby\r\nstr.first(-1)\r\n# => \"hell\"\r\nstr.last(-2)\r\n# => \"llo\"\r\n```\r\n\r\n### Expected behavior\r\n\r\nPersonally I'd expect it to return a blank string or possibly raise an `ArgumentError`.\r\n\r\n### Actual behavior\r\n\r\n`first` returns the characters at indices up to the limit (non-inclusive)\r\n`last` returns the characters from (limit - 1) to the end of the string.\r\n\r\nThis behavior appears to be [untested and undocumented](https://github.com/rails/rails/blob/master/activesupport/test/core_ext/string_ext_test.rb#L379-L413).\r\n\r\n### System configuration\r\n\r\n**Rails version**: 5.0\r\n\r\n**Ruby version**: 2.3.4\r\n\r\n### Pull Request\r\n\r\nI've added a [Pull Request](https://github.com/rails/rails/pull/29105) proposing new behavior for this case.  It returns a blank string.\r\n",
+#               "createdAt": "2017-05-16T10:05:05Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-16T13:16:02Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/6726985?v=4",
+#                 "login": "etdev",
+#                 "resourcePath": "/etdev",
+#                 "url": "https://github.com/etdev"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activesupport"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "rails db:migrate db:seed cannot be run in the same command as of v5.1",
+#               "number": 29112,
+#               "url": "https://github.com/rails/rails/issues/29112",
+#               "body": "### Steps to reproduce\r\n\r\n1. Create a new Rails project with postgresql.\r\n3. Add a migration that creates a table.\r\n2. `echo 'ApplicationRecord.connection.reconnect!' > db/seeds.rb`  \r\n3. Run `rails db:create db:migrate db:seed`\r\n\r\n### Expected behavior\r\n\r\nFinishes without errors.\r\n\r\n### Actual behavior\r\n\r\nHangs on Rails 5.1.1.\r\nWorks on Rails 5.0.3.\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n**Ruby version**: 2.4.1\r\n\r\n---\r\n\r\n### Another way to reproduce (without `reconnect!`)\r\n\r\n1. Create a `User` model and table with a `name` field.\r\n2. Add this snippet to the user model\r\n   \r\n   ```ruby\r\n   def name=(value)\r\n     super(value)\r\n   end\r\n   ```\r\n3. `echo 'User.create(name: \"Joe\")' > db/seeds.rb`\r\n4. `rails db:create db:migrate db:seed`\r\n    :boom: error, no superclass method `name=` defined.\r\n\r\nRunning `rails db:create db:migrate` and then `rails db:seed` works in both cases.",
+#               "createdAt": "2017-05-16T17:59:46Z",
+#               "lastEditedAt": "2017-05-16T18:05:27Z",
+#               "updatedAt": "2017-05-21T23:47:13Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/216339?v=4",
+#                 "login": "glebm",
+#                 "resourcePath": "/glebm",
+#                 "url": "https://github.com/glebm"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "rails 5.1: validates_associated in polymorphic associations: parent is not set",
+#               "number": 29121,
+#               "url": "https://github.com/rails/rails/issues/29121",
+#               "body": "First of all, you can checkout a project where this can be reproduced under: https://github.com/gatperdut/testing\r\n\r\nThe scenario is as follows: I have 3 models, one of which is the parent (`Character`) and the other two are associations of it (`Inventory` and `SkillSet`). `Inventory` is polymorphic. Here they are:\r\n\r\n```\r\nclass Character < ApplicationRecord\r\n\r\n  has_one :skill_set, dependent: :destroy\r\n\r\n  has_one :inventory, as: :parent, dependent: :destroy\r\n\r\n  validates_associated :inventory, :skill_set\r\n\r\nend\r\n```\r\n\r\n```\r\nclass Inventory < ApplicationRecord\r\n\r\n  belongs_to :parent, polymorphic: true, validate: true\r\n\r\n  #validate :fake_validation\r\n\r\n  def fake_validation\r\n    errors.add(:parent, \"why not\")\r\n  end\r\n\r\nend\r\n```\r\n\r\n```\r\nclass SkillSet < ApplicationRecord\r\n\r\n  belongs_to :character\r\n\r\nend\r\n\r\n```\r\n\r\nThe migrations for the models are:\r\n\r\n```\r\nclass CreateCharacters < ActiveRecord::Migration[5.1]\r\n  def change\r\n    create_table :characters do |t|\r\n\r\n    end\r\n  end\r\nend\r\n```\r\n\r\n```\r\nclass CreateInventories < ActiveRecord::Migration[5.1]\r\n  def change\r\n    create_table :inventories do |t|\r\n      t.references :parent, nil: false, index: true, polymorphic: true\r\n    end\r\n  end\r\nend\r\n```\r\n```\r\n\r\nclass CreateSkillSets < ActiveRecord::Migration[5.1]\r\n  def change\r\n    create_table :skill_sets do |t|\r\n      t.references :character, nil: false, index: true\r\n    end\r\n  end\r\nend\r\n```\r\n\r\nAs you can see, I'm using `validates_associated` in `Character` because I want the associated objects to be validated when the parent model is saved.\r\n\r\nMy problem is, when I save a new parent, the `SkillSet` gets a correctly assigned `character_id`, but for `Inventory` (the polymorphic one) the same does not happen:\r\n\r\n```\r\nc = Character.new(inventory: Inventory.new, skill_set: SkillSet.new)\r\nc.save\r\n   (0.1ms)  begin transaction\r\n   (0.1ms)  rollback transaction\r\n=> false\r\n\r\nirb(main):004:0> c.skill_set\r\n=> #<SkillSet id: 1, character_id: 1>\r\n\r\n\r\nirb(main):002:0> c.inventory\r\n=> #<Inventory id: nil, parent_type: \"Character\", parent_id: nil>\r\n\r\nc.inventory.errors.full_messages\r\n=> [\"Parent must exist\"]\r\n```\r\n\r\nIs there any reason why this is so?\r\n\r\nI tried a couple of alternatives:\r\na) just remove the `validates_associated`. In this case, `character` gets saved but the validations for `inventory` are not run. So even if I force `inventory` to be invalid (note `fake_validation`, I activate it in this scenario) it gets saved. Not good.\r\nb) remove `validates_associated` and turn `has_one :inventory` in `character` into `has_one :inventory, validate: true`. Same behaviour.\r\nc) remove `validates_associated` and turn `belongs_to :parent, polymorphic: true` in `inventory` into `belongs_to :parent, polymorphic: true, validate: true`. `Inventory` is not saved, but `character` is!.\r\n\r\nI'm honestly at a loss here. Am I doing something wrong. Did I stumble upon a bug?\r\n",
+#               "createdAt": "2017-05-17T08:50:50Z",
+#               "lastEditedAt": "2017-05-17T08:57:15Z",
+#               "updatedAt": "2017-07-17T17:29:33Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/1401888?v=4",
+#                 "login": "gatperdut",
+#                 "resourcePath": "/gatperdut",
+#                 "url": "https://github.com/gatperdut"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "ActiveRecord::HasManyThroughOrderError",
+#               "number": 29123,
+#               "url": "https://github.com/rails/rails/issues/29123",
+#               "body": "I have a has_one association between 3 models, but it have an error that says \"ActionView::Template::Error (Cannot have a has_many :through association 'Policy#intermediary' which goes through 'Policy#invoice' before the through association is defined.)\"\r\n\r\n```\r\nclass Policy < ApplicationRecord\r\n\r\n    self.table_name = \"gipi_polbasic\"\r\n    self.primary_key = \"policy_id\"\r\n\r\n    has_one :invoice\r\n    has_one :intermediary, through: :invoice, foreign_key: :intrmdry_intm_no\r\n```\r\n```\r\nclass Intermediary < ApplicationRecord\r\n    self.table_name = \"giis_intermediary\"\r\n    self.primary_key = \"intm_no\"\r\n\r\n    has_one :invoice, foreign_key: :intrmdry_intm_no\r\n    belongs_to :policy, foreign_key: :policy_id\r\n```\r\n```\r\nclass Invoice < ApplicationRecord\r\n    self.table_name = \"gipi_comm_invoice\"\r\n    self.primary_key = \"intrmdry_intm_no\"\r\n\r\n    belongs_to :policy, foreign_key: :policy_id\r\n    belongs_to :intermediary, foreign_key: :intrmdry_intm_no\r\n```",
+#               "createdAt": "2017-05-17T09:52:21Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-03T01:42:46Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 12
+#               },
+#               "comments": {
+#                 "totalCount": 26
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/17806216?v=4",
+#                 "login": "cjmblue05",
+#                 "resourcePath": "/cjmblue05",
+#                 "url": "https://github.com/cjmblue05"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Using .unscope with a default_scope that has .or(where....) in it",
+#               "number": 29125,
+#               "url": "https://github.com/rails/rails/issues/29125",
+#               "body": "### Steps to reproduce\r\n\r\n1. Create a default scope that includes a `where(x: nil).or(where('x > ?', Time.now))` for example\r\n2. Try to unscope that one field (or two) using `.unscope(where: :x)`\r\n\r\n### Expected behavior\r\nI'm expecting the unscope to remove the default scope, both the first `where` and the where inside the `or`-block.\r\n\r\n### Actual behavior\r\nNothing happens. I've reproduced the case in this repository, with a User model with a deleted_at field, that outputs a JSON in root, with the created queries using `.to_sql` for showing off what the actual output is from the query.\r\nhttps://github.com/frederikspang/rails-test-unscoping \r\n\r\n```\r\n{\r\n  \"User.all (Correct)\": \"SELECT \\\"users\\\".* FROM \\\"users\\\" WHERE (\\\"users\\\".\\\"deleted_at\\\" IS nil OR (deleted_at >= '2017-05-17 16:50:01.378815'))\",\r\n  \"User.all.unscope(where: :deleted_at)\": \"SELECT \\\"users\\\".* FROM \\\"users\\\" WHERE (\\\"users\\\".\\\"deleted_at\\\" IS nil OR (deleted_at >= '2017-05-17 16:50:01.380314'))\",\r\n  \"User.all.unscope(:where)\": \"SELECT \\\"users\\\".* FROM \\\"users\\\"\",\r\n  \"User.all.unscoped\": \"SELECT \\\"users\\\".* FROM \\\"users\\\"\"\r\n}\r\n```\r\n\r\nI've also set up 5 testcases that I believe covers the subject somewhat accurate.\r\n\r\n### System configuration\r\n**Rails version**: master-branch and tested with 5.1.0 and 5.0.1\r\n\r\n**Ruby version**: 2.3.3, 2.4.1 (All probably)\r\n\r\n\r\nOf course I'll provide any other info you might need, and I'll also go with any other solution that might solve the problem of default scope being \"not deleted, or deleted_at is in the future\". I haven't been able to solve this, no matter what I've tried. Only solution is to use `.unscoped` which creates a number of other issues.",
+#               "createdAt": "2017-05-17T16:53:41Z",
+#               "lastEditedAt": "2017-05-17T16:53:57Z",
+#               "updatedAt": "2017-05-18T15:35:19Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/1666120?v=4",
+#                 "login": "frederikspang",
+#                 "resourcePath": "/frederikspang",
+#                 "url": "https://github.com/frederikspang"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "`db:schema:load_if_ruby` also runs `db:create`",
+#               "number": 29128,
+#               "url": "https://github.com/rails/rails/issues/29128",
+#               "body": "The task `db:schema:load_if_ruby` does not simply call `db:schema:load` when the schema format is set to `:ruby` instead it also calls `db:create` which fails on systems where a user does not have super user access. \r\n\r\nThis task was originally extracted from `db:setup` however I think that it was a mistake that `db:create` is called at this location. Here is the commit https://github.com/rails/rails/commit/38d26b0cb56d82093889efa95992a35ba3bb9f29.\r\n\r\nIf we do want the schema load to create a database we should add it to `db:schema:load` so the task is consistent with the task name.\r\n",
+#               "createdAt": "2017-05-17T22:19:25Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-21T00:37:54Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/59744?v=4",
+#                 "login": "schneems",
+#                 "resourcePath": "/schneems",
+#                 "url": "https://github.com/schneems"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "where.not(postgres_array_column: [nil, '{}']) generates different query in 5.1",
+#               "number": 29133,
+#               "url": "https://github.com/rails/rails/issues/29133",
+#               "body": "Query generated from an expression aiming at checking for nil or empty array column in PostreSQL changed from Rails 5.0.2 to 5.1.1\r\n\r\n### Steps to reproduce\r\nHaving a model `User` with the column `roles` defined as array:\r\n\r\n    create_table :users do |t|\r\n      t.integer :roles, array: true\r\n    end\r\n\r\nAnd the following query:\r\n`User.where.not(roles: [nil, '{}']).to_sql`\r\n\r\n### Expected behavior\r\nIn Rails 5.0.2 the output query is:\r\n`SELECT users.* FROM users WHERE (NOT ((users.roles = '{}' OR users.roles IS nil)))`\r\nThis results for checking for nil or empty array.\r\n\r\n### Actual behavior\r\nIn Rails 5.1.1 the generated query is:\r\n`SELECT users.* FROM users WHERE (users.roles != '{nil,0}')`\r\nThis is obviously a different query than before.\r\n\r\n### System configuration\r\n**Rails version**:\r\n5.1.1\r\n\r\n**Ruby version**:\r\n2.4.1\r\n",
+#               "createdAt": "2017-05-18T15:39:37Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-23T15:42:09Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/3220924?v=4",
+#                 "login": "reichertm",
+#                 "resourcePath": "/reichertm",
+#                 "url": "https://github.com/reichertm"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Interface of ajax callbacks.",
+#               "number": 29137,
+#               "url": "https://github.com/rails/rails/issues/29137",
+#               "body": "Based on source code: [`fire` call](https://github.com/rails/rails/blob/master/actionview/app/assets/javascripts/rails-ujs/features/remote.coffee#L61) and [`fire` definition](https://github.com/rails/rails/blob/master/actionview/app/assets/javascripts/rails-ujs/utils/event.coffee#L22)\r\n\r\n`ajax:beforeSend`, `ajax:success`, `ajax:error` and etc callbacks are fired by `CustomEvent ` that contains `event.detail` argument with an array of callback options.\r\n\r\n**Previously:** \r\nWhen we based on jquery-ujs we have next interface:\r\n\r\n```\r\nfunction handleAjaxSuccess(event, data, status, xhr) {\r\n  // ...\r\n}\r\n$(‘#form’).on('ajax:success', handleAjaxSuccess)\r\n```\r\nThat contains `event` with `several parameters` ( depends from event )\r\n\r\n**Now we have next:**\r\n```\r\nfunction handleAjaxSuccess(event) {\r\n  console.log(event.details[0]) // xhr\r\n  console.log(event.details[1]) // options\r\n  // ...\r\n}\r\n$(‘#form’).on('ajax:success', handleAjaxSuccess)\r\n```\r\n\r\nWhat do you think to present(return) parameters in `event.details` like an associative array structure?\r\n\r\nIn this case interface will looks like:\r\n```\r\nfunction handleAjaxSuccess(event) {\r\n  console.log(event.details.xhr)\r\n  console.log(event.details.options)\r\n  // ...\r\n}\r\n$(‘#form’).on('ajax:success', handleAjaxSuccess)\r\n```\r\n\r\nI can attach PR with such implementation. \r\nIf current implementation is completely right - i can build kind of documentation of such behaviour. What do you think?\r\n\r\nThanks.",
+#               "createdAt": "2017-05-18T19:29:21Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-20T21:55:30Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/1914001?v=4",
+#                 "login": "DmytroVasin",
+#                 "resourcePath": "/DmytroVasin",
+#                 "url": "https://github.com/DmytroVasin"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "needs feedback"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "rails-ujs"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Random ActiveRecord::StatementInvalid: PG::UndefinedTable: ERROR(s) after upgrading to Rails 5.1.1",
+#               "number": 29164,
+#               "url": "https://github.com/rails/rails/issues/29164",
+#               "body": "### Steps to reproduce\r\n\r\nI simply updated from Rails 5.0.3 to 5.1.1 in my project. \r\nNow, when I run tests while in development mode, I see errors like this:\r\n\r\nActiveRecord::StatementInvalid: PG::UndefinedTable: ERROR:  relation \"end_users\" does not exist...\r\n\r\n### Expected behavior\r\nExpected tests to run without error.\r\n\r\n### Actual behavior\r\nVarious tests throw errors. I always get an error similar to `ActiveRecord::StatementInvalid: PG::UndefinedTable: ERROR:  relation \"end_users\" does not exist...`\r\n\r\nBut, I observed that the errors are not consistent - i.e. during some test runs I see the error on the end_users table, other times I see the error with other tables.\r\n\r\nWhile googling this issue, I found a StackOverflow Q&A which gives me a hint that Spring preloader may be the culprit: [ActiveRecord error when running rails console](http://stackoverflow.com/questions/43863458/activerecord-error-when-running-rails-console)\r\n\r\nSimply stopping Spring before running tests gives me inconsistent results (sometimes all tests pass, more often some fail).\r\n\r\nHowever, when I do the following:\r\n\r\n1. Open a new terminal\r\n1. Navigate to my project directory\r\n1. Do `spring stop` (returns Spring is not running)\r\n1. Do `export DISABLE_SPRING=1`\r\n1. Do `rails t`\r\n\r\nAll tests run fine and are green the _first time_ I run them!\r\n\r\nIf I do `rails t` _again_, within the same terminal some tests now fail (again, different tests fail each time).\r\n\r\nIs there some special upgrade step I might have missed that would cause such an error? Is this a known issue with the Spring preloader? Is this a bug in ActiveRecord?\r\n\r\nThank you!\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n\r\n**Ruby version**: ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-darwin16]\r\n",
+#               "createdAt": "2017-05-20T18:52:09Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-10T20:55:49Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/1028565?v=4",
+#                 "login": "kevinsapp",
+#                 "resourcePath": "/kevinsapp",
+#                 "url": "https://github.com/kevinsapp"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Bug with tz aware range types array",
+#               "number": 29186,
+#               "url": "https://github.com/rails/rails/issues/29186",
+#               "body": "### Steps to reproduce\r\nhttps://github.com/rails/rails/commit/302e92359cc88258ae15a82454c58408a4b8157e\r\n\r\n@sgrif your patch was meant to fix time-zone-aware `tsrange` types, it doesn't work though on array range type columns.\r\n\r\n```ruby\r\nconfig.active_record.time_zone_aware_types += [ :tsrange, :tstzrange ]\r\n```\r\n\r\n```ruby\r\ncreate_table :events do |t|\r\n  t.tsrange :durations, array: true\r\nend\r\n```\r\n\r\n```ruby\r\nEvent.update durations: [ Time.current..3.hours.from_now ]\r\n```\r\n\r\n### Expected behavior\r\nIt should correctly map the actual values inside each duration.\r\n\r\n### Actual behavior\r\ncan't iterate from ActiveSupport::TimeWithZone\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n**Ruby version**: 2.4.0\r\n",
+#               "createdAt": "2017-05-22T18:52:36Z",
+#               "lastEditedAt": "2017-05-23T13:03:07Z",
+#               "updatedAt": "2017-05-31T15:56:51Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/143771?v=4",
+#                 "login": "ollym",
+#                 "resourcePath": "/ollym",
+#                 "url": "https://github.com/ollym"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Creating a scaffold for a Model with a reference shows the memory address of the associated model rather than the id in the index and show html files.",
+#               "number": 29200,
+#               "url": "https://github.com/rails/rails/issues/29200",
+#               "body": "### Steps to reproduce\r\n```\r\nrails new myapp\r\nrails g scaffold user \r\nrails g scaffold thing user:references\r\nrake db:migrate\r\nrails console\r\nUser.new.save\r\nThing.new(user:User.first).save\r\nrails s\r\nvisit localhost:3000/things\r\nvisit localhost:3000/things/1\r\n```\r\n\r\n### Expected behavior\r\nScaffolding a model with a reference should lead to displaying that reference's id or a link to the show of that model if it exists.  In the json builder files and edit and update html files that are automatically created on a scaffold the Id is correctly displayed.  In the above example we see user_id: 1 for the user id in the json.\r\n\r\n### Actual behavior\r\nAs it stands the object is referenced directly in the offending html files leads to the display of the memory address of the referenced object to the user.  The bug is essentially an extension of #11573 which modified the form when using scaffold with references but not the show or index.\r\nYou'll see something like this:\r\n![Image of the issue](http://i.imgur.com/JtqpRsw.png)\r\n\r\n### System configuration\r\n**Rails version**:\r\n5.1.1\r\n**Ruby version**:\r\n2.3.3p222",
+#               "createdAt": "2017-05-24T03:55:55Z",
+#               "lastEditedAt": "2017-05-24T06:46:46Z",
+#               "updatedAt": "2017-05-24T23:11:04Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/2310588?v=4",
+#                 "login": "RasPat1",
+#                 "resourcePath": "/RasPat1",
+#                 "url": "https://github.com/RasPat1"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "railties"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "ActionCable: disconnect/unsubscribed never called",
+#               "number": 29207,
+#               "url": "https://github.com/rails/rails/issues/29207",
+#               "body": "### Steps to reproduce\r\nCreate an `ActionCable` channel and subscribe to it. Unplug the client from the Internet and immediately call on server-side:\r\n<pre>\r\nActionCable.server.remote_connections.where( :some_identifier => 'some suitable value for the disconnected client').disconnect\r\n</pre>\r\n\r\n### Expected behavior\r\nClient should be `unsubscribed` from his channels and `disconnect` method on connection should be called.\r\n\r\n### Actual behavior\r\n`unsubscribed` and `disconnect` methods do not get called\r\n\r\n### System configuration\r\n**Rails version**:\r\nRails 5.1.0\r\nActionCable 5.1.0\r\n(default setup)\r\n\r\n**Ruby version**:\r\nruby-2.2.3p173\r\n\r\nmac os 10.12.4\r\n\r\nBut should also affect **other versions**.",
+#               "createdAt": "2017-05-24T13:10:26Z",
+#               "lastEditedAt": "2017-05-24T13:25:07Z",
+#               "updatedAt": "2017-06-19T12:17:19Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/15813149?v=4",
+#                 "login": "d-schloss-mvg",
+#                 "resourcePath": "/d-schloss-mvg",
+#                 "url": "https://github.com/d-schloss-mvg"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actioncable"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "ActiveSupport::TimeZone.us_zones behavior changed between Rails 5.0.2 and 5.0.3",
+#               "number": 29210,
+#               "url": "https://github.com/rails/rails/issues/29210",
+#               "body": "### Steps to reproduce\r\n1. Open a Rails console\r\n2. Execute `ActiveSupport::TimeZone.us_zones`\r\n3. Rails 5.0.2:\r\n  ```\r\n  irb(main):007:0> ActiveSupport::TimeZone.us_zones\r\n[\r\n    [0] #<ActiveSupport::TimeZone:0x0055c0da6952a8 @name=\"Hawaii\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: Pacific/Honolulu>>,\r\n    [1] #<ActiveSupport::TimeZone:0x0055c0d98606d8 @name=\"Alaska\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Juneau>>,\r\n    [2] #<ActiveSupport::TimeZone:0x0055c0da666598 @name=\"Pacific Time (US & Canada)\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Los_Angeles>>,\r\n    [3] #<ActiveSupport::TimeZone:0x0055c0da660cb0 @name=\"Arizona\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Phoenix>>,\r\n    [4] #<ActiveSupport::TimeZone:0x0055c0da6460b8 @name=\"Mountain Time (US & Canada)\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Denver>>,\r\n    [5] #<ActiveSupport::TimeZone:0x0055c0da60c5e8 @name=\"Central Time (US & Canada)\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Chicago>>,\r\n    [6] #<ActiveSupport::TimeZone:0x0055c0d1e9b348 @name=\"Eastern Time (US & Canada)\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/New_York>>,\r\n    [7] #<ActiveSupport::TimeZone:0x0055c0da5ff578 @name=\"Indiana (East)\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Indiana/Indianapolis>>\r\n]\r\n  ```\r\n4. Rails 5.0.3:\r\n  ```\r\n  irb(main):001:0> ActiveSupport::TimeZone.us_zones\r\n[\r\n    [ 0] #<ActiveSupport::TimeZone:0x005568a38f2828 @name=\"America/Adak\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Adak>>,\r\n    [ 1] #<ActiveSupport::TimeZone:0x005568a38f2800 @name=\"Hawaii\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: Pacific/Honolulu>>,\r\n    [ 2] #<ActiveSupport::TimeZone:0x005568a3683a60 @name=\"Alaska\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Juneau>>,\r\n    [ 3] #<ActiveSupport::TimeZone:0x005568a3683a88 @name=\"America/Anchorage\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Anchorage>>,\r\n    [ 4] #<ActiveSupport::TimeZone:0x005568a37492d8 @name=\"America/Metlakatla\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Metlakatla>>,\r\n    [ 5] #<ActiveSupport::TimeZone:0x005568a3871e08 @name=\"America/Nome\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Nome>>,\r\n    [ 6] #<ActiveSupport::TimeZone:0x005568a36fe530 @name=\"America/Sitka\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Sitka>>,\r\n    [ 7] #<ActiveSupport::TimeZone:0x005568a37a2d60 @name=\"America/Yakutat\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Yakutat>>,\r\n    [ 8] #<ActiveSupport::TimeZone:0x005568a353d390 @name=\"Pacific Time (US & Canada)\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Los_Angeles>>,\r\n    [ 9] #<ActiveSupport::TimeZone:0x005568a3550f58 @name=\"America/Boise\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Boise>>,\r\n    [10] #<ActiveSupport::TimeZone:0x005568a3550f30 @name=\"Arizona\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Phoenix>>,\r\n    [11] #<ActiveSupport::TimeZone:0x005568a3493728 @name=\"Mountain Time (US & Canada)\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Denver>>,\r\n    [12] #<ActiveSupport::TimeZone:0x005568a3235648 @name=\"America/Indiana/Knox\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Indiana/Knox>>,\r\n    [13] #<ActiveSupport::TimeZone:0x005568a31adf68 @name=\"America/Indiana/Tell_City\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Indiana/Tell_City>>,\r\n    [14] #<ActiveSupport::TimeZone:0x005568a32c6738 @name=\"America/Menominee\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Menominee>>,\r\n    [15] #<ActiveSupport::TimeZone:0x005568a3493750 @name=\"America/North_Dakota/Beulah\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/North_Dakota/Beulah>>,\r\n    [16] #<ActiveSupport::TimeZone:0x005568a3384da0 @name=\"America/North_Dakota/Center\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/North_Dakota/Center>>,\r\n    [17] #<ActiveSupport::TimeZone:0x005568a342b5d8 @name=\"America/North_Dakota/New_Salem\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/North_Dakota/New_Salem>>,\r\n    [18] #<ActiveSupport::TimeZone:0x005568a305a2b0 @name=\"Central Time (US & Canada)\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Chicago>>,\r\n    [19] #<ActiveSupport::TimeZone:0x005568a2e0bc98 @name=\"America/Detroit\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Detroit>>,\r\n    [20] #<ActiveSupport::TimeZone:0x005568a2f9cbc0 @name=\"America/Indiana/Marengo\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Indiana/Marengo>>,\r\n    [21] #<ActiveSupport::TimeZone:0x005568a30226d0 @name=\"America/Indiana/Petersburg\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Indiana/Petersburg>>,\r\n    [22] #<ActiveSupport::TimeZone:0x005568a305a2d8 @name=\"America/Indiana/Vevay\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Indiana/Vevay>>,\r\n    [23] #<ActiveSupport::TimeZone:0x005568a2f3e6b0 @name=\"America/Indiana/Vincennes\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Indiana/Vincennes>>,\r\n    [24] #<ActiveSupport::TimeZone:0x005568a2f66e30 @name=\"America/Indiana/Winamac\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Indiana/Winamac>>,\r\n    [25] #<ActiveSupport::TimeZone:0x005568a2e4dcd8 @name=\"America/Kentucky/Louisville\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Kentucky/Louisville>>,\r\n    [26] #<ActiveSupport::TimeZone:0x005568a2e9e840 @name=\"America/Kentucky/Monticello\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Kentucky/Monticello>>,\r\n    [27] #<ActiveSupport::TimeZone:0x005568a2d225c0 @name=\"Eastern Time (US & Canada)\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/New_York>>,\r\n    [28] #<ActiveSupport::TimeZone:0x005568a2e9e7a0 @name=\"Indiana (East)\", @utc_offset=nil, @tzinfo=#<TZInfo::DataTimezone: America/Indiana/Indianapolis>>\r\n]\r\n```\r\n\r\n### Expected behavior\r\nKeep behavior of public methods consistent between patch versions of release.  In fact, based on code I see in our app, the Rails 5.0.2 behavior has been consistent for several *major* versions of Rails.\r\n\r\n### Actual behavior\r\nThe list of us_zones is larger in Rails 5.0.3\r\n\r\n### System configuration\r\n**Rails version**:\r\n5.0.3\r\n**Ruby version**:\r\n2.3.1\r\n\r\n### Note\r\nThis issue was filed as a result of discussion in separate issue starting here: https://github.com/rails/rails/issues/28431#issuecomment-303251396",
+#               "createdAt": "2017-05-24T17:30:30Z",
+#               "lastEditedAt": "2017-05-24T17:40:16Z",
+#               "updatedAt": "2017-07-10T13:40:47Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 5
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/1938508?v=4",
+#                 "login": "BigGillyStyle",
+#                 "resourcePath": "/BigGillyStyle",
+#                 "url": "https://github.com/BigGillyStyle"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activesupport"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs feedback"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "regression"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "ActiveRecord::AttributeMethods::Dirty 5.1 stuck in inconsistent state if autosave :has_many aborts save.",
+#               "number": 29241,
+#               "url": "https://github.com/rails/rails/issues/29241",
+#               "body": "### Steps to reproduce\r\n\r\n```ruby\r\nClass Parent < ApplicationRecord\r\n  has_many :children, autosave: true\r\nend\r\n\r\nClass Child < ApplicationRecord\r\n  before_save :do_a_think_that_might_abort\r\n  def do_a_thing_that_might_abort\r\n    throw(:abort)\r\n  end\r\nend\r\n\r\nexisting_parents.attributes = { ... }\r\nexisting_parent.changes_to_be_saved # { ... }\r\nexisting_parent.save # false\r\nexisting_parent.changes_to_be_saved # {}\r\n```\r\n### Expected behavior\r\nIf the parent record fails to save because an autosave child aborts save, the parent record's mutation_trackers should revert to the state it was in before the save. \r\n\r\n### Actual behavior\r\n Instead, it is stuck between the states produced by `changes_internally_applied` and `changes_applied`.  \r\n\r\n### System configuration\r\n**Rails version**: New for rails 5.1.  Problem did not exist in 5.0\r\n\r\n**Ruby version**: Tested with 2.3.4, but looking through code does not appear relevant.\r\n\r\nThe problem stems from Rails 5.1's transition to new definitions of \"what is changed\" during after_save callbacks.  It doesn't seem to revert its state after_rollback, nor does it appear to be able to do so.\r\n",
+#               "createdAt": "2017-05-26T22:40:57Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-27T11:52:58Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/387810?v=4",
+#                 "login": "edlebert",
+#                 "resourcePath": "/edlebert",
+#                 "url": "https://github.com/edlebert"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Reformat implicit render exception",
+#               "number": 29280,
+#               "url": "https://github.com/rails/rails/issues/29280",
+#               "body": "We want to change how we render our big implicit rendering exception, in order to make it more approachable for users. Below are the requested changes to the exception handling :)\r\n\r\n### Requested changes\r\n\r\n- [ ] Create a new error subclass of `ActionController:: ActionControllerError ` for the error raised [here](https://github.com/rails/rails/blob/master/actionpack/lib/action_controller/metal/implicit_render.rb#L53), with naming of your choice. Possible candidates are `ActionController::MissingExactTemplate` / `ActionController::MissingExactTemplate`.\r\n- [ ] Turn the [long exception message](https://github.com/rails/rails/blob/master/actionpack/lib/action_controller/metal/implicit_render.rb#L42-L51) into a custom HTML template, similar to how we do it [here](https://github.com/rails/rails/blob/master/actionpack/lib/action_dispatch/middleware/exception_wrapper.rb#L27) and [here](https://github.com/rails/rails/blob/master/actionpack/lib/action_dispatch/middleware/templates/rescues/missing_template.html.erb).\r\n- [ ] Submit a PR with the changes!",
+#               "createdAt": "2017-05-30T00:42:46Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-30T20:34:47Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/3020626?v=4",
+#                 "login": "maclover7",
+#                 "resourcePath": "/maclover7",
+#                 "url": "https://github.com/maclover7"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "good-first-patch"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "PG::AmbiguousColumn: ERROR:  column reference \"name\" is ambiguous",
+#               "number": 29283,
+#               "url": "https://github.com/rails/rails/issues/29283",
+#               "body": "### Steps to reproduce\r\nI am having three tables locations, accounts, states. locations and states both have column 'name'. I am running this query to get all the locations\r\n\r\n`@locations = @account.locations.includes(:state)`\r\nI am using `ilike` to find all the matching locations.\r\n\r\n`@locations = @locations.where(\"name ilike ?\", \"%params[:search]%\")`\r\n\r\nNow the issue is whenever I enter a name with '.' in it, e.g. \"google inc.\", it returns this error `PG::AmbiguousColumn: ERROR:  column reference \"name\" is ambiguous`\r\n\r\nI know I haven't specified the table name before the column name in the second query so Postgres is confused which `name` to use. But my doubt is if that's the case then why it's not giving this error for all the params which don't have a '.' in it. I have tried with all other special characters and query works fine. Only for the names with a '.' are getting this error.\r\n\r\n### Expected behavior\r\n`@locations = @locations.where(\"name ilike ?\", \"%params[:search]%\")`\r\nreturning locations, so it should also return all the locations if any matches the name with '.'  in it.\r\n\r\n### Actual behavior\r\nIts returning this error `PG::AmbiguousColumn: ERROR:  column reference \"name\" is ambiguous`\r\n\r\n### System configuration\r\n**Rails version**: 4.0\r\n\r\n**Ruby version**: 2.1.5\r\n",
+#               "createdAt": "2017-05-30T13:04:37Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-22T06:30:16Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 7
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/13782355?v=4",
+#                 "login": "sinscary",
+#                 "resourcePath": "/sinscary",
+#                 "url": "https://github.com/sinscary"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "needs work"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Rails 5.1 STI - STI associations cannot be used with has_one",
+#               "number": 29299,
+#               "url": "https://github.com/rails/rails/issues/29299",
+#               "body": "### Steps to reproduce\r\n\r\nRun the following test (Also verified with the `mysql2` adapter\r\n\r\n```\r\nbegin\r\n  require \"bundler/inline\"\r\nrescue LoadError => e\r\n  $stderr.puts \"Bundler version 1.10 or later is required. Please update your Bundler\"\r\n  raise e\r\nend\r\n\r\ngemfile(true) do\r\n  source \"https://rubygems.org\"\r\n  # Activate the gem you are reporting the issue against.\r\n  gem \"activerecord\", \"5.1.1\"\r\n  gem \"sqlite3\"\r\nend\r\n\r\nrequire \"active_record\"\r\nrequire \"minitest/autorun\"\r\nrequire \"logger\"\r\n\r\n# Ensure backward compatibility with Minitest 4\r\nMinitest::Test = MiniTest::Unit::TestCase unless defined?(Minitest::Test)\r\n\r\n# This connection will do for database-independent bug reports.\r\nActiveRecord::Base.establish_connection(adapter: \"sqlite3\", database: \":memory:\")\r\nActiveRecord::Base.logger = Logger.new(STDOUT)\r\n\r\nActiveRecord::Schema.define do\r\n  create_table :wedding do |t|\r\n    t.string :name\r\n    t.timestamps\r\n  end\r\n  create_table :url do |t|\r\n    t.string :url\r\n    t.string :type\r\n    t.string :wedding_id\r\n    t.timestamps\r\n  end\r\nend\r\n\r\nclass Url < ActiveRecord::Base\r\n  self.table_name = 'url'\r\n  belongs_to :wedding\r\nend\r\n\r\nclass WeddingUrl < Url\r\nend\r\n\r\nclass Wedding < ActiveRecord::Base\r\n  self.table_name = 'wedding'\r\n  has_one :wedding_url\r\nend\r\n\r\nclass BugTest < Minitest::Test\r\n  def test_sti_has_one\r\n    w = Wedding.new(name: 'Test')\r\n    w.save!\r\n    url = WeddingUrl.new(url: 'http://www.test.com', wedding: w)\r\n    url.save!\r\n    puts w.wedding_url\r\n  end\r\nend\r\n```\r\n\r\n### Expected behavior\r\nthe wedding url object should be displayed\r\n\r\n### Actual behavior\r\nThe following stack trace occurs:\r\n```\r\nMinitest::UnexpectedError: TypeError: can't cast Hash\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/quoting.rb:45:in `rescue in type_cast'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/quoting.rb:32:in `type_cast'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/quoting.rb:166:in `block in type_casted_binds'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/quoting.rb:166:in `map'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/quoting.rb:166:in `type_casted_binds'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/sqlite3_adapter.rb:206:in `exec_query'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/database_statements.rb:361:in `select'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/database_statements.rb:42:in `select_all'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/query_cache.rb:97:in `select_all'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/querying.rb:39:in `find_by_sql'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/statement_cache.rb:107:in `execute'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/associations/singular_association.rb:50:in `find_target'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/associations/association.rb:147:in `load_target'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/associations/association.rb:53:in `reload'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/associations/singular_association.rb:7:in `reader'\r\n    /Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/associations/builder/association.rb:111:in `wedding_url'\r\n    /Users/asurin/Development/repro-issue/lib/script/test_template.rb:59:in `test_sti_has_one'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/quoting.rb:45:in `rescue in type_cast'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/quoting.rb:32:in `type_cast'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/quoting.rb:166:in `block in type_casted_binds'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/quoting.rb:166:in `map'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/quoting.rb:166:in `type_casted_binds'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/sqlite3_adapter.rb:206:in `exec_query'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/database_statements.rb:361:in `select'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/database_statements.rb:42:in `select_all'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract/query_cache.rb:97:in `select_all'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/querying.rb:39:in `find_by_sql'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/statement_cache.rb:107:in `execute'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/associations/singular_association.rb:50:in `find_target'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/associations/association.rb:147:in `load_target'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/associations/association.rb:53:in `reload'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/associations/singular_association.rb:7:in `reader'\r\n/Users/asurin/.rvm/gems/ruby-2.4.1/gems/activerecord-5.1.1/lib/active_record/associations/builder/association.rb:111:in `wedding_url'\r\n/Users/asurin/Development/repro-issue/lib/script/test_template.rb:59:in `test_sti_has_one'\r\n```\r\n\r\n### System configuration\r\nRails: 5.1.1 (Cannot repro on Rails < 5.1)\r\nRuby: 2.4.1 (Can repro with 2.3.3)\r\nOnly gems installed/active are bundler, activerecord and sqlite3 (sqlite3-1.3.13)\r\nBase system is OSX 10.12\r\n\r\n",
+#               "createdAt": "2017-05-31T18:42:21Z",
+#               "lastEditedAt": "2017-05-31T18:47:03Z",
+#               "updatedAt": "2017-05-31T18:57:22Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/1530571?v=4",
+#                 "login": "asurin",
+#                 "resourcePath": "/asurin",
+#                 "url": "https://github.com/asurin"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "With reproduction steps"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "rails dev:cache failed to restart the Rails server with custom pid file path",
+#               "number": 29306,
+#               "url": "https://github.com/rails/rails/issues/29306",
+#               "body": "### Steps to reproduce\r\n1. Start rails server with a custom pid file: `rails s -P tmp/pids/dev.pid`.\r\n2. Toggle dev cache: `rails dev:cache`.\r\n\r\n### Expected behavior\r\nRails server should be restarted successfully.\r\n\r\n### Actual behavior\r\nRestarting failed. Log:\r\n```\r\n=> Booting Puma\r\n=> Rails 5.1.1 application starting in development on http://localhost:3000\r\n=> Run `rails server -h` for more startup options\r\nPuma starting in single mode...\r\n* Version 3.8.2 (ruby 2.3.3-p222), codename: Sassy Salamander\r\n* Min threads: 5, max threads: 5\r\n* Environment: development\r\n* Listening on tcp://0.0.0.0:3000\r\nUse Ctrl-C to stop\r\n* Restarting...\r\n=> Booting Puma\r\n=> Rails 5.1.1 application starting in development on http://localhost:3000\r\n=> Run `rails server -h` for more startup options\r\nA server is already running. Check /tmp/rails-test/tmp/pids/dev.pid.\r\nExiting\r\n```\r\n\r\n### System configuration\r\n**Rails version**: Rails 5.1.1\r\n\r\n**Ruby version**: Ruby 2.3.3\r\n\r\n### Potential Reason\r\n1. The pid file path is hard coded in [dev_caching.rb](https://github.com/rails/rails/blob/92703a9ea5d8b96f30e0b706b801c9185ef14f0e/railties/lib/rails/dev_caching.rb#L20) as `\"tmp/pids/server.pid\"`\r\n2. When restarting rails with Puma, it won't remove the pid file it generated.\r\n",
+#               "createdAt": "2017-06-01T04:24:02Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-15T11:26:37Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/601767?v=4",
+#                 "login": "ranmocy",
+#                 "resourcePath": "/ranmocy",
+#                 "url": "https://github.com/ranmocy"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "railties"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "ActionCable::Connection::Base#disconnect not called if cable client lost network connection",
+#               "number": 29307,
+#               "url": "https://github.com/rails/rails/issues/29307",
+#               "body": "### Steps to reproduce\r\n\r\nStart Rails server with action cable enabled, then have any client connect to the cable server, and make the client lose network connection (eg. airplane your phone with websocket client runing on your phone).\r\n\r\n```module ApplicationCable\r\n  class Connection < ActionCable::Connection::Base\r\n     def disconnect\r\n      puts 'disconnect'\r\n     end\r\n  end\r\n```\r\n\r\n### Expected behavior\r\n\r\n`disconnect` should have been called in 3 seconds( heartbeat interval) or less than 1 minute.\r\n\r\n### Actual behavior\r\n\r\nOn Mac OS X: `disconnect` not called until ~1 minute later.\r\nOn Linux server: `disconnect` not called until ~15 minute later.\r\n\r\ndiagnosis:\r\nAfter client lost network connection, https://github.com/rails/rails/blob/master/actioncable/lib/action_cable/connection/stream_event_loop.rb#L94 `@nio.select` does not return any monitor until 15 minute later on Linux (1 minute later on Mac OS X). Once it returns a monitor, and `io.read_nonblock(4096, exception: false)` will raise exception which triggers the `disconnect` callback. We expect `@nio.select` return monitors sooner, so that the server knows the client got disconnected.\r\n\r\na quick dummy fix: https://github.com/dechaoqiu/rails/commit/defe9cd02c3741fb93e4c339edbca11bf4dece71\r\n\r\n### System configuration\r\n**Rails version**:\r\n5.1.1\r\n**Ruby version**:\r\nruby 2.3.3p222 (2016-11-21 revision 56859) [x86_64-linux]",
+#               "createdAt": "2017-06-01T05:07:53Z",
+#               "lastEditedAt": "2017-06-01T19:28:55Z",
+#               "updatedAt": "2017-06-08T11:52:30Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/1616053?v=4",
+#                 "login": "dechaoqiu",
+#                 "resourcePath": "/dechaoqiu",
+#                 "url": "https://github.com/dechaoqiu"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "after_commit doesn't work with optimistic locking",
+#               "number": 29318,
+#               "url": "https://github.com/rails/rails/issues/29318",
+#               "body": "### Steps to reproduce\r\n\r\n```ruby\r\nbegin\r\n  require \"bundler/inline\"\r\nrescue LoadError => e\r\n  $stderr.puts \"Bundler version 1.10 or later is required. Please update your Bundler\"\r\n  raise e\r\nend\r\n\r\ngemfile(true) do\r\n  source \"https://rubygems.org\"\r\n  gem \"rails\", github: \"rails/rails\"\r\n  gem \"arel\", github: \"rails/arel\"\r\n  gem \"sqlite3\"\r\nend\r\n\r\nrequire \"active_record\"\r\nrequire \"minitest/autorun\"\r\nrequire \"logger\"\r\n\r\n# This connection will do for database-independent bug reports.\r\nActiveRecord::Base.establish_connection(adapter: \"sqlite3\", database: \":memory:\")\r\nActiveRecord::Base.logger = Logger.new(STDOUT)\r\n\r\nActiveRecord::Schema.define do\r\n  create_table :people do |t|\r\n    t.string :name\r\n    t.integer :lock_version, nil: false, default: 0\r\n    t.timestamps\r\n  end\r\n\r\n  create_table :places do |t|\r\n    t.string :name\r\n    t.timestamps\r\n  end\r\nend\r\n\r\n$with_optimistic_locking = []\r\n$without_optimistic_locking = []\r\n\r\nclass Person < ActiveRecord::Base\r\n  after_update do\r\n    $with_optimistic_locking << 'after_update'\r\n  end\r\n\r\n  after_commit on: :update do\r\n    $with_optimistic_locking << 'after_commit on: :update'\r\n  end\r\nend\r\n\r\nclass Place < ActiveRecord::Base\r\n  after_update do\r\n    $without_optimistic_locking << 'after_update'\r\n  end\r\n\r\n  after_commit on: :update do\r\n    $without_optimistic_locking << 'after_commit on: :update'\r\n  end\r\nend\r\n\r\nclass BugTest < Minitest::Test\r\n\r\n  def test_update_and_commit_with_optimistic_locking\r\n    place = Person.new(name: 'Paris')\r\n    place.save\r\n\r\n    place.name = 'Georgia'\r\n    place.save\r\n    \r\n    assert_equal [\r\n      'after_update',\r\n      'after_commit on: :update'\r\n    ], $with_optimistic_locking\r\n  end\r\n\r\n  def test_update_and_commit_without_optimistic_locking\r\n    place = Place.new(name: 'Adelaide')\r\n    place.save\r\n\r\n    place.name = 'Alberta'\r\n    place.save\r\n\r\n    assert_equal [\r\n      'after_update',\r\n      'after_commit on: :update'\r\n    ], $without_optimistic_locking\r\n  end\r\n\r\nend\r\n```\r\n\r\n### Expected behavior\r\n`after_commit on: :update` callbacks should fire even when optimistic locking is in use.\r\n\r\n### Actual behavior\r\n`after_commit on: :update` callbacks do not fire when optimistic locking is enabled.\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n\r\n**Ruby version**: 2.4.1\r\n",
+#               "createdAt": "2017-06-01T23:34:45Z",
+#               "lastEditedAt": "2017-06-01T23:34:54Z",
+#               "updatedAt": "2017-06-14T19:25:47Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/5122933?v=4",
+#                 "login": "morganatwishpond",
+#                 "resourcePath": "/morganatwishpond",
+#                 "url": "https://github.com/morganatwishpond"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Order of query results is inconsistent",
+#               "number": 29363,
+#               "url": "https://github.com/rails/rails/issues/29363",
+#               "body": "### Steps to reproduce\r\nI attempted to reproduce my production bug unsuccessfully here: \r\nhttps://gist.github.com/jvrsgsty/77ffbaae972a7b1b56cab7c80eba09da\r\n\r\nYet, the test case yields insight into the source of the bug I am seeing in production. \r\n\r\nThe query I am creating in line 53 gets evaluated to SQL without an \"order by\" clause as soon as I execute line 55. Further evaluation of lines 56 and 57 yields no resulting SQL query (I am assuming the result of the query is cached somewhere in memory to save I/O access to disk). Thus, `query.last` gets evaluated the last record of a query with no \"order by\" clause. \r\n\r\nProblem is, `query.last` would be evaluated as the last record returned by the query **without** an \"order by\" clause, whereas `User.where(\"email = '#{email}'\").last` does issue an SQL statement **with** an \"order by\" clause. In this case, I was unable to generate a use case where the last result of the query without the \"order by\" clause differed from the last result of the query with the \"order by\" clause, yet this **could** happen for a larger database (as a matter of fact, it happens in our production database). \r\n\r\n### Expected behavior\r\nA bit different from the test case I submitted, since my production app is more complex than this simple example. \r\n\r\nIn production, I would expect the following code to work as per the Rails documentation. \r\n```ruby\r\nparams[:email].downcase!\r\n# busqueda is evaluated without an \"order by\" clause\r\nbusqueda = Persona.where(\"email = '#{params[:email]}'\")\r\nif !busqueda.nil? && busqueda.length > 0\r\n  #Expected persona with the largest ID. Got a Persona with a smaller id\r\n  id = busqueda.last.id \r\nend\r\n\r\n# If I were to run the following line, it would evaluate to false\r\n# The right part would issue a query with an \"order by\" clause\r\n# whereas the left side would take the last record returned by the query without the \"order by\" clause\r\nPersona.where(\"email = '#{params[:email]}'\").last.id == busqueda.last.id\r\n```\r\nto yield the last record on the query\r\n\r\n### Actual behavior\r\nInstead, I am getting the last record returned by the query without the \"order by\" clause and not the `last` record as specified in http://guides.rubyonrails.org/active_record_querying.html#last\r\n\r\n### System configuration\r\n**Rails version**: 5.0.0.1\r\n\r\n**Ruby version**: 2.3.1\r\n",
+#               "createdAt": "2017-06-06T00:28:04Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-14T19:25:48Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/5922465?v=4",
+#                 "login": "jvrsgsty",
+#                 "resourcePath": "/jvrsgsty",
+#                 "url": "https://github.com/jvrsgsty"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "model w/o primary key defined as association beeing eager loaded is not populated",
+#               "number": 29374,
+#               "url": "https://github.com/rails/rails/issues/29374",
+#               "body": "### Steps to reproduce\r\nmigration:\r\n\r\n```\r\ndef up\r\n    create_table :institution_hierarchies, id: false do |t|\r\n      t.integer :parent_id, index: true\r\n      t.integer :child_id, index: true\r\n    end\r\n    create table :clients do |t|\r\n      t.integer :institution_id\r\n    end\r\nend\r\n\r\n```\r\nmodels:\r\n```\r\nclass InstitutionHierarchy < ActiveRecord::Base\r\nend\r\n```\r\n```\r\nclass Client < ActiveRecord::Base\r\n   has_many :institution_hierarchies, foreign_key: :child_id,  primary_key: :institution_id\r\nend\r\n```\r\n\r\nreproduce:\r\n  ```\r\nInstitutionHierarchy.create!({child_id: 2, parent_id: 1})\r\n  Client.create!({institution_id: 2})\r\n  puts Client.eager_load(:institution_hierarchies).first.institution_hierarchies.inspect\r\n```\r\n\r\n### Expected behavior\r\nThe Collection with a single object representing the previously inserted row should be printed\r\n\r\n### Actual behavior\r\nAn empty collection is printed\r\n\r\n### Solution\r\nexecute following migration:\r\n```\r\ndef change\r\n    add_column :institution_hierarchies, :id, :primary_key\r\nend\r\n```\r\n\r\nthen execute:\r\n\r\n```\r\nputs Client.eager_load(:institution_hierarchies).first.institution_hierarchies.inspect\r\n```\r\n\r\nNow the collection contains the desired Object.\r\nI'm not sure if this is in fact a bug or if i'm just missing something, but i could not find any documentation exactly on that topic.\r\n\r\n### System configuration\r\n**Rails version**:  4.2.1\r\n\r\n**Ruby version**:  2.2.3\r\n\r\n**Database**: postgresql 9.5\r\n",
+#               "createdAt": "2017-06-06T16:32:16Z",
+#               "lastEditedAt": "2017-06-06T16:35:42Z",
+#               "updatedAt": "2017-06-14T19:25:48Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/21663186?v=4",
+#                 "login": "disorganizer23",
+#                 "resourcePath": "/disorganizer23",
+#                 "url": "https://github.com/disorganizer23"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "action cable disconnects when files change",
+#               "number": 29384,
+#               "url": "https://github.com/rails/rails/issues/29384",
+#               "body": "### Steps to reproduce\r\n\r\nTouch an application source file (i.e. a view)\r\nDo an HTTP request on the server\r\nAction Cable connection is closed\r\nIt will immediately open again if you do a `.connection.open()` on the client\r\n\r\nThis prevents tools like js hot reloader from working.\r\n\r\n### Expected behavior\r\nThere should be some kind of *documented* signal / callback so that the application knows that connection is offline\r\n\r\nBetter yet would be some way to turn off this behavior or choose what you want to do.\r\n",
+#               "createdAt": "2017-06-07T15:16:09Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-01T10:56:31Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/63146?v=4",
+#                 "login": "catmando",
+#                 "resourcePath": "/catmando",
+#                 "url": "https://github.com/catmando"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Segmentation fault with postgresql_adapter",
+#               "number": 29394,
+#               "url": "https://github.com/rails/rails/issues/29394",
+#               "body": "### Actual behavior\r\nSometimes will running test with guard and spring test crash.\r\n\r\n```\r\n10:16:57 - INFO - Running: spec/workers/.../...._spec.rb\r\nRunning via Spring preloader in process 45503\r\nRun options: --seed 9030\r\n/Users/bti/.rvm/gems/ruby-2.4.1@app/gems/activerecord-4.2.8/lib/active_record/connection_adapters/postgresql_adapter.rb:651: [BUG] Segmentation fault at 0x0000010abfaa3a\r\nruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-darwin16]\r\n\r\n-- Crash Report log information --------------------------------------------\r\n   See Crash Report log file under the one of following:\r\n     * ~/Library/Logs/DiagnosticReports\r\n     * /Library/Logs/DiagnosticReports\r\n   for more details.\r\nDon't forget to include the above Crash Report log file in bug reports.\r\n\r\n-- Control frame information -----------------------------------------------\r\nc:0059 p:---- s:0296 e:000295 CFUNC  :initialize\r\nc:0058 p:---- s:0293 e:000292 CFUNC  :new\r\nc:0057 p:0017 s:0288 e:000287 METHOD /Users/bti/.rvm/gems/ruby-2.4.1@app/gems/activerecord-4.2.8/lib/active_record/connection_adapters/postgresql_adapter.rb:6\r\nc:0056 p:0100 s:0283 e:000282 METHOD /Users/bti/.rvm/gems/ruby-2.4.1@app/gems/activerecord-4.2.8/lib/active_record/connection_adapters/postgresql_adapter.rb:2 [FINISH]\r\nc:0055 p:---- s:0275 e:000274 CFUNC  :new\r\nc:0054 p:0104 s:0267 e:000266 METHOD /Users/bti/.rvm/gems/ruby-2.4.1@app/gems/activerecord-4.2.8/lib/active_record/connection_adapters/postgresql_adapter.rb:4\r\nc:0053 p:0028 s:0261 e:000260 METHOD /Users/bti/.rvm/gems/ruby-2.4.1@appaloosa/gems/activerecord-4.2.8/lib/active_record/connection_adapters/abstract/connection_poo\r\nc:0052 p:0027 s:0257 e:000256 METHOD /Users/bti/.rvm/gems/ruby-2.4.1@app/gems/activerecord-4.2.8/lib/active_record/connection_adapters/abstract/connection_poo\r\n....\r\n```\r\n\r\n### System configuration\r\n**Rails version**:\r\n4.2.8\r\n**Ruby version**:\r\n2.4.1p111\r\n\r\nAs note mention. At the end it can be cause by Ruby interpreter.\r\n```\r\n[NOTE]\r\nYou may have encountered a bug in the Ruby interpreter or extension libraries.\r\nBug reports are welcome.\r\nFor details: http://www.ruby-lang.org/bugreport.html\r\n```\r\nI have no idea of what can I do to fix this. ",
+#               "createdAt": "2017-06-09T08:22:47Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-15T10:23:10Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/8417720?v=4",
+#                 "login": "benoittgt",
+#                 "resourcePath": "/benoittgt",
+#                 "url": "https://github.com/benoittgt"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": ":format in routes gets appended to url even if it's not there",
+#               "number": 29402,
+#               "url": "https://github.com/rails/rails/issues/29402",
+#               "body": "### Steps to reproduce\r\n\r\nMake route with :format in middle of string, observe format also appended to url\r\nTestcase: https://gist.github.com/Voker57/8cad302dfb1bf14fefca5d3c7950eeb0\r\n\r\n### Expected behavior\r\nonly :format is subsituted with format\r\n\r\n### Actual behavior\r\nformat also gets appended to uri\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n\r\n**Ruby version**: 2.4.1\r\n",
+#               "createdAt": "2017-06-09T19:42:18Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-14T19:25:07Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/22776?v=4",
+#                 "login": "Voker57",
+#                 "resourcePath": "/Voker57",
+#                 "url": "https://github.com/Voker57"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Rails 5.1.x does blow up when queries are executed within model class definition",
+#               "number": 29419,
+#               "url": "https://github.com/rails/rails/issues/29419",
+#               "body": "When an autoload for any model class is triggered and it has a querying code in its class definition, then starting from Rails 5.1.0 it does not work anymore.\r\n\r\nIt happened to me in real life when running tests in CI by using `devise_for :users` helper (from Devise library) in routes, which in turn does `\"user\".contantize` and this blows up since ActiveRecord tries to load `users` table, which does not yet exist (every time tests are ran, it starts from scratch, as usual). I understand that having a query in model class definition might not be a good practice (I'm using it to load administrators and cache them since it is a \"constant\"), but it was working perfectly in Rails < 5.1.0 (this can be verified, by changing `RAILS_VERSION` constant to 5.0.3 within test script provided below and running it).\r\n\r\nIn addition to the crash itself - why are routes even loaded when trying to run any **db** specific tasks?\r\n\r\n### Steps to reproduce\r\n\r\nHere's a code, which can be ran in your terminal to reproduce the problem:\r\n```\r\n# setup\r\nRAILS_VERSION=\"5.1.1\"\r\n\r\ngem install rails -v $RAILS_VERSION && \\\r\n  rails _${RAILS_VERSION}_ new rails-${RAILS_VERSION}-test && \\\r\n  cd rails-${RAILS_VERSION}-test && \\\r\n  rails generate model User && \\\r\n  rails db:migrate && \\\r\n  echo 'class User < ActiveRecord::Base; FOO = where(id: [1]); end' > app/models/user.rb && \\\r\n  echo 'Rails.application.routes.draw { User }' > config/routes.rb\r\n\r\n# test\r\nRAILS_ENV=test rails db:drop && \\\r\n  RAILS_ENV=test rails db:create db:schema:load --trace\r\n\r\n# cleanup\r\ncd .. && \\\r\n  rm -rf rails-${RAILS_VERSION}-test\r\n```\r\n\r\n### Expected behavior\r\n\r\nExpected behavior is no crashes or a better error message since behavior has changed between older versions of Rails.\r\n\r\n### Actual behavior\r\n\r\nIt crashes with an error message like this:\r\n```\r\nrails aborted!\r\nActiveRecord::StatementInvalid: Could not find table 'users'\r\n/Users/jarmo/.gem/ruby/2.3.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/sqlite3_adapter.rb:417:in `table_structure'\r\n/Users/jarmo/.gem/ruby/2.3.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/abstract_adapter.rb:166:in `columns'\r\n/Users/jarmo/.gem/ruby/2.3.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/schema_cache.rb:67:in `columns'\r\n/Users/jarmo/.gem/ruby/2.3.1/gems/activerecord-5.1.1/lib/active_record/connection_adapters/schema_cache.rb:73:in `columns_hash'\r\n/Users/jarmo/.gem/ruby/2.3.1/gems/activerecord-5.1.1/lib/active_record/model_schema.rb:451:in `load_schema!'\r\n/Users/jarmo/.gem/ruby/2.3.1/gems/activerecord-5.1.1/lib/active_record/attributes.rb:233:in `load_schema!'\r\n/Users/jarmo/.gem/ruby/2.3.1/gems/activerecord-5.1.1/lib/active_record/attribute_decorators.rb:50:in `load_schema!'\r\n/Users/jarmo/.gem/ruby/2.3.1/gems/activerecord-5.1.1/lib/active_record/model_schema.rb:446:in `load_schema'\r\n...\r\n```\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n\r\n**Ruby version**: 2.3.1p112\r\n",
+#               "createdAt": "2017-06-11T16:29:07Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-22T10:21:24Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/174160?v=4",
+#                 "login": "jarmo",
+#                 "resourcePath": "/jarmo",
+#                 "url": "https://github.com/jarmo"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Inconsistent collection setter behaviour (has_many / has_many through)",
+#               "number": 29420,
+#               "url": "https://github.com/rails/rails/issues/29420",
+#               "body": "Collection has a different setter logic for persistent and new record.\r\n\r\nNew record writes changes to the database only after **save** is triggered, persisted record on the contrary writes changes to the database once ids or array of records **assigned via setter** (which can happen before a setter in `assign_attributes`).  \r\n\r\nThis inconsistency leads to a different issues, even not related to the inconsistency between new and persisted record.\r\nI just list some of them I already faced with in a production:\r\n\r\n* **Validation raises an error.** Lets asume we have has_many records, which should create a has_many through associations while passing ids to the parent record via collection_ids. In case when has_many through will have a validation error - this will raise an error, which only could be rescued, even if record is saved with soft `save`, not `save!`.\r\n* **Collection assignment writes changes at the moment of passing data via setter, not while `save` is invoked**. Lets asume I have a model with a lot of different associations. This model feeded via large form with different ids and other fields. When I set a parameters through a `assign_attributes` method (without any transaction block), and save returns false because of the validation failed, collection ids will be changed anyway. One of the solutions would be use transactions and raise an exception with ActiveRecord::Rollback. Other solution would be use update_attributes or update in the latest version of rails. Other one is to use undocumented with_transaction_returning_status.\r\n* **Difference between new and persisted record.** I believe there are not many developers who work with rails framework know about the difference between new and persisted record with has_many and has_many through records.\r\n* **has_one works differently.** Means you can update _id of a has_many or belongs_to via setter and it will not modify anything in the database.\r\n\r\nMain case to reproduce an issue:\r\n\r\n```ruby\r\nbegin\r\n  require \"bundler/inline\"\r\nrescue LoadError => e\r\n  $stderr.puts \"Bundler version 1.10 or later is required. Please update your Bundler\"\r\n  raise e\r\nend\r\n\r\n\r\ngemfile(true) do\r\n  source \"https://rubygems.org\"\r\n  gem \"rails\", path: \"../projects/rails/\"\r\n  gem \"sqlite3\"\r\nend\r\n\r\n\r\nrequire \"active_record\"\r\nrequire \"minitest/autorun\"\r\nrequire \"logger\"\r\n\r\n\r\n# This connection will do for database-independent bug reports.\r\nActiveRecord::Base.establish_connection(adapter: \"sqlite3\", database: \":memory:\")\r\nActiveRecord::Base.logger = Logger.new(STDOUT)\r\n\r\n\r\nActiveRecord::Schema.define do\r\n  create_table :posts, force: true do |t|\r\n  end\r\n\r\n\r\n  create_table :comments, force: true do |t|\r\n    t.integer :post_id\r\n  end\r\nend\r\n\r\n\r\nclass Post < ActiveRecord::Base\r\n  has_many :comments\r\nend\r\n\r\n\r\nclass Comment < ActiveRecord::Base\r\n  belongs_to :post\r\nend\r\n\r\n\r\nclass BugTest < Minitest::Test\r\n  def test_association_stuff\r\n    comment = Comment.create!\r\n    attributes = {comment_ids: [comment.id]}\r\n    \r\n    #new_post = Post.new(attributes)\r\n    #assert_equal 1, new_post.comments.size\r\n\r\n\r\n    post = Post.create!\r\n    post.assign_attributes(attributes)\r\n\r\n\r\n    assert_equal 1, post.comments.size\r\n    assert_equal 0, post.comments.count\r\n\r\n\r\n    post.save!\r\n\r\n\r\n    assert_equal 1, post.comments.size\r\n    assert_equal 1, post.comments.count\r\n  end\r\nend\r\n```\r\n\r\n\r\nPlease let me know if you would like to see the other cases I've listed above.\r\n\r\nSolution would be to change behaviour for the autosave has_many records, so the associations of the autosave records will never modify database on data passed to a setter.\r\n\r\nPlease see real case of this issue here: https://github.com/activeadmin/activeadmin/issues/4815",
+#               "createdAt": "2017-06-11T17:39:48Z",
+#               "lastEditedAt": "2017-06-11T17:41:26Z",
+#               "updatedAt": "2017-06-16T22:12:54Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/5091?v=4",
+#                 "login": "dmitry",
+#                 "resourcePath": "/dmitry",
+#                 "url": "https://github.com/dmitry"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Getting_started.md Basic Auth required twice",
+#               "number": 29421,
+#               "url": "https://github.com/rails/rails/issues/29421",
+#               "body": "### Steps to reproduce\r\nAfter following the [guide to create a basic rails app](https://github.com/rails/rails/blob/master/guides/source/getting_started.md#basic-authentication), the authentication has to be provided twice when creating a new article or editing article.\r\n\r\nBasic Authentication has following code in ArticlesController:\r\n```ruby\r\nclass ArticlesController < ApplicationController\r\n\r\n  http_basic_authenticate_with name: \"dhh\", password: \"secret\", except: [:index, :show]\r\n\r\n  def index\r\n    @articles = Article.all\r\n  end\r\n\r\n  # snippet for brevity\r\n```\r\nThe `except:` part should have `:create` too like:\r\n```ruby\r\nclass ArticlesController < ApplicationController\r\n\r\n  http_basic_authenticate_with name: \"dhh\", password: \"secret\", except: [:index, :show, :create]\r\n\r\n  def index\r\n    @articles = Article.all\r\n  end\r\n\r\n  # snippet for brevity\r\n```\r\n\r\n### Expected behavior\r\nThe user is asked to enter name/password when creating, editing, deleting article only once during the process.\r\n\r\n### Actual behavior\r\nThe user has to authenticate twice, first when clicking new/edit article (method `new`/`create` is called) and a second time after clicking create in the `articles/new` or `articles/edit` (method `create` is called).\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n\r\n**Ruby version**: 2.3.1\r\n",
+#               "createdAt": "2017-06-11T20:02:03Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-24T17:50:23Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/15259105?v=4",
+#                 "login": "puneet97",
+#                 "resourcePath": "/puneet97",
+#                 "url": "https://github.com/puneet97"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "\"Couldn't find template for digesting\" error with js.erb views",
+#               "number": 29423,
+#               "url": "https://github.com/rails/rails/issues/29423",
+#               "body": "### Steps to reproduce\r\n\r\nI have created the code and steps to reproduce the problem at https://github.com/saneef/reproduce-couldnt-find-template-for-digesting\r\n\r\n### Expected behavior\r\n\r\nShould do fragment caching without any issues \r\n\r\n### Actual behavior\r\n\r\nError: `Couldn't find template for digesting`\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n\r\n**Ruby version**: 2.3.3\r\n\r\nMay be similar to #15255, but suggested hack like using full paths didn't fix the issue.",
+#               "createdAt": "2017-06-11T23:50:32Z",
+#               "lastEditedAt": "2017-06-11T23:53:01Z",
+#               "updatedAt": "2017-07-17T23:56:01Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 6
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/81863?v=4",
+#                 "login": "saneef",
+#                 "resourcePath": "/saneef",
+#                 "url": "https://github.com/saneef"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionview"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "With reproduction steps"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "database.yml, Only numbers in database name",
+#               "number": 29429,
+#               "url": "https://github.com/rails/rails/issues/29429",
+#               "body": "### Steps to reproduce\r\n\r\nMy database yml file look like this right now.\r\ndatabase.yml\r\n```\r\ndevelopment:\r\n  adapter: postgresql\r\n  database: 20170421\r\n  pool: 25\r\n  username: user\r\n  password: pass\r\n  host: localhost\r\n```\r\nWhen I run \r\n`rake db:structure:dump` \r\nI get this runtime error\r\n```\r\nrake aborted!\r\nTypeError: no implicit conversion of Integer into String\r\n/../gems/activerecord-5.1.1/lib/active_record/tasks/postgresql_database_tasks.rb:112:in `exec'\r\n/../gems/activerecord-5.1.1/lib/active_record/tasks/postgresql_database_tasks.rb:112:in `run_cmd'\r\n/../gems/activerecord-5.1.1/lib/active_record/tasks/postgresql_database_tasks.rb:71:in `structure_dump'\r\n/../gems/activerecord-5.1.1/lib/active_record/tasks/database_tasks.rb:217:in `structure_dump'\r\n/../gems/activerecord-5.1.1/lib/active_record/railties/databases.rake:277:in `block (3 levels) in <top (required)>'\r\nTasks: TOP => db:structure:dump\r\n(See full trace by running task with --trace)\r\n```\r\n\r\n### More details I have found\r\nIt is due to that database is just numbers. Then it is read as a number. Later on when it is passed on to do the structure dump it uses Kernal.system.\r\nhttps://github.com/rails/rails/blob/42a80721938453a2ecbba204ce21a0d496756178/activerecord/lib/active_record/tasks/mysql_database_tasks.rb#L150\r\n\r\nI could change the name of the database or wrap it in \", but I wanted to see if we could make a nicer solution.\r\n\r\nIf I change [these](https://github.com/rails/rails/blob/42a80721938453a2ecbba204ce21a0d496756178/activerecord/lib/active_record/tasks/mysql_database_tasks.rb#L8-L10) to \r\n```ruby \r\ndef initialize(configuration)\r\n  configuration[\"database\"] = configuration[\"database\"].to_s\r\n  @configuration = configuration\r\nend\r\n```\r\nThis isn't a nice solution.\r\n\r\n### Expected behavior\r\nI Expect it to work as normal.\r\n\r\n### Actual behavior\r\nIt fails.\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n\r\n**Ruby version**: 2.4.1\r\n",
+#               "createdAt": "2017-06-12T15:08:39Z",
+#               "lastEditedAt": "2017-06-12T15:09:06Z",
+#               "updatedAt": "2017-06-14T19:25:48Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/3492040?v=4",
+#                 "login": "stoivo",
+#                 "resourcePath": "/stoivo",
+#                 "url": "https://github.com/stoivo"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Session in controller to not always have the same class",
+#               "number": 29443,
+#               "url": "https://github.com/rails/rails/issues/29443",
+#               "body": "### Steps to reproduce\r\n\r\nRetrieving the session from the controller does not always return the same object type.\r\n\r\nNormally the session would be of type `ActionDispatch::Request::Session`, but there are cases where it will be an empty `Hash`.\r\n\r\nThis makes it hard to use method that are only available in the `Session` class. (eg.: `session.loaded?`)\r\n\r\nAround rails code there are conditionals to go around this by adding a conditional around the object type: https://github.com/rails/rails/blob/34fe2a4fc778d18b7fe6bdf3629c1481bee789b9/actionpack/lib/action_dispatch/middleware/session/abstract_store.rb#L73-L75 \r\n\r\nIn some other cases it check if the \"session\" respond to a specific method: https://github.com/rails/rails/blob/34fe2a4fc778d18b7fe6bdf3629c1481bee789b9/actionpack/lib/action_dispatch/http/request.rb#L327\r\n\r\nI tried to poke around myself to open a draft, but this is spread all across the place. There seems to be session logic in many layers that don't have full context on the store being used.\r\n\r\nThe current code path I'm working on can reproduce the issue as I invoke a rails engine directly:\r\nhttps://github.com/tjoyal/rails/blob/57877c2b2c21a926b86ba9f4a843e9606613f37d/railties/lib/rails/engine.rb#L520-L524 (I suspect there are easier way to reproduce the same result)\r\n\r\n```ruby\r\nenv = Rack::MockRequest.env_for(path, input: body, method: method)\r\nSomething::Engine.call(env)\r\n```\r\nAnd then from a controller retrieving `session` gives me an empty `Hash`\r\n\r\n### Expected behavior\r\nI would expect a call to `session` from a controller to always return a `ActionDispatch::Request::Session` (or a `nil`)\r\n\r\n### Actual behavior\r\nCalling `session` can return a `ActionDispatch::Request::Session` or a `Hash` depending on different factors.\r\n\r\n### System configuration\r\n**Rails version**: 5.0.3\r\n\r\n**Ruby version**: 2.3.3p222\r\n",
+#               "createdAt": "2017-06-13T18:12:10Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-30T21:26:13Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/207902?v=4",
+#                 "login": "tjoyal",
+#                 "resourcePath": "/tjoyal",
+#                 "url": "https://github.com/tjoyal"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Scopes behaviour change?",
+#               "number": 29445,
+#               "url": "https://github.com/rails/rails/issues/29445",
+#               "body": "### Steps to reproduce\r\n\r\ndownload this project https://github.com/caiammm/test_rails_5_scopes\r\nyou can see the nested scopes in https://github.com/caiammm/test_rails_5_scopes/blob/master/app/models/course.rb\r\n\r\nIt doesn't work anymore in rails 5.0.3\r\n\r\nyou can run in rails console \r\n`Course.scope_multiple_things`\r\n\r\n### Expected behavior\r\n\r\nIt should work like in rails 4.1.14.1, returning the relation\r\n`SELECT \"courses\".* FROM \"courses\" INNER JOIN \"universities\" ON \"universities\".\"id\" = \"courses\".\"university_id\" WHERE (\"courses\".\"id\" BETWEEN 1 AND 300) AND \"courses\".\"enabled\" = 't' AND \"universities\".\"enabled\" = 't'`\r\n\r\n### Actual behavior\r\nIt doesn't work\r\n`SELECT \"courses\".* FROM \"courses\" INNER JOIN \"universities\" ON \"universities\".\"id\" = \"courses\".\"university_id\" WHERE (\"courses\".\"id\" BETWEEN 1 AND 300) AND \"courses\".\"enabled\" = 't' AND \"universities\".\"enabled\" = `\r\n\r\nThe last parameter for `universities.enabled` in the end of string is missing\r\n\r\n### System configuration\r\n**Rails version**:\r\nthe new one 5.0.3\r\nthe old one 4.1.14.1\r\n\r\n**Ruby version**:\r\nruby 2.2.3p173",
+#               "createdAt": "2017-06-13T21:29:23Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-06T17:10:02Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 9
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/5641804?v=4",
+#                 "login": "caiammm",
+#                 "resourcePath": "/caiammm",
+#                 "url": "https://github.com/caiammm"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Active Model cache is out of date after using db:migrate as a prerequisite",
+#               "number": 29448,
+#               "url": "https://github.com/rails/rails/issues/29448",
+#               "body": "### Steps to reproduce\r\n\r\n1. Have a project with 42 migrations, where one near the end adds a attribute `how_to_fix` to a model called `Inspector`.\r\n\r\n2. Create `lib/tasks/sample_data.rake`:\r\n\r\n```ruby\r\nnamespace :db do\r\n  desc 'Drop, create, migrate, seed and populate sample data'\r\n  task seed_sample_data: [:drop, :create, :migrate, :seed, :populate_sample_data] do\r\n  end\r\n\r\n  desc 'Populate the database with sample data'\r\n  task populate_sample_data: :environment do\r\n    puts Inspector.column_names.include?('how_to_fix')\r\n    # create my sample data...\r\n  end\r\nend\r\n```\r\n\r\n3. Run `bundle exec rake db:populate_sample_data`\r\n\r\nOutput printed is `true` as expected.\r\n\r\n4. Run `bundle exec rake db:seed_sample_data`\r\n\r\n\r\n### Expected behavior\r\n\r\nExpect `true`.\r\n\r\nIn other words, I expect the model attribute `how_to_fix` to exist.\r\n\r\n### Actual behavior\r\n\r\nOutput printed is  for the final rake run is `false`.\r\n\r\nIt appears that the cache of the ActiveRecord Model/Attributes is out of date. I can access some of the attributes, but not all of them (not the ones in later migrations). If I add this I get the correct output:\r\n\r\n```ruby\r\nInspector.reset_column_information\r\n```\r\n\r\n### System configuration\r\n**Rails version**:\r\n\r\n```\r\n$ bundle exec rails --version\r\nExpected string default value for '--rc'; got false (boolean)\r\nRails 4.2.6\r\n```\r\n\r\n**Ruby version**:\r\n\r\n```\r\n$ ruby --version\r\nruby 2.3.3p222 (2016-11-21 revision 56859) [x86_64-darwin15]\r\n```",
+#               "createdAt": "2017-06-14T03:18:30Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-14T19:20:09Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/47834?v=4",
+#                 "login": "sbwoodside",
+#                 "resourcePath": "/sbwoodside",
+#                 "url": "https://github.com/sbwoodside"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activemodel"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Can't find partial when controller subclasses another controller",
+#               "number": 29468,
+#               "url": "https://github.com/rails/rails/issues/29468",
+#               "body": "### Steps to reproduce\r\n\r\n1. Generate new Rails app\r\n1. Generate scaffold for Articles\r\n1. Move article table row of index into partial (its filepath is `articles/_article` to match its `to_partial_path`)\r\n1. Generate `Articles::DraftController` which subclasses from `ArticlesController`\r\n1. Route `/articles/draft` to `Articles::DraftController#index`\r\n\r\n[Example repo](https://github.com/zachahn/rails_partial_path_example)\r\n\r\n(I wrote seeds which create two articles for this example.)\r\n\r\n\r\n### Expected behavior\r\n\r\nhttp://localhost:3000/articles/draft should find the article partial located in `articles/_article`, and the page should render exactly the same as http://localhost:3000/articles, except with the published articles filtered out\r\n\r\n\r\n### Actual behavior\r\n\r\nhttp://localhost:3000/articles/draft looks for the article partial at `articles/articles/_article`, and the page fails to render.\r\n\r\n```\r\nStarted GET \"/articles/draft\" for 127.0.0.1 at 2017-06-15 23:54:39 +0900\r\nProcessing by Articles::DraftController#index as HTML\r\n  Rendering articles/index.html.erb within layouts/application\r\n  Article Load (0.3ms)  SELECT \"articles\".* FROM \"articles\" WHERE (\"articles\".\"published\" != ?)  [[\"published\", \"t\"]]\r\n  Rendered articles/index.html.erb within layouts/application (8.2ms)\r\nCompleted 500 Internal Server Error in 21ms (ActiveRecord: 1.0ms)\r\n\r\n\r\n\r\nActionView::Template::Error (Missing partial articles/articles/_article with {:locale=>[:en], :formats=>[:html], :variants=>[], :handlers=>[:raw, :erb, :html, :builder, :ruby, :coffee, :jbuilder]}. Searched in:\r\n  * \"/path/to/rails_partial_path_example/app/views\"\r\n):\r\n    12:   </thead>\r\n    13:\r\n    14:   <tbody>\r\n    15:     <%= render @articles %>\r\n    16:   </tbody>\r\n    17: </table>\r\n    18:\r\n\r\napp/views/articles/index.html.erb:15:in `_app_views_articles_index_html_erb__3270307881277883589_70318547216560'\r\n```\r\n\r\n\r\n### System configuration\r\n\r\n**Rails version**: `Rails 5.1.1`\r\n\r\n**Ruby version**: `ruby 2.4.0p0 (2016-12-24 revision 57164) [x86_64-darwin16]`\r\n",
+#               "createdAt": "2017-06-15T21:50:05Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-26T04:05:49Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 11
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/93058?v=4",
+#                 "login": "zachahn",
+#                 "resourcePath": "/zachahn",
+#                 "url": "https://github.com/zachahn"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "rails-ujs prematurely enables disabled elements for XHR requests with redirects",
+#               "number": 29473,
+#               "url": "https://github.com/rails/rails/issues/29473",
+#               "body": "### Steps to reproduce\r\n\r\n```\r\nrails new rails-ujs-test\r\n```\r\n\r\n```\r\n# config/routes.rb\r\n\r\nRails.application.routes.draw do\r\n  resources :users\r\nend\r\n```\r\n\r\n```\r\n# app/controllers/users_controller.rb\r\n\r\nclass UsersController < ApplicationController\r\n  def index\r\n    sleep 2\r\n  end\r\n\r\n  def new\r\n  end\r\n\r\n  def create\r\n    sleep 2\r\n    redirect_to users_path\r\n  end\r\nend\r\n```\r\n\r\n```\r\n# app/views/users/new.html.erb\r\n\r\n<h1>Users#new</h1>\r\n\r\n<%= form_with url: users_path do |form| %>\r\n  <%= form.submit \"Create user\", data: { disable_with: \"Creating user...\" } %>\r\n<% end %>\r\n```\r\n\r\n```\r\n# app/views/users/index.html.erb\r\n\r\n<h1>Done!</h1>\r\n```\r\n\r\nStart the server, visit http://localhost:3000/users/new and click on the submit button.\r\n\r\n### Expected behavior\r\n\r\nWhen the form is submitted, the submit button should be disabled until the redirect action finishes. This is the behaviour which happens for non-XHR requests.\r\n\r\n### Actual behavior\r\n\r\nThe submit button is disabled during the `create` action. But the `create` action redirects us to the `index` action and button is enabled again in the meantime.\r\n\r\nThis is caused by combination of rails-ujs and Turbolinks.\r\n\r\n`redirect_to users_path` is automatically converted to\r\n\r\n```\r\nTurbolinks.clearCache()\r\nTurbolinks.visit(\"http://localhost:3000/users\", {\"action\":\"replace\"})\r\n```\r\n\r\nfor XHR requests. This is a HTTP 200 reply and when rails-ujs receives it, then it enables the button again which allows users to click on it again. This is happening in our real world app even if the responses are pretty fast.\r\n\r\nYou can see it here:\r\n\r\n![ujs-test](https://user-images.githubusercontent.com/522375/27210987-8e142704-5256-11e7-812d-7c2b9a1b10df.gif)\r\n\r\nI've reported this issue to the original rails-ujs repository some time ago. But it doesn't exist anymore and I can't reference the original report. However, I've tried to fix it, but I did not find a workable solution. It should be probably fixed in rails-ujs which shouldn't enable elements again if a response contains `Turbolinks.visit`.\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1 and `master` branch\r\n\r\n**Ruby version**: 2.4.1p111\r\n\r\n**Turbolinks version**: 5.0.1\r\n",
+#               "createdAt": "2017-06-16T03:55:34Z",
+#               "lastEditedAt": "2017-06-16T04:05:46Z",
+#               "updatedAt": "2017-06-18T09:02:51Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/522375?v=4",
+#                 "login": "mrhead",
+#                 "resourcePath": "/mrhead",
+#                 "url": "https://github.com/mrhead"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "rails-ujs"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Problem in ActiveJob::QueueAdapters::SneakersAdapter::JobWrapper reads only from default queue",
+#               "number": 29478,
+#               "url": "https://github.com/rails/rails/issues/29478",
+#               "body": "There is a fundamental flaw in the ActiveJob Sneakers adaptor (https://github.com/rails/rails/blob/master/activejob/lib/active_job/queue_adapters/sneakers_adapter.rb). When you use enqueue you insert the job into the queue specified in the job. So this job\r\n\r\nclass MyJob < ApplicationJob\r\n    queue_as :my_queue\r\n\r\n    def perform()\r\n        puts \"working...\"\r\n    end\r\nend\r\n\r\nwill (correctly) insert the job into the rabbit-queue named \"my_queue\". However, the JobWrapper will never read from this queue. The JobWrapper is hardcoded to read only from the \"default\" queue. Which means that the message will be stuck in \"my_queue\" forever, never getting processed.\r\n\r\nI'm not sure what the correct way to solve this particular problem is. It seems that the JobWrapper should be able to take a parameter that specifies which queue to read from, depending on the job it is wrapping. \r\n\r\nIf anyone else has run into the same problem, I'd love to know if you found a way to work around it.\r\n\r\nThis problem exists in every rails version that has ActiveJob as far as I can tell.",
+#               "createdAt": "2017-06-16T08:58:42Z",
+#               "lastEditedAt": "2017-06-16T09:00:48Z",
+#               "updatedAt": "2017-06-20T14:00:24Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/7108?v=4",
+#                 "login": "nielsjansendk",
+#                 "resourcePath": "/nielsjansendk",
+#                 "url": "https://github.com/nielsjansendk"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activejob"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Rails stats command counts files only from the hardcoded list",
+#               "number": 29497,
+#               "url": "https://github.com/rails/rails/issues/29497",
+#               "body": "Steps to reproduce:\r\n\r\n1. `rails new myapp`\r\n2. Create `app/policies/my_policy.rb` that would contain a hundred lines of code\r\n3. `bin/rails stats` output won't include any files in `app/policies`.\r\n\r\nThe issue comes from the fact that `rails stats` is using a hardcoded list of directories to count stats:\r\n\r\n```\r\nSTATS_DIRECTORIES = [\r\n  %w(Controllers        app/controllers),\r\n  %w(Helpers            app/helpers),\r\n  %w(Jobs               app/jobs),\r\n  %w(Models             app/models),\r\n  %w(Mailers            app/mailers),\r\n  %w(Channels           app/channels),\r\n  %w(JavaScripts        app/assets/javascripts),\r\n  %w(Libraries          lib/),\r\n  %w(APIs               app/apis),\r\n  %w(Controller\\ tests  test/controllers),\r\n  %w(Helper\\ tests      test/helpers),\r\n  %w(Model\\ tests       test/models),\r\n  %w(Mailer\\ tests      test/mailers),\r\n  %w(Job\\ tests         test/jobs),\r\n  %w(Integration\\ tests test/integration),\r\n  %w(System\\ tests      test/system),\r\n]\r\n```\r\n\r\nWhich obviously won't include anything custom like `app/policies` or `app/services`.\r\n\r\nI think we could potentially leverage `Rails.application.config.paths` to make stats command use all directories in the app and calculate more realistic stats. This would require loading environment (right now the stats task doesn't load it).\r\n\r\nThoughts? @matthewd @rafaelfranca \r\n\r\nI have a draft of the patch that I'll be happy to submit.",
+#               "createdAt": "2017-06-18T20:51:27Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-10T08:28:09Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 6
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/522155?v=4",
+#                 "login": "kirs",
+#                 "resourcePath": "/kirs",
+#                 "url": "https://github.com/kirs"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "railties"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Objects built by ActiveRecord::AssociationRelation#or have incorrect associations?",
+#               "number": 29515,
+#               "url": "https://github.com/rails/rails/issues/29515",
+#               "body": "Hello. I am fairly new to rails and I'm not sure if this is a bug or I'm understanding something wrong. \r\nIf it's the latter, I'd be really grateful if you can help me correct my understanding. Thanks in advance!\r\n\r\n### Steps to reproduce\r\nuser has_many publications through user_publications\r\npublication has_many users through user_publications\r\nuser has_many comments\r\npublication has_many comments\r\n\r\nLoop through all publications associated with a user and build a Relation of all comments under that publication using #or\r\nNow the resulting Relation seems to have the right comment objects, but the wrong comment.publication associations\r\n\r\nIt might be more clearly described with this reproduction script that I created using the bug report template.\r\nhttps://gist.github.com/dicemanx/0ba9f227613600246178ab9537265a0a\r\n\r\n### Expected behavior\r\nComments taken from the resulting Relation should return the correct associated publication\r\n\r\n### Actual behavior\r\nComments taken from the resulting Relation always seem to return the associated publication as the first publication\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n\r\n**Ruby version**: 2.3.1p112\r\n",
+#               "createdAt": "2017-06-21T07:12:37Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-08T14:49:45Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/5033924?v=4",
+#                 "login": "dicemanx",
+#                 "resourcePath": "/dicemanx",
+#                 "url": "https://github.com/dicemanx"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "`rails server` doesn't listen on `localhost` on Linux",
+#               "number": 29516,
+#               "url": "https://github.com/rails/rails/issues/29516",
+#               "body": "In the past, after running `rails server` without the `-b` option, it was possible to access the Rails app on http://localhost:3000. Since Rails 5 (or 5.1?), it will bind to the system's hostname instead.\r\n\r\nI've tracked this down to the use of the `$HOST` env variable in https://github.com/rails/rails/blob/master/railties/lib/rails/commands/server/server_command.rb, which is used together with `$PORT` to determine the listening options for the webserver. It seems this was done to make it configurable by setting these variables explicitly; however on some Linux variants (at least SuSE), `$HOST` is set by default and is equal to `$HOSTNAME`. This can either cause the server to bind to that hostname, or even, if the hostname doesn't resolve, to refuse to start.",
+#               "createdAt": "2017-06-21T11:24:32Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-21T14:24:35Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 6
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/560664?v=4",
+#                 "login": "schuetzm",
+#                 "resourcePath": "/schuetzm",
+#                 "url": "https://github.com/schuetzm"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "railties"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "`ActionDispatch::DebugExceptions` won't show an exception if it itself throws an exception",
+#               "number": 29537,
+#               "url": "https://github.com/rails/rails/issues/29537",
+#               "body": "`ActionDispatch::DebugExceptions` won't show an exception if it itself throws an exception making it difficult to trace the initial exception.\r\n\r\nIn my particular case, `ActionDispatch::DebugExceptions` received an exception that responds to `annoted_source_code`, but that function returns `nil` which ends up in [`log_array` raising `NoMethodError: undefined method 'join' for nil:NilClass`](https://github.com/rails/rails/blob/55a443b847ccf37aa8fb62fbc827f5b540980dd9/actionpack/lib/action_dispatch/middleware/debug_exceptions.rb#L177-L183).\r\n\r\nTo go a step further, the underlying exception was an `ActionView::Template::Error`, and the `line_number` of the exception was beyond the number of lines in the underlying template.\r\n\r\n### Steps to reproduce\r\n\r\nUnfortunately, I haven't been able to create an MVP to reproduce this issue.\r\n\r\n### Expected behavior\r\nAlthough it's expected for this to happen, my expectation is that `DebugExceptions` would be as immune as possible to throwing any exceptions. In this particular case, I'd expect it to show the exception backtrace without any annotated source code.\r\n\r\n### Actual behavior\r\n`DebugExceptions` middleware throws its own exception, making it difficult to know what the underlying exception actually was.\r\n\r\n### System configuration\r\n**Rails version**:\r\n5.0.3\r\n\r\n**Ruby version**:\r\n2.3.3",
+#               "createdAt": "2017-06-22T15:22:51Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-23T14:33:00Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/833576?v=4",
+#                 "login": "thegedge",
+#                 "resourcePath": "/thegedge",
+#                 "url": "https://github.com/thegedge"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "actioncable reconnect same connection and resend same actions again.",
+#               "number": 29545,
+#               "url": "https://github.com/rails/rails/issues/29545",
+#               "body": "### Steps to reproduce\r\n\r\nThis was generated using a standalone javascript client \r\n\r\n1. Start server then start your client.\r\n2. After actioncable on client successfully connected to server, stop rails server.\r\n3. Wait until actioncable client connection fails and starts retrying to reconnect to server.\r\n4. Reboot your server.\r\n\r\n### Expected behavior\r\nActioncable should not recreate duplicate connection with same messages again, which duplicate whatever the behavior is in the sent to-channel, as an example: if i create a record on a sent action called \"speak\", after reconnecting again during the same session, \"speak\" action is called again which will duplicate the record with unessential call from actioncable.\r\n\r\n### Actual behavior\r\nActioncable start another connection similar to the already fired 101-one at the very beginning.\r\n\r\n### System configuration\r\n**Rails version**: 5.0.2\r\n**Ruby version**: ruby 2.3.1p112 (2016-04-26 revision 54768) [x86_64-darwin16]\r\n",
+#               "createdAt": "2017-06-23T12:35:50Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-08T14:48:49Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/11490365?v=4",
+#                 "login": "islam-taha",
+#                 "resourcePath": "/islam-taha",
+#                 "url": "https://github.com/islam-taha"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actioncable"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "No route matches [GET] \"/favicon.ico\"",
+#               "number": 29578,
+#               "url": "https://github.com/rails/rails/issues/29578",
+#               "body": "### Steps to reproduce\r\n\r\nCreate new rails API project:\r\n\r\n`rails new testapp --api`\r\n\r\nRun the rails server for the project:\r\n\r\n`rails s`\r\n\r\nOpen the rails welcome page on http://localhost:3000\r\n\r\n### Expected behavior\r\n\r\nIt should just appear the welcome page without errors or warnings.\r\n\r\n### Actual behavior\r\n\r\nThe welcome page appears, but it also returns an error related with the favicon:\r\n\r\n```\r\nStarted GET \"/favicon.ico\" for 127.0.0.1 at 2017-06-21 10:10:01 +0100\r\n\r\nActionController::RoutingError (No route matches [GET] \"/favicon.ico\"):\r\n\r\nactionpack (5.1.1) lib/action_dispatch/middleware/debug_exceptions.rb:63:in `call'\r\nactionpack (5.1.1) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'\r\nrailties (5.1.1) lib/rails/rack/logger.rb:36:in `call_app'\r\nrailties (5.1.1) lib/rails/rack/logger.rb:24:in `block in call'\r\nactivesupport (5.1.1) lib/active_support/tagged_logging.rb:69:in `block in tagged'\r\nactivesupport (5.1.1) lib/active_support/tagged_logging.rb:26:in `tagged'\r\nactivesupport (5.1.1) lib/active_support/tagged_logging.rb:69:in `tagged'\r\nrailties (5.1.1) lib/rails/rack/logger.rb:24:in `call'\r\nactionpack (5.1.1) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'\r\nactionpack (5.1.1) lib/action_dispatch/middleware/request_id.rb:25:in `call'\r\nrack (2.0.3) lib/rack/runtime.rb:22:in `call'\r\nactivesupport (5.1.1) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'\r\nactionpack (5.1.1) lib/action_dispatch/middleware/executor.rb:12:in `call'\r\nactionpack (5.1.1) lib/action_dispatch/middleware/static.rb:125:in `call'\r\nrack (2.0.3) lib/rack/sendfile.rb:111:in `call'\r\nrailties (5.1.1) lib/rails/engine.rb:522:in `call'\r\npuma (3.9.1) lib/puma/configuration.rb:224:in `call'\r\npuma (3.9.1) lib/puma/server.rb:602:in `handle_request'\r\npuma (3.9.1) lib/puma/server.rb:435:in `process_client'\r\npuma (3.9.1) lib/puma/server.rb:299:in `block in run'\r\npuma (3.9.1) lib/puma/thread_pool.rb:120:in `block in spawn_thread'\r\n````\r\n\r\n### System configuration\r\n**Rails version**:  5.1.1 and 5.2.0.alpha\r\n\r\n**Ruby version**: 2.4.1 (x86_64-darwin16)",
+#               "createdAt": "2017-06-26T08:46:43Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-29T10:53:42Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/61644?v=4",
+#                 "login": "davidrv",
+#                 "resourcePath": "/davidrv",
+#                 "url": "https://github.com/davidrv"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Params wrapper is trying to safe_constantize wrong class based on url instead of what is present ",
+#               "number": 29625,
+#               "url": "https://github.com/rails/rails/issues/29625",
+#               "body": "### Steps to reproduce\r\n1. Clone and run this app https://github.com/anildigital/wrap_parameters_bug_app\r\n2. Run below curl command\r\n```curl -H \"Content-Type: application/json\" http://localhost:3000/api/v1/me/stars/hello```\r\n3. See exception thrown which should be something like\r\n\r\n```\r\nStarted GET \"/api/v1/me/stars/hello\" for 127.0.0.1 at 2017-06-29 17:47:18 +0530\r\nKlass name\r\nApi::V1::Me::StarsController\r\nModel name\r\nApi::V1::Me::Star\r\n\r\nLoadError (Unable to autoload constant Star, expected /Users/anil/Code/ruby/rails/bugs/wrap_parameters_bug_app/app/models/galaxy/star.rb to define it):\r\n```\r\n\r\nIn above logs, I have also printed `klass.name` and `model_name` from `_default_wrap_model` method of actionpack's params_wrapper.rb\r\ni.e.\r\n```\r\ndef _default_wrap_model\r\n  return nil if klass.anonymous?\r\n  model_name = klass.name.sub(/Controller$/, \"\").classify\r\n  puts \"Klass name \"\r\n  puts klass.name\r\n  puts \"Model name\"\r\n  puts model_name\r\n```\r\n\r\n### Expected behavior\r\nLooks like params wrapper is assuming there must be a class named `Star` in star.rb based on passed URL, but that's wrong, the related model class doesn't exist, but a name scoped class `class Galaxy::Star` actually exist there.\r\n\r\n\r\n### Actual behavior\r\nShould not throw the error. \r\n\r\n### System configuration\r\n**Rails version**:\r\nI have used Rails 5.1.2, but error exists for 5.0.1 app too.\r\n\r\n**Ruby version**:\r\nruby 2.3.3p222",
+#               "createdAt": "2017-06-29T12:26:21Z",
+#               "lastEditedAt": "2017-06-29T15:57:43Z",
+#               "updatedAt": "2017-07-01T09:05:38Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 5
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/266?v=4",
+#                 "login": "anildigital",
+#                 "resourcePath": "/anildigital",
+#                 "url": "https://github.com/anildigital"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activesupport"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "When LoadError#path is nil LoadError#is_missing? throws NoMethodError",
+#               "number": 29632,
+#               "url": "https://github.com/rails/rails/issues/29632",
+#               "body": "It's possible for `LoadError#path` to be `nil` when a mixin included in `ApplicationHelper` is misnamed, resulting in a crash on boot with a none-too-useful error:\r\n\r\n```\r\nweb_1  | ./dev/.bundle/ruby/2.3.0/gems/activesupport-5.1.1/lib/active_support/core_ext/load_error.rb:12:in `is_missing?': undefined method `sub' for nil:NilClass (NoMethodError)\r\nweb_1  | \tfrom ./dev/.bundle/ruby/2.3.0/gems/actionpack-5.1.1/lib/abstract_controller/helpers.rb:189:in `rescue in default_helper_module!'\r\nweb_1  | \tfrom ./dev/.bundle/ruby/2.3.0/gems/actionpack-5.1.1/lib/abstract_controller/helpers.rb:185:in `default_helper_module!'\r\nweb_1  | \tfrom ./dev/.bundle/ruby/2.3.0/gems/actionpack-5.1.1/lib/abstract_controller/helpers.rb:36:in `block in inherited'\r\nweb_1  | \tfrom ./dev/.bundle/ruby/2.3.0/gems/actionpack-5.1.1/lib/abstract_controller/helpers.rb:36:in `class_eval'\r\n...\r\n```\r\n\r\nFull stack trace here:\r\n\r\nhttps://gist.github.com/nrser/f59050d699dbdcb8772a4afcee07be5d\r\n\r\n### Steps to reproduce\r\n\r\nI have several chunks of application-wide helper functionality split out into mixins like:\r\n\r\n```ruby\r\n# app/helpers/helper_mixins/css_helper.rb\r\nmodule HelperMixins\r\n  module CSSHelper\r\n    # ...\r\n  end\r\nend\r\n```\r\n\r\nThey are included in `ApplicationHelper`:\r\n\r\n```ruby\r\nmodule ApplicationHelper  \r\n  include HelperMixins::CSSHelper\r\n  # ...\r\nend\r\n```\r\n\r\nEverything works fine when the names are correct, but when they aren't - say `ApplicationHelper` includes `HelperMixins::CssHelper` by accident - I get a crash on boot with the above stack trace.\r\n\r\nIt's worth noting that i'm using inflections to define a `CSS` acronym, though when messing around it doesn't seem to make a difference.\r\n\r\nThere are actually two `sub` calls on the line in question:\r\n\r\nhttps://github.com/rails/rails/blob/master/activesupport/lib/active_support/core_ext/load_error.rb#L12\r\n\r\nBut I hacked a `puts` in there and confirmed that it's `LoadError#path` that is `nil`.\r\n\r\n### Expected behavior\r\n\r\nThe error message should reflect the problem - missing module, bad file name, etc.\r\n\r\n### Actual behavior\r\n\r\nThe `LoadError#is_missing?` method itself errors, raising a `NoMethodError` that does little to indicate the underlying problem.\r\n\r\n### System configuration\r\n**Rails version**: 5.1.1\r\n\r\n**Ruby version**: 2.3.4\r\n",
+#               "createdAt": "2017-06-29T18:48:52Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-26T11:16:07Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 6
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/207603?v=4",
+#                 "login": "nrser",
+#                 "resourcePath": "/nrser",
+#                 "url": "https://github.com/nrser"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activesupport"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "A question about cursors support",
+#               "number": 29648,
+#               "url": "https://github.com/rails/rails/issues/29648",
+#               "body": "AR fakes cursors in the find_each method using id lookup. Is there any reason why doesn't AR support cursors yet? At least, for some DBMS, I believe, it is possible to implement it on the driver level using the current approach as a fallback maybe.",
+#               "createdAt": "2017-07-01T11:54:57Z",
+#               "lastEditedAt": "2017-07-01T11:55:18Z",
+#               "updatedAt": "2017-07-14T18:47:45Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 5
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/88852?v=4",
+#                 "login": "pyromaniac",
+#                 "resourcePath": "/pyromaniac",
+#                 "url": "https://github.com/pyromaniac"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Can't download attachments with russian letters in name (from issue) in Redmine 3.4.0 with Rails 4.2.9, but work corect with Rails 4.2.8",
+#               "number": 29669,
+#               "url": "https://github.com/rails/rails/issues/29669",
+#               "body": "### Steps to reproduce\r\n1. Install Redmine 3.4.0.\r\n2. Update Rails to 4.2.9.\r\n3. Add issue in installed Redmine.\r\n4. Attach file with russian letters in name to this issue.\r\n5. Try do download this file.\r\n\r\n### Expected behavior\r\nBrowser start downloading file.\r\n\r\n### Actual behavior\r\nError 404.\r\n\r\n### System configuration\r\n**Rails version**: 4.2.9\r\n\r\n**Ruby version**: 2.4.1\r\n\r\nBut it work fine with Rails 4.2.8 in same environment.\r\n\r\nMore information is here: https://www.redmine.org/issues/26337#note-9\r\n\r\nWith Rails 4.2.9 production.log:\r\n```\r\nStarted GET \"/attachments/5450/%d0%a2%d0%97.pdf\" for 10.0.0.1 at 2017-07-04 08:12:53 +0300\r\nProcessing by AttachmentsController#show as HTML\r\n  Parameters: {\"id\"=>\"5450\", \"filename\"=>\"\\xD0\\xA2\\xD0\\x97.pdf\"}\r\n  Current user: VVD (id=3)\r\n  Rendered common/error.html.erb within layouts/base (0.2ms)\r\nFilter chain halted as :find_attachment rendered or redirected\r\nCompleted 404 Not Found in 76ms (Views: 28.6ms | ActiveRecord: 42.5ms)\r\n```\r\n\r\nWith Rails 4.2.8 production.log:\r\n```\r\nStarted GET \"/attachments/5450/%d0%a2%d0%97.pdf\" for 10.0.0.1 at 2017-07-04 11:06:56 +0300\r\nProcessing by AttachmentsController#show as HTML\r\n  Parameters: {\"id\"=>\"5450\", \"filename\"=>\"ТЗ.pdf\"}\r\n  Current user: VVD (id=3)\r\n  Rendered common/_other.html.erb (0.8ms)\r\n  Rendered layouts/_file.html.erb (17.1ms)\r\n  Rendered attachments/other.html.erb within layouts/base (26.4ms)\r\nCompleted 200 OK in 123ms (Views: 76.3ms | ActiveRecord: 21.1ms)\r\n```\r\n\r\nLook at difference:\r\n```\r\n\"filename\"=>\"\\xD0\\xA2\\xD0\\x97.pdf\"\r\n\"filename\"=>\"ТЗ.pdf\"\r\n```",
+#               "createdAt": "2017-07-04T08:25:09Z",
+#               "lastEditedAt": "2017-07-05T14:03:11Z",
+#               "updatedAt": "2017-07-05T14:03:11Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/482751?v=4",
+#                 "login": "VVD",
+#                 "resourcePath": "/VVD",
+#                 "url": "https://github.com/VVD"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "regression"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Deadlock between ParamsWrapper#model and Loadable#require_or_load",
+#               "number": 29693,
+#               "url": "https://github.com/rails/rails/issues/29693",
+#               "body": "### Steps to reproduce\r\n\r\n1. Create a Rails 5.1.2 app with Postgres DB (pg 0.20), puma server (puma 3.9.1, 5 threads).\r\n2. Add some models and RESTful controllers. Keep default `wrap_parameters format: [:json]`. \r\n3. Make a large number (e.g., 5) of simultaneous GET requests to the controllers with `Accept: application/json` and `Content-Type: application/json; charset=utf-8` headers.\r\n\r\n### Expected behavior\r\nRequests succeed.\r\n\r\n### Actual behavior\r\nRequests cause a hangup almost consistently. Further investigation with `ActionDispatch::DebugLocks` [shows](https://gist.github.com/freeatnet/d0501319936f567d7d855e200201bf2b#file-2-rails-deadlock-log) threads end up deadlocked. \r\n\r\n### System configuration\r\n**Rails version**: 5.1.2  \r\n**Ruby version**: 2.4.1\r\n",
+#               "createdAt": "2017-07-06T01:17:53Z",
+#               "lastEditedAt": "2017-07-06T17:08:34Z",
+#               "updatedAt": "2017-07-12T19:27:02Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/138289?v=4",
+#                 "login": "freeatnet",
+#                 "resourcePath": "/freeatnet",
+#                 "url": "https://github.com/freeatnet"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "eager_loading has_one association not taking default scoped order into account ",
+#               "number": 29713,
+#               "url": "https://github.com/rails/rails/issues/29713",
+#               "body": "If we have a has_one relationship with a scope defining an order, this order is not taken into accounting during the eager_loading. Using preload works as expected.\r\n\r\nHere is the test case that fails:\r\n```ruby\r\nbegin\r\n  require \"bundler/inline\"\r\nrescue LoadError => e\r\n  $stderr.puts \"Bundler version 1.10 or later is required. Please update your Bundler\"\r\n  raise e\r\nend\r\n\r\ngemfile(true) do\r\n  source \"https://rubygems.org\"\r\n  gem \"rails\", github: \"rails/rails\"\r\n  gem \"sqlite3\"\r\nend\r\n\r\nrequire \"active_record\"\r\nrequire \"minitest/autorun\"\r\nrequire \"logger\"\r\n\r\n# This connection will do for database-independent bug reports.\r\nActiveRecord::Base.establish_connection(adapter: \"sqlite3\", database: \":memory:\")\r\nActiveRecord::Base.logger = Logger.new(STDOUT)\r\n\r\nActiveRecord::Schema.define do\r\n  create_table :documents, force: true do |t|\r\n  end\r\n\r\n  create_table :pages, force: true do |t|\r\n    t.integer :document_id\r\n  end\r\nend\r\n\r\nclass Page < ActiveRecord::Base\r\n  belongs_to :document\r\nend\r\n\r\nclass Document < ActiveRecord::Base\r\n  has_many :pages\r\n  has_one :last_page, -> { order(id: :desc) }, class_name: 'Page'\r\nend\r\n\r\n\r\nclass BugTest < Minitest::Test\r\n  def test_last_page\r\n    document = Document.create\r\n    page1 = Page.create(document: document)\r\n    page2 = Page.create(document: document)\r\n\r\n\r\n    loaded_document = Document.eager_load(\r\n        :last_page\r\n    ).all\r\n\r\n    assert_equal loaded_document[0].last_page, page2\r\n  end\r\n\r\nend\r\n```\r\nUnless I made a mistake, it fails on 4.2 but also on current master. I wondered if it was an issue similar to #28415 so I tested it also against @kamipo pull request #29154 but it looks like it still fails.",
+#               "createdAt": "2017-07-07T15:32:01Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-10T14:15:10Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/14098361?v=4",
+#                 "login": "Mathiou04",
+#                 "resourcePath": "/Mathiou04",
+#                 "url": "https://github.com/Mathiou04"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Which is the proper order to handle exception.cause  in ActiveSupport::Rescuable#rescue_from ?",
+#               "number": 29739,
+#               "url": "https://github.com/rails/rails/issues/29739",
+#               "body": "### Summary\r\n\r\nSince Rails 5.0, the order in which handler is applied for exceptions including cause has been changed.\r\nIt looks like a deliberate change as written in the #25018 comment, but I think there are at least the following problems.\r\n\r\n### Probrem\r\n\r\n```ruby\r\nclass ApplicationController < ActionController::Base\r\n  protect_from_forgery with: :exception\r\n\r\n  rescue_from StandardError, with: :handle_500\r\n  rescue_from ActiveRecord::RecordNotFound, with: :handle_404\r\n\r\n  private\r\n\r\n  def handle_500(error)\r\n    render 'errors/error', status: 500\r\n  end\r\n\r\n  def handle_404(error)\r\n    render 'errors/error', status: 404\r\n  end\r\nend\r\n```\r\n\r\n```erb\r\n<%= Article.find(10) %>\r\n```\r\n\r\nif Article with `id==10` does not exist, handle_ 404 was executed in Rails 4.2.8,\r\nSince Rails 5.0.0, handle_ 500 is now executed.\r\n\r\nErrors occurring in view are wrapped in ActionView::Template::Error.\r\nIn Rails 4.2.8, when error has cause, It looked for a handler that matched `exception.cause`.\r\nFor Rails 5.0.0 and later, the `exception.cause` check is done only if the wrapping error does not match any handler.\r\n\r\nI think the behavior before 4.2.8 is preferable in the above case.\r\n\r\nI know that shouldn't do `rescue_from StandardError` be listed in RailsGuide.\r\nThis may not be an appropriate example.\r\nHowever, I think that we always encounter this problem when we need to reference cause and want to deal with special errors and generic errors in order.\r\n\r\n### Solution\r\nHow about restoring the logic of #24158 to activesupport/lib/active_support/rescuable.rb ?\r\n\r\n### System configuration\r\n**Rails version**:\r\n4.2.8, 5.0.0, 5.1.2\r\n\r\n**Ruby version**:\r\n2.3.1",
+#               "createdAt": "2017-07-10T13:07:17Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-11T23:17:05Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/791220?v=4",
+#                 "login": "rinmu",
+#                 "resourcePath": "/rinmu",
+#                 "url": "https://github.com/rinmu"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "[ActiveRecord] after_commit callback is called when update fails within explicit transaction block",
+#               "number": 29747,
+#               "url": "https://github.com/rails/rails/issues/29747",
+#               "body": "### Steps to reproduce\r\n\r\n```ruby\r\nbegin\r\n  require \"bundler/inline\"\r\nrescue LoadError => e\r\n  $stderr.puts \"Bundler version 1.10 or later is required. Please update your Bundler\"\r\n  raise e\r\nend\r\n\r\ngemfile(true) do\r\n  source \"https://rubygems.org\"\r\n  gem \"rails\", github: \"rails/rails\"\r\n  gem \"arel\", github: \"rails/arel\"\r\n  gem \"sqlite3\"\r\nend\r\n\r\nrequire \"active_record\"\r\nrequire \"minitest/autorun\"\r\nrequire \"logger\"\r\n\r\n# This connection will do for database-independent bug reports.\r\nActiveRecord::Base.establish_connection(adapter: \"sqlite3\", database: \":memory:\")\r\nActiveRecord::Base.logger = Logger.new(STDOUT)\r\n\r\nActiveRecord::Schema.define do\r\n  create_table :posts, force: true do |t|\r\n    t.string :arbitrary_column\r\n  end\r\nend\r\n\r\nclass Post < ActiveRecord::Base\r\n  after_commit :my_callback\r\n\r\n  validates :arbitrary_column, length: { minimum: 10 }\r\n\r\n  def my_callback\r\n    puts \"Callback was called\"\r\n    if changed?\r\n      fail \"This callback should not be called\"\r\n    end\r\n  end\r\nend\r\n\r\nclass BugTest < Minitest::Test\r\n  def test_callback_is_not_called_when_save_fails\r\n\r\n    post = Post.create!(arbitrary_column: \"This is valid\")\r\n    post = Post.find(post.id)\r\n\r\n    Post.transaction do\r\n      post.arbitrary_column = 'too short'\r\n      assert !post.valid?\r\n      post.save # This won't actually save, but the callback is (incorrectly) called anyway because the transaction commits\r\n    end\r\n\r\n  end\r\nend\r\n```\r\n\r\n### Expected behavior\r\n\r\n`after_commit` callbacks should only be called if the underlying record is successfully saved.\r\n  \r\n### Actual behavior\r\n\r\nWhen updating an existing record, `after_commit` callbacks are called even if the update fails (when attempted update is within an explicit transaction block).\r\n\r\n### Note\r\n\r\nA similar issue was fixed for record creation in #9115\r\n\r\nI believe the underlying problem is that https://github.com/rails/rails/blob/07ed697f7b0debd8736a188fad67fe5e0c98739e/activerecord/lib/active_record/transactions.rb#L341 uses `persisted?` to determine if the save succeeded. This isn't an adequate heuristic for existing records (because they are `persisted?` regardless of whether the underlying update succeeds).\r\n\r\nI would be happy to work on a PR, if you can confirm that this is a bug.",
+#               "createdAt": "2017-07-10T23:31:40Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-18T20:11:20Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/8030877?v=4",
+#                 "login": "naw",
+#                 "resourcePath": "/naw",
+#                 "url": "https://github.com/naw"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "attached PR"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "With reproduction steps"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "rails new --webpack --skip-sprockets still creates the assets folder, doesn't set up Webpacker for CSS",
+#               "number": 29749,
+#               "url": "https://github.com/rails/rails/issues/29749",
+#               "body": "### Steps to reproduce\r\n\r\nEnter `rails new testapp --webpack --skip-sprockets`\r\n\r\n### Expected behavior\r\nThe new app is created without the `app/assets` folder, and with Webpack configured to serve stylesheets from a documented location.\r\n\r\n### Actual behavior\r\nThe `app/assets` folder, and its underlying structure, is created, despite the fact that dropping stylesheets into `app/assets/stylesheets` no longer causes them to be loaded. This is misleading, at best.\r\n\r\nAs Webpacker can replace Sprockets, this seems to be a use case that's going to become increasingly common. People doing this are going to want to use stylesheets — should `rails new` not set things up so there is a place to put stylesheets such that they'll be automatically packed into application.css, and should the docs not cover this use case a bit more clearly?\r\n\r\nI've filed this under rails/rails, because it seems that `rails new` is erring by creating `app/assets` when the asset pipeline's not being used, but I suspect there are various places it could go; my apologies if I've got it wrong.\r\n\r\n### System configuration\r\n**Rails version**: 5.1.2\r\n\r\n**Ruby version**: 2.4.1p111\r\n",
+#               "createdAt": "2017-07-11T10:42:32Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-11T20:59:30Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/139183?v=4",
+#                 "login": "unikitty37",
+#                 "resourcePath": "/unikitty37",
+#                 "url": "https://github.com/unikitty37"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "railties"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Entire Rails.root is being watched when watchable_dirs contains non-existing directory",
+#               "number": 29750,
+#               "url": "https://github.com/rails/rails/issues/29750",
+#               "body": "### Steps to reproduce\r\n\r\n* Create an app with _lots_ of files somewhere below `Rails.root` (but outside the usual directories where Rails expects files to be able to reload in development mode)\r\n* Start the rails console, or a rake task, do anything that boots the Rails environment\r\n* The boot process takes long (up to a minute with thousands of files), you can watch Rails stat'ing each of the files using strace\r\n\r\n### Expected behavior\r\n\r\nWe have a large number of files below `Rails.root.join(\"import_data\"), that Rails should not care about. Boot times should not be affected.\r\n\r\n### Actual behavior\r\n\r\nBoot is slow, and the console / rake task / ... performs badly for some time afterwards, while the process is still stat'ing files.\r\n\r\n### System configuration\r\n\r\nRails 5.1.0.rc1, ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-linux]",
+#               "createdAt": "2017-07-11T12:22:05Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-28T08:50:37Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/166765?v=4",
+#                 "login": "schnittchen",
+#                 "resourcePath": "/schnittchen",
+#                 "url": "https://github.com/schnittchen"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activesupport"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "railties"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Error in production env not manifested in dev/test environments",
+#               "number": 29755,
+#               "url": "https://github.com/rails/rails/issues/29755",
+#               "body": "### Steps to reproduce\r\nStandard out-of-the-box rails installation,\r\nOne of the views has an internationalized field translated with an interpolation argument, like:\r\n=t('.greeting', name : 'Wilma')\r\nso the locale file has:\r\n`en:\r\n    greeting: 'hello %{name}`\r\n\r\nbut due to a coding error, this translation is called without the interpolation argument at some point:\r\n=t('.greeting')\r\n\r\n### Expected behavior\r\nIntegration tests should fail, because in the production environment this will cause a failure and the page will not render. Therefore we need to discover this error in the development and test environments too.\r\n\r\n### Actual behavior\r\nIn development and test environments, the translated locale string (in the above example) simply renders as \"Hello %{name}\".\r\n\r\nBut in the production environment (where the standard out-of-the-box i18n configuration in environments/production.rb has config.i18n.fallbacks = true), an error is raised in i18n and the page does not render.\r\n\r\n### System configuration\r\n**Rails version**: 5.1.2 (This problem did not exist in 5.0.x, I don't know why)\r\ni18n version: 0.8.5\r\n\r\n**Ruby version**: 2.4.0\r\n\r\n\r\n### Solution?\r\nconfiguring config.i18n.fallbacks = true in environments/development.rb and environments/test.rb solves the problem, but since this has only come about in Rails 5.1.2, it's possible that there is a more appropriate solution. My proposal, then, is for the standard rails dev/test environment config files to have config.i18n.fallbacks = true.\r\n\r\nIt's possible that the root cause of the error here is in the i18n gem, or it may be intentional behaviour of the i18n gem, but nevertheless, b/c the configuration in production is different from development/test, the error is not caught.",
+#               "createdAt": "2017-07-11T15:14:52Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-25T23:02:09Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 11
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/188651?v=4",
+#                 "login": "lazylester",
+#                 "resourcePath": "/lazylester",
+#                 "url": "https://github.com/lazylester"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "ActiveRecord::Relation#cache_key throws error for some distinct collections.",
+#               "number": 29779,
+#               "url": "https://github.com/rails/rails/issues/29779",
+#               "body": "When retrieving the `cache_key` of a distinct, ordered `ActiveRecord::Relation`, \r\na `PG::InvalidColumnReference` error is thrown\r\n\r\n```\r\nActiveRecord::StatementInvalid: PG::InvalidColumnReference: ERROR:  \r\n  for SELECT DISTINCT, ORDER BY expressions must appear in select list\r\nLINE 1: ...STINCT \"posts\".\"updated_at\" FROM \"posts\" ORDER BY \"posts\".\"n...\r\n                                                             ^\r\n: SELECT COUNT(*) AS \"size\", MAX(subquery_for_cache_key.updated_at) AS timestamp \r\n  FROM (SELECT  DISTINCT \"posts\".\"updated_at\" FROM \"posts\" \r\n  ORDER BY \"posts\".\"name\" ASC LIMIT $1) subquery_for_cache_key\r\n    test.rb:41:in `test_association_stuff'\r\n```\r\n\r\nOnce the relation is loaded, the cache_key is returned as expected.\r\nWhile it works to avoid the bug, it is less efficient.\r\n\r\nThis is an example query which produces the issue:\r\n\r\n``` ruby\r\nPost.limit(10).order(:name).distinct.cache_key\r\n```\r\n\r\n### Steps to reproduce\r\nRun the [test template](https://gist.github.com/martijnbleeker/c4682654ff9adca3e0481ae5b9d87680). \r\nIt tries to use a postgres database named `test` by default.\r\n\r\n\r\n### Expected behavior\r\nThe cache key is returned\r\n\r\n### Actual behavior\r\nA `PG::InvalidColumnReference` error is thrown\r\n\r\n### System configuration\r\n**Rails version**: 5.1.2\r\n\r\n**Ruby version**: 4.2.1\r\n",
+#               "createdAt": "2017-07-13T14:24:48Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-19T11:03:28Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/445211?v=4",
+#                 "login": "martijnbleeker",
+#                 "resourcePath": "/martijnbleeker",
+#                 "url": "https://github.com/martijnbleeker"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Polymorphic has_many :through, #association= does not delete existing join records if source is polymorphic",
+#               "number": 29836,
+#               "url": "https://github.com/rails/rails/issues/29836",
+#               "body": "Bonus bug: The Book can find the genres it is tagged with, but those genres cannot find the book they are tagging.\r\n\r\n### Test\r\n```ruby\r\nrequire 'active_record'\r\nrequire 'minitest/autorun'\r\n# require 'pry-rails'\r\n\r\n# ActiveRecord::Base.logger = Logger.new(STDOUT)\r\n\r\nActiveRecord::Base.establish_connection adapter: 'sqlite3', database: ':memory:'\r\n\r\nActiveRecord::Base.connection.instance_eval do\r\n  create_table(:books) do |t|\r\n    t.string :name\r\n  end\r\n\r\n  create_table(:tags) do |t|\r\n    t.string :name\r\n    t.string :type\r\n  end\r\n\r\n  create_table(:taggings) do |t|\r\n    t.belongs_to :tagged_item, polymorphic: true\r\n    t.belongs_to :tag, polymorphic: true\r\n  end\r\nend\r\n\r\nclass Book < ActiveRecord::Base\r\n  has_many :taggings, as: :tagged_item\r\n  has_many :genres, through: :taggings, source: :tag, source_type: 'Genre'\r\n  has_many :languages, through: :taggings, source: :tag, source_type: 'Language'\r\nend\r\n\r\nclass Tagging < ActiveRecord::Base\r\n  belongs_to :tag, polymorphic: true\r\n  belongs_to :tagged_item, polymorphic: true\r\nend\r\n\r\nclass Tag < ActiveRecord::Base\r\n  has_many :taggings, as: :tag\r\nend\r\n\r\nclass Genre < Tag\r\n  has_many :books, through: :taggings, source: :tagged_item, source_type: 'Book'\r\nend\r\n\r\nclass Language < Tag\r\n  has_many :books, through: :taggings, source: :tagged_item, source_type: 'Book'\r\nend\r\n\r\nclass PolymorphismTest < Minitest::Test\r\n  def test_reciprocity\r\n    book = Book.create(name: 'hello')\r\n    genre = Genre.create(name: 'generic')\r\n    lang = Language.create(name: 'english')\r\n    book.genres = [genre]\r\n    book.languages = [lang]\r\n\r\n    assert_equal genre, book.genres.first # this works fine\r\n    # However Genre looks for taggings with tag_type of 'Tag'\r\n    assert_equal 1, genre.books.count # this fails\r\n    assert_equal book, book.genres.first.books.first # this fails\r\n  end\r\n\r\n  # accessors don't work\r\n  def test_destruction\r\n    book = Book.create(name: 'hello')\r\n    genre = Genre.create(name: 'generic')\r\n    lang = Language.create(name: 'english')\r\n    book.genres = [genre]\r\n    book.languages = [lang]\r\n\r\n    assert_equal genre, book.genres.first # this works fine\r\n    Book.first.genres = []\r\n    # this generates the query below, which uses the base class. However the Taggings are created using a tag_type of 'Genre'\r\n    # SQL (0.1ms)  DELETE FROM \"taggings\" WHERE \"taggings\".\"tagged_item_id\" = ? AND \"taggings\".\"tagged_item_type\" = ? AND \"taggings\".\"tag_type\" = 'Tag' AND \"taggings\".\"tag_id\" = 1 AND \"taggings\".\"tag_type\" = ?  [[\"tagged_item_id\", 1], [\"tagged_item_type\", \"Book\"], [\"tag_type\", \"Tag\"]]\r\n\r\n    assert_equal [], Book.first.genres.to_a # this works fine\r\n  end\r\nend\r\n```\r\n\r\nAn alternate way to write this would be to use `source_type: 'Tag'` in the Book model. However, that also does not work(in the test_destruction example it would lead to languages being wiped as well as genres).\r\n\r\n### Output\r\n```\r\nRun options: --seed 13306\r\n\r\n# Running:\r\n\r\nFF\r\n\r\nFinished in 0.065200s, 30.6748 runs/s, 61.3497 assertions/s.\r\n\r\n  1) Failure:\r\nPolymorphismTest#test_reciprocity [tmp/test.rb:57]:\r\nExpected: 1\r\n  Actual: 0\r\n\r\n  2) Failure:\r\nPolymorphismTest#test_destruction [tmp/test.rb:70]:\r\n--- expected\r\n+++ actual\r\n@@ -1 +1 @@\r\n-[]\r\n+[#<Genre id: 1, name: \"generic\", type: \"Genre\">]\r\n\r\n\r\n2 runs, 4 assertions, 2 failures, 0 errors, 0 skips\r\n```\r\n### System configuration\r\n**Rails version**: 5.1.2\r\n\r\n**Ruby version**: 2.4.1\r\n",
+#               "createdAt": "2017-07-18T11:20:58Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-20T13:34:59Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/7011617?v=4",
+#                 "login": "sebastianiorga",
+#                 "resourcePath": "/sebastianiorga",
+#                 "url": "https://github.com/sebastianiorga"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "bug template does not run ",
+#               "number": 29846,
+#               "url": "https://github.com/rails/rails/issues/29846",
+#               "body": "### Steps to reproduce\r\nRun `ruby guides/bug_report_templates/active_record_master.rb` in rails repository.\r\n\r\n### Expected behavior\r\nexit normally\r\n\r\n### Actual behavior\r\n```\r\n/usr/local/Cellar/rbenv/1.0.0/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activesupport/lib/active_support/core_ext/object/blank.rb:104: warning: already initialized constant String::BLANK_RE\r\n/usr/local/opt/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activesupport/lib/active_support/core_ext/object/blank.rb:104: warning: previous definition of BLANK_RE was here\r\n/usr/local/Cellar/rbenv/1.0.0/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activesupport/lib/active_support/core_ext/module/delegation.rb:11: warning: already initialized constant Module::RUBY_RESERVED_KEYWORDS\r\n/usr/local/opt/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activesupport/lib/active_support/core_ext/module/delegation.rb:11: warning: previous definition of RUBY_RESERVED_KEYWORDS was here\r\n/usr/local/Cellar/rbenv/1.0.0/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activesupport/lib/active_support/core_ext/module/delegation.rb:14: warning: already initialized constant Module::DELEGATION_RESERVED_KEYWORDS\r\n/usr/local/opt/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activesupport/lib/active_support/core_ext/module/delegation.rb:14: warning: previous definition of DELEGATION_RESERVED_KEYWORDS was here\r\n/usr/local/Cellar/rbenv/1.0.0/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activesupport/lib/active_support/core_ext/module/delegation.rb:15: warning: already initialized constant Module::DELEGATION_RESERVED_METHOD_NAMES\r\n/usr/local/opt/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activesupport/lib/active_support/core_ext/module/delegation.rb:15: warning: previous definition of DELEGATION_RESERVED_METHOD_NAMES was here\r\n/usr/local/Cellar/rbenv/1.0.0/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activerecord/lib/active_record/errors.rb:244: warning: already initialized constant ActiveRecord::UnknownAttributeError\r\n/usr/local/opt/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activerecord/lib/active_record/errors.rb:244: warning: previous definition of UnknownAttributeError was here\r\n/usr/local/Cellar/rbenv/1.0.0/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activesupport/lib/active_support/concern.rb:128:in `included': Cannot define multiple 'included' blocks for a Concern (ActiveSupport::Concern::MultipleIncludedBlocks)\r\n\tfrom /usr/local/Cellar/rbenv/1.0.0/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activerecord/lib/active_record/relation/delegation.rb:50:in `<module:ClassSpecificRelation>'\r\n\tfrom /usr/local/Cellar/rbenv/1.0.0/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activerecord/lib/active_record/relation/delegation.rb:47:in `<module:Delegation>'\r\n\tfrom /usr/local/Cellar/rbenv/1.0.0/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activerecord/lib/active_record/relation/delegation.rb:2:in `<module:ActiveRecord>'\r\n\tfrom /usr/local/Cellar/rbenv/1.0.0/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activerecord/lib/active_record/relation/delegation.rb:1:in `<top (required)>'\r\n\tfrom /usr/local/opt/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activerecord/lib/active_record/base.rb:21:in `require_relative'\r\n\tfrom /usr/local/opt/rbenv/versions/2.4.0/lib/ruby/gems/2.4.0/bundler/gems/rails-1c2ed0a05440/activerecord/lib/active_record/base.rb:21:in `<top (required)>'\r\n\tfrom guides/bug_report_templates/active_record_master.rb:20:in `require'\r\n\tfrom guides/bug_report_templates/active_record_master.rb:20:in `<main>'\r\n```\r\n\r\n### System configuration\r\n**Rails version**: master\r\n\r\n**Ruby version**: 2.4.0\r\n\r\nIt goes wrong since #29638 and https://github.com/rails/rails/pull/29638#issuecomment-312584283 seems related.\r\nMy rbenv setup is symlinked:\r\n```\r\nls -l /usr/local/opt/rbenv\r\nlrwxr-xr-x  1 yskkin  admin  21  8 28  2016 /usr/local/opt/rbenv -> ../Cellar/rbenv/1.0.0\r\n```\r\n\r\nI think this is default for `brew install rbenv`.\r\n",
+#               "createdAt": "2017-07-19T05:37:40Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-19T06:27:16Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/5965113?v=4",
+#                 "login": "yskkin",
+#                 "resourcePath": "/yskkin",
+#                 "url": "https://github.com/yskkin"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Reseeding ignores engines' migrations paths",
+#               "number": 29852,
+#               "url": "https://github.com/rails/rails/issues/29852",
+#               "body": "### Steps to reproduce\r\n- Create a new Rails app (5.0.3), with some migrations\r\n- Create an engine, with some migrations and append the path to the migrations paths:\r\n\r\n```\r\n      initializer :append_migrations do |app|\r\n        unless app.root.to_s.match root.to_s\r\n          config.paths['db/migrate'].expanded.each do |expanded_path|\r\n            app.config.paths['db/migrate'] << expanded_path\r\n          end\r\n        end\r\n      end\r\n```\r\n\r\n- Run `rake db:reset` or `rake db:drop db:setup`\r\n\r\n### Expected behavior\r\nThe schema_migrations table should contain the application's migrations versions AND the engine's migrations versions.\r\n\r\n### Actual behavior\r\nOnly the application's migrations versions are stored in the schema_migrations table.\r\nThis causes problems with later migrations.\r\n\r\n### System configuration\r\n**Rails version**: 5.0.3\r\n\r\n**Ruby version**: 2.3.1\r\n",
+#               "createdAt": "2017-07-19T15:19:28Z",
+#               "lastEditedAt": "2017-07-19T15:21:20Z",
+#               "updatedAt": "2017-07-24T18:34:41Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/1597286?v=4",
+#                 "login": "jefvlamings",
+#                 "resourcePath": "/jefvlamings",
+#                 "url": "https://github.com/jefvlamings"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "engines"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Stray characters may be returned on render as xml",
+#               "number": 29856,
+#               "url": "https://github.com/rails/rails/issues/29856",
+#               "body": "I have created a program that accepts XML streams and saves them to a file, then sends back an XML response. However, the company sending me the XML stream claims extraneous characters are being sent along with the return output. Honestly I don't see this on my end at *all*.\r\n\r\n### Steps to reproduce\r\n\r\n1. Build any XML file. I personally used Nokogiri to do it. Here's an snippet taken out of context but this should be enough to mentally follow along:\r\n```ruby\r\nmessage_type = @p_data.xpath(\"//MessageType\").children.to_s\r\n    card_number = @p_data.xpath(\"//CardNumber\").children.to_s\r\n    transaction_id = @p_data.xpath(\"//TransactionId\").children.to_s\r\n    back = Nokogiri::XML::Builder.new do |xml|\r\n      xml.send(:'ContinuousFeedResponse'){\r\n        xml.send(:'MessageType', message_type)\r\n        xml.send(:'Status', 'ACK')\r\n        xml.send(:'Date', Time.now.strftime(\"%m/%d/%Y\"))\r\n        xml.send(:'Time', Time.now.strftime(\"%H:%M:%S\"))\r\n        xml.send(:'CardNumber', card_number)\r\n        xml.send(:'TransactionID', transaction_id)\r\n      }\r\n    end\r\n    render xml: back\r\n``` \r\n\r\n### Expected behavior\r\n```xml\r\n\r\n<?xml version=\"1.0\"?>\r\n<ContinuousFeedResponse>\r\n  <MessageType>Transaction</MessageType>\r\n  <Status>ACK</Status>\r\n  <Date>07/19/2017</Date>\r\n  <Time>10:54:47</Time>\r\n  <CardNumber>[REDACTED]</CardNumber>\r\n  <TransactionID>[REDACTED]</TransactionID>\r\n</ContinuousFeedResponse>\r\n```\r\n\r\n### Actual behavior\r\n\r\n**NOTE:** This is what the sender of the data *claims* they see as a response. Personally I see nothing of the sort when I do my tests.\r\n\r\n```text\r\n13b\r\n\r\n<?xml version=\"1.0\"?>\r\n\r\n<ContinuousFeedResponse>\r\n\r\n  <MessageType>Transaction</MessageType>\r\n\r\n  <Status>ACK</Status>\r\n\r\n  <Date>07/19/2017</Date>\r\n\r\n  <Time>16:23:27</Time>\r\n\r\n  <CardNumber>[REDACTED]</CardNumber>\r\n\r\n  <TransactionID>[REDACTED]</TransactionID>\r\n\r\n</ContinuousFeedResponse>\r\n\r\n \r\n\r\n0\r\n\r\n```\r\n\r\nBut the \"Expected behavior\" section is what I see on my tests.\r\n\r\n### System configuration\r\n**Rails version**: 5.0.4\r\n\r\n**Ruby version**:2.3.4p301\r\n\r\nI'm not sure if this is even a bug or not - more of \"peace of mind\" that I'm not doing something wrong.",
+#               "createdAt": "2017-07-19T19:57:57Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-19T19:57:57Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/5595293?v=4",
+#                 "login": "sneakernets",
+#                 "resourcePath": "/sneakernets",
+#                 "url": "https://github.com/sneakernets"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "namespaced controller inside engine cannot be called in production",
+#               "number": 29863,
+#               "url": "https://github.com/rails/rails/issues/29863",
+#               "body": "### Steps to reproduce\r\n\r\ncreate a mountable engine `tickets`\r\nin this engine\r\n`rails g controller api/v1/tickets`\r\nit should create controller that looks like\r\n```ruby\r\nrequire_dependency \"tickets/application_controller\"\r\n\r\nmodule Tickets\r\n  class Api::V1::TicketsController < ...\r\n```\r\nin main app mount that with `mount Tickets::Engine, at: \"/\"`\r\nin engine routes\r\n```ruby\r\nTickets::Engine.routes.draw do\r\n  namespace :api do\r\n    namespace :v1 do\r\n      resources :tickets\r\n    end\r\n  end\r\nend\r\n```\r\n### Expected behavior\r\nGET /api/v1/tickets calls #index action\r\n\r\n### Actual behavior\r\nin development it works fine, in production it returns an error \r\n```\r\nuninitialized constant Tickets::Api\r\n\r\nRails.root: /home/deploy/gazpro5/releases/20170720051152\r\n\r\nApplication Trace | Framework Trace | Full Trace\r\nactivesupport (5.1.2) lib/active_support/inflector/methods.rb:284:in `const_get'\r\nactivesupport (5.1.2) lib/active_support/inflector/methods.rb:284:in `block in constantize'\r\nactivesupport (5.1.2) lib/active_support/inflector/methods.rb:267:in `each'\r\nactivesupport (5.1.2) lib/active_support/inflector/methods.rb:267:in `inject'\r\nactivesupport (5.1.2) lib/active_support/inflector/methods.rb:267:in `constantize'\r\nactivesupport (5.1.2) lib/active_support/dependencies.rb:582:in `get'\r\nactivesupport (5.1.2) lib/active_support/dependencies.rb:613:in `constantize'\r\nactionpack (5.1.2) lib/action_dispatch/http/request.rb:82:in `controller_class'\r\nactionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:43:in `controller'\r\nactionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:29:in `serve'\r\nactionpack (5.1.2) lib/action_dispatch/journey/router.rb:46:in `block in serve'\r\nactionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `each'\r\nactionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `serve'\r\nactionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:832:in `call'\r\nrailties (5.1.2) lib/rails/engine.rb:522:in `call'\r\nrailties (5.1.2) lib/rails/railtie.rb:185:in `public_send'\r\nrailties (5.1.2) lib/rails/railtie.rb:185:in `method_missing'\r\nactionpack (5.1.2) lib/action_dispatch/routing/mapper.rb:17:in `block in <class:Constraints>'\r\nactionpack (5.1.2) lib/action_dispatch/routing/mapper.rb:46:in `serve'\r\nactionpack (5.1.2) lib/action_dispatch/journey/router.rb:46:in `block in serve'\r\nactionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `each'\r\nactionpack (5.1.2) lib/action_dispatch/journey/router.rb:33:in `serve'\r\nactionpack (5.1.2) lib/action_dispatch/routing/route_set.rb:832:in `call'\r\nremotipart (1.3.1) lib/remotipart/middleware.rb:32:in `call'\r\nwarden (1.2.7) lib/warden/manager.rb:36:in `block in call'\r\nwarden (1.2.7) lib/warden/manager.rb:35:in `catch'\r\nwarden (1.2.7) lib/warden/manager.rb:35:in `call'\r\nrack (2.0.3) lib/rack/etag.rb:25:in `call'\r\nrack (2.0.3) lib/rack/conditional_get.rb:25:in `call'\r\nrack (2.0.3) lib/rack/head.rb:12:in `call'\r\nrack (2.0.3) lib/rack/session/abstract/id.rb:232:in `context'\r\nrack (2.0.3) lib/rack/session/abstract/id.rb:226:in `call'\r\nactionpack (5.1.2) lib/action_dispatch/middleware/cookies.rb:613:in `call'\r\nactionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:26:in `block in call'\r\nactivesupport (5.1.2) lib/active_support/callbacks.rb:97:in `run_callbacks'\r\nactionpack (5.1.2) lib/action_dispatch/middleware/callbacks.rb:24:in `call'\r\nactionpack (5.1.2) lib/action_dispatch/middleware/debug_exceptions.rb:59:in `call'\r\nactionpack (5.1.2) lib/action_dispatch/middleware/show_exceptions.rb:31:in `call'\r\nrailties (5.1.2) lib/rails/rack/logger.rb:36:in `call_app'\r\nrailties (5.1.2) lib/rails/rack/logger.rb:24:in `block in call'\r\nactivesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `block in tagged'\r\nactivesupport (5.1.2) lib/active_support/tagged_logging.rb:26:in `tagged'\r\nactivesupport (5.1.2) lib/active_support/tagged_logging.rb:69:in `tagged'\r\nrailties (5.1.2) lib/rails/rack/logger.rb:24:in `call'\r\nactionpack (5.1.2) lib/action_dispatch/middleware/remote_ip.rb:79:in `call'\r\nactionpack (5.1.2) lib/action_dispatch/middleware/request_id.rb:25:in `call'\r\nrack (2.0.3) lib/rack/method_override.rb:22:in `call'\r\nrack (2.0.3) lib/rack/runtime.rb:22:in `call'\r\nactivesupport (5.1.2) lib/active_support/cache/strategy/local_cache_middleware.rb:27:in `call'\r\nactionpack (5.1.2) lib/action_dispatch/middleware/executor.rb:12:in `call'\r\nrack (2.0.3) lib/rack/sendfile.rb:111:in `call'\r\nrailties (5.1.2) lib/rails/engine.rb:522:in `call'\r\nunicorn (5.3.0) lib/unicorn/http_server.rb:606:in `process_client'\r\nunicorn (5.3.0) lib/unicorn/http_server.rb:702:in `worker_loop'\r\nunicorn (5.3.0) lib/unicorn/http_server.rb:549:in `spawn_missing_workers'\r\nunicorn (5.3.0) lib/unicorn/http_server.rb:142:in `start'\r\nunicorn (5.3.0) bin/unicorn:126:in `<top (required)>'\r\n/home/deploy/gazpro5/shared/bundle/ruby/2.4.0/bin/unicorn:23:in `load'\r\n/home/deploy/gazpro5/shared/bundle/ruby/2.4.0/bin/unicorn:23:in `<main>'\r\nRoutes\r\n\r\nRoutes match in priority from top to bottom\r\n...\r\nRoutes for Tickets::Engine\r\n...\r\n\r\napi_v1_tickets_path | GET | /api/v1/tickets(.:format) | tickets/api/v1/tickets#index\r\n  | POST | /api/v1/tickets(.:format) | tickets/api/v1/tickets#create\r\nnew_api_v1_ticket_path | GET | /api/v1/tickets/new(.:format) | tickets/api/v1/tickets#new\r\nedit_api_v1_ticket_path | GET | /api/v1/tickets/:id/edit(.:format) | tickets/api/v1/tickets#edit\r\napi_v1_ticket_path | GET | /api/v1/tickets/:id(.:format) | tickets/api/v1/tickets#show\r\n  | PATCH | /api/v1/tickets/:id(.:format) | tickets/api/v1/tickets#update\r\n  | PUT | /api/v1/tickets/:id(.:format) | tickets/api/v1/tickets#update\r\n  | DELETE | /api/v1/tickets/:id(.:format) | tickets/api/v1/tickets#destroy\r\n```\r\n\r\n### System configuration\r\n**Rails version**: 5.1.2\r\n\r\n**Ruby version**: ruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-darwin16]\r\n",
+#               "createdAt": "2017-07-20T05:40:01Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-20T07:15:38Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/406868?v=4",
+#                 "login": "nir0",
+#                 "resourcePath": "/nir0",
+#                 "url": "https://github.com/nir0"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "ActiveRecord's before_update is called on create",
+#               "number": 29864,
+#               "url": "https://github.com/rails/rails/issues/29864",
+#               "body": "ActiveRecord's before_update is called on create. This happens when the record being create has a belongs_to relationship which declares back a has_one relationship (the common User -> Profile pattern). \r\n\r\n```ruby\r\nclass User < ActiveRecord::Base\r\n  belongs_to :profile\r\n  before_update do\r\n    # this shouldn't be called on create\r\n  end\r\nend\r\n\r\nclass Profile < ActiveRecord::Base\r\n  has_one :user\r\nend\r\n\r\n# the following will call the before_update block\r\nUser.create!(email: \"john@domain.com\", profile: Profile.new(name: \"John\"))\r\n```\r\n\r\nThis seems to be caused by the `has_one`'s autosave. If the `has_one` has `autosave: false` the block isn't called.\r\n\r\nI've briefly looked at the code and what I believe it's happening is:\r\n\r\n- `User#save` is triggered\r\n- `User#save` tries to save the `belongs_to` association (`Profile`)\r\n  - `Profile#save` is triggered\r\n  - `Profile#save` saves the `Profile` record\r\n  - `Profile#save` saves the `has_one` associations though creating the `User` record\r\n- `User#save` continues but record is already `persisted` so it will trigger the update callbacks\r\n\r\n### Steps to reproduce\r\n\r\nhttps://gist.github.com/cristianbica/b6f00b2ebb51b10986df3ff788e25885\r\n\r\n### Expected behavior\r\n\r\n`before_update` block shouldn't be called\r\n\r\n### Actual behavior\r\n\r\n`before_update` block is called\r\n\r\n### System configuration\r\n\r\n**Rails version**: master\r\n\r\n**Ruby version**: ruby 2.4.1p111\r\n",
+#               "createdAt": "2017-07-20T07:02:49Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-26T12:59:35Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/150381?v=4",
+#                 "login": "cristianbica",
+#                 "resourcePath": "/cristianbica",
+#                 "url": "https://github.com/cristianbica"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "activerecord"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "ruby  on rails guide 5.1.2 kindle download link is broken",
+#               "number": 29865,
+#               "url": "https://github.com/rails/rails/issues/29865",
+#               "body": "\r\n",
+#               "createdAt": "2017-07-20T07:12:01Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-24T07:54:27Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/8871080?v=4",
+#                 "login": "sagarkaurav",
+#                 "resourcePath": "/sagarkaurav",
+#                 "url": "https://github.com/sagarkaurav"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Rails::Secrets.encrypt should work even if secrets.yml.key doesn't exist",
+#               "number": 29868,
+#               "url": "https://github.com/rails/rails/issues/29868",
+#               "body": "I don't want to show the production environment token to some developers. (e.g. temporary staff), so there are some developmers who can not access `secrets.yml.key`.\r\n\r\nBut, `Rails::Secrets.encrypt` is not working without `secrets.yml.key`(or `ENV[\"RAILS_MASTER_KEY\"]`).\r\nhttps://github.com/rails/rails/blob/master/railties/lib/rails/secrets.rb#L51\r\n\r\nSo, I'm considering applying the following patch to `Rails::Secrets`.\r\nhttps://github.com/rails/rails/blob/master/railties/lib/rails/secrets.rb#L38\r\nThis patch makes `Rails::Secrets.encrypt` work even without secrets.yml.key in development and test environments. (for temporary staff)\r\n```\r\nmodule Rails\r\n  class Secrets\r\n    class << self\r\n      def key\r\n        key = ENV[\"RAILS_MASTER_KEY\"] || read_key_file\r\n        return key unless key.nil?\r\n\r\n        if Rails.env.development? || Rails.env.test?\r\n          # key must be 32 bytes\r\n          return \"duuuuuuuuuuuuuuuuuuuuuuuuuuuuumy\"\r\n        end\r\n\r\n        handle_missing_key\r\n      end\r\n    end\r\n  end\r\nend\r\n```\r\n\r\nAre there any good ideas?\r\n\r\n### System configuration\r\n**Rails version**:\r\n\r\n5.1.1\r\n\r\n**Ruby version**:\r\n\r\n2.4.1p111",
+#               "createdAt": "2017-07-20T10:35:26Z",
+#               "lastEditedAt": "2017-07-20T10:42:22Z",
+#               "updatedAt": "2017-07-20T10:42:22Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/1830471?v=4",
+#                 "login": "michiomochi",
+#                 "resourcePath": "/michiomochi",
+#                 "url": "https://github.com/michiomochi"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Unnecessary number of deprecation warnings in ActiveRecord::AttributeMethods::Dirty",
+#               "number": 29873,
+#               "url": "https://github.com/rails/rails/issues/29873",
+#               "body": "### Steps to reproduce\r\n\r\nIn an `ApplicationRecord` instance, call an `attribute_was` method\r\n\r\n### Expected behavior\r\n\r\nOutput 1 deprecation warning:\r\n\r\n```\r\nDEPRECATION WARNING: The behavior of `attribute_was` inside of after callbacks will be changing in the next version of Rails. The new return value will reflect the behavior of calling the method after `save` returned (e.g. the opposite of what it returns now). To maintain the current behavior, use `attribute_before_last_save` instead. (called from...)\r\n```\r\n\r\n### Actual behavior\r\n\r\nOutputs 3 deprecation warnings:\r\n\r\n```\r\nDEPRECATION WARNING: The behavior of `attribute_was` inside of after callbacks will be changing in the next version of Rails. The new return value will reflect the behavior of calling the method after `save` returned (e.g. the opposite of what it returns now). To maintain the current behavior, use `attribute_before_last_save` instead. (called from...)\r\nDEPRECATION WARNING: The behavior of `attribute_changed?` inside of after callbacks will be changing in the next version of Rails. The new return value will reflect the behavior of calling the method after `save` returned (e.g. the opposite of what it returns now). To maintain the current behavior, use `saved_change_to_attribute?` instead. (called from...)\r\nDEPRECATION WARNING: The behavior of `changed_attributes` inside of after callbacks will be changing in the next version of Rails. The new return value will reflect the behavior of calling the method after `save` returned (e.g. the opposite of what it returns now). To maintain the current behavior, use `saved_changes.transform_values(&:first)` instead. (called from...)\r\n```\r\n\r\n### System configuration\r\n**Rails version**: 5.1.2 & 5.1.3r.rc1\r\n\r\n**Ruby version**: 2.3.1, 2.3.3, 2.4.1\r\n\r\n(I am gonna open a PR to fix this, opening this issue so that it's tracked)\r\n",
+#               "createdAt": "2017-07-20T15:44:08Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-20T15:44:08Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/10344453?v=4",
+#                 "login": "BenMusch",
+#                 "resourcePath": "/BenMusch",
+#                 "url": "https://github.com/BenMusch"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Strong parameters doesn't permit all nested attributes if key is not numeric",
+#               "number": 29888,
+#               "url": "https://github.com/rails/rails/issues/29888",
+#               "body": "### Steps to reproduce\r\nppp = ActionController::Parameters.new( {\"user_infos_attributes\"=>{\"1500663412001\"=>{\"address\"=>\"222\", \"city\"=>\"222\"}, 'NEW_RECORD' => {\"address\" => \"333\", \"city\" => \"333\"}}})\r\naaa = [{:user_infos_attributes => [:address, :city]}]\r\nppp.permit(aaa)\r\n\r\nvs\r\n\r\nWith removed non-numeric key 'NEW_RECORD':\r\nppp = ActionController::Parameters.new( {\"user_infos_attributes\"=>{\"1500663412001\"=>{\"address\"=>\"222\", \"city\"=>\"222\"}}})\r\naaa = [{:user_infos_attributes => [:address, :city]}]\r\nppp.permit(aaa)\r\n\r\n(Guidelines for creating a bug report are [available\r\nhere](http://guides.rubyonrails.org/contributing_to_ruby_on_rails.html#creating-a-bug-report))\r\n\r\n### Expected behavior\r\nTell us what should happen\r\nppp.permit(aaa) should give a correct set:\r\n<ActionController::Parameters {\"user_infos_attributes\"=><ActionController::Parameters {\"1500663412001\"=><ActionController::Parameters {\"address\"=>\"222\", \"city\"=>\"222\"} permitted: true>} permitted: true>} permitted: true>\r\n\r\n\"Strong parameters\" permitting should not think that keys of nested records are always numeric ('NEW_RECORD' or '12332435345'), anyway the keys are not used. Or at least only the record with non-numeric key should be unpermitted, but not all of the passed records.\r\n\r\n### Actual behavior\r\nTell us what happens instead\r\nppp.permit(aaa) gives\r\n<ActionController::Parameters {\"user_infos_attributes\"=><ActionController::Parameters {} permitted: true>} permitted: true>\r\n\r\n### System configuration\r\n**Rails version**:\r\nRails 5.0.4.\r\n**Ruby version**:\r\n2.4.1\r\n",
+#               "createdAt": "2017-07-21T21:09:08Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-27T14:15:46Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/11577514?v=4",
+#                 "login": "lfekson",
+#                 "resourcePath": "/lfekson",
+#                 "url": "https://github.com/lfekson"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "actionpack"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "The X-Forwarded-Host HTTP header is always trusted and is used in url_for",
+#               "number": 29893,
+#               "url": "https://github.com/rails/rails/issues/29893",
+#               "body": "### Background\r\n\r\nThis has been reported twice on the rails HackerOne program, and the recommendation (from Jeremy) was to open a GitHub issue:\r\n\r\n- https://hackerone.com/reports/71835 (cache poisoning attack by users setting X-Forwarded-Host)\r\n- https://hackerone.com/reports/246697 (same title as this issue)\r\n\r\n### Steps to Reproduce\r\n\r\nWe're going to simulate a [host header attack](https://www.acunetix.com/blog/articles/automated-detection-of-host-header-attacks/) on a sample application. The sample application is a vanilla rails 5.1.2 application with a home page and one route added, `foo`, to redirect back to the home page. The code is available here: https://github.com/jdleesmiller/forwarded_host_demo\r\n\r\n1. Visit http://forwarded-host-demo.herokuapp.com/ (it may need some time to boot up)\r\n\r\n1. Open the network tools in your browser (I used Chrome) and tick the option to preserve requests.\r\n\r\n1. Click the 'redirect back to home page' link. You are redirected to the home page.\r\n\r\n1. Copy the corresponding request for `/foo` as a cURL command from the browser's network tools (right click, Copy, Copy as cURL).\r\n\r\n1. To simulate a [host header attack](https://www.acunetix.com/blog/articles/automated-detection-of-host-header-attacks/), paste the curl command into a terminal and add `-H 'X-Forwarded-Host: evil.com'`. For example, for one of my requests:\r\n   ```\r\n   curl 'http://forwarded-host-demo.herokuapp.com/welcome/foo' -H 'Accept-Encoding: gzip, deflate, sdch' -H 'Accept-Language: en-GB,en-US;q=0.8,en;q=0.6' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36' -H 'Accept: text/html, application/xhtml+xml' -H 'Referer: http://forwarded-host-demo.herokuapp.com/' -H 'Cookie: _forwarded_host_session=RjRsTFduOUg5ZStSUCtlVWtYOWN6cVVsVHNzV1Y5aWNWUlZYVXYvcGZKMVhTSmI3Njg5cURiUFltaTE2cVh0STNreENLbmJLR1pNWlkwWDA0UmhNdERpZzEzOW53aWk2QndkdHhNWkp2L0l2bnFoNlpwdUdNekJUVnBmcHc2SUwwZzdCSDh5RTNFOTdCUTVFRkZoLzFRPT0tLWU1M1k4OVpNZ0lIL0UyUXp0SHN0Rnc9PQ%3D%3D--a85dd504e2416f8cbb387b7bb32184dd9e31337a' -H 'Connection: keep-alive' -H 'Turbolinks-Referrer: http://forwarded-host-demo.herokuapp.com/' -H 'X-Forwarded-Host: evil.com' --compressed\r\n   ```\r\n\r\n### Expected Result\r\n\r\nUser is redirected to the home page:\r\n\r\n```\r\n<html><body>You are being <a href=\"http://forwarded-host-demo.herokuapp.com/\">redirected</a>.</body></html>\r\n```\r\n\r\n### Observed Result\r\n\r\nUser is redirected to the home page on evil.com:\r\n\r\n```\r\n<html><body>You are being <a href=\"http://evil.com/\">redirected</a>.</body></html>\r\n```\r\n\r\n(You can also verify the HTTP Location header for the redirect is set to `http://evil.com` by passing `-i` to curl.)\r\n\r\n### System configuration\r\n**Rails version**: 5.1.2\r\n\r\n**Ruby version**: 2.4.0p0\r\n\r\n### Analysis\r\n\r\nAs I understand it, rails uses the `X-Forwarded-Host` HTTP header in preference to the `Host` HTTP header in [ActionDispatch::Http::URL](https://github.com/rails/rails/blob/c8ce3459648ce0f86646b564ce1c0bb16a4b48eb/actionpack/lib/action_dispatch/http/url.rb#L220) to compute `request.host`. `request.host` is in turn used in `url_for`.\r\n\r\n### Impact\r\n\r\nThis makes it very easy to create an open redirect in a rails application, in addition to creating many opportunities for reflection of URLs controlled by an attacker, since it affects all of rails's URL helpers through `url_for`.\r\n\r\nTo exploit it, the attacker needs to be able to inject the `X-Forwarded-Host` header, which can be accomplished by cache poisoning.\r\n\r\nThere is at least one public bug report on HackerOne that demonstrates an attack vector, https://hackerone.com/reports/487.\r\n\r\nIt seems that GitLab tried to patch this problem in https://gitlab.com/gitlab-org/gitlab-ce/issues/17877 by removing the header in their NGINX layer. However, this caused a number of problems, and they had to remove the patch. According to the issue, they are going to try again with a whitelist of hosts.\r\n\r\nWhether the `X-Forwarded-Host` header is under the user's control does depend on the upstream proxy configuration. On heroku, the steps to reproduce above with my sample app show that it is under user control, so that accounts for a large number of rails applications.\r\n\r\n### Mitigation\r\n\r\nThis list of best practices https://github.com/ankane/secure_rails says that you should set\r\n```\r\nconfig.action_controller.default_url_options = {host: \"www.yoursite.com\"}\r\nconfig.action_controller.asset_host = \"www.yoursite.com\"\r\n```\r\nto avoid host injection, but when I tested it, it had no effect. (I tried it on this branch: https://github.com/jdleesmiller/forwarded_host_demo/tree/default-host .) I think the `request.host` takes precedence over the default setting, which is only used when operating without a request, for example in a background worker.\r\n\r\nExpress.js has a `trust proxy` setting that, among other things, [determines whether the app will trust `X-Forwarded-Host` to set the hostname](https://expressjs.com/en/guide/behind-proxies.html). I could not find any similar option for rails; rails has good handling of IP spoofing with `X-Forwarded-For`, but I cannot see any countermeasures against `X-Forwarded-Host` spoofing.\r\n\r\nIf the header is not required, removing it appears to solve the problem. One way to do this is with a small piece of Rack middleware in `config/application.rb`:\r\n\r\n```\r\n    class StripXForwardedHost\r\n      def initialize(app)\r\n        @app = app\r\n      end\r\n\r\n      def call(env)\r\n        env.delete('HTTP_X_FORWARDED_HOST')\r\n        @app.call(env)\r\n      end\r\n    end\r\n    config.middleware.use StripXForwardedHost\r\n```\r\n\r\nThis is the approach I'm trialling on my app, and so far it works OK.\r\n\r\nJeremy on HackerOne suggested:\r\n\r\n> Ideally, we'd validate the host header against an allow-list. This is the approach we take for Action Cable allowed origins.\r\n\r\nI'm not at this point what the best approach is, so I've opted to open an issue for discussion.\r\n\r\nI hope that's all clear. Let me know if you have any questions.",
+#               "createdAt": "2017-07-22T15:51:22Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-27T05:44:42Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/160829?v=4",
+#                 "login": "jdleesmiller",
+#                 "resourcePath": "/jdleesmiller",
+#                 "url": "https://github.com/jdleesmiller"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "bin/test is not using the Rails test reporter",
+#               "number": 29899,
+#               "url": "https://github.com/rails/rails/issues/29899",
+#               "body": "Since https://github.com/rails/rails/pull/29572, the output of `bin/test` and `bundle exec ruby -Itest ...` is slightly different output. `bin/test` doesn't load the Rails minitest plugin, which leads to minitest' default reporter used. Note that I'm talking about the rails/rails test suite.\r\n\r\nI'm not 100% sure, but I think it happens because `bin/test` is calling `Rails::TestUnit::Runner.run(ARGV)` as another one is using `Minitest.run(ARGV)`\r\n\r\n### Expected behavior\r\n\r\n`bundle exec ruby -Itest test/cases/my_test.rb` and `bin/test test/cases/my_test.rb` should have the same output.\r\n\r\n### Actual behavior\r\n\r\n`bundle exec ruby -Itest test/cases/my_test.rb` is using shiny new Rails test reporter and prints rerun command:\r\n\r\n<img width=\"741\" alt=\"screen shot 2017-07-23 at 23 01 29\" src=\"https://user-images.githubusercontent.com/522155/28502433-31ed546a-6ffb-11e7-9090-01a189a41d7d.png\">\r\n\r\n`bin/test test/cases/my_test.rb` is using minitest built-in reporter:\r\n\r\n<img width=\"995\" alt=\"screen shot 2017-07-23 at 23 01 41\" src=\"https://user-images.githubusercontent.com/522155/28502445-4abf75f4-6ffb-11e7-8c3e-e6e7111d0518.png\">\r\n",
+#               "createdAt": "2017-07-23T20:08:48Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-27T08:38:48Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/522155?v=4",
+#                 "login": "kirs",
+#                 "resourcePath": "/kirs",
+#                 "url": "https://github.com/kirs"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Autoloading guide should mention `eager_load_paths`",
+#               "number": 29920,
+#               "url": "https://github.com/rails/rails/issues/29920",
+#               "body": "The [Autoloading guide](http://guides.rubyonrails.org/autoloading_and_reloading_constants.html). Mentions adding `lib` to `autoload_paths`, but does not mention anything about also adding it to `eager_load_paths`. Without `eager_load_paths` constants may fail to load in production.",
+#               "createdAt": "2017-07-24T20:44:04Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-24T20:52:07Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/1583?v=4",
+#                 "login": "mikehale",
+#                 "resourcePath": "/mikehale",
+#                 "url": "https://github.com/mikehale"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Unable to parse `filter_parameters` in development environment leads to unclear error message",
+#               "number": 29947,
+#               "url": "https://github.com/rails/rails/issues/29947",
+#               "body": "When malformed query parameters are passed, a controller fails to parse the query parameters (which is expected). In production, this is ok because the `PublicExceptions` middleware catches it and shows the corresponding error page. In development on the other hand, the `DebugExceptions` middleware attempts to render the [request and response template](https://github.com/rails/rails/blob/master/actionpack/lib/action_dispatch/middleware/templates/rescues/_request_and_response.html.erb#L9) but is unable to parse `filtered_parameters` and doesn't display the correct error message. \r\n\r\nHere is the test that replicates the bug:\r\n\r\n```diff\r\ndiff --git a/railties/test/application/middleware/exceptions_test.rb b/railties/test/application/middleware/exceptions_test.rb\r\nindex fe07ad3cbe..8ad218beb8 100644\r\n--- a/railties/test/application/middleware/exceptions_test.rb\r\n+++ b/railties/test/application/middleware/exceptions_test.rb\r\n@@ -134,5 +134,21 @@ def index\r\n       assert_match(/boooom/, last_response.body)\r\n       assert_match(/測試テスト시험/, last_response.body)\r\n     end\r\n+\r\n+    test \"displays diagnostics message when malformed query parameters are provided\" do\r\n+      controller :foo, <<-RUBY\r\n+        class FooController < ActionController::Base\r\n+          def index\r\n+          end\r\n+        end\r\n+      RUBY\r\n+\r\n+      app.config.action_dispatch.show_exceptions = true\r\n+      app.config.consider_all_requests_local = true\r\n+\r\n+      get \"/foo?x[y]=1&x[y][][w]=2\"\r\n+      assert_equal 400, last_response.status\r\n+      assert_match \"Rack::QueryParser::ParameterTypeError\", last_response.body\r\n+    end\r\n   end\r\n end\r\n```\r\n\r\nIf you run the test above, it'll fail with the message below:\r\n\r\n```\r\n$ rails -v\r\nRails 5.2.0.alpha\r\n$ ruby -v\r\nruby 2.4.1p111 (2017-03-22 revision 58053) [x86_64-darwin16]\r\n$ ruby -I\"lib:test\" test/application/middleware/exceptions_test.rb\r\nRun options: --seed 20823\r\n\r\n# Running:\r\n\r\n......F\r\n\r\nFailure:\r\nApplicationTests::MiddlewareExceptionsTest#test_displays_diagnostics_message_when_malformed_query_parameters_are_provided [test/application/middleware/exceptions_test.rb:151]:\r\nExpected /Rack::QueryParser::ParameterTypeError/ to match \"\".\r\n```",
+#               "createdAt": "2017-07-25T21:15:42Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-25T21:15:42Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/5201004?v=4",
+#                 "login": "xtina-starr",
+#                 "resourcePath": "/xtina-starr",
+#                 "url": "https://github.com/xtina-starr"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Class-specific virtual attribute not writable after using `becomes`",
+#               "number": 29949,
+#               "url": "https://github.com/rails/rails/issues/29949",
+#               "body": "If using STI and there’s a subclass containing a virtual attribute (not backend by a database column), this attribute can not be written on instances created by `superclass_instance.becomes(Subclass)`:\r\n\r\n### Steps to reproduce\r\n\r\n```ruby\r\nbegin\r\n  require \"bundler/inline\"\r\nrescue LoadError => e\r\n  $stderr.puts \"Bundler version 1.10 or later is required. Please update your Bundler\"\r\n  raise e\r\nend\r\n\r\ngemfile() do\r\n  source \"https://rubygems.org\"\r\n  gem \"rails\", github: \"rails/rails\"\r\n  gem \"arel\", github: \"rails/arel\"\r\n  gem \"sqlite3\"\r\nend\r\n\r\nrequire \"active_record\"\r\nrequire \"minitest/autorun\"\r\nrequire \"logger\"\r\n\r\nActiveRecord::Base.establish_connection(adapter: \"sqlite3\", database: \":memory:\")\r\nActiveRecord::Base.logger = Logger.new(STDOUT)\r\n\r\nActiveRecord::Schema.define do\r\n  create_table :people do |t|\r\n    t.string :type\r\n    t.string :name\r\n  end\r\nend\r\n\r\nclass Person < ActiveRecord::Base\r\n  attribute :name, :string\r\nend\r\n\r\nclass Friend < Person\r\n  attribute :special, :boolean # virtual (not backed by a db column)\r\nend\r\n\r\nclass BugTest < Minitest::Test\r\n  def test_virtual_attribute\r\n    friend = Friend.new\r\n    friend.special = true\r\n    assert friend.special\r\n  end\r\n\r\n  def test_virtual_attribute_after_becomes\r\n    friend = Person.new.becomes(Friend)\r\n    friend.special = true # raises ActiveModel::MissingAttributeError: can't write unknown attribute `special`\r\n    assert friend.special\r\n  end\r\nend\r\n```\r\n\r\nObservations:\r\n * Reading the virtual attribute does not raise an error (it returns nil).\r\n * If the virtual attribute is defined on the superclass instead, everything works as expected.\r\n * If the attribute is backed by a column in the database, everything works as expected.\r\n",
+#               "createdAt": "2017-07-25T22:23:23Z",
+#               "lastEditedAt": "2017-07-25T22:25:10Z",
+#               "updatedAt": "2017-07-26T08:49:22Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/244158?v=4",
+#                 "login": "noniq",
+#                 "resourcePath": "/noniq",
+#                 "url": "https://github.com/noniq"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Support for multiple foreign keys in ActiveRecord::Associations?",
+#               "number": 29969,
+#               "url": "https://github.com/rails/rails/issues/29969",
+#               "body": "## Problem\r\n\r\nSuppose you have a `User` model with a HABTM self-join relationship, maintained through a separate join table:\r\n\r\n#### The `User` model\r\n\r\n```\r\nclass User < ApplicationRecord\r\n  has_many :followers, through: :supply_links\r\n  has_many :followeds, through: :supply_links\r\n  ...\r\nend\r\n```\r\n\r\n#### The join model\r\n\r\n```\r\nclass Following < ApplicationRecord\r\n  belongs_to :followers, class_name: 'User'\r\n  belongs_to :followeds, class_name: 'User'\r\n  ...\r\nend\r\n```\r\n\r\nAs I currently understand it, if you want to add a has-many association on the `User` model for the join model itself, you have to create two separate associations:\r\n\r\n```\r\n# app/model/user.rb\r\nclass User < ApplicationRecord\r\n  ...\r\n  has_many :follower_connections, class_name: :followings, foreign_key: :follower_id\r\n  has_many :followed_connections, class_name: :followings, foreign_key: :followed_id\r\n  ...\r\nend\r\n```\r\n\r\nThen, in order to get **all** join table records referencing a given user, you'd have to concatenate calls to each of these associations:\r\n\r\n```\r\nalice.follower_connections + alice.followed_connections\r\n```\r\n\r\nwhen really, all I want is to call:\r\n\r\n```\r\nalice.followings\r\n```\r\n\r\n## Proposal\r\n\r\nWhat would the Rails team think about supporting the following syntax?\r\n\r\n```\r\nhas_many :followings, foreign_keys: [:follower_id, :followed_id]\r\n```\r\n\r\nI'd be willing to take a stab at a PR, but I'd like to understand if there's a reason it doesn't work this way first. I've done a bit of digging on SO, and at least [a](https://stackoverflow.com/questions/39184047/rails-self-join-with-has-many-through-relationship) [few](https://stackoverflow.com/questions/6387355/rails-self-referential-has-many-through-i-cant-figure-out-what-im-doing-wro) [people](https://stackoverflow.com/questions/24642005/rails-association-with-multiple-foreign-keys) have been looking for something like this since 2011.",
+#               "createdAt": "2017-07-27T07:49:19Z",
+#               "lastEditedAt": "2017-07-27T07:50:19Z",
+#               "updatedAt": "2017-07-27T07:50:19Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/12194123?v=4",
+#                 "login": "rlue",
+#                 "resourcePath": "/rlue",
+#                 "url": "https://github.com/rlue"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "ActionController::RoutingError returns 500 (via fail-safe) rather than the expected 400 when POST parameters are invalid",
+#               "number": 29983,
+#               "url": "https://github.com/rails/rails/issues/29983",
+#               "body": "",
+#               "createdAt": "2017-07-28T13:34:17Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-28T13:34:17Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/5387?v=4",
+#                 "login": "weppos",
+#                 "resourcePath": "/weppos",
+#                 "url": "https://github.com/weppos"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "Calling \"unscope\" from inside another scope breaks STI in 5.0.5",
+#               "number": 29986,
+#               "url": "https://github.com/rails/rails/issues/29986",
+#               "body": "Invoking a scope on an STI class from inside another class breaks its `all` scope on Rails 5.0.5.rc2. It does not happen on 5.1.3.rc2. I imagine it might be possible to backport a fix, which I will investigate shortly.\r\n\r\n### Steps to reproduce\r\n\r\nA sample application [is attached here](https://github.com/rails/rails/files/1183895/ar_bug_demo.tar.gz).\r\n\r\n\r\nI have 3 classes:\r\n\r\n```ruby\r\nclass CreateAreas < ActiveRecord::Migration[5.1]\r\n  def change\r\n    create_table :areas do |t|\r\n      t.string :name\r\n      t.string :type\r\n      t.integer :parent_id\r\n      t.integer :state_area_id\r\n      t.timestamps\r\n    end\r\n  end\r\nend\r\n\r\nclass Area < ApplicationRecord\r\n  scope :named, ->(value) { where(name: value) }\r\n  scope :with_state, lambda {|name|\r\n    where(state_area_id: State.unscoped.named(name))\r\n  }\r\nend\r\n\r\nclass City < Area\r\nend\r\n\r\nclass State < Area\r\nend\r\n```\r\n\r\nExecute this in the Rails console:\r\n\r\n```\r\nputs State.all.to_sql\r\nArea.with_state(\"Washington\")\r\nputs State.all.to_sql\r\n```\r\n### Expected behavior\r\n\r\nThe output of `State.all.to_sql` should be identical.\r\n\r\n### Actual behavior\r\n\r\nThe output of the second call to `State.all.to_sql` is:\r\n\r\n```sql\r\nSELECT \"areas\".* FROM \"areas\"\r\n```\r\n\r\nrather than \r\n\r\n```sql\r\nSELECT \"areas\".* FROM \"areas\" WHERE \"areas\".\"type\" IN ('State')\r\n```\r\n\r\n### System configuration\r\n**Rails version**:\r\n\r\nrails-5.0.5.rc2\r\n\r\n**Ruby version**:\r\n\r\nruby 2.3.1p112 (2016-04-26) [x86_64-linux-gnu]\r\n",
+#               "createdAt": "2017-07-28T18:05:17Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-28T21:52:42Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/5042?v=4",
+#                 "login": "norman",
+#                 "resourcePath": "/norman",
+#                 "url": "https://github.com/norman"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "rails/rails"
+#               },
+#               "title": "bundle exec rails new ~/my-test-app --dev failed on window host",
+#               "number": 29987,
+#               "url": "https://github.com/rails/rails/issues/29987",
+#               "body": "### Steps to reproduce\r\nuse https://github.com/rails/rails-dev-box.git\r\n\r\nbundle exec rails new ~/my-test-app --dev failed\r\n\r\n### Expected behavior\r\nsource 'https://rubygems.org'\r\ngit_source(:github) { |repo| \"https://github.com/#{repo}.git\" }\r\ngem 'rails', path: \"/vagrant/rails\"\r\n\r\n### Actual behavior\r\nsource 'https://rubygems.org'\r\ngit_source(:github) { |repo| \"https://github.com/#{repo}.git\" }\r\ngem 'rails'\r\n, path: \"/vagrant/rails\"\r\n\r\n### System configuration\r\nDevbox",
+#               "createdAt": "2017-07-28T18:12:44Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-28T18:12:44Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/1770027?v=4",
+#                 "login": "wizdata",
+#                 "resourcePath": "/wizdata",
+#                 "url": "https://github.com/wizdata"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           }
+#         ]
+#       }
+#     }
+#   }
+# }
+#
+# @jekyll_issues = {
+#   "data": {
+#     "repository": {
+#       "issues": {
+#         "edges": [
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Setting Collections Relative Directory: Right Approach?",
+#               "number": 2518,
+#               "url": "https://github.com/jekyll/jekyll/issues/2518",
+#               "body": "This discussion is related to a [PR](https://github.com/jekyll/jekyll/pull/2517) I made to set a configuration variable for a Collection's location in the directory structure. I'm putting it here in an issue to open a broader discussion, if anyone cares, about the best approach to this.\n\nCurrently, a Collection's \"relative_directory\" is set to the Collection label. The documentation is a bit confusing here, because one can apparently access the relative_directory, but not configure it.\n\nI believe it will be better for users, including content creators, to optionally organize their collections into a folder or folders.\n\nSo, is it best to be able to set each Collection's directory, or set all Collections' directory, or set aside (thinking of a previous conversation on this) the _includes and _layouts folder so everything else is content?\n\nI've been trying to shove most of my content into a _documents folder and with a bit of finagling (setting permalinks) I can get them to render where I'd like. \nIdeally there'd be a way to have a lot of control over the directory structure to keep it organized.\n\nThoughts appreciated.\n",
+#               "createdAt": "2014-06-14T16:12:45Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-18T06:01:06Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 8
+#               },
+#               "comments": {
+#                 "totalCount": 13
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/115347?v=4",
+#                 "login": "budparr",
+#                 "resourcePath": "/budparr",
+#                 "url": "https://github.com/budparr"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Jekyll fails if markdown contains UTF-8 Byte Order Marker",
+#               "number": 2853,
+#               "url": "https://github.com/jekyll/jekyll/issues/2853",
+#               "body": "This is difficult to troubleshoot and causes lots of problems. UTF-8 BOMs should not cause Jekyll to fail.\n\nhttp://andrewbolster.info/2014/01/unicode-madness-in-jekyll/\nhttp://stackoverflow.com/questions/3140111/jekyll-does-not-parse-utf-8\n",
+#               "createdAt": "2014-08-29T13:24:33Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-18T06:01:07Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 15
+#               },
+#               "comments": {
+#                 "totalCount": 39
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/4192774?v=4",
+#                 "login": "ericlaw1979",
+#                 "resourcePath": "/ericlaw1979",
+#                 "url": "https://github.com/ericlaw1979"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "bug"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "not-reproduced"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Proposal: multiple formats per page using layouts",
+#               "number": 3041,
+#               "url": "https://github.com/jekyll/jekyll/issues/3041",
+#               "body": "As far as I can tell, it's not possible to have two output formats for a single page/post at the moment.\n\nWe have a case where we'd like to generate an iCal file for each post, as well as the HTML version. It seems to me that a nice way to do this would be to allow multiple extensions for each layout, and generate a file for each extension in the specified layout.\n\nFor instance, if we had a post `2014-10-30-hello-world.md`, and two layouts, `_layouts/post.html` and `_layouts/post.ical`, you would end up with output in both `/2014/10/30/hello-world.html` and `/2014/10/30/hello-world.ical`.\n\nI'll have a go at this when I find time, but I was wondering if anyone could highlight any fundamental reasons why this wouldn't work, or problems that might be encountered when writing it?\n",
+#               "createdAt": "2014-10-30T11:27:27Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-02T14:18:04Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 24
+#               },
+#               "comments": {
+#                 "totalCount": 67
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/3565?v=4",
+#                 "login": "Floppy",
+#                 "resourcePath": "/Floppy",
+#                 "url": "https://github.com/Floppy"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "suggestion"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": ".htaccess Files are ignored from exclude: filter in _config.yml",
+#               "number": 3958,
+#               "url": "https://github.com/jekyll/jekyll/issues/3958",
+#               "body": "The documentation states that dotfiles (.htaccess) should be placed in the `include:` filter in your config file. By default dotfiles are ignored.\n\n .htaccess is compiled and placed in the jekyll `destination:`  even if placed in the `exclude:` filter  \n\nThe issue stems from #742 and I believe it was brought back here: \n<img width=\"973\" alt=\"screen shot 2015-09-02 at 2 18 10 pm\" src=\"https://cloud.githubusercontent.com/assets/1952926/9640200/580bf248-517e-11e5-9959-f0c9c54f391b.png\">\n",
+#               "createdAt": "2015-09-02T18:26:45Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2015-09-10T23:25:16Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/1952926?v=4",
+#                 "login": "htmelvis",
+#                 "resourcePath": "/htmelvis",
+#                 "url": "https://github.com/htmelvis"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "incremental breaks {{ post.content }}",
+#               "number": 4112,
+#               "url": "https://github.com/jekyll/jekyll/issues/4112",
+#               "body": "The `post.content` variable contains the raw markdown and not the processed html when i generate my site using `jekyll build --incremental`. This means that the rss feed is broken where the description is filled with `{{ post.content }}`.\n\nI'm using Jekyll v3.0.0 on OSX 10.10 with ruby 2.0.0p481\n",
+#               "createdAt": "2015-11-05T12:47:29Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-03-27T19:55:46Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 9
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/1749936?v=4",
+#                 "login": "Nemo64",
+#                 "resourcePath": "/Nemo64",
+#                 "url": "https://github.com/Nemo64"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "bug"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Consolidate caches and create a _cache folder for *all* to use.",
+#               "number": 4227,
+#               "url": "https://github.com/jekyll/jekyll/issues/4227",
+#               "body": "Today we did an audit for our biggest Jekyll site and noticed it has like 8 cache folders, this is pretty big and unwieldy, it also makes it harder for us to control the caching on our build servers.  We should create a `_cache` folder and consolidate all Jekyll caching into that folder, and then ask plugin authors to place their caches in that folder too with or without prefixes.  Exp:\n- `_cache/jekyll/incremental`\n- `_cache/jekyll-assets/assets`\n- `_cache/jekyll/sass`\n\nNow cleanup went from \"let me figure out what is what\" to `rm -rf _cache`\n",
+#               "createdAt": "2015-12-05T05:32:20Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-26T14:32:26Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 8
+#               },
+#               "comments": {
+#                 "totalCount": 17
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/99763?v=4",
+#                 "login": "envygeeks",
+#                 "resourcePath": "/envygeeks",
+#                 "url": "https://github.com/envygeeks"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "plugin_dir path is not sanatized if it's an array",
+#               "number": 4261,
+#               "url": "https://github.com/jekyll/jekyll/issues/4261",
+#               "body": "I've been working on the [jekyll-multisite](https://github.com/sumdog/jekyll-multisite) plugin and part of that work involves monkey patches to remove some of the security around jekyll so it can work with multiple source roots. \n\nIn this process, I came across the following in `plugin_manager.rb`\n\n```\n    def plugins_path\n      if (site.config['plugins_dir'] == Jekyll::Configuration::DEFAULTS['plugins_dir'])\n        [site.in_source_dir(site.config['plugins_dir'])]\n      else\n        Array(site.config['plugins_dir']).map { |d| File.expand_path(d) }\n      end\n    end\n```\n\nNotice that `site.in_source_dir` is only called when `plugins_dir` is not a list? If I change my `_config.yml` to make `plugins_dir` into a list instead of a string, I can use plugin directories outside my source tree.\n\nI'm also wonder why we even bother doing the `in_source_dir` check here in the first place. You can't run plugins in safe mode anyway, so what's the point in putting in this check? It doesn't really add any additional security.  \n",
+#               "createdAt": "2015-12-14T21:02:02Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-11-06T18:12:20Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 12
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/156601?v=4",
+#                 "login": "sumdog",
+#                 "resourcePath": "/sumdog",
+#                 "url": "https://github.com/sumdog"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "security"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "stale"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "support"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Refactor Errors",
+#               "number": 4310,
+#               "url": "https://github.com/jekyll/jekyll/issues/4310",
+#               "body": "@envygeeks has pointed this out to me privately before, and I think he's right: our errors could use some improvement. Right now, we throw generic or incomplete errors. For `FatalException`, we don't even give the user the option to get the stacktrace (#3773). There are often duplications in the output, too, which is confusing.\n\nGoals:\n- Simplify error handling code\n- Give developer consumers a much easier way to differentiate errors\n- Reduce user confusion\n\nI think we should do the following:\n- [ ] Settle on `Exception` or `Error` for everything\n- [ ] Identify possible spots in the code that cause errors and identify discrete custom error classes they could create\n- [ ] Create custom errors for each error case, such as `ReadError`, `ConversionError`, and `LiquidException` that handle errors throughout the build process\n- [ ] Allow each error to provide context (e.g. `\"here's the content that errored: #{content}\"`)\n- [ ] Allow each error to provide help info (e.g. `go to http://jekyllrb.com/docs/errors/invalid-include-error/` for more info`)\n\nAnything else?\n\nErrors:\n- [ ] Incorrect type for yaml front matter https://github.com/jekyll/jekyll/issues/3643\n\n/cc @jekyll/core @benbalter\n",
+#               "createdAt": "2016-01-04T19:07:08Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-18T06:01:07Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 12
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/237985?v=4",
+#                 "login": "parkr",
+#                 "resourcePath": "/parkr",
+#                 "url": "https://github.com/parkr"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "ux"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "path scope not work with subfolders on jekyll 3.0.1",
+#               "number": 4331,
+#               "url": "https://github.com/jekyll/jekyll/issues/4331",
+#               "body": "Check the following site at github\n\nhttp://cgarces.github.io/jekyllrb_multilanguage/\nthe source is at https://github.com/CGarces/jekyllrb_multilanguage\n\nThe post language is showed between the \"-\" chars and assigned by _config.yml\n\nThe folder structure is \n\n```\n_posts\n es\n   0000-01-01-sample.md\n en\n   0000-01-01-sample.md\n```\n\nAnd my config file contains...\n\n```\ndefaults:\n  -\n    scope:\n      path: \"_posts/es\"\n    values:\n      layout: default\n      lang: es\n  -\n    scope:\n      path: \"_posts/en\"\n    values:\n      layout: default\n      lang: en\n```\n\nBut fails on my development environment \n$ jekyll -v\njekyll 3.0.1\n\nIt's a specific bug of 3.x?\n",
+#               "createdAt": "2016-01-08T17:29:11Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-14T20:21:46Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 11
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/6617155?v=4",
+#                 "login": "CGarces",
+#                 "resourcePath": "/CGarces",
+#                 "url": "https://github.com/CGarces"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "bug"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Rename `baseurl` to `base_path`",
+#               "number": 4711,
+#               "url": "https://github.com/jekyll/jekyll/issues/4711",
+#               "body": "I'd like to propose that we rename `baseurl` to `base_path` in a backwards compatible way (meaning if you have `baseurl` in your config, we'll use it as `base_path` automatically, but with a deprecation warning).\n\nThere's [a lot of confusion](http://blog.parkermoore.de/2014/04/27/clearing-up-confusion-around-baseurl/) about how to use `baseurl`, and I suspect much of that stems from the name itself. Oddly, `baseurl` is not intended to represent the base _URL_, but really, the base _path_. We should name it accordingly.\n\nAdditionally, I'm wondering if we should throw a warning-level error, if `baseurl` begins with `https?://`, letting users know they're not using the setting properly. \n\nMisusing `baseurl` causes all sorts of problems when rendering locally or across forks, and I swear I've seen it done wrong more times than done right.\n\nOne _nice_ thing about baseurl, however, is that it can be overridden via the command line via `--baseurl` flag. There's a common design pattern where `baseurl` might be `http://example.com`, used to build paths throughout templates, and then locally, `baseurl` is set to `/` or `\"\"` when previewing the site, preserving URLs. We may want to add a `url` flag, or similar, to allow users to set `site.url`, a bit more easily (although they could always use a second config, or `github-metadata`).\n",
+#               "createdAt": "2016-03-25T18:32:49Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-03-24T01:53:47Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 11
+#               },
+#               "comments": {
+#                 "totalCount": 32
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/282759?v=4",
+#                 "login": "benbalter",
+#                 "resourcePath": "/benbalter",
+#                 "url": "https://github.com/benbalter"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "ux"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Inclusion should take priority over exclusion in the configuration",
+#               "number": 4791,
+#               "url": "https://github.com/jekyll/jekyll/issues/4791",
+#               "body": "I thought I had this figured out, but it doesn't seem to be working. If there's any more information I can provide to help facilitate this, don't hesitate.\n\nThanks again @envygeeks for the Twitter help earlier!\n###### What version of Jekyll are you using (`jekyll -v`)?\n\n3.1.2\n###### What operating system are you using?\n\nWindows 10\n###### What did you do?\n\n(Please include the content causing the issue, any relevant configuration settings, and the command you ran)\n\nMy `_config` contains the following:\n\n```\nexclude: [assets/node_modules, assets/bower_components]\ninclude: [assets/bower_components/jQuery/dist]\n```\n###### What did you expect to see?\n\nI expected the subfolders specified in the include option to take priority over the excluded parent directory.\n###### What did you see instead?\n\nThe exclude option takes total priority. `_site` doesn't contain a `bower_components` folder whatsoever.\n",
+#               "createdAt": "2016-04-15T00:21:51Z",
+#               "lastEditedAt": "2016-04-15T01:43:44Z",
+#               "updatedAt": "2017-07-15T01:29:33Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 9
+#               },
+#               "comments": {
+#                 "totalCount": 9
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/6960386?v=4",
+#                 "login": "joshdrink",
+#                 "resourcePath": "/joshdrink",
+#                 "url": "https://github.com/joshdrink"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "discussion"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "up-for-grabs"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Site.render() swallows all Errno::ENOENT exceptions, leading to silent build failures",
+#               "number": 5104,
+#               "url": "https://github.com/jekyll/jekyll/issues/5104",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\n- [x] I Updated to the latest Jekyll (or) if on Github Pages to the latest `github-pages`\n- [x] I Read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\n- [ ] This is a feature request.\n\n---\n- [x] I am on (or have tested on) **_macOS**_ 10+\n- [ ] I am on (or have tested on) **_Debian/Ubuntu**_ GNU/Linux\n- [ ] I am on (or have tested on) **_Fedora**_ GNU/Linux\n- [ ] I am on (or have tested on) **_Arch**_ GNU/Linux\n- [x] I am on (or have tested on) **_Other**_ GNU/Linux\n- [ ] I am on (or have tested on) **_Windows**_ 10+\n\n---\n- [ ] I was trying to install.\n- [ ] There is a broken Plugin API.\n- [ ] I had an error on Github Pages, and I have not tested locally.\n- [ ] I had an error on Github Pages, and Github Support said it was a Jekyll Bug.\n- [ ] I had an error on Github Pages and I did not test it locally.\n- [x] I was trying to build.\n- [ ] It was another bug.\n## My Reproduction Steps\n\nCreate a new site using `jekyll new my-test-site`. Then create a custom Liquid tag which only throws missing file errors when run:\n\n``` ruby\n# in _plugins/mytag.rb\nrequire 'liquid'\n\nmodule Jekyll\n  class MyCustomTag < Liquid::Tag\n\n    def initialize(tag_name, argument, tokens)\n      super\n    end\n\n    def render(context)\n      puts \"Rendering my_tag\"\n      File.open(\"/some/file/that/does/not/exist\").read.encode(\"UTF-8\")\n    end\n  end\nend\n\nLiquid::Template.register_tag('my_custom_tag', Jekyll::MyCustomTag)\n```\n\nNext, update a post to use this tag:\n\n``` md\n{% my_custom_tag some_argument %}\n```\n\nFinally, render the site with `jekyll build`.\n## The Output I Wanted\n\nI wanted Jekyll to exit with a non-zero exit code because the uncaught exception in my tag prevents the site from rendering properly.\n\nWhat _actually_ happens is that the error is logged and Jekyll reports that the site was successfully built, but the actual `_site/` output is missing several posts, including the page with the bad tag _and_ other pages:\n\n```\nConfiguration file: /private/tmp/error-handling-bug/_config.yml\n            Source: /private/tmp/error-handling-bug\n       Destination: /private/tmp/error-handling-bug/_site\n Incremental build: disabled. Enable with --incremental\n      Generating...\nRendering my_tag\n  Liquid Exception: No such file or directory - /some/file/that/does/not/exist in /private/tmp/error-handling-bug/_posts/2016-07-14-welcome-to-jekyll.markdown\n                    done in 0.031 seconds.\n Auto-regeneration: disabled. Use --watch to enable.\n```\n## Cause of bug\n\nWhen Ruby's `File.open()` fails due to a missing file, it throws `Errno::ENOENT`. This exception bubbles up to Jekyll's `Site.render()` method, [**where it is silently ignored**](https://github.com/jekyll/jekyll/blob/8a3ea59141d721b09a762d7ae26e677b173bfcfa/lib/jekyll/site.rb#L192):\n\n```\n    rescue Errno::ENOENT\n      # ignore missing layout dir\n    end\n```\n\nThis is sloppy error-handling; at a minimum, the `rescue` statement should log a warning, but ideally the \"ignore missing layout dir\" logic would be scoped more narrowly so that it doesn't catch and ignore `Errno::ENOENT` exceptions thrown by other parts of the page rendering code.\n",
+#               "createdAt": "2016-07-14T21:16:26Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-10-22T01:49:26Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 7
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/50748?v=4",
+#                 "login": "JoshRosen",
+#                 "resourcePath": "/JoshRosen",
+#                 "url": "https://github.com/JoshRosen"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "ux"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "\"Liquid Exception: invalid byte sequence in UTF-8...\"  with binaries",
+#               "number": 5181,
+#               "url": "https://github.com/jekyll/jekyll/issues/5181",
+#               "body": "\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I Updated to the latest Jekyll (or) if on Github Pages to the latest `github-pages`\r\n- [x] I am on (or have tested on) **_macOS**_ 10+\r\n- [x] I was trying to build.\r\n\r\n## My Reproduction Steps\r\n\r\n1. Create a subdirectory under the `_posts` folder called `2016-08-02-example`.\r\n2. Add a file `2016-08-02-example.md` to this folder. (With proper frontmatter, etc.)\r\n3. `bundle exec jekyll serve` and all is well.\r\n4. Add an image file (ie. `08-02-16-image.png`) to this folder.\r\n5. `bundle exec jekyll serve` now yields an error.\r\n\r\nWith both `JEYKLL_LOG_LEVEL=debug` and the `-t` switch output is:\r\n\r\n```\r\n...\r\n Rendering Markup: _posts/2016-08-02-example/2016-08-02-example.md\r\n         Rendering: _posts/2016-08-02-example/2016-08-02-image.png\r\n  Pre-Render Hooks: _posts/2016-08-02-example/2016-08-02-image.png\r\n$USER_DIR$/blog/_posts/2016-08-02-example/2016-08-02-image.png render_with_liquid?  false \r\n  Rendering Liquid: _posts/2016-08-02-example/2016-08-02-image.png\r\n  Liquid Exception: invalid byte sequence in UTF-8 in $USER_DIR$/blog/_posts/2016-08-02-example/2016-08-02-image.png\r\n$USER_DIR$/.gem/ruby/2.2.3/gems/liquid-3.0.6/lib/liquid/template.rb:232:in `split': invalid byte sequence in UTF-8 (ArgumentError)\r\n  from $USER_DIR$/.gem/ruby/2.2.3/gems/liquid-3.0.6/lib/liquid/template.rb:232:in `tokenize'\r\n  from $USER_DIR$/.gem/ruby/2.2.3/gems/liquid-3.0.6/lib/liquid/template.rb:122:in `parse'\r\n  from $USER_DIR$/.gem/ruby/2.2.3/gems/liquid-3.0.6/lib/liquid/template.rb:108:in `parse'\r\n  from $USER_DIR$/.gem/ruby/2.2.3/bundler/gems/jekyll-6d2b344c0e24/lib/jekyll/liquid_renderer/file.rb:11:in `block in parse'\r\n  from $USER_DIR$/.gem/ruby/2.2.3/bundler/gems/jekyll-6d2b344c0e24/lib/jekyll/liquid_renderer/file.rb:47:in `measure_time'\r\n  from $USER_DIR$/.gem/ruby/2.2.3/bundler/gems/jekyll-6d2b344c0e24/lib/jekyll/liquid_renderer/file.rb:10:in `parse'\r\n  from $USER_DIR$/.gem/ruby/2.2.3/bundler/gems/jekyll-6d2b344c0e24/lib/jekyll/renderer.rb:109:in `render_liquid'\r\n  from $USER_DIR$/.gem/ruby/2.2.3/bundler/gems/jekyll-6d2b344c0e24/lib/jekyll/renderer.rb:62:in `run'\r\n  from $USER_DIR$/.gem/ruby/2.2.3/bundler/gems/jekyll-6d2b344c0e24/lib/jekyll/site.rb:447:in `block (2 levels) in render_docs'\r\n...\r\n```\r\n## The Output I Wanted\r\n\r\nI would expect binary files (images, etc.) to simply be ignored and copied through to the output directory unmodified.\r\n## Previous issues\r\n\r\nThis issue seems to have come up in past issues which may relate, including: #2592, #4276, #2262, and #2228.\r\n## Root cause\r\n\r\nThis appears to be due to the logic of [`Jekyll::Document.render_with_liquid?`](https://github.com/jekyll/jekyll/blob/master/lib/jekyll/document.rb#L168-L170)\r\n\r\n``` ruby\r\n    def render_with_liquid?\r\n      !(coffeescript_file? || yaml_file?)\r\n    end\r\n```\r\n\r\nAs you can see, it returns true if the source file is not coffeescript or yaml, which a `.png` isn't.  It's not suitable for liquid either though, hence the problem.\r\n\r\nAs a quick and dirty test, I added a case for `.png` extensions:\r\n\r\n``` ruby\r\n    def render_with_liquid?\r\n      !(coffeescript_file? || yaml_file? || %w(.png .jpg .bin).include?(extname)\r\n    end\r\n```\r\n\r\nThis has the desired effect, and seems to confirm I'm on the right track.  Obviously it's not a good solution though (hence no PR).  Assuming that storing non-liquid files in the same directory is supported (I believe it is?) this probably needs to ensure the content is suitable (ie. text, likely UTF-8) before passing it to Liquid.  Maybe something along the lines of checking against config_yml's existing `markdown_ext`?\r\n\r\nI'll see if I can get a test together to send as a PR, while I'm not quite sure of the proper solution, I think I've got a solid feel for the issue behind this behavior at least.\r\n",
+#               "createdAt": "2016-08-02T07:05:48Z",
+#               "lastEditedAt": "2017-01-16T15:28:19Z",
+#               "updatedAt": "2017-06-18T06:01:07Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 11
+#               },
+#               "comments": {
+#                 "totalCount": 19
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/48389?v=4",
+#                 "login": "jjarmoc",
+#                 "resourcePath": "/jjarmoc",
+#                 "url": "https://github.com/jjarmoc"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "bug"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Data files as a default collection",
+#               "number": 5207,
+#               "url": "https://github.com/jekyll/jekyll/issues/5207",
+#               "body": "For historical reasons, we currently have three data types, each with their own reading and rendering logic:\n- Pages\n- Documents\n- Data files\n\nThis causes headaches for anyone trying to build on top of Jekyll in any way that iterates over content, because logic has to be implemented two, often three times, in very different ways (as an example Document has a `path` method, while on Pages you need to call `File.join(@base, @dir, name)` to achieve the same result.\n\nThen you get to data files, which unlike documents and pages, aren't distinct objects and are read directly into the site's config as a nested hash. You can't call `to_liquid` on them and there's no programatic way to get the document's path (since the key is sanitized). \n\nNow here's the silly thing: collection documents [can be YAML files](https://github.com/jekyll/jekyll/blob/master/lib/jekyll/document.rb#L264), which begs the question: _why don't we just make data files a default collection_?\n\nIf I'm reading the code correctly, it should just be a matter of:\n1. Teaching documents to [read in CSV files](https://github.com/jekyll/jekyll/blob/master/lib/jekyll/readers/data_reader.rb#L53-L61)\n2. Alias `site.data` to `site.collections.data.docs` for backwards compatibility\n\nTheoretically, this should preserve existing behavior, but would allow each data file to be a distinct object and interacted with by plugins, not to mention, would allow us to DRY up the codebase a bunch.\n\nSee also https://github.com/jekyll/jekyll/issues/5064, a related issue on being able to disable default collections (which assumes `_data` _is_ a collection).\n\n/cc @jekyll/build \n",
+#               "createdAt": "2016-08-06T15:40:09Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-02-13T23:31:51Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 8
+#               },
+#               "comments": {
+#                 "totalCount": 10
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/282759?v=4",
+#                 "login": "benbalter",
+#                 "resourcePath": "/benbalter",
+#                 "url": "https://github.com/benbalter"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "discussion"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Jekyll 4.0 Wishlist",
+#               "number": 5307,
+#               "url": "https://github.com/jekyll/jekyll/issues/5307",
+#               "body": "Hi!\n\nWe have no plans for a 4.0 but I wanted to collect a potential \"wishlist\" of changes we'd like to see happen in a potential 4.0.\n- Remove `Jekyll::Convertible` in favor of `Jekyll::Renderer`\n\nAnything that is a breaking change that you can't see Jekyll without?\n",
+#               "createdAt": "2016-08-30T20:46:13Z",
+#               "lastEditedAt": "2016-08-30T20:46:35Z",
+#               "updatedAt": "2017-07-27T16:04:04Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 19
+#               },
+#               "comments": {
+#                 "totalCount": 40
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/237985?v=4",
+#                 "login": "parkr",
+#                 "resourcePath": "/parkr",
+#                 "url": "https://github.com/parkr"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "discussion"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Issue with highlighting code with brackets",
+#               "number": 5346,
+#               "url": "https://github.com/jekyll/jekyll/issues/5346",
+#               "body": "Take this as an example:\n\n``` markdown\nA sentence with `{bracket in inline code}`.\n```\n\nI'm getting this HTML:\n\n``` html\n<p>A sentence with <code class=\"highlighter-rouge\"><span class=\"p\">{</span><span class=\"err\">bracket</span><span class=\"w\"> </span><span class=\"err\">in</span><span class=\"w\"> </span><span class=\"err\">inline</span><span class=\"w\"> </span><span class=\"err\">code</span><span class=\"p\">}</span></code>.</p>\n```\n\nSo with the default syntax.css for Rouge, this gets highlighting as [this](https://jsbin.com/fesocu/edit?html,css,output).\n\nThe same happens if I try a code block:\n\n```\n{bracket in inline code}.\n```\n\nBut if I specify `text` as the code block language, I don't get those errors anymore.\n\nAs a workaround for the inline code issue, I had to use `{% raw %}<code>{bracket in inline code}</code>{% endraw %}`\n\nAnd here is where I noticed this first: https://github.com/appveyor/website/commit/a88f495d88db0ba5d2a61ff9c98ee00cd3dba98d\n\nUsing Jekyll 3.2.1 on Windows with rouge (1.11.1).\n",
+#               "createdAt": "2016-09-10T12:00:00Z",
+#               "lastEditedAt": "2016-09-10T12:07:59Z",
+#               "updatedAt": "2017-03-14T12:33:26Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/349621?v=4",
+#                 "login": "XhmikosR",
+#                 "resourcePath": "/XhmikosR",
+#                 "url": "https://github.com/XhmikosR"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Jekyll Hooks :site, :pre_render (or probably the payload itself) leaks into configurations.",
+#               "number": 5355,
+#               "url": "https://github.com/jekyll/jekyll/issues/5355",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\n- [ ] This is a feature request.\n\n---\n- [x] I am on (or have tested on) **_macOS**_ 10+\n- [x] I am on (or have tested on) **_Debian/Ubuntu**_ GNU/Linux\n- [x] I am on (or have tested on) **_Fedora**_ GNU/Linux\n- [x] I am on (or have tested on) **_Arch**_ GNU/Linux\n- [ ] I am on (or have tested on) **_Other**_ GNU/Linux\n- [x] I am on (or have tested on) **_Windows**_ 10+\n\n---\n- [ ] I was trying to install.\n- [x] There is a broken Plugin API.\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\n- [ ] I had an error on GitHub Pages and I did not test it locally.\n- [x] I was trying to build.\n- [x] It was another bug.\n## My Reproduction Steps\n\n``` ruby\nJekyll::Hooks.register :site, :pre_render do |site, payload|\n  payload.site[\"seriously\"] = \"Yeah... seriously.\"\n  $stdout.puts(site.config[\n    \"seriously\"\n  ])\nend\n```\n### Output\n\n```\njordon@tardis ~/development/<secret>/spec/fixture → jekyll b -w --trace\nConfiguration file: /home/jordon/development/<secret>/spec/fixture/_config.yml\n            Source: /home/jordon/development/<secret>/spec/fixture\n       Destination: /home/jordon/development/<secret>/spec/fixture/_site\n Incremental build: disabled. Enable with --incremental\n      Generating... \nYeah... seriously.\n                    done in 0.022 seconds.\n Auto-regeneration: enabled for '/home/jordon/development/<secret>/spec/fixture'\n```\n## The Output I Wanted\n\nI want it not to leak.\n",
+#               "createdAt": "2016-09-14T01:14:10Z",
+#               "lastEditedAt": "2016-09-14T01:14:25Z",
+#               "updatedAt": "2017-06-15T13:09:14Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 9
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/99763?v=4",
+#                 "login": "envygeeks",
+#                 "resourcePath": "/envygeeks",
+#                 "url": "https://github.com/envygeeks"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "bug"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "[Site] menu overflows on mobile res",
+#               "number": 5392,
+#               "url": "https://github.com/jekyll/jekyll/issues/5392",
+#               "body": "![screen shot 2016-09-22 at 02 41 15](https://cloud.githubusercontent.com/assets/349621/18732709/2a555f90-806e-11e6-9eab-bebf79f132d1.png)\n",
+#               "createdAt": "2016-09-21T23:42:32Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-03-03T10:47:40Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 11
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/349621?v=4",
+#                 "login": "XhmikosR",
+#                 "resourcePath": "/XhmikosR",
+#                 "url": "https://github.com/XhmikosR"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "documentation"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "help-wanted"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "ux"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "The Future of Theme Gems [Discussion]",
+#               "number": 5434,
+#               "url": "https://github.com/jekyll/jekyll/issues/5434",
+#               "body": "The future of theme gems as I see it..:\n**Requires Jekyll 4.0**\n## Self-Contained Modules\n\nTheme gems will be self-contained _insta-jekyll_-modules. All they need would be **content**. This allows users to freely switch between themes without breaking their site or losing their customizations. For this to happen a few things will be prescribed and expected to be followed. A theme-gem ecosystem would be:\n- SCAFFOLD DIRECTORIES [ `_layouts` | `_includes` | `_sass` | `_data` | `assets` ]\n- every theme gem shall contain a **configuration file** named the same as the gem-name e.g. `minima.yml` and it will reside inside `_data/`\n- core styles and settings will be defined in `minima.yml` and referenced in templates with liquid using the `theme` namespace. e.g. `{{ theme.myvariable }}`\n- the layout names will be standard for all theme-gems:\n  - `home` for index\n  - `post` for posts\n  - `page` for pages\n  - `default` as the parent layout for above layouts\n\nWhen overriding defaults, the user creates the required file / copies from the gem_dir. into a directory named the same as the theme gem in use.  e.g. `minima/_data/minima.yml` | `minima/_layouts/` | `minima/_includes/` etc \n\nJekyll 4.0 shall look for these directories first in the `site.root` and then in the gem.\n\nFollowing this _convention_ ensures easy switching between theme gems at the same time preserving their customizations.\n",
+#               "createdAt": "2016-10-01T21:17:50Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-21T13:03:16Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 13
+#               },
+#               "comments": {
+#                 "totalCount": 33
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/12479464?v=4",
+#                 "login": "ashmaroli",
+#                 "resourcePath": "/ashmaroli",
+#                 "url": "https://github.com/ashmaroli"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "discussion"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Extra log entries in Jekyll 3.3.0",
+#               "number": 5467,
+#               "url": "https://github.com/jekyll/jekyll/issues/5467",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\n- [x] I updated to the latest Jekyll\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\n## \n- [x] I am on (or have tested on) **_Windows**_ 7+\n## \n- [x] It was another bug.\n## \n## My Reproduction Steps\n\n```\njekyll new my_blog\nbundle exec jekyll serve\n```\n## The Output I Got:\n\n```\nD:\\Projects\\my_blog>bundle exec jekyll serve\nConfiguration file: D:/Projects/my_blog/_config.yml\nConfiguration file: D:/Projects/my_blog/_config.yml\n            Source: D:/Projects/my_blog\n       Destination: D:/Projects/my_blog/_site\n Incremental build: disabled. Enable with --incremental\n      Generating...\n                    done in 0.91 seconds.\n                    --watch arg is unsupported on Windows. \n                    If you are on Windows Bash, please see: \n                    https://github.com/Microsoft/BashOnWindows/issues/216\nConfiguration file: D:/Projects/my_blog/_config.yml\n    Server address: http://127.0.0.1:4000/\n  Server running... press ctrl-c to stop.\n```\n\n3 instances of `Configuration file: D:/Projects/my_blog/_config.yml`\nin total..\n\nand if I run with `--verbose`:\n\n```\n  Logging at level: debug\nConfiguration file: D:/Projects/my_blog/_config.yml\n  Logging at level: debug\n  Logging at level: debug\nConfiguration file: D:/Projects/my_blog/_config.yml\n         Requiring: jekyll-feed\n         Requiring: kramdown\n            Source: D:/Projects/my_blog\n       Destination: D:/Projects/my_blog/_site\n Incremental build: disabled. Enable with --incremental\n      Generating...\n```\n\n2 instances of `Configuration file: D:/Projects/my_blog/_config.yml`\n3 instances of `Logging at level: debug`\nin this block.\n## \n\n/cc @jekyll/ecosystem\n",
+#               "createdAt": "2016-10-08T06:34:32Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-02-27T17:59:37Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 5
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/12479464?v=4",
+#                 "login": "ashmaroli",
+#                 "resourcePath": "/ashmaroli",
+#                 "url": "https://github.com/ashmaroli"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "ux"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Raw tags are not respected when encoding urls",
+#               "number": 5555,
+#               "url": "https://github.com/jekyll/jekyll/issues/5555",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n\n---\r\n- [x] I am on (or have tested on) ***Windows*** 10+\r\n\n---\r\n- [x] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\nI have a strange issue where I have in my html file something like this:\r\n\r\n```\r\n{% raw %}\r\n<img src=\"{{image}}\" />\r\n<a href=\"{{foo}}\"></a>\r\n<span class=\"{{bar}}\">{{bar}}</span>\r\n{% endraw %}\r\n```\r\n\r\nWhich is rendered as:\r\n\r\n```\r\n<img src=\"%7B%7Bimage%7D%7D\">\r\n<a href=\"%7B%7Bfoo%7D%7D\"></a>\r\n<span class=\"{{bar}}\">{{bar}}</span>\r\n```\r\n\r\nExpected:\r\n\r\n```\r\n<img src=\"{{image}}\" />\r\n<a href=\"{{foo}}\"></a>\r\n<span class=\"{{bar}}\">{{bar}}</span>\r\n```\r\n\r\nAfter asking around I eventually stripped down the project to the bare minimum and found that when:\r\n\r\n1. The plugin `jekyll-seo-tag` is added to the gem file, added to the config file and the `{% seo %}` tag is added to a layout.\r\n`and`\r\n2. The plugin `jekyll-mentions` is added to the gem file.\r\n\r\nthen this issue will occur. Removing one or the other will produce the expected result.\r\n\r\nI have made up some examples of this here.\r\nhttps://github.com/ChadKeating/jekyll-raw-tags-not-respected-test/\r\n\r\n/cc @jekyll/core ",
+#               "createdAt": "2016-11-07T00:36:48Z",
+#               "lastEditedAt": "2016-11-07T00:41:41Z",
+#               "updatedAt": "2017-06-05T23:11:28Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/6185498?v=4",
+#                 "login": "ChadKeating",
+#                 "resourcePath": "/ChadKeating",
+#                 "url": "https://github.com/ChadKeating"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "bug"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "pending-feedback"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "stale"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Upgrade to Rouge 2.0",
+#               "number": 5556,
+#               "url": "https://github.com/jekyll/jekyll/issues/5556",
+#               "body": "Hi! I'm the maintainer of the Rouge syntax highlighter. We released 2.0 back in June, and have added a lot of new languages and bugfixes since then. I'd invite you, when you get a chance, to upgrade.\r\n\r\nThe only breaking API change is the HTML formatter - instead of taking tons of options and wrapping the output in various divs and other tags, it simply outputs the raw spans and lets you put it in whatever context fits. This means no more `.gsub(/<pre.*?>/)` or the like. We still support the old API through `Rouge::Formatters::HTMLLegacy` if you absolutely need, but I've found it's usually much easier to add HTML context after the fact.\r\n\r\nI'm happy to field any questions or work out any bugs/weirdnesses that come up. We've been using 2.0 over at GitLab since June, so I'm confident in its stability.\r\n\r\nThanks!\r\n--Jeanine",
+#               "createdAt": "2016-11-07T15:32:04Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-04-12T16:54:49Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/225017?v=4",
+#                 "login": "jneen",
+#                 "resourcePath": "/jneen",
+#                 "url": "https://github.com/jneen"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Excerpt.extract_excerpt() fails when first paragraph contains part of a multi-line Liquid tag.",
+#               "number": 5596,
+#               "url": "https://github.com/jekyll/jekyll/issues/5596",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [ ] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [x] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [x] I was trying to build.\r\n- [ ] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n<!--\r\n  If this error occured on GitHub Pages, please try to provide us with logs,\r\n  and look at them yourself, to determine if this is an actual Jekyll bug. In\r\n  the event you are unsure, file a ticket, however, when you do please provide\r\n  the logs (strip them of personal information.)\r\n\r\n  If you have trouble finding your logs, please email support@github.com and\r\n  they will happily help you. If you cannot find logs, please try your best to\r\n  replicate it locally because we cannot fix a problem if we do not know\r\n  exactly what caused it, or within a relatively close distance.\r\n-->\r\n\r\n<!--\r\n  Insert the steps you took to for this problem to exist. Such as the\r\n  directories you created and, the full command you ran, and include any\r\n  plugins you have installed, this is very important.\r\n\r\n  If your steps are complicated, you can also submit a GitHub\r\n  repository (please no zips, they will be removed and rejected by maintainers,)\r\n  and just supply a command for us to reproduce it ourselves.\r\n-->\r\n\r\n1. Create a default Jekyll site with `jekyll new jekyll-issue`\r\n2. `cd jekyll-issue`\r\n3. Edit `_posts/YYYY-MM-DD-welcome-to-jekyll.markdown`:\r\n  - NOTE: Leave the YAML front matter untouched\r\n  - Remove all Markdown content before the Ruby code sample\r\n  - Insert an empty line somewhere in the middle of the Ruby code sample\r\n4. Run `jekyll build`\r\n  - `jekyll build` exits with error \"Liquid Exception: undefined method `t' for nil:NilClass in _posts/YYYY-MM-DD-welcome-to-jekyll.markdown/#excerpt\"\r\n\r\n## The Output I Wanted\r\n\r\n<!--\r\n  Insert the output from the command. Alter it as little as you can.\r\n  The minimum should be personal information. Though we normally don't log\r\n  anything like that so there should be no need to alter it.\r\n-->\r\n\r\nA **Welcome to Jekyll** post which starts with a Ruby code sample that has empty lines in it for readability.\r\n\r\n## Work Around 1\r\n\r\nDon't put any empty lines in the code sample.\r\n\r\n## Work Around 2\r\n\r\nAdd some other Markdown content before the before the Ruby code sample (a  [Markdown comment](http://stackoverflow.com/a/20885980) works well for this). Note that adding content after the Ruby code sample does not work.\r\n\r\n## My System\r\n\r\n- Jekyll 3.0.1\r\n- Ruby 2.3.1p112 (2016-04-26) [x86_64-linux-gnu]\r\n- Ubuntu 16.04.1\r\n\r\n/cc include any Jekyll affinity teams here (see https://teams.jekyllrb.com/ for more info)\r\n",
+#               "createdAt": "2016-11-22T20:38:00Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-09T17:07:59Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 8
+#               },
+#               "comments": {
+#                 "totalCount": 20
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/10576323?v=4",
+#                 "login": "jlapolla",
+#                 "resourcePath": "/jlapolla",
+#                 "url": "https://github.com/jlapolla"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "bug"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Make template engine pluggable",
+#               "number": 5645,
+#               "url": "https://github.com/jekyll/jekyll/issues/5645",
+#               "body": "How feasible is it use an alternative template engine, such as Twig\r\neg https://github.com/page-io/ruby-twig which is a Ruby implementation of  \r\nhttps://github.com/twigphp/Twig \r\n\r\nI ask this, as our development workflow would like to standardise on Twig, as it is used with [Patternlab](http://patternlab.io/,)  and [Drupal](drupal.org). Combining these means that the front-end can be developed independently of the CMS. \r\nExtending this to Jekyll is a logical extension, as this is our preferred tool for static websites, and front-end applications. \r\n\r\nI'm open to other approaches to the problem at hand - trying to have a common codebase between front-end development, back-end CMS and static generated websites/applications. \r\n\r\nThanks\r\nAlan\r\n",
+#               "createdAt": "2016-12-08T15:37:11Z",
+#               "lastEditedAt": "2017-02-05T10:34:26Z",
+#               "updatedAt": "2017-06-02T21:08:14Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 5
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/286566?v=4",
+#                 "login": "alanburke",
+#                 "resourcePath": "/alanburke",
+#                 "url": "https://github.com/alanburke"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "help-wanted"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Ability to define custom extensions for documents in _config.yml",
+#               "number": 5646,
+#               "url": "https://github.com/jekyll/jekyll/issues/5646",
+#               "body": "## Problem\r\n\r\nI would like to customize the filename extension in `_config.yml` for posts, pages and collections. I want to automize the process so that the user doesn't need to do it with a `permalink:` in front matter.\r\n\r\n## Result\r\n\r\nJekyll converts example.md to example.xhtml instead of .html\r\n\r\n## Why is this feature helpful?\r\n\r\nCurrently I put a Jekyll theme together, which produces ePub-documents. These documents need the .xhtml-extension. Of course I can save the files as documents with a .xhtml-file extension but normally users save their docs in .md-files.\r\n\r\nAlso it would be helpful, if you want to produce.php-files with Jeykll instead of .html – I think that would offer programmers a lot of new possibilities.",
+#               "createdAt": "2016-12-08T18:55:28Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-12-15T17:18:17Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/2551270?v=4",
+#                 "login": "Phlow",
+#                 "resourcePath": "/Phlow",
+#                 "url": "https://github.com/Phlow"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Scheduled releases of Jekyll",
+#               "number": 5664,
+#               "url": "https://github.com/jekyll/jekyll/issues/5664",
+#               "body": "Hey! I was wondering what folks thought about doing scheduled releases of Jekyll. We'd formalize the release process, document it, and schedule a period of time for testing & bug fixes before a release.\r\n\r\nThis is primarily a question for @jekyll/core & affinity team captains who would likely handle the triaging of bugs and final releasing. However, this would affect users as well.\r\n\r\nThe primary motivation is that scheduled, predictable releases give us all not only something to look forward to but also some better structure by which we can plan our work. If I want to suggest a feature for the next version, then I can plan my work so that it is able to be reviewed and merged before the end of the feature window for that release. Plus, if I miss that window, I know when the next one will come around. \r\n\r\nWhat do you think?",
+#               "createdAt": "2016-12-17T21:55:24Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-01-17T21:54:13Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/237985?v=4",
+#                 "login": "parkr",
+#                 "resourcePath": "/parkr",
+#                 "url": "https://github.com/parkr"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "absolute_url should complain if URL is not absolute",
+#               "number": 5718,
+#               "url": "https://github.com/jekyll/jekyll/issues/5718",
+#               "body": "If `site.url` == `example.org`, then `{{ \"/\" | absolute_url }}` will return `example.org/`.\r\n\r\nIf the current page (`https://example.org/about/`) includes a link to the above URL, visiting that link will direct the browser to `https://example.org/about/example.org/`.\r\n\r\nThis is obviously not the intended behavior.\r\n\r\nNow that **jekyll-sitemap** and **jekyll-feed** are relying on these filters, a `site.url` that does not contain a protocol can bork a site's entire sitemap or feed.\r\n\r\nI don't know if this is best fixed with `jekyll doctor` or by complaining at build time.",
+#               "createdAt": "2017-01-05T18:49:50Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-02-11T19:10:50Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/251545?v=4",
+#                 "login": "pathawks",
+#                 "resourcePath": "/pathawks",
+#                 "url": "https://github.com/pathawks"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Specify order of collection items and set previous/next links accordingly",
+#               "number": 5754,
+#               "url": "https://github.com/jekyll/jekyll/issues/5754",
+#               "body": "- [ ] I believe this to be a bug, not a question about using Jekyll.\r\n- [X] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [ ] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [X] This is a feature request.\r\n\r\n---\r\n\r\n- [X] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n---\r\n\r\nI want to be able to specify the order of items in a collection and have previous/next links respect that.\r\n\r\n**Use Case**\r\n\r\nI am using Jekyll to build a lesson that contains several topics. Each topic is a separate Markdown file in the `_topics` collection. Topics must be listed on the home page in a particular order, and we want topics to have previous/next links set correctly.\r\n\r\n**What Doesn't Work**\r\n\r\nWe currently enforce ordering using a naming convention: topics are called `01-intro.md`, `02-setup.md`, `03-filter.md`, etc. This works, but when we want to re-order topics, we need to rename many files whose content often hasn't changed, which makes the version control log difficult to interpret.\r\n\r\nWe have tried using a list in `_config.yml` to specify order:\r\n\r\n~~~\r\ntopic_order:\r\n  - '/intro'\r\n  - '/setup'\r\n  - '/filter'\r\n~~~\r\n\r\nand then using that loop and `where` to create the ordered list in the home page:\r\n\r\n~~~\r\n<ul>\r\n{% for ident in site.topic_order %}\r\n  {% assign topic = site.topics | where: \"id\", ident | first %}\r\n  <a href=\"{{topic.url}}\">{{topic.title}}</a>\r\n  <li>\r\n{% endfor %}\r\n</ul>\r\n~~~\r\n\r\nHowever, his doesn't help with previous/next links within the topics. The only solution I've been able to come up with for that is to use a search loop inside each topic to find it within the `site.topics` list, but that means that building the site is O(N**2), since the search loop over N topics is run once for each topic, and that makes builds noticeably slower for large lessons with 20-30 topics.\r\n\r\n**What Might Work**\r\n\r\n1.  Support an `order` key in the `_config.yml` metadata for each collection whose value is the ordered list of IDs of collection members. Values in the list that don't correspond to collection members are errors; collection members that are not listed are either an error or omitted.\r\n\r\n2.  Set `previous` and `next` links in the `page` for each collection item to respect this ordering.\r\n",
+#               "createdAt": "2017-01-11T15:56:10Z",
+#               "lastEditedAt": "2017-01-11T15:57:05Z",
+#               "updatedAt": "2017-06-25T22:21:10Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 10
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/911566?v=4",
+#                 "login": "gvwilson",
+#                 "resourcePath": "/gvwilson",
+#                 "url": "https://github.com/gvwilson"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "enhancement"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Move plugins listing to new plugins directory",
+#               "number": 5771,
+#               "url": "https://github.com/jekyll/jekyll/issues/5771",
+#               "body": "Right now, we have [a list of community contributed plugins in the documentation](https://jekyllrb.com/docs/plugins/#available-plugins).\r\n\r\nIt would be cool if we could remove this list from the docs, and migrate this functionality over to the [plugins directory](https://github.com/jekyll/plugins).\r\n\r\nThat directory still is not totally polished, so I'd like to really define a path forward. What would it take to move everything over to that new site?\r\n\r\n(On my personal wishlist: I would love to also list themes there, or at least create a comparable directory for themes)",
+#               "createdAt": "2017-01-16T19:36:02Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-14T20:23:09Z",
+#               "assignees": {
+#                 "totalCount": 3
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/251545?v=4",
+#                 "login": "pathawks",
+#                 "resourcePath": "/pathawks",
+#                 "url": "https://github.com/pathawks"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "documentation"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "help-wanted"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Issues with lazy initializations using the  ||= operator when iterating document collections",
+#               "number": 5931,
+#               "url": "https://github.com/jekyll/jekyll/issues/5931",
+#               "body": "While developing a pagination plugin I came a cross a strange error when users tried to build jekyll using the `--drafts` argument\r\n\r\n```\r\njekyll build --drafts\r\n```\r\n\r\nI traced the problem to the use of the `||=` operator in the document.rb class. One example is the [date function](https://github.com/jekyll/jekyll/blob/master/lib/jekyll/document.rb#L60-L62). Using lazy assignment for member variables actually causes issues when iterating over documents that do not have these fields set as the collection iterator is broken as soon as the values are assigned.\r\n\r\nThis surfaces when using the `--drafts` switch because draft documents may or may not have the `date:` front matter set. \r\n\r\nI encountered this problem when I was simply doing an Array.sort on a list of posts and the problem occurred even before any of my code was called. Namely in the `<=>` compare function in the Document class (this function accesses lazy initialized values).\r\n\r\n```\r\nlib/jekyll/document.rb:61:in `date': can't add a new key into hash during iteration (RuntimeError)\r\n```\r\n\r\nThe use of this `||=` operator should perhaps be revised.",
+#               "createdAt": "2017-03-03T21:23:15Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-09T20:33:43Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 10
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/1184355?v=4",
+#                 "login": "sverrirs",
+#                 "resourcePath": "/sverrirs",
+#                 "url": "https://github.com/sverrirs"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Allow filters on link tag",
+#               "number": 5943,
+#               "url": "https://github.com/jekyll/jekyll/issues/5943",
+#               "body": "- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [x] This is a feature request.\r\n- [x] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [x] I am on (or have tested on) ***Windows*** 10+\r\n\r\n## Summary\r\n\r\nI'd like some alternative for the `link` tag that would allow anyone to make the link relative or absolute!\r\n\r\n## Details\r\n\r\nCurrently, if I use `link` tag I need to use it as such:\r\n\r\n```html\r\n<a href=\"{{ site.baseurl }}{% link about.md %}\">About</a>\r\n```\r\n\r\nThat will create a relative link to the about.md generate link. For an absolute link, I could use the following:\r\n\r\n```html\r\n<a href=\"{{ '/' | absolute_url }}{% link about.md %}\">About</a>\r\n```\r\n\r\nThis doesn't seem ideal to me...\r\n\r\n## Proposal\r\n\r\nCreate a new `link_relative` and `link_absolute` tags, which would basically take the existing functionality from `link` tag, and pass on to the `relative_url` and `absolute_url` filters.\r\n\r\n```html\r\n<a href=\"{% link_relative about.md %}\">About</a>\r\n\r\n<a href=\"{% link_absolute about.md %}\">About</a>\r\n```\r\n\r\n## Benefits\r\n\r\nEasier coding and maintainability!",
+#               "createdAt": "2017-03-10T12:44:07Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-28T03:50:26Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 8
+#               },
+#               "comments": {
+#                 "totalCount": 20
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/85504?v=4",
+#                 "login": "PedroLamas",
+#                 "resourcePath": "/PedroLamas",
+#                 "url": "https://github.com/PedroLamas"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "upstream:issue"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Collection documents with future date and output set to false are not ignored",
+#               "number": 5953,
+#               "url": "https://github.com/jekyll/jekyll/issues/5953",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [x] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux (Linux Mint)\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [x] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [x] I was trying to build.\r\n- [x] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n1. I created a collection, we'll call it \"mycoll\", with the following configuration in `_config.yml`:\r\n\r\n```\r\ncollections:\r\n  mycoll:\r\n    output: false\r\n```\r\n\r\n2. I added a few files to the `_mycoll` directory; one in the past, one in the present, and one in the future. Each one contains front matter similar to the following:\r\n\r\n```\r\ndate: 2017-03-16 00:00:00-04\r\nlink: http://example.com/place\r\npreview: example.png\r\n```\r\n\r\n3. I used the following to fetch the latest item on my page:\r\n\r\n```\r\n{% assign item = site.mycoll.last %}\r\n```\r\n\r\nThis is where the problem begins. For posts and collections with `output` set to `true`, posts and documents with the `date` field set to a time in the future are not published by default, unless built with `--future` or `future: true` in the config file; this is documented behavior. However, if `output` is set to `false`, objects with future dates are still displayed. This is not documented behavior.\r\n\r\nThis behavior is reproducible on both Jekyll 3.4.2 and 3.3.0.\r\n\r\n## The Output I Wanted\r\n\r\nWhat I would expect to happen is that ALL collection documents with future dates would be ignored, not just collections with `output: true`. Either that, or the documentation should be updated to reflect the current behavior.\r\n\r\nBuild output:\r\n\r\n```\r\nConfiguration file: _config.yml\r\nConfiguration file: _config_beta.yml\r\n            Source: _site\r\n       Destination: public\r\n Incremental build: disabled. Enable with --incremental\r\n      Generating...\r\nGenerating Compass: /home/site/beta/_site/_compass => /home/site/beta/public/css\r\n```\r\n\r\n/cc @jekyll/build @jekyll/documentation\r\n",
+#               "createdAt": "2017-03-14T13:18:59Z",
+#               "lastEditedAt": "2017-03-14T13:19:06Z",
+#               "updatedAt": "2017-06-18T06:24:11Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 8
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/3901864?v=4",
+#                 "login": "BrandonDusseau",
+#                 "resourcePath": "/BrandonDusseau",
+#                 "url": "https://github.com/BrandonDusseau"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "not-reproduced"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Jekyll with Ruby 2.4 ignores timezone for date field of posts",
+#               "number": 5963,
+#               "url": "https://github.com/jekyll/jekyll/issues/5963",
+#               "body": "We have posts with a date field in the YAML front matter that includes a timezone offset. The site is generated with UTC as local timezone.\r\n\r\nThe expected and established behavior in this setting is that post URL's are generated based on the date converted to UTC, such that e.g. a post with date `2017-01-01 06:00:00 +1200` appears under the URL `.../2016/12/31/...`.\r\n\r\nThis ensures for example that posts authored in different timezones will still be sorted and displayed in the proper chronological order.\r\n\r\nStrangely, this behavior changes when switching from Ruby 2.3 to Ruby 2.4: with 2.4, the timezone offset seems to be ignored, and the post appears under the URL `.../2017/01/01/...`.\r\nThis occurs without changing the Jekyll version; here I tested with Jekyll 3.3.1, but observed the same behavior also for earlier Jekyll releases.\r\n\r\nFor Ruby 2.4:\r\n``` sh\r\n$ ls -R\r\n.:\r\n_config.yml _posts\r\n\r\n./_posts:\r\n2000-01-01-post-1.md\r\n$ cat _posts/2000-01-01-post-1.md\r\n---\r\ndate: 2017-01-01 06:00:00 +1200\r\n---\r\n$ cat _config.yml\r\ntimezone: UTC\r\n$ ruby -v\r\nruby 2.4.0p0 (2016-12-24 revision 57164) [i686-linux]\r\n$ jekyll build\r\nConfiguration file: none\r\n[snip]\r\n$ ls _site/*/*/*/post-1.html\r\n_site/2017/01/01/post-1.html\r\n```\r\n\r\nFor Ruby 2.3 the URL is as expected:\r\n\r\n``` sh\r\n$ ruby -v\r\nruby 2.3.3p222 (2016-11-21 revision 56859) [i686-linux]\r\n$ jekyll build\r\nConfiguration file: none\r\n[snip]\r\n$ ls _site/*/*/*/post-1.html\r\n_site/2016/12/31/post-1.html\r\n```\r\n",
+#               "createdAt": "2017-03-17T17:14:17Z",
+#               "lastEditedAt": "2017-03-17T17:16:23Z",
+#               "updatedAt": "2017-07-25T04:59:53Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 6
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/1112299?v=4",
+#                 "login": "stomar",
+#                 "resourcePath": "/stomar",
+#                 "url": "https://github.com/stomar"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Errors when creating new default site with `bundle exec jekyll new . --force`",
+#               "number": 5993,
+#               "url": "https://github.com/jekyll/jekyll/issues/5993",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n\r\n---\r\n\r\n- [x] I am on (or have tested on) ***macOS*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [x] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n<!--\r\n  If this error occured on GitHub Pages, please try to provide us with logs,\r\n  and look at them yourself, to determine if this is an actual Jekyll bug. In\r\n  the event you are unsure, file a ticket, however, when you do please provide\r\n  the logs (strip them of personal information.)\r\n\r\n  If you have trouble finding your logs, please email support@github.com and\r\n  they will happily help you. If you cannot find logs, please try your best to\r\n  replicate it locally because we cannot fix a problem if we do not know\r\n  exactly what caused it, or within a relatively close distance.\r\n-->\r\n\r\n<!--\r\n  Insert the steps you took to for this problem to exist. Such as the\r\n  directories you created and, the full command you ran, and include any\r\n  plugins you have installed, this is very important.\r\n\r\n  If your steps are complicated, you can also submit a GitHub\r\n  repository (please no zips, they will be removed and rejected by maintainers,)\r\n  and just supply a command for us to reproduce it ourselves.\r\n-->\r\n1. Configure Bundler to install deps to my project directories instead of GEM_HOME\r\n```\r\nbundle config --global path vendor/bundle\r\n```\r\n2. Initialize a project directory\r\n```\r\nmkdir site && cd site\r\nbundle init\r\n```\r\n3. Update project Gemfile contents\r\n```\r\n# frozen_string_literal: true\r\nsource \"https://rubygems.org\"\r\n\r\ngem \"jekyll\"\r\n```\r\n4. Install Jekyll to the project directory and create a new site with default scaffolding\r\n```\r\nbundle install\r\nbundle exec jekyll new . --force\r\n```\r\n## The Output I Wanted\r\nI expected that Jekyll would write the default site scaffolding into the current directory (project root), overwrite _my_ Gemfile, and `bundle install` default site dependencies from _its_ Gemfile (e.g., minima) to vendor/bundle.\r\n<!--\r\n  Insert the output from the command. Alter it as little as you can.\r\n  The minimum should be personal information. Though we normally don't log\r\n  anything like that so there should be no need to alter it.\r\n-->\r\nOutput below:\r\n\r\n```\r\nRunning bundle install in /Users/joeptacek/site...\r\n  Bundler: /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/resolver.rb:386:in `block in verify_gemfile_dependencies_are_found!': Could not find gem 'minima (~> 2.0)' in any of the gem sources listed in your Gemfile. (Bundler::GemNotFound)\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/resolver.rb:356:in `each'\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/resolver.rb:356:in `verify_gemfile_dependencies_are_found!'\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/resolver.rb:203:in `start'\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/resolver.rb:182:in `resolve'\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/definition.rb:252:in `resolve'\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/definition.rb:176:in `specs'\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/definition.rb:235:in `specs_for'\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/definition.rb:224:in `requested_specs'\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/runtime.rb:118:in `block in definition_method'\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/runtime.rb:19:in `setup'\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler.rb:100:in `setup'\r\n  Bundler: from /Users/joeptacek/.gem/ruby/2.4.1/gems/bundler-1.14.6/lib/bundler/setup.rb:20:in `<top (required)>'\r\n  Bundler: from /Users/joeptacek/.rubies/ruby-2.4.1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'\r\n  Bundler: from /Users/joeptacek/.rubies/ruby-2.4.1/lib/ruby/2.4.0/rubygems/core_ext/kernel_require.rb:55:in `require'\r\n```\r\nIf I run `bundle install` again, the dependencies are installed without further issue. \r\n\r\nTo avoid errors, my workaround has been to replace step 4 with:\r\n```\r\nbundle install\r\nbundle exec jekyll new . --force --skip-bundle && bundle install\r\n```\r\n\r\nI have also tried some other things after installing Jekyll to GEM_HOME with `gem install jekyll`. \r\n\r\nNo errors here:\r\n```\r\n# Start with empty directory\r\njekyll new . \r\n```\r\n\r\nSame error as above:\r\n```\r\n# Start with empty directory\r\nbundle init\r\njekyll new . --force\r\n```\r\n\r\nNo errors here:\r\n```\r\n# With basic `bundle init` Gemfile in subdirectory 'site'\r\njekyll new site --force\r\n```\r\n\r\nIt seems that Jekyll doesn't like making a new site in the _current_ directory if it already contains a Gemfile, but is fine doing so in another directory?",
+#               "createdAt": "2017-03-30T15:17:35Z",
+#               "lastEditedAt": "2017-03-31T13:45:13Z",
+#               "updatedAt": "2017-05-31T14:11:33Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/15864844?v=4",
+#                 "login": "joeptacek",
+#                 "resourcePath": "/joeptacek",
+#                 "url": "https://github.com/joeptacek"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "stale"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Dots in datafile names aren't preserved",
+#               "number": 6001,
+#               "url": "https://github.com/jekyll/jekyll/issues/6001",
+#               "body": "First, I'm on OSX and latest github pages gem.\r\n\r\nI've got a set of data files that have filenames that contain dots, for example `local.suffolk.2017-05-04.json`. Jekyll loads the data just fine, but when I go to access it, the key for looking up an item is `localsuffolk2017-05-04` rather than the full one with dots in. This is making my code a lot more complex as I have to avoid direct lookups of the data files.\r\n\r\nI guess this is an accidental artefact of removing the extension from the filename.",
+#               "createdAt": "2017-04-02T21:39:12Z",
+#               "lastEditedAt": "2017-04-02T21:39:23Z",
+#               "updatedAt": "2017-06-14T20:43:42Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 11
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/3565?v=4",
+#                 "login": "Floppy",
+#                 "resourcePath": "/Floppy",
+#                 "url": "https://github.com/Floppy"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Categories are poorly documented",
+#               "number": 6003,
+#               "url": "https://github.com/jekyll/jekyll/issues/6003",
+#               "body": "The most common question I've seen around the internet when it comes to Jekyll is how to group posts in the filesystem. I'd always assumed &mdash; based on none of those posts I've seen ever coming to an answer &mdash; that Jekyll didn't have this feature, but eventually someone off-handedly mentioned categories, so I looked it up.\r\n\r\nI found this comment, from 2015: https://github.com/jekyll/jekyll/issues/1819#issuecomment-89003858\r\n\r\nThat comment points to 3 sentences on http://jekyllrb.com/docs/variables/#page-variables\r\n\r\nI also found a brief mention of it here: https://jekyllrb.com/docs/frontmatter/#predefined-variables-for-posts\r\n\r\nBut it's never actually properly documented on its own anywhere, and I feel like it should be.",
+#               "createdAt": "2017-04-03T03:06:17Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-29T02:00:53Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 6
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/39698?v=4",
+#                 "login": "duckinator",
+#                 "resourcePath": "/duckinator",
+#                 "url": "https://github.com/duckinator"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "documentation"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Ability to conditionally call a plugin if it is enabled",
+#               "number": 6020,
+#               "url": "https://github.com/jekyll/jekyll/issues/6020",
+#               "body": "Via https://github.com/jekyll/minima/pull/109, it's not currently possible to conditionally call a plugin tag if it exists (without reverting to a weired include work around). Or if it is possible, it's not currently documented.\r\n\r\nExample:\r\n\r\n```liquid\r\n{% if site.plugins contains \"jekyll-seo-tag\" %}\r\n    {% seo %}\r\n{% else %}\r\n    <title>{{ page.title }}</title>\r\n{% endif %}\r\n```\r\n\r\nWith the above, or something similar, themes could call a plugin, conditioned on it being installed, without breaking the build with an opaque \"tag not found\" error.",
+#               "createdAt": "2017-04-11T19:03:19Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-26T17:57:44Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/282759?v=4",
+#                 "login": "benbalter",
+#                 "resourcePath": "/benbalter",
+#                 "url": "https://github.com/benbalter"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Allow collection folders within category folders",
+#               "number": 6030,
+#               "url": "https://github.com/jekyll/jekyll/issues/6030",
+#               "body": "- [ ] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [x] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [x] I am on (or have tested on) ***Windows*** 10+ (WSL)\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [ ] I was trying to build.\r\n- [ ] It was another bug.\r\n\r\n## The problem:\r\nMy Jekyll site contains many kinds of collection. It also uses categories. Each category contains and groups items from multiple collections. As such, categories act as a top-level ontology.\r\n\r\nRight now each collection can have exactly one folder, and that folder must be in the root folder. This means that all items of a collection must be grouped together, even if they don't bear much relation to each other. e.g.:\r\n - /\r\n    - /_collection1\r\n        - Item1(Cat1)\r\n        - Item2(Cat2)\r\n        - Item3(Cat1)\r\n    - /_collection2\r\n        - Item1(Cat2)\r\n        - Item2(Cat3)\r\n\r\nAs the number of items and categories grows, this will quickly become unsustainable. There is no easy way to see either which category a given post is in (without opening it) or all every item for a given category.\r\n\r\nTo get around this, I could create subfolders within my collections for each category, then use frontmatter defaults to apply the categories (ala https://github.com/jekyll/jekyll/issues/3287), however this has problems of its own:\r\n\r\n 1. I need to change the config.yml whenever I add a category (minor, but still one step more than it should be)\r\n 2. My document structure on disk no longer matches its logical structure\r\n 3. (The main problem) It is the opposite layout to what _posts requires.\r\n\r\nThis means my structure would actually end up as\r\n\r\n - /\r\n    - /cat1\r\n        - /_posts\r\n    - /cat2\r\n        - /_posts\r\n    - /_collection1\r\n        - /cat1\r\n        - /cat2\r\n    - /_collection2\r\n        - /cat1\r\n        - /cat2\r\n\r\n## Proposed Solution:\r\n\r\nBring collections behaviour inline with posts, i.e. make the directory structure look like this:\r\n\r\n - /\r\n    - /cat1\r\n        - /_posts\r\n        - /_collection1\r\n        - /_collection2\r\n    - /cat2\r\n        - /_posts\r\n        - /_collection1\r\n        - /_collection2   \r\n\r\n",
+#               "createdAt": "2017-04-15T15:22:24Z",
+#               "lastEditedAt": "2017-04-15T16:59:42Z",
+#               "updatedAt": "2017-06-20T17:34:35Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/858304?v=4",
+#                 "login": "malacandrian",
+#                 "resourcePath": "/malacandrian",
+#                 "url": "https://github.com/malacandrian"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "discussion"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Respecting the post's \"local\" timezone (revisiting #4096)",
+#               "number": 6033,
+#               "url": "https://github.com/jekyll/jekyll/issues/6033",
+#               "body": "I would like to revisit issue #4096. Summary: I record the timezone offset for every post in the front matter: `date: 2017-04-17 23:00:00 +0200`. Jekyll always converts that to the local timezone, a fact that will not change to avoid regressions, I understand that.\r\n\r\nSadly, this is not entirely satisfactory. One may want to change the timezone for the blog temporarily (holidays, staying abroad for a few months) or permanently (moving from one timezone to another inside the US should be rather common). This can have very bad side effects: When using URL schemes including the date, the URLs might change! The data in any RSS feed would also change. I would also prefer that the timestamp of any blog post retains the local time from when it was written. This last item may not be everyone's taste, though, and they may be served by always using UTC.\r\n\r\nSo the question is what can be done about this? Currently, you still have to either monkey patch `Document` (see link in #4096) or keep another, redundant field in the front matter. From my point of view, the optimal solution would be some sort of global option to keep the blog post date in the same timezone. Alternatively, at least storing the original string somewhere or providing a hook to get that data before conversion would be acceptable. Although, then it is still unclear to me how to generate the correct URLs.\r\n\r\nI would be willing to try to submit a patch, but I would like some input on what should be done before I get my hands dirty, it is after all a user-facing issue. Any thoughts about the best way to do this?",
+#               "createdAt": "2017-04-17T21:44:22Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-15T20:07:09Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 22
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/2961865?v=4",
+#                 "login": "t-brink",
+#                 "resourcePath": "/t-brink",
+#                 "url": "https://github.com/t-brink"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "needs-decision"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Feature Request: Allow permanent override to production environment",
+#               "number": 6034,
+#               "url": "https://github.com/jekyll/jekyll/issues/6034",
+#               "body": "- [x] This is a feature request.\r\n- [x]  I updated to the latest Jekyll (or) if on GitHub Pages to the latest github-pages\r\n- [x] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n\r\n### My Feature Request\r\n\r\nJekyll now [defaults to a development environment](https://jekyllrb.com/docs/configuration/#specifying-a-jekyll-environment-at-build-time), and outputs `{{ site.url }}` as a localhost address, instead of what the user set in `_config.yml`. Now users who want `{{ site.url }}` to output what they set must remember to prepend `JEKYLL_ENV=production`. Can this new behavior be made easy to override permanently? For example, a value in `_config.yml` or a new `.env` file is created by the user and referenced at build?\r\n\r\nClosed bugs #5482, #5488, #5599, #5743, #5895 (and more) seem to indicate that this new behavior is unexpected for some users, and a change that allows users to override the default environment might be very helpful.\r\n\r\n### My Reproduction Steps\r\n\r\nRun `jekyll serve` or `bundle exec jekyll serve`\r\n\r\n### The Output I Wanted\r\n\r\nURLs which include `{{ site.url }}` to always use the production value set in `_config.yml`, and not a localhost address, without having to remember to use `JEKYLL_ENV=production` each time.\r\n\r\n/cc @jekyll/build\r\n",
+#               "createdAt": "2017-04-18T17:48:11Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-18T18:11:23Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/26851860?v=4",
+#                 "login": "moved-to-gitlab",
+#                 "resourcePath": "/moved-to-gitlab",
+#                 "url": "https://github.com/moved-to-gitlab"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "stale"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Since 3.2, where-filter incorrectly handles missing/nil properties",
+#               "number": 6038,
+#               "url": "https://github.com/jekyll/jekyll/issues/6038",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [x] I am on (or have tested on) ***macOS*** 10+\r\n\r\n---\r\n\r\n- [x] I was trying to build.\r\n\r\n## Description\r\n\r\nBefore Jekyll 3.2, the `where` filter had the useful ability to select objects based on a missing or empty keys (`where: \"key\", nil`). The new array-support feature (pull #4555) changed this behavior causing problems for sites upgrading from 3.1.\r\n\r\nPull request fix and test: #6039\r\n\r\n## My Reproduction Steps\r\n\r\n0. Using Jekyll 3.2+, create a test site: `jekyll new testsite`\r\n0.  In testsite, add `test.md`:\r\n    ```\r\n    ---\r\n    objects: [{}, {a: nil}, {a: \"\"}, {a: \"text\"}]\r\n    ---\r\n    \r\n    Count of Empty As: {{ page.objects | where: \"a\", nil | size }}\r\n    ```\r\n0. Run `jekyll build` and examine `_site/test.html`\r\n    \r\n    Three of the objects have empty A properties, but Jekyll 3.2+ reports only one:\r\n    \r\n    ```\r\n    Count of Empty As: 1\r\n    ```\r\n\r\n## The Output I Wanted\r\n\r\nWith versions before Jekyll 3.2, the output is:\r\n\r\n```\r\nCount of Empty As: 3\r\n```",
+#               "createdAt": "2017-04-19T19:50:27Z",
+#               "lastEditedAt": "2017-04-19T20:03:50Z",
+#               "updatedAt": "2017-06-19T20:33:40Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/1627217?v=4",
+#                 "login": "chuckhoupt",
+#                 "resourcePath": "/chuckhoupt",
+#                 "url": "https://github.com/chuckhoupt"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "incorrect handling of filenames with URI escapes",
+#               "number": 6052,
+#               "url": "https://github.com/jekyll/jekyll/issues/6052",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [ ] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [x] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [x] I was trying to build.\r\n- [ ] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n<!--\r\n  If this error occured on GitHub Pages, please try to provide us with logs,\r\n  and look at them yourself, to determine if this is an actual Jekyll bug. In\r\n  the event you are unsure, file a ticket, however, when you do please provide\r\n  the logs (strip them of personal information.)\r\n\r\n  If you have trouble finding your logs, please email support@github.com and\r\n  they will happily help you. If you cannot find logs, please try your best to\r\n  replicate it locally because we cannot fix a problem if we do not know\r\n  exactly what caused it, or within a relatively close distance.\r\n-->\r\n\r\nthe bug shows as follows: i am creating files with names containing URI escapes. as an example the first command shows two of the files i am creating. jekyll does not correctly process these files. as you can see in the second and third command, `application%2Fxml.json` gets translated correctly, while `application%2Fxml.md` results in an `application` directory being created which then contains an `xml.html` file.\r\n\r\n```\r\ndretpro:media-type dret$ ls -la application%2Fxml.*\r\n-rw-r--r--  1 dret  staff   552 Apr 26 14:18 application%2Fxml.json\r\n-rw-r--r--  1 dret  staff  1389 Apr 26 14:18 application%2Fxml.md\r\ndretpro:media-type dret$ ls -la ../../_site/concepts/media-type/application%2Fxml.*\r\n-rw-r--r--  1 dret  staff  552 Apr 26 14:18 ../../_site/concepts/media-type/application%2Fxml.json\r\ndretpro:media-type dret$ ls -la ../../_site/concepts/media-type/application/xml.*\r\n-rw-r--r--  1 dret  staff  6457 Apr 26 14:18 ../../_site/concepts/media-type/application/xml.html\r\ndretpro:media-type dret$\r\n```\r\n\r\nthe context of the problem is that i want to change `http://webconcepts.info/concepts/media-type/application/xml` and `http://webconcepts.info/concepts/media-type/application/xml.json` so that they use properly escaped URIs. i ran into the bug when i started testing this locally on my jekyll 3.2.1 install.\r\n\r\n<!--\r\n  Insert the steps you took to for this problem to exist. Such as the\r\n  directories you created and, the full command you ran, and include any\r\n  plugins you have installed, this is very important.\r\n\r\n  If your steps are complicated, you can also submit a GitHub\r\n  repository (please no zips, they will be removed and rejected by maintainers,)\r\n  and just supply a command for us to reproduce it ourselves.\r\n-->\r\n\r\nas shown above, i have created two files with escaped URIs as names, and expected them to be properly processed by jekyll. jekyll did not do the right thing for the `.md` file.\r\n\r\n<!--\r\n  Insert the output from the command. Alter it as little as you can.\r\n  The minimum should be personal information. Though we normally don't log\r\n  anything like that so there should be no need to alter it.\r\n-->\r\n\r\n/cc include any Jekyll affinity teams here (see https://teams.jekyllrb.com/ for more info)\r\n",
+#               "createdAt": "2017-04-26T15:42:06Z",
+#               "lastEditedAt": "2017-04-26T15:42:50Z",
+#               "updatedAt": "2017-06-27T17:28:43Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/1848612?v=4",
+#                 "login": "dret",
+#                 "resourcePath": "/dret",
+#                 "url": "https://github.com/dret"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "pinned"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "jekyll serve --source constructs wrong paths when pwd is another Jekyll tree",
+#               "number": 6060,
+#               "url": "https://github.com/jekyll/jekyll/issues/6060",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [x] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n## My Reproduction Steps\r\n\r\n### Base Case\r\n\r\nHere is a base case that reproduces this bug:\r\n\r\n```sh\r\njekyll new foo\r\njekyll new bar\r\nmkdir foo/_layouts\r\ncat > foo/_layouts/page.html <<'EOF'\r\n{{ page.content }}\r\nEOF\r\ncp -r foo/_layouts bar/_layouts\r\ncd foo && jekyll serve --source /path/to/bar\r\n```\r\n\r\nResults in:\r\n\r\n```\r\nConfiguration file: /Users/dzc/Sandbox/bar/_config.yml\r\nConfiguration file: /Users/dzc/Sandbox/bar/_config.yml\r\n            Source: /Users/dzc/Sandbox/bar\r\n       Destination: /Users/dzc/Sandbox/foo/_site\r\n Incremental build: disabled. Enable with --incremental\r\n      Generating...\r\nError reading file /Users/dzc/Sandbox/foo/_layouts/page.html: No such file or directory @ rb_sysopen - /Users/dzc/Sandbox/bar/Users/dzc/Sandbox/foo/_layouts/page.html\r\n                    done in 0.241 seconds.\r\n Auto-regeneration: enabled for '/Users/dzc/Sandbox/bar'\r\nConfiguration file: /Users/dzc/Sandbox/bar/_config.yml\r\n    Server address: http://127.0.0.1:4000/\r\n  Server running... press ctrl-c to stop.\r\n```\r\n\r\n### Background\r\n\r\nSome background for this: we use Jekyll for the [Bazel website](https://bazel.build), and we have a [build pipeline](https://github.com/bazelbuild/bazel/blob/master/site/BUILD) that builds a tar archive containing the Jekyll source tree. We do this because our website and documentation are constructed from various sources, including both static pages and docs generated from source code. We have a [script](https://github.com/bazelbuild/bazel/blob/master/scripts/serve-docs.sh) that extracts the tar archive into a temporary directory and then run `jekyll serve --source $WORKING_DIR` to bring up a local instance of the website.\r\n\r\nI am working on migrating the website out of the [bazelbuild/bazel source tree](https://github.com/bazelbuild/bazel/tree/master/site) and into its own repository at [bazelbuild/bazel-website](https://github.com/bazelbuild/bazel-website). When setting up the [`serve-docs.sh` script](https://github.com/davidzchen/bazel-website/blob/third-party/scripts/serve-docs.sh) in bazelbuild/bazel-website, I noticed that when running the script, Jekyll was emitting some rather odd `No such file or directory` errors:\r\n\r\n```\r\nConfiguration file: /var/folders/j0/xv70dzd9799fgkyhmlqqhy_c0000gn/T/tmp.wAG0g4zf/_config.yml\r\nConfiguration file: /var/folders/j0/xv70dzd9799fgkyhmlqqhy_c0000gn/T/tmp.wAG0g4zf/_config.yml\r\n            Source: /var/folders/j0/xv70dzd9799fgkyhmlqqhy_c0000gn/T/tmp.wAG0g4zf\r\n       Destination: production\r\n Incremental build: disabled. Enable with --incremental\r\n      Generating...\r\nError reading file /Users/dzc/Sandbox/bazel-website/_layouts/contribute.html: No such file or directory @ rb_sysopen - /var/folders/j0/xv70dzd9799fgkyhmlqqhy_c0000gn/T/tmp.wAG0g4zf/Users/dzc/Sandbox/bazel-website/_layouts/contribute.html\r\nError reading file /Users/dzc/Sandbox/bazel-website/_layouts/default.html: No such file or directory @ rb_sysopen - /var/folders/j0/xv70dzd9799fgkyhmlqqhy_c0000gn/T/tmp.wAG0g4zf/Users/dzc/Sandbox/bazel-website/_layouts/default.html\r\nError reading file /Users/dzc/Sandbox/bazel-website/_layouts/home.html: No such file or directory @ rb_sysopen - /var/folders/j0/xv70dzd9799fgkyhmlqqhy_c0000gn/T/tmp.wAG0g4zf/Users/dzc/Sandbox/bazel-website/_layouts/home.html\r\nError reading file /Users/dzc/Sandbox/bazel-website/_layouts/redirect.html: No such file or directory @ rb_sysopen - /var/folders/j0/xv70dzd9799fgkyhmlqqhy_c0000gn/T/tmp.wAG0g4zf/Users/dzc/Sandbox/bazel-website/_layouts/redirect.html\r\nError reading file /Users/dzc/Sandbox/bazel-website/_layouts/regular-redirect.html: No such file or directory @ rb_sysopen - /var/folders/j0/xv70dzd9799fgkyhmlqqhy_c0000gn/T/tmp.wAG0g4zf/Users/dzc/Sandbox/bazel-website/_layouts/regular-redirect.html\r\n                    done in 0.632 seconds.\r\n Auto-regeneration: enabled for '/var/folders/j0/xv70dzd9799fgkyhmlqqhy_c0000gn/T/tmp.wAG0g4zf'\r\nConfiguration file: /var/folders/j0/xv70dzd9799fgkyhmlqqhy_c0000gn/T/tmp.wAG0g4zf/_config.yml\r\n    Server address: http://localhost:12345/\r\n  Server running... press ctrl-c to stop.\r\n```\r\n\r\nNote that in this case, the pwd is `/Users/dzc/Sandbox/bazel-website`, which itself looks like a valid Jekyll source tree.\r\n\r\nEventually, I suspected that the reason for these errors was that the `jekyll serve` command was being run from a directory that itself could be a valid Jekyll source tree and that Jekyll was constructing incorrect paths as a result, even though `--source` was set.\r\n\r\nTo confirm this, I manually extracted the `jekyll-tree.tar` built using `bazel build //:jekyll-tree` into a directory and confirms that running `jekyll serve` correctly serves the site. Then, I cd-ed into the my local bazel-website source tree and then ran `jekyll serve --source <path>` where `<path> is the path of the Jekyll tree I extracted, and as expected, the errors appeared again.\r\n\r\n## The Output I Wanted\r\n\r\nRunning `jekyll serve --source` in this case correctly serves the site from the sources pointed to by `--source`.\r\n\r\n/cc @steren @damienmg\r\n",
+#               "createdAt": "2017-05-02T10:10:39Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-29T18:05:10Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 7
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/5283042?v=4",
+#                 "login": "davidzchen",
+#                 "resourcePath": "/davidzchen",
+#                 "url": "https://github.com/davidzchen"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Jekyll converting $$...$$ to <script type=\"math/tex\">...</script> even with kramdown math_engine set to nil",
+#               "number": 6061,
+#               "url": "https://github.com/jekyll/jekyll/issues/6061",
+#               "body": "I have trouble stopping Jekyll (on Github Pages) from generating `<script type=\"math/tex\">...</script>` for every `$$...$$` in my markdown. The reason is I want to handle all the math manually using MathJax on my HTML output.\r\n\r\nI tried disabling the `kramdown math_engine` by setting it to `nil`. I also tried with `maruku` and setting `use_tex` to `false`. Both generate the same HTML for `$$...$$`.\r\n\r\nIn my `_config.yml` I tried:\r\n```yml\r\nkramdown:\r\n  ... \r\n  math_engine: nil\r\n```\r\nas well as:\r\n```yml\r\nmaruku:\r\n    use_tex: false\r\n```",
+#               "createdAt": "2017-05-03T14:48:33Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-01T04:32:02Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/17556779?v=4",
+#                 "login": "adelredjimmy",
+#                 "resourcePath": "/adelredjimmy",
+#                 "url": "https://github.com/adelredjimmy"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Using include_relative to paths that contain spaces causes an error",
+#               "number": 6062,
+#               "url": "https://github.com/jekyll/jekyll/issues/6062",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [x] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [x] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [ ] I was trying to build.\r\n- [ ] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n<!--\r\n  If this error occured on GitHub Pages, please try to provide us with logs,\r\n  and look at them yourself, to determine if this is an actual Jekyll bug. In\r\n  the event you are unsure, file a ticket, however, when you do please provide\r\n  the logs (strip them of personal information.)\r\n\r\n  If you have trouble finding your logs, please email support@github.com and\r\n  they will happily help you. If you cannot find logs, please try your best to\r\n  replicate it locally because we cannot fix a problem if we do not know\r\n  exactly what caused it, or within a relatively close distance.\r\n-->\r\n\r\n<!--\r\n  Insert the steps you took to for this problem to exist. Such as the\r\n  directories you created and, the full command you ran, and include any\r\n  plugins you have installed, this is very important.\r\n\r\n  If your steps are complicated, you can also submit a GitHub\r\n  repository (please no zips, they will be removed and rejected by maintainers,)\r\n  and just supply a command for us to reproduce it ourselves.\r\n-->\r\n\r\nUsing Github Pages in the root of the repository in a README.md I have the following include:\r\n\r\n```\r\n{% include_relative \"Embed WebVI into Content/Summary.md\" %}\r\n```\r\n\r\nThis produced a generic Jekyll error in Github Pages. After building locally I see the following error instead:\r\n\r\n```\r\n  Liquid Exception: Invalid syntax for include tag: WebVI into Content/Summary.md\" Valid syntax: {% include_relative file.ext param='value' param2='value' %} in Readme.md\r\njekyll 3.4.3 | Error:  Invalid syntax for include tag:\r\n\r\n  WebVI into Content/Summary.md\"\r\n\r\nValid syntax:\r\n\r\n  {% include_relative file.ext param='value' param2='value' %}\r\n```\r\n\r\nThe layout of the repository is like the following:\r\n/README.md\r\n/Embed WebVI into Content/README.md\r\n/Embed WebVI into Content/Summary.md\r\n\r\nI also tried the following variations to try and include the path with spaces:\r\n```\r\n{% include_relative Embed WebVI into Content/Summary.md %}\r\n```\r\n\r\n```\r\n{% include_relative Embed\\ WebVI\\ into\\ Content/Summary.md %}\r\n```\r\n\r\n```\r\n{% assign rawpath = 'Embed WebVI into Content/Summary.md' %}\r\n{% include_relative {{rawpath}} %}\r\n```\r\n## The Output I Wanted\r\n\r\nI hoped to be able to include a path to a file in a subdirectory using spaces in the name\r\n\r\n<!--\r\n  Insert the output from the command. Alter it as little as you can.\r\n  The minimum should be personal information. Though we normally don't log\r\n  anything like that so there should be no need to alter it.\r\n-->\r\n\r\n/cc include any Jekyll affinity teams here (see https://teams.jekyllrb.com/ for more info)\r\n",
+#               "createdAt": "2017-05-03T17:35:37Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-03T19:49:16Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/1588923?v=4",
+#                 "login": "rajsite",
+#                 "resourcePath": "/rajsite",
+#                 "url": "https://github.com/rajsite"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "unexpected path of files from collection with :title in permalink",
+#               "number": 6063,
+#               "url": "https://github.com/jekyll/jekyll/issues/6063",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [ ] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [ ] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [x] I am on (or have tested on) ***Other*** GNU/Linux ***(based on `ruby:2.3.0-alpine` Docker image)***\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [x] I was trying to build.\r\n- [ ] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n<!--\r\n  If this error occured on GitHub Pages, please try to provide us with logs,\r\n  and look at them yourself, to determine if this is an actual Jekyll bug. In\r\n  the event you are unsure, file a ticket, however, when you do please provide\r\n  the logs (strip them of personal information.)\r\n\r\n  If you have trouble finding your logs, please email support@github.com and\r\n  they will happily help you. If you cannot find logs, please try your best to\r\n  replicate it locally because we cannot fix a problem if we do not know\r\n  exactly what caused it, or within a relatively close distance.\r\n-->\r\n\r\n<!--\r\n  Insert the steps you took to for this problem to exist. Such as the\r\n  directories you created and, the full command you ran, and include any\r\n  plugins you have installed, this is very important.\r\n\r\n  If your steps are complicated, you can also submit a GitHub\r\n  repository (please no zips, they will be removed and rejected by maintainers,)\r\n  and just supply a command for us to reproduce it ourselves.\r\n-->\r\n\r\nCurrently we are on Jekyll 3.3.1. I can test with 3.4.x, but would like to hear whether it's worse it first (not quite clear from `History.markdown` whether there were changes related to this).\r\n\r\nI have this in `_config.yml`:\r\n```yams\r\n   tutorials:\r\n       output: true\r\n       permalink: /docs/tutorials/:title/\r\n```\r\n\r\nin `_tutorials` I have some `.png` and `.md` files in subdirectories.\r\n\r\nThe build ends up copying all files to `_site/docs`, and not even `_site/docs/tutorials`.\r\n\r\nI understand that `:title` may be undefined for e.g. my `.png` files, yet they shouldn't get place a level up from where they are expected.\r\n\r\nI worked around this by using `:path` instead of `:title`, but I still think this is a genuine bug.\r\n\r\n## The Output I Wanted\r\n\r\n<!--\r\n  Insert the output from the command. Alter it as little as you can.\r\n  The minimum should be personal information. Though we normally don't log\r\n  anything like that so there should be no need to alter it.\r\n-->\r\n\r\nIt would make much more sense if my files were copied to `_site/docs/tutorials`, or fallback to `:path` instead of `:title`...",
+#               "createdAt": "2017-05-04T11:14:13Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-04T23:11:08Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/251467?v=4",
+#                 "login": "errordeveloper",
+#                 "resourcePath": "/errordeveloper",
+#                 "url": "https://github.com/errordeveloper"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "stale"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Slow regeneration in Docker",
+#               "number": 6065,
+#               "url": "https://github.com/jekyll/jekyll/issues/6065",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [x] I am on (or have tested on) ***macOS*** 10+\r\n- [x] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [ ] I was trying to build.\r\n- [x] It was another bug.\r\n\r\n## Issue description\r\n\r\nHi all,\r\nIt seems that regeneration breaks when path to the project contains non-ASCII characters. What's more - only if I'm using Jekyll in Docker. It's working great outside of it. I've found this issue with simple (and empty) project.\r\n\r\nExamples:\r\n```\r\n/Users/jakubpowierza/Desktop/test/My Page - FAST\r\n/Users/jakubpowierza/Desktop/ąśćź/My Page - REALLY SLOW\r\n```\r\n\r\nMain time consuming jobs were connected with these steps (when I run jekyll with --debug flag):\r\n```\r\nmy_page    |          Rendering: css/main.scss\r\nmy_page    |   Pre-Render Hooks: css/main.scss\r\nmy_page    |   Rendering Liquid: css/main.scss\r\nmy_page    |   Rendering Markup: css/main.scss\r\n```\r\n\r\nI think that there might be an issue with some plugins that I use or Jekyll/Docker itself. I can't post my repository but all I use is stored in my Gemfile:\r\n```\r\nsource 'https://rubygems.org'\r\ngem 'json'\r\ngem 'listen'\r\ngem 'jekyll'\r\ngem 'jekyll-watch'\r\ngem 'jekyll-archives'\r\ngem 'jekyll-sitemap'\r\ngem 'jekyll-paginate'\r\n```\r\n\r\nI run my Docker using docker-compose with below configuration:\r\n```yaml\r\nmy_page:\r\n    image: jekyll/jekyll:pages\r\n    container_name: my_page\r\n    command: jekyll serve --watch --incremental\r\n    ports:\r\n        - 4000:4000\r\n    volumes:\r\n        - .:/srv/jekyll\r\n```\r\n\r\nTimings:\r\n- ASCII path:\r\n    - first build: 4.429 seconds\r\n    - rebuild: 3.128 seconds\r\n- non-ASCII path:\r\n    - first build: 4.238 seconds\r\n    - rebuild: 119.936 seconds!!!\r\n\r\nI've posted this bug on Jekyll/Docker repository: https://github.com/jekyll/docker/issues/68. If you need something more - please reply and I'll try to help with debugging.\r\n\r\nThanks,\r\nJakub Powierza",
+#               "createdAt": "2017-05-05T21:26:03Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-18T06:11:15Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/6514553?v=4",
+#                 "login": "jpowie01",
+#                 "resourcePath": "/jpowie01",
+#                 "url": "https://github.com/jpowie01"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "stale"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Nonsensical warning when `post_url` used with `_drafts/`",
+#               "number": 6069,
+#               "url": "https://github.com/jekyll/jekyll/issues/6069",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [x] I am on (or have tested on) ***NixOS*** GNU/Linux\r\n\r\n## My Reproduction Steps\r\n\r\nI believe the depreciation warning for post_url is incorrect. \r\n\r\nWhen using the tag `{% post_url <name of post> %}` i'm getting the following warning:\r\n\r\n> Regenerating: 1 file(s) changed at 2017-05-08 23:15:58 \r\n> Deprecation: A call to '{{ post_url 2017-01-29-nextcloud-in-a-freebsd-jail }}' did not match a post using the new matching method of checking name (path-date-slug) equality. Please make sure that you change this tag to match the post's name exactly.\r\n\r\nI checked and my title is the same, it's in the _drafts/ directory.\r\n\r\nThe exact code used was:\r\n\r\n```\r\n[next section]({% post_url 2017-01-29-nextcloud-in-a-freebsd-jail %}#database).\r\n```\r\n\r\n## The Output I Wanted\r\n\r\nNo warning.\r\n",
+#               "createdAt": "2017-05-09T06:46:16Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-15T12:54:10Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 8
+#               },
+#               "comments": {
+#                 "totalCount": 7
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/8735102?v=4",
+#                 "login": "johnramsden",
+#                 "resourcePath": "/johnramsden",
+#                 "url": "https://github.com/johnramsden"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "JSON data error",
+#               "number": 6079,
+#               "url": "https://github.com/jekyll/jekyll/issues/6079",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [ ] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [ ] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [x] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [x] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [ ] I was trying to build.\r\n- [ x] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n<!--\r\n  If this error occured on GitHub Pages, please try to provide us with logs,\r\n  and look at them yourself, to determine if this is an actual Jekyll bug. In\r\n  the event you are unsure, file a ticket, however, when you do please provide\r\n  the logs (strip them of personal information.)\r\n\r\n  If you have trouble finding your logs, please email support@github.com and\r\n  they will happily help you. If you cannot find logs, please try your best to\r\n  replicate it locally because we cannot fix a problem if we do not know\r\n  exactly what caused it, or within a relatively close distance.\r\n-->\r\n\r\n<!--\r\n  Insert the steps you took to for this problem to exist. Such as the\r\n  directories you created and, the full command you ran, and include any\r\n  plugins you have installed, this is very important.\r\n\r\n  If your steps are complicated, you can also submit a GitHub\r\n  repository (please no zips, they will be removed and rejected by maintainers,)\r\n  and just supply a command for us to reproduce it ourselves.\r\n-->\r\nThe document states I can use the data files stored in _data folder. I tested with YAML, it works perfectly. However, when I try to use a json file, I get error, object not found. Trying to put the below code in a plugin stored in _plugins directory, using the Generator class:\r\n```module Jekyll\r\n  require 'json'\r\n\r\n  class JSONGenerator < Generator\r\n    safe true\r\n    priority :low\r\n\r\n    def generate(site)\r\n       site.data.fileName.someObjectName[0].name\r\n# rest of the code follows below\r\n```\r\n## The Output I Wanted\r\n\r\nthis code should rather simply result in the name value of the object's child element.\r\n<!--\r\n  Insert the output from the command. Alter it as little as you can.\r\n  The minimum should be personal information. Though we normally don't log\r\n  anything like that so there should be no need to alter it.\r\n-->\r\n",
+#               "createdAt": "2017-05-20T00:11:51Z",
+#               "lastEditedAt": "2017-05-20T09:39:57Z",
+#               "updatedAt": "2017-07-23T03:11:00Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/1097039?v=4",
+#                 "login": "yuvrajm",
+#                 "resourcePath": "/yuvrajm",
+#                 "url": "https://github.com/yuvrajm"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "stale"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "support"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Closing table tag is rendered when closing row/cell tags are omitted",
+#               "number": 6084,
+#               "url": "https://github.com/jekyll/jekyll/issues/6084",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [x] I had an error on GitHub Pages and I did not test it locally.\r\n- [ ] I was trying to build.\r\n- [ ] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\nI'm using GitHub pages and found while the markup below renders correctly here in GitHub issues, the generated GitHub page does not. In the generated output (see image below) the closing `</table>` tag appears in the last table cell. The HTML5 spec indicates that closing row and cell tags are not needed.\r\n\r\nExample Markup:\r\n\r\n    <table>\r\n    <tr>\r\n    <th> Server\r\n    <th> IP\r\n    <th> Description\r\n    <tr>\r\n    <td> cl1\r\n    <td> 192.168.100.1\r\n    <td> This is my first server in the list\r\n    <tr>\r\n    <td> cl2\r\n    <td> 10.10.1.22\r\n    <td> This is another one server\r\n    <tr>\r\n    <td> windows-5BSD567DSLOS\r\n    <td> 127.0.0.12\r\n    <td> This is customer windows vm. dont touch this!\r\n    <tr>\r\n    <td> DFHSDDFFXYXKENLONGNAME\r\n    <td> 192.168.1.50\r\n    <td> Some printer\r\n    </table>\r\n\r\nThe expected output should be:\r\n\r\n<table>\r\n<tr>\r\n<th> Server\r\n<th> IP\r\n<th> Description\r\n<tr>\r\n<td> cl1\r\n<td> 192.168.100.1\r\n<td> This is my first server in the list\r\n<tr>\r\n<td> cl2\r\n<td> 10.10.1.22\r\n<td> This is another one server\r\n<tr>\r\n<td> windows-5BSD567DSLOS\r\n<td> 127.0.0.12\r\n<td> This is customer windows vm. dont touch this!\r\n<tr>\r\n<td> DFHSDDFFXYZKENLONGNAME\r\n<td> 192.168.1.50\r\n<td> Some printer\r\n</table>\r\n\r\nWhat I see in GitHub Pages:\r\n\r\n![image](https://cloud.githubusercontent.com/assets/567927/26312691/6c2d1ddc-3ed6-11e7-83a9-973ec3677840.png)\r\n\r\nEven more troubling is content following the closing tag (not in this example) is rendered in the last table cell.\r\n\r\nThe GitHub page showing the issue: http://mike-ward.net/2017/05/22/vertical-layout-for-html-tables/\r\n",
+#               "createdAt": "2017-05-22T14:17:18Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-22T15:11:22Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/567927?v=4",
+#                 "login": "mike-ward",
+#                 "resourcePath": "/mike-ward",
+#                 "url": "https://github.com/mike-ward"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "stale"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Add tag list for collection",
+#               "number": 6085,
+#               "url": "https://github.com/jekyll/jekyll/issues/6085",
+#               "body": "- [x] This is a feature request.\r\n\r\nCurrently tags and categories only contain those from posts and not from custom collections.\r\n\r\nI've changed[ jekyll-archives](https://github.com/jekyll/jekyll-archives) locally to do exactly this. I want to elaborate a little and create a pull request if this functionality is desired?\r\n\r\n**My proposal:**\r\nBy default, nothing changes as to not break existing sites.\r\n\r\nIn config.yml\r\n```\r\ncollections:\r\n  col1:\r\n    output: true\r\n    output_tags: true # both default to false\r\n    output_categories: true\r\n```\r\n\r\nThis has been requested before:\r\nhttps://github.com/jekyll/jekyll/issues/5339\r\nhttps://github.com/jekyll/jekyll/issues/3284",
+#               "createdAt": "2017-05-22T19:02:39Z",
+#               "lastEditedAt": "2017-05-22T19:03:11Z",
+#               "updatedAt": "2017-07-22T19:11:13Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/2582910?v=4",
+#                 "login": "Laoujin",
+#                 "resourcePath": "/Laoujin",
+#                 "url": "https://github.com/Laoujin"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "stale"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "site.static_files | group_by:\"category\" causes build failure",
+#               "number": 6094,
+#               "url": "https://github.com/jekyll/jekyll/issues/6094",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [x] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [x] I was trying to build.\r\n- [ ] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\nHello,\r\n\r\nI am new to Jekyll, and am using the recently open-sourced Parse documentation to build a docs site for my org. \r\n\r\nI made a file in the project for creating test objects, test loops, etc. I named the test file `liquid.md`, stuck it in the project’s source dir, associated it with a basic layout, and began testing various Liquid/Jekyll objects.\r\n\r\nAll was fine, until I made a few changes, and then found that the build process would just hang. Once in this hang state, I’d have to actively abort. Here’s a bash snippet:\r\n\r\n```\r\n^C bundler: failed to load command: jekyll (/usr/local/bin/jekyll)\r\nInterrupt: \r\n  /usr/local/lib/ruby/gems/2.4.0/gems/kramdown-1.11.1/lib/kramdown/utils/string_scanner.rb:75:in `current_line_number'\r\n  /usr/local/lib/ruby/gems/2.4.0/gems/kramdown-1.11.1/lib/kramdown/parser/kramdown/html.rb:107:in `parse_span_html'\r\n  /usr/local/lib/ruby/gems/2.4.0/gems/kramdown-1.11.1/lib/kramdown/parser/kramdown.rb:215:in `block in parse_spans'\r\n  /usr/local/lib/ruby/gems/2.4.0/gems/kramdown-1.11.1/lib/kramdown/parser/kramdown.rb:213:in `any?'\r\n  /usr/local/lib/ruby/gems/2.4.0/gems/kramdown-1.11.1/lib/kramdown/parser/kramdown.rb:213:in `parse_spans'\r\n  /usr/local/lib/ruby/gems/2.4.0/gems/kramdown-1.11.1/lib/kramdown/parser/kramdown/html.rb:146:in `parse_span_html'\r\n  /usr/local/lib/ruby/gems/2.4.0/gems/kramdown-1.11.1/lib/kramdown/parser/kramdown.rb:215:in `block in parse_spans'\r\n  /usr/local/lib/ruby/gems/2.4.0/gems/kramdown-1.11.1/lib/kramdown/parser/kramdown.rb:213:in `any?'\r\n```\r\nNote the loop: `'any?' —> 'parse_spans' —> 'parse_span_html' —>  'block in parse_spans' —>  any?'`\r\n\r\nEventually, I found the offending line in my test file: \r\n ` {{ site.static_files | group_by:\"category\" }} `\r\n\r\nSince it took me a bit to isolate the problem, I received the failure message a few times. The messages always took one of two forms.\r\n\r\nIn some cases, I’d get: \r\n```bash\r\n^C  Liquid Exception:  in liquid.md\r\nbundler: failed to load command: jekyll (/usr/local/bin/jekyll)\r\n```\r\n\r\nIn others, just: \r\n```bash\r\n^C bundler: failed to load command: jekyll (/usr/local/bin/jekyll)\r\n```\r\n\r\nMay be worth mentioning: {{ site.categories }} returns  \r\n```\r\n{\r\n\"release-notes\"=>[\r\n#<Jekyll::Document _posts/android/2017-05-11-android-v2.0.0-beta1-release-notes.md collection=posts>,\r\n#<Jekyll::Document _posts/ios-posts/2017-05-10-ios-v2.0.0-beta1-release-notes.md collection=posts>, \r\n#<Jekyll::Document _posts/ios-posts/2017-04-25-ios-v1.2.5-release-notes.md collection=posts>, \r\n#<Jekyll::Document _posts/android/2017-04-25-android-v1.2.5-release-notes.md collection=posts>, \r\n#<Jekyll::Document _posts/ios-posts/2017-04-24-ios-v1.2.4-release-notes.md collection=posts>, \r\n#<Jekyll::Document _posts/android/2017-04-24-android-v1.2.4-release-notes.md collection=posts>\r\n]} \r\n```\r\n\r\n## The Output I Wanted\r\n\r\nNo build failure? [EDIT] I'd like to know why, if I have assigned categories to my static files via the `_config.yml` file (`defaults`, `path:`), I'd like to understand why the filter doesn't return a value or, in the event that my syntax is off, an empty array. Why the fatal error? \r\n\r\n/cc include any Jekyll affinity teams here (see https://teams.jekyllrb.com/ for more info)\r\n",
+#               "createdAt": "2017-05-26T19:32:24Z",
+#               "lastEditedAt": "2017-05-31T16:15:08Z",
+#               "updatedAt": "2017-06-15T12:39:42Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/24438082?v=4",
+#                 "login": "BrendanFDuffy",
+#                 "resourcePath": "/BrendanFDuffy",
+#                 "url": "https://github.com/BrendanFDuffy"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "undetermined"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Table of Contents problem with excerpts",
+#               "number": 6124,
+#               "url": "https://github.com/jekyll/jekyll/issues/6124",
+#               "body": "\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [x] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n- [Blog View](https://migueltorrescosta.github.io)\r\n- [Post View](https://migueltorrescosta.github.io/2017/05/The-Mythical-Man-Month.html)\r\n\r\nI wrote a post in Jekyll with a Table of Contents in the very beginnings. On the Blog View, the excerpt of that post includes the ToC, which does not render the full ToC but only the elements that are in the excerpt. Furthermore, clicking an element of the ToC in the Blog View links to the Blog View instead of the Post View.\r\n\r\nYou can see the issue in the Blog View or the Post itself\r\n\r\n## The Output I Wanted\r\n\r\nI wanted the entire ToC to be in the excerpt, and that clicking anything in the ToC in the Blog View linked directly to the Post View.\r\n\r\n## My guess\r\n\r\nCurrently you first build the different html pages (including the Blog View Page) from the post folder and then apply the {:toc} tag (so the {:toc} only sees the elements in the excerpt), instead of running the {:toc} tag on each file and then render other pages using each post (with the already complete ToC).\r\nIs this right?\r\n\r\n/cc @jekyll/build \r\n",
+#               "createdAt": "2017-06-07T17:20:13Z",
+#               "lastEditedAt": "2017-06-07T20:12:32Z",
+#               "updatedAt": "2017-07-09T16:58:32Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/6451658?v=4",
+#                 "login": "migueltorrescosta",
+#                 "resourcePath": "/migueltorrescosta",
+#                 "url": "https://github.com/migueltorrescosta"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Update dependency constraint to allow for rouge v2.1.0",
+#               "number": 6130,
+#               "url": "https://github.com/jekyll/jekyll/issues/6130",
+#               "body": "Hey there! :wave:\n\nI noticed that the constraint you have for rouge doesn't allow for the latest version to be used.\n\nThe constraint I found was `~> 1.7`, and the latest version available is `2.1.0`.\n\nCan you look into updating that constraint so our users can use the latest and greatest version? Thanks! :revolving_hearts:",
+#               "createdAt": "2017-06-09T21:00:57Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-18T22:16:19Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/6166343?v=4",
+#                 "login": "jekyllbot",
+#                 "resourcePath": "/jekyllbot",
+#                 "url": "https://github.com/jekyllbot"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "dependency"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "help-wanted"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Support layouts written in Markdown",
+#               "number": 6166,
+#               "url": "https://github.com/jekyll/jekyll/issues/6166",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [ ] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [X] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [x] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [X] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n---\r\n\r\n## My Reproduction Steps\r\n\r\nin a working Jekyll project\r\n* Create the file such as **_layouts/_layout_.md** (or rename an existing layout to *.md)\r\n* Add appropriate front matter to the layout if needed. (NB. in my case it used `layout: default` which was an HTML layout)\r\n* Mark a page to use the layout and verify the page correctly finds the layout.\r\n* Now add some Markdown formated text to the Markdown layout file (ex. add `**Bold Text**`) under the initial front matter\r\n* Rebuild the page and see that the literal `**Bold Text**`\r\n\r\n## The Output I Wanted\r\nThe markdown content to be rendered resulting in **Bold Text**\r\n\r\nUse case:  I am working with a collection where the content will be (almost?) entirely rendered from front matter yaml and the markup is simple enough that doing everything in HTML is overhead.\r\n\r\nOriginally I though this a bug, but then found layouts will accept any extension (ex. language.foo).  So alternatively, it would be nice if it warned when using an supported format, but perhaps the same pipeline is used for liquid to produce arbitrary things that are not HTML?\r\n\r\n/cc @jekyll/build\r\n",
+#               "createdAt": "2017-06-21T16:58:16Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-07T01:50:09Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 5
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/965439?v=4",
+#                 "login": "adamvoss",
+#                 "resourcePath": "/adamvoss",
+#                 "url": "https://github.com/adamvoss"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Permalink date variables do not behave as described",
+#               "number": 6177,
+#               "url": "https://github.com/jekyll/jekyll/issues/6177",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I ran `jekyll doctor` to check my configuration\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n\r\n---\r\n\r\n- [x] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [ ] I was trying to build.\r\n- [x] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n<!--\r\n  If this error occured on GitHub Pages, please try to provide us with logs,\r\n  and look at them yourself, to determine if this is an actual Jekyll bug. In\r\n  the event you are unsure, file a ticket, however, when you do please provide\r\n  the logs (strip them of personal information.)\r\n\r\n  If you have trouble finding your logs, please email support@github.com and\r\n  they will happily help you. If you cannot find logs, please try your best to\r\n  replicate it locally because we cannot fix a problem if we do not know\r\n  exactly what caused it, or within a relatively close distance.\r\n-->\r\n\r\n<!--\r\n  Insert the steps you took to for this problem to exist. Such as the\r\n  directories you created and, the full command you ran, and include any\r\n  plugins you have installed, this is very important.\r\n\r\n  If your steps are complicated, you can also submit a GitHub\r\n  repository (please no zips, they will be removed and rejected by maintainers,)\r\n  and just supply a command for us to reproduce it ourselves.\r\n-->\r\n\r\n1. Create a Jekyll site\r\n2. Add a post as `2017-06-24-blog-post-one.md`, with no `date` property in the front-matter\r\n3. Add a post as `2017-06-24-blog-post-two.md`, with a `date` front-matter value of `2017-06-24 22:52:00 -0700`\r\n4. Set the time zone in `config.yml` to “Australia/Melbourne”\r\n5. Build the site\r\n\r\nNote that only the post with no `date` property is listed as being on the 24th of June.\r\n\r\n## The Output I Wanted\r\n\r\n<!--\r\n  Insert the output from the command. Alter it as little as you can.\r\n  The minimum should be personal information. Though we normally don't log\r\n  anything like that so there should be no need to alter it.\r\n-->\r\n\r\nJekyll’s docs state that permalinks [use the date “from the post’s filename”](https://jekyllrb.com/docs/permalinks/#template-variables).\r\n\r\nThis is false in the case where the date has been set within the post.\r\n\r\n/cc @jekyll/documentation",
+#               "createdAt": "2017-06-25T06:19:44Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-25T06:19:44Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/282113?v=4",
+#                 "login": "ticky",
+#                 "resourcePath": "/ticky",
+#                 "url": "https://github.com/ticky"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "[Discussion] Custom config file array",
+#               "number": 6180,
+#               "url": "https://github.com/jekyll/jekyll/issues/6180",
+#               "body": "As of `v3.5.0`, **`Jekyll::Command.configuration_from_options`** strips out the array of override config file via\r\n[this line from `comfiguration.rb`](https://github.com/jekyll/jekyll/blob/v3.5.0/lib/jekyll/configuration.rb#L157-L158) which was added way back before v1.0\r\nand this discussion ticket is to unearth the rationale behind supporting the above deletion.\r\n\r\nFrom my understanding of the code, *the presence of key `\"config\"` doesn't seem to cause any trouble.* Hence the confusion why it was decided to be removed..?\r\nIf the presence of key `\"config\"` indeed has no serious consequences, I'd then like to send a PR to patch that line to obtain the array via:\r\n```diff\r\n- config_files = override.delete(\"config\")\r\n+ config_files = override[\"config\"]\r\n```\r\n\r\nThis patch would then let me use that array in a plugin like `jekyll-admin` (possibly allow resolution of jekyll/jekyll-admin#321)\r\n\r\n--\r\nRequesting inputs from @parkr, @mattr-, @benbalter, @pathawks, @Crunch09  ",
+#               "createdAt": "2017-06-26T06:09:08Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-03T11:32:09Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/12479464?v=4",
+#                 "login": "ashmaroli",
+#                 "resourcePath": "/ashmaroli",
+#                 "url": "https://github.com/ashmaroli"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "docs RFE: more explicit context about when the tip: \"Use the github-pages gem\" applies",
+#               "number": 6187,
+#               "url": "https://github.com/jekyll/jekyll/issues/6187",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [x] This is a feature request.\r\n\r\n---\r\n\r\n- [x] I was trying to install.\r\n- [x] I was trying to build.\r\n- [x] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\nRead docs.  (quickstart stuff, followed by deployment)\r\n\r\nhttps://jekyllrb.com/docs/github-pages/#deploying-jekyll-to-github-pages\r\n\r\nRead tip: Use the github-pages gem\r\n\r\nBecome confused as to why this is considered a useful tip.\r\n\r\n> Using it in your projects means that when you deploy your site to GitHub Pages, you will not be caught by unexpected differences between various versions of the gems.\r\n\r\nIt should be possible to avoid being caught by unexpected differences without any special action.  You use Gemfile.lock (which is created by default), and you deploy generated HTML.  How would upgrading versions on someone else's schedule _help_ handle \"unexpected differences\", or as the pages-gem puts it, \"breaking changes\"?  \r\n\r\n## The Output I Wanted\r\n\r\nTips should have a coherent reason that you would want to follow the tip.\r\n\r\nThis might be addressed if the Github section was super-explicit that *none* of it is written to help you deploy HTML.  *I guess my root problem was that `github-pages.md` wasn't very helpful in deciding whether I wanted to deploy as HTML or not.*\r\n\r\nI eventually went back and read through the tutorial it links to for people who haven't used GitHub Pages before (which I have).  Judging by this, the point is to let people edit pages using the GitHub website.\r\n\r\nThen the purpose of the tip, is if you want to let people edit a site using both GitHub and a local checkout with Jekyll, depending on their current situation.\r\n\r\n(Personally I'm surprised that github-pages \"Ruby itself is versioned\" does not merit some up-front caveats.  But I don't have any experience or current interest using it, so for all I know it's a perfected bootstrap with no more requirements than Jekyll).\r\n\r\nIt took me some time to come to this conclusion, partly because I did not already have a clear understanding of Jekyll, Gemfiles, Ruby, and Github Pages.  That's why I was reading the docs :).\r\n\r\nNo offence if this report doesn't clear the bar for constructiveness (e.g. specific wordings).  I was just logging my setup, and with lines like \"don't install the github-pages gem, it doesn't do anything I want\", it suggested the possibility of an improvement.\r\n\r\n/cc @jekyll/documentation",
+#               "createdAt": "2017-06-28T22:00:05Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-28T22:00:05Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/14057?v=4",
+#                 "login": "sourcejedi",
+#                 "resourcePath": "/sourcejedi",
+#                 "url": "https://github.com/sourcejedi"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Ability to specify YAML files as Documents in Collections",
+#               "number": 6188,
+#               "url": "https://github.com/jekyll/jekyll/issues/6188",
+#               "body": "- [x] This is a feature request.\r\n---\r\n- [x] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n---\r\n\r\n### Due diligence:\r\nIt is [well documented that your documents in a collection cannot be `*.yaml files`](https://jekyllrb.com/docs/collections/#accessing-collection-attributes).  I have looked but have not found discussion on this decision.  The closest I have found is https://github.com/jekyll/jekyll/pull/2615.\r\n\r\n### Requested functionality:\r\nI would like the ability to treat `*.yaml` files as documents so that I don't need to change the file extension and wrap the contents in front matter delimiters, both of which create inconveniences.  I imagine this would need to take the form of a configuration setting in `_config.yml` underneath the collection configuration.\r\n\r\n### Workaround: \r\nIn searching for existing issues about this, I did find https://github.com/jekyll/jekyll/pull/3134 which informed me I can terminate my front-matter with `...` (the yaml end of document delimiter) instead of `---`.  This makes it valid single-document YAML (a number of tools don't support multiple document).  ~~Then I can change the extension to `.yaml.md` and tell my editor to treat `.yaml.md` files as yaml~~  They YAML file is then seen as having front matter and is processed by Jekyll as desired (contrary to the documentation).\r\n\r\n/cc @jekyll/build\r\n\r\n",
+#               "createdAt": "2017-06-29T01:50:37Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-22T14:04:46Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/965439?v=4",
+#                 "login": "adamvoss",
+#                 "resourcePath": "/adamvoss",
+#                 "url": "https://github.com/adamvoss"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Layouts with fully numeric names are not recognized",
+#               "number": 6190,
+#               "url": "https://github.com/jekyll/jekyll/issues/6190",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I ran `jekyll doctor` to check my configuration\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [x] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [x] I was trying to build.\r\n- [ ] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\nCreate three files (one 404 file, and two layout files):\r\n\r\n- `./404.html`\r\n- `./_layouts/404.html`\r\n- `./_layouts/404a.html`\r\n\r\nBoth layouts have the same content, they **differ only** in filename.\r\n\r\nFirstly, the error is produced when `./404.html` has the first layout specified:\r\n```markdown\r\n---\r\nlayout: 404\r\n---\r\n# Hello, world!\r\n```\r\n`jekyll build` shows:\r\n```\r\nBuild Warning: Layout '404' requested in 404.html does not exist.\r\n                    done in 13.086 seconds.\r\n```\r\nWhen we change the layout to include one alphabetic character, there are no warnings:\r\n```markdown\r\n---\r\nlayout: 404a\r\n---\r\n# Hello, world!\r\n```\r\n`jekyll build` shows no build warnings, and the layout is rendered as expected.\r\n\r\n### Gemfile\r\n```ruby\r\nsource 'https://rubygems.org'\r\ngem 'github-pages', group: :jekyll_plugins\r\ngem 'execjs'\r\ngem 'therubyracer'\r\ngem 'html-proofer'\r\ngem 'jekyll'\r\n```\r\n/cc @jekyll/build\r\n",
+#               "createdAt": "2017-06-30T16:24:36Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-06-30T17:49:30Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 11
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/1693912?v=4",
+#                 "login": "denzel-morris",
+#                 "resourcePath": "/denzel-morris",
+#                 "url": "https://github.com/denzel-morris"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Colons are being marked with class err in javascript code blocks",
+#               "number": 6191,
+#               "url": "https://github.com/jekyll/jekyll/issues/6191",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I ran `jekyll doctor` to check my configuration\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [x] I am on (or have tested on) ***macOS*** 10+\r\n- [x] I had an error on GitHub Pages and I did not test it locally.\r\n\r\n## My Reproduction Steps\r\n\r\nI wrote the following in my markdown file:\r\n<img width=\"189\" alt=\"screen shot 2017-06-30 at 10 40 52 am\" src=\"https://user-images.githubusercontent.com/2592723/27747575-9cb2bb9c-5d80-11e7-816f-4791f3b7c91d.png\">\r\n\r\nHowever, on Github pages, I see this.  The colon after text is shown with class=err, which highlights it in red.  How can I prevent Jekyll from applying the error highlighting?\r\n<img width=\"661\" alt=\"screen shot 2017-06-30 at 10 31 39 am\" src=\"https://user-images.githubusercontent.com/2592723/27747542-6fe5693e-5d80-11e7-917f-1f2b6e9e446a.png\">\r\n\r\nMy _config.yml contains:\r\n```\r\ntheme: jekyll-theme-hacker\r\n```",
+#               "createdAt": "2017-06-30T17:42:35Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-03T03:10:05Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 6
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/2592723?v=4",
+#                 "login": "aneilbaboo",
+#                 "resourcePath": "/aneilbaboo",
+#                 "url": "https://github.com/aneilbaboo"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "upstream:issue"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Support for local packaged but non-gem-based themes?",
+#               "number": 6199,
+#               "url": "https://github.com/jekyll/jekyll/issues/6199",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [ ] I believe this to be a bug, not a question about using Jekyll.\r\n- [ X] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [ ] I ran `jekyll doctor` to check my configuration\r\n- [X ] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [X ] This is a feature request.\r\n\r\n---\r\n\r\n- [ X] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\nAs I understand Jekyll now, it reads layout, includes, etc. from 2 places:\r\n\r\n1. The actual site (`cwd`)\r\n2. The theme, if one is set in `_config.yml` and the gem exists\r\n\r\nBoth work, both have challenges. The challenge with the first is mixing content and style, and updates are messy (which is why gem-based themes were created). The challenge with gem-based themes is that you may be running in an environment that restricts gems (notably Github Pages). `bundle install --deployment` would help here due to strict whitelisting.\r\n\r\nWould the Jekyll team consider a third: local themes? I am looking at a structure like:\r\n\r\n```\r\n- site\r\n   |- _posts\r\n   |- assets\r\n   |- _config.yml\r\n   ...\r\n   |- _themes/\r\n        |- minima/\r\n        |- custom1/\r\n        ...\r\n```\r\n\r\nAll that a current Gem-packaged theme does is read the files first from the Gem dir and then override with local. The above would mean just reading Gem, then local under `_themes/`, then whatever is in the local site.\r\n\r\nHappy to do a PR if idea is accepted in principle (and if someone points me to where the includes of themes happen).\r\n\r\n(apologies if idea already has been discussed; couldn't find on issues, PRs or talk)",
+#               "createdAt": "2017-07-03T06:07:03Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-18T21:57:42Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 9
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/282526?v=4",
+#                 "login": "deitch",
+#                 "resourcePath": "/deitch",
+#                 "url": "https://github.com/deitch"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Incorrect path in filter errors for included files",
+#               "number": 6203,
+#               "url": "https://github.com/jekyll/jekyll/issues/6203",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I ran `jekyll doctor` to check my configuration\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [x] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [x] I was trying to build.\r\n- [ ] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\nCreate an include file `_includes/test.html` containing a tag with incorrect syntax in a filter, e.g. `{{ site.title | prepend 'Prepended Text' }}` (missing colon after `prepend`).\r\n\r\nInclude it in `index.md` with `{% include test.html %}`.\r\n\r\nBuild the site and Jekyll with throw an error `Liquid Exception: Liquid error (line 1): wrong number of arguments (given 1, expected 2) in index.md`.\r\n\r\n## The Output I Wanted\r\n\r\nJekyll should throw an error with the included file path instead of `index.html`.\r\n\r\nThe error will display the included file path with other errors.  For example, an unclosed if tag in the included file will throw `Liquid Exception: Liquid syntax error (line 2): 'if' tag was never closed in /tmp/test_website/_includes/test.html, included in index.md`.\r\n\r\n/cc @jekyll/build\r\n",
+#               "createdAt": "2017-07-04T21:49:40Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-05T20:32:45Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/20173670?v=4",
+#                 "login": "chromatical",
+#                 "resourcePath": "/chromatical",
+#                 "url": "https://github.com/chromatical"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "has-pull-request"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Warn/error on command-line with permalink conflict",
+#               "number": 6207,
+#               "url": "https://github.com/jekyll/jekyll/issues/6207",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [X] I believe this to be a bug, not a question about using Jekyll.\r\n- [X] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [X] I ran `jekyll doctor` to check my configuration\r\n- [X] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [X] This is a feature request.\r\n\r\n---\r\n\r\n- [X] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [ ] I was trying to build.\r\n- [X] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n1. Create a site with two pages, call them `a.html` and `b.html` (or `.md`, doesn't matter), but with different content.\r\n2. Give both of the pages the same `permalink:` attribute in the front matter\r\n3. build\r\n4. See that sometimes one wins, sometimes the other\r\n\r\nIn a large site (or even a small one), this can easily lead to lots of debugging work with no understanding why.\r\n\r\n\r\n\r\n\r\n<!--\r\n  If this error occured on GitHub Pages, please try to provide us with logs,\r\n  and look at them yourself, to determine if this is an actual Jekyll bug. In\r\n  the event you are unsure, file a ticket, however, when you do please provide\r\n  the logs (strip them of personal information.)\r\n\r\n  If you have trouble finding your logs, please email support@github.com and\r\n  they will happily help you. If you cannot find logs, please try your best to\r\n  replicate it locally because we cannot fix a problem if we do not know\r\n  exactly what caused it, or within a relatively close distance.\r\n-->\r\n\r\n<!--\r\n  Insert the steps you took to for this problem to exist. Such as the\r\n  directories you created and, the full command you ran, and include any\r\n  plugins you have installed, this is very important.\r\n\r\n  If your steps are complicated, you can also submit a GitHub\r\n  repository (please no zips, they will be removed and rejected by maintainers,)\r\n  and just supply a command for us to reproduce it ourselves.\r\n-->\r\n\r\n## The Output I Wanted\r\n\r\nHave Jekyll report on the build command-line if there are conflicts between permalinks. At minimum it should be a warning, although my personal view is that it is an error.\r\n<!--\r\n  Insert the output from the command. Alter it as little as you can.\r\n  The minimum should be personal information. Though we normally don't log\r\n  anything like that so there should be no need to alter it.\r\n-->\r\n\r\n/cc @jekyll/build\r\n",
+#               "createdAt": "2017-07-06T10:29:15Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-06T11:59:03Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/282526?v=4",
+#                 "login": "deitch",
+#                 "resourcePath": "/deitch",
+#                 "url": "https://github.com/deitch"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Collection pages `content` and `output` are equivalent",
+#               "number": 6209,
+#               "url": "https://github.com/jekyll/jekyll/issues/6209",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I ran `jekyll doctor` to check my configuration\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [x] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [x] I was trying to build.\r\n- [ ] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n1. Create standard site and `_test` directory\r\n```sh\r\n$ jekyll new jekyll-test-collection\r\n$ cd jekyll-test-collection\r\n$ mkdir _test\r\n```\r\n2. Append to `_config.yml`\r\n```yaml\r\ncollections:\r\n  test:\r\n    output: false\r\n```\r\n3. Create `./_test/myfile.md` collection page\r\n```markdown\r\n---\r\n---\r\n# Header\r\n\r\nBody\r\n\r\n```\r\n4. Create `./mypage.html`\r\n```html\r\n<html>\r\n<body>\r\n{% for page in site.test %}\r\n  <p>{{ page | inspect }}</p>\r\n{% endfor %}\r\n</body>\r\n</html>\r\n```\r\n5. Run `jekyll serve`\r\n6. Navigate to `localhost:4000/mypage.html`\r\n7. Observe output\r\n```json\r\n{\r\n  \"output\": \"<h1 id=\\\"header\\\">Header</h1>\\n\\n<p>Body</p>\\n\", \r\n  \"content\": \"<h1 id=\\\"header\\\">Header</h1>\\n\\n<p>Body</p>\\n\", \r\n}\r\n```\r\n\r\n## The Output I Wanted\r\n\r\nThe `content` field should contain the unrendered Markdown.\r\n```json\r\n{\r\n  \"output\": \"<h1 id=\\\"header\\\">Header</h1>\\n\\n<p>Body</p>\\n\", \r\n  \"content\": \"# Header\\n\\nBody\\n\", \r\n}\r\n```\r\nAs per the [description in the docs](https://jekyllrb.com/docs/collections/#documents) of what `content` and `output` should contain.\r\n\r\n/cc @jekyll/build\r\n",
+#               "createdAt": "2017-07-07T10:28:28Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-08T07:35:16Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/1693912?v=4",
+#                 "login": "denzel-morris",
+#                 "resourcePath": "/denzel-morris",
+#                 "url": "https://github.com/denzel-morris"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Rendering Liquid tags within collections",
+#               "number": 6211,
+#               "url": "https://github.com/jekyll/jekyll/issues/6211",
+#               "body": "- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to **the latest `github-pages`**\r\n- [x] I ran `jekyll doctor` to check my configuration\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [x] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Windows*** 10+\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [x] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [ ] I was trying to build.\r\n- [ ] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\nThis is not a build error, it's a rendering quirk. There are no logs to provide.\r\n\r\nI'm extending Jekyll using only Liquid and JavaScript, so that things work on GitHub Pages (no plugins). This issue uses no JavaScript, though. I believe it's a rendering quirk in how Liquid is interpreted from within collections.\r\n\r\nI have a collection for `_sidebars` and `_footers`. They're pulled into the templates via `{% include ... %}` tags that run Liquid to iterate over the collection files.\r\n\r\n* For pages, everything works as expected.\r\n* For collections, `{{ x }}` and `{% x %}` tags are rendered literally (rather than expanded).\r\n* For posts, which are technically in the `_posts` collection, the behavior is the same.\r\n\r\n## The Output I Wanted\r\n\r\nI would love it if `{{ x }}` and `{% x%}` tags were expanded when:\r\n\r\n* rendered within the collection's markdown (normally, this is just fine -- it works)\r\n* when they are included from within another collection (in the simplest case, `_posts`)\r\n\r\nThere is no log for this issue. It's a question surrounding the rendering of Liquid variables within nested collections. (*In my use case, it's not obvious that the collections are nested, since `_posts` is implemented as a collection, itself.*)\r\n\r\n/cc @jekyll/build\r\n",
+#               "createdAt": "2017-07-08T14:03:06Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-25T19:44:47Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 33
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/5958942?v=4",
+#                 "login": "groundh0g",
+#                 "resourcePath": "/groundh0g",
+#                 "url": "https://github.com/groundh0g"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Stop making Errors Hard",
+#               "number": 6213,
+#               "url": "https://github.com/jekyll/jekyll/issues/6213",
+#               "body": "Jekyll makes errors hard, harder than they have to be, really.  This has been discussed before, and there is a barely noticeable refactor in the area around the problem code, but the problem still remains. This refactor did little to fix this problem, only to encapsulate what was once duplicated (I assume, since it all moved to a method.) Simply put, it's because it makes errors unmanageable, it hides the scope of errors for reasons unknown to me, and often, leads people in an irrelevant direction really.\r\n\r\nTake for example this error:\r\n\r\n```\r\nLiquid Exception: undefined local variable or method `site' for \r\n  #<Tag::Url:0x00000007815590> in _posts/2013-06-24-post.md/#excerpt\r\n```\r\n\r\nMakes sense, except, the error is actually in:\r\n\r\n```\r\n\"source/_plugins/filters.rb:120:in `base_prefix'\"\r\n```\r\n\r\nJekyll is going out of it's way to hide errors, and the discussions have been shut down or ignored before, is there any reason why after all these years this particularly noticeable sore point is still not resolved? I would think the minimal resolution to this problem would be if the user is tracing, throw the entire error and don't involve Liquid... well actually I would think you wouldn't involve Liquid or the file at all, since most of the time the error doesn't even involve Liquid or it's templates, it involves the Ruby around it.",
+#               "createdAt": "2017-07-09T14:59:07Z",
+#               "lastEditedAt": "2017-07-09T15:03:29Z",
+#               "updatedAt": "2017-07-13T14:19:50Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/99763?v=4",
+#                 "login": "envygeeks",
+#                 "resourcePath": "/envygeeks",
+#                 "url": "https://github.com/envygeeks"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Add truncation to post excerpts",
+#               "number": 6215,
+#               "url": "https://github.com/jekyll/jekyll/issues/6215",
+#               "body": "- [x] This is a feature request.\r\n- [x] I am on (or have tested on) ***macOS*** 10+\r\n---\r\n\r\n## Suggestion\r\n\r\nCurrently Jekyll config provides the ability to output a [custom excerpt separator](http://jekyllrb.com/docs/configuration/). If one is not provided Jekyll looks for the end of the first paragraph which may be very long and cause a significant amount of duplication between content and content excerpt.\r\n\r\nImproving this will increase performance of the feed gem, which currently uses the default excerpt.",
+#               "createdAt": "2017-07-09T17:18:10Z",
+#               "lastEditedAt": "2017-07-09T21:05:25Z",
+#               "updatedAt": "2017-07-15T22:18:03Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/440298?v=4",
+#                 "login": "jhabdas",
+#                 "resourcePath": "/jhabdas",
+#                 "url": "https://github.com/jhabdas"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "jekyll install leads to immediate errors",
+#               "number": 6227,
+#               "url": "https://github.com/jekyll/jekyll/issues/6227",
+#               "body": "Just starting out with Jekyll. Ruby is up to date. I ran \r\n\r\n`sudo gem install jekyll`\r\n\r\nand jekyll installs fine. \r\n\r\nBut when I run a test command, like, `jekyll -v`, I get this error:\r\n\r\n```\r\nWARN: Unresolved specs during Gem::Specification.reset:\r\n      listen (< 3.1, ~> 3.0)\r\nWARN: Clearing out unresolved specs.\r\nPlease report a bug if this causes problems.\r\n/usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.15.2/lib/bundler/runtime.rb:317:in `check_for_activated_spec!': You have already activated kramdown 1.14.0, but your Gemfile requires kramdown 1.13.2. Prepending `bundle exec` to your command may solve this. (Gem::LoadError)\r\n\tfrom /usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.15.2/lib/bundler/runtime.rb:32:in `block in setup'\r\n\tfrom /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/forwardable.rb:229:in `each'\r\n\tfrom /usr/local/Cellar/ruby/2.4.1_1/lib/ruby/2.4.0/forwardable.rb:229:in `each'\r\n\tfrom /usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.15.2/lib/bundler/runtime.rb:27:in `map'\r\n\tfrom /usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.15.2/lib/bundler/runtime.rb:27:in `setup'\r\n\tfrom /usr/local/lib/ruby/gems/2.4.0/gems/bundler-1.15.2/lib/bundler.rb:101:in `setup'\r\n\tfrom /usr/local/lib/ruby/gems/2.4.0/gems/jekyll-3.5.1/lib/jekyll/plugin_manager.rb:48:in `require_from_bundler'\r\n\tfrom /usr/local/lib/ruby/gems/2.4.0/gems/jekyll-3.5.1/exe/jekyll:9:in `<top (required)>'\r\n\tfrom /usr/local/bin/jekyll:22:in `load'\r\n\tfrom /usr/local/bin/jekyll:22:in `<main>'\r\n```\r\n\r\nWhat gives?\r\n\r\nEdit: tried `bundle exec`, `gem install bundler`, nothing works.\r\n",
+#               "createdAt": "2017-07-18T00:14:50Z",
+#               "lastEditedAt": "2017-07-18T00:20:13Z",
+#               "updatedAt": "2017-07-18T03:46:06Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 5
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/10857097?v=4",
+#                 "login": "lrdegeest",
+#                 "resourcePath": "/lrdegeest",
+#                 "url": "https://github.com/lrdegeest"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "[minor][tests] static file last modified time test is minorly flawed",
+#               "number": 6232,
+#               "url": "https://github.com/jekyll/jekyll/issues/6232",
+#               "body": "**This almost certainly doesn't matter**, but I noticed a test incorrectly fail due to this earlier.\r\n\r\nI had the following error from `cibuild`: static file should know its last modification time (Expected: 1500423023 Actual: 1500423022). Notice that the test asserted that time should be 1 millisecond later than the actual time.\r\n\r\nThe [test code](https://github.com/jekyll/jekyll/blob/f91b61/test/test_static_file.rb#L134-L136) asserts if the current time equals the file's modification time.\r\n\r\nSo random chance caused the millisecond to tick over between the test setup and running the assertion.\r\n\r\nPossible solutions may be to use a coarser time (seconds instead of milliseconds?) or to cache the time from immediately after creating the file.\r\n\r\nYou could even save the time from before creating the file and assert that the modification time is _between_ the saved time and the assertion time to be completely safe.\r\n\r\nAnyway, now that I've reported it, **feel free to close as WONTFIX** if you feel the added complexity isn't worth it. After all the test only exists to highlight potential errors (and it is easy to spot false negatives like this).",
+#               "createdAt": "2017-07-19T00:45:58Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-19T01:01:14Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/5046562?v=4",
+#                 "login": "MattSturgeon",
+#                 "resourcePath": "/MattSturgeon",
+#                 "url": "https://github.com/MattSturgeon"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "internal"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "For gem-based themes, an incremental build run always as FULL",
+#               "number": 6241,
+#               "url": "https://github.com/jekyll/jekyll/issues/6241",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I ran `jekyll doctor` to check my configuration\r\n- [ ] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [x] I am on (or have tested on) ***macOS*** 10+\r\n- [x] I am on (or have tested on) ***Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [x] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [x] I was trying to build.\r\n- [] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n0. jekyll --version\r\n`jekyll 3.5.1`\r\n1. jekyll new minima\r\n2. jekyll doctor\r\n```\r\nConfiguration file: /Users/jadams/minima/_config.yml\r\n  Your test results are in. Everything looks fine.\r\n```\r\n3. jekyll s -i --profile\r\n\r\n```\r\n  Configuration file: /Users/jadams/minima/_config.yml\r\n           Cleaner: Nothing to do for /Users/jadams/minima/_site.\r\n           Cleaner: Nothing to do for /Users/jadams/minima/.jekyll-metadata.\r\n           Cleaner: Nothing to do for /Users/jadams/minima/.sass-cache. \r\n  Configuration file: /Users/jadams/minima/_config.yml\r\n            Source: /Users/jadams/minima\r\n       Destination: /Users/jadams/minima/_site\r\n   Incremental build: enabled\r\n      Generating...\r\n\r\n  Filename                                                                    | Count |  Bytes |  Time\r\n  ----------------------------------------------------------------------------+-------+--------+------\r\n  _posts/2017-07-25-welcome-to-jekyll.markdown                                |     1 |  1.52K | 0.135\r\n  _layouts/default.html                                                       |     4 | 23.82K | 0.030\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/head.html         |     4 |  2.44K | 0.012\r\nfeed.xml                                                                    |     1 |  3.75K | 0.010\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/header.html       |     4 |  5.34K | 0.009\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/footer.html       |     4 | 11.78K | 0.007\r\n_layouts/post.html                                                          |     1 |  2.07K | 0.001\r\n_layouts/home.html                                                          |     1 |  0.40K | 0.001\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/icon-github.html  |     4 |  4.18K | 0.001\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/icon-twitter.html |     4 |  3.66K | 0.001\r\n404.html                                                                    |     1 |  0.36K | 0.000\r\n_layouts/page.html                                                          |     1 |  0.67K | 0.000\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/icon-twitter.svg  |     4 |  3.18K | 0.000\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/icon-github.svg   |     4 |  3.72K | 0.000\r\nabout.md                                                                    |     1 |  0.47K | 0.000\r\n_posts/2017-07-25-welcome-to-jekyll.markdown/#excerpt                       |     1 |  0.42K | 0.000\r\nindex.md                                                                    |     1 |  0.00K | 0.000\r\nassets/main.scss                                                            |     1 |  0.02K | 0.000\r\n```\r\n\r\n**4** times _layouts/default.html **applied** (documents created)\r\n\r\n4.  Modified **one** document (about.md)\r\n\r\n```\r\n                    done in 0.403 seconds.\r\n Auto-regeneration: enabled for '/Users/jadams/minima'\r\n    Server address: http://127.0.0.1:4000/\r\n  Server running... press ctrl-c to stop.\r\n      Regenerating: 1 file(s) changed at 2017-07-25 13:10:03\r\nFilename                                                                    | Count |  Bytes |  Time\r\n----------------------------------------------------------------------------+-------+--------+------\r\n_layouts/default.html                                                       |     4 | 23.82K | 0.029\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/head.html         |     4 |  2.44K | 0.012\r\nfeed.xml                                                                    |     1 |  3.75K | 0.010\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/header.html       |     4 |  5.34K | 0.008\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/footer.html       |     4 | 11.78K | 0.007\r\n_layouts/home.html                                                          |     1 |  0.40K | 0.001\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/icon-twitter.html |     4 |  3.66K | 0.001\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/icon-github.html  |     4 |  4.18K | 0.001\r\n_posts/2017-07-25-welcome-to-jekyll.markdown                                |     1 |  1.52K | 0.001\r\n_layouts/post.html                                                          |     1 |  2.07K | 0.001\r\n_layouts/page.html                                                          |     1 |  0.67K | 0.000\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/icon-twitter.svg  |     4 |  3.18K | 0.000\r\nusr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/_includes/icon-github.svg   |     4 |  3.72K | 0.000\r\nassets/main.scss                                                            |     1 |  0.02K | 0.000\r\n404.html                                                                    |     1 |  0.36K | 0.000\r\nabout.md                                                                    |     1 |  0.47K | 0.000\r\n_posts/2017-07-25-welcome-to-jekyll.markdown/#excerpt                       |     1 |  0.42K | 0.000\r\nindex.md                                                                    |     1 |  0.00K | 0.000\r\n\r\n...done in 0.128882 seconds.\r\n```\r\n**4** times _layouts/default.html **applied** (documents re-created)\r\n\r\n## The Output I Wanted\r\n\r\n5. Copied the minima gem files into the site:\r\n\r\ncp -r /usr/local/lib/ruby/gems/2.3.0/gems/minima-2.1.1/* .\r\n\r\n6. Re-run a (full) build\r\n\r\n```\r\njadams@CI003234minima$> c && jekyll clean && jekyll s -i --profile\r\nConfiguration file: /Users/jadams/minima/_config.yml\r\n           Cleaner: Removing /Users/jadams/minima/_site...\r\n           Cleaner: Removing /Users/jadams/minima/.jekyll-metadata...\r\n           Cleaner: Removing /Users/jadams/minima/.sass-cache...\r\nConfiguration file: /Users/jadams/minima/_config.yml\r\n            Source: /Users/jadams/minima\r\n       Destination: /Users/jadams/minima/_site\r\n Incremental build: enabled\r\n      Generating...\r\n\r\nFilename                                              | Count |  Bytes |  Time\r\n------------------------------------------------------+-------+--------+------\r\n_posts/2017-07-25-welcome-to-jekyll.markdown          |     1 |  1.52K | 0.139\r\n_layouts/default.html                                 |     4 | 23.82K | 0.032\r\n_includes/head.html                                   |     4 |  2.44K | 0.012\r\nfeed.xml                                              |     1 |  3.75K | 0.011\r\n_includes/header.html                                 |     4 |  5.34K | 0.008\r\n_includes/footer.html                                 |     4 | 11.78K | 0.006\r\n_layouts/home.html                                    |     1 |  0.40K | 0.001\r\n_layouts/post.html                                    |     1 |  2.07K | 0.001\r\n_includes/icon-twitter.html                           |     4 |  3.66K | 0.001\r\n_includes/icon-github.html                            |     4 |  4.18K | 0.001\r\n_posts/2017-07-25-welcome-to-jekyll.markdown/#excerpt |     1 |  0.42K | 0.000\r\n_includes/icon-github.svg                             |     4 |  3.72K | 0.000\r\n_includes/icon-twitter.svg                            |     4 |  3.18K | 0.000\r\n_layouts/page.html                                    |     1 |  0.67K | 0.000\r\n404.html                                              |     1 |  0.36K | 0.000\r\nabout.md                                              |     1 |  0.47K | 0.000\r\nassets/main.scss                                      |     1 |  0.02K | 0.000\r\nindex.md                                              |     1 |  0.00K | 0.000\r\n\r\n                    done in 0.413 seconds.\r\n Auto-regeneration: enabled for '/Users/jadams/minima'\r\n    Server address: http://127.0.0.1:4000/\r\n  Server running... press ctrl-c to stop.\r\n```\r\n**4** times _layouts/default.html **applied** (documents created)\r\n\r\n7.   Modified **one** document (about.md)\r\n\r\n```\r\nAuto-regeneration: enabled for '/Users/jadams/minima'\r\n    Server address: http://127.0.0.1:4000/\r\n  Server running... press ctrl-c to stop.\r\n\r\n      Regenerating: 1 file(s) changed at 2017-07-25 13:17:30\r\nFilename                                              | Count | Bytes |  Time\r\n------------------------------------------------------+-------+-------+------\r\nfeed.xml                                              |     1 | 2.54K | 0.012\r\n_layouts/default.html                                 |     1 | 5.73K | 0.006\r\n_includes/header.html                                 |     1 | 1.33K | 0.002\r\n_includes/footer.html                                 |     1 | 2.94K | 0.001\r\n_includes/head.html                                   |     1 | 0.59K | 0.001\r\n_includes/icon-github.html                            |     1 | 1.04K | 0.000\r\n_layouts/page.html                                    |     1 | 0.67K | 0.000\r\n_includes/icon-twitter.html                           |     1 | 0.91K | 0.000\r\nabout.md                                              |     1 | 0.47K | 0.000\r\n_posts/2017-07-25-welcome-to-jekyll.markdown/#excerpt |     1 | 0.42K | 0.000\r\nassets/main.scss                                      |     1 | 0.02K | 0.000\r\n_includes/icon-github.svg                             |     1 | 0.93K | 0.000\r\n_includes/icon-twitter.svg                            |     1 | 0.79K | 0.000\r\n```\r\n**one** time _layouts/default.html **applied** ( 1 documents re-created **as expected**)",
+#               "createdAt": "2017-07-25T11:33:04Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-28T03:44:06Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/4394913?v=4",
+#                 "login": "jueadams",
+#                 "resourcePath": "/jueadams",
+#                 "url": "https://github.com/jueadams"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Feature proposal: report syntax errors in the web page",
+#               "number": 6248,
+#               "url": "https://github.com/jekyll/jekyll/issues/6248",
+#               "body": "Problem: Frequently while running `jekyll serve --watch` and editing a file, I'll introduce a syntax error and not notice, because I'm just looking back and forth between the editor and the browser, and don't have the terminal in my field of view.\r\n\r\nOne solution, that requires modifying user behavior, is for the user to have all three panes up and scan them all.\r\n\r\nAnother is to implement a “syntax error overlay”. The [create-react-app](https://github.com/facebookincubator/create-react-app) project reports syntax errors in the web page, as well as on the console. [This PR](https://github.com/facebookincubator/create-react-app/pull/744) begins with a screenshot that illustrates this.\r\n\r\nThis would be a nice feature for Jekyll too. It could look something like this:\r\n\r\n<img width=\"843\" alt=\"screenshot of safari 7-26-17 6-55-08 pm\" src=\"https://user-images.githubusercontent.com/674/28647464-5041acea-7235-11e7-9a63-b8e715432494.png\">\r\n\r\n(This particular screenshot is from a Jekyll clone. That's why the error message is different from what Jekyll would report. I've found it helpful there. If anyone wants to take this on, you are of course welcome to use [the clone's CSS and Liquid template](https://github.com/osteele/gojekyll/blob/master/server/server.go).)",
+#               "createdAt": "2017-07-26T23:14:45Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-26T23:14:45Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/674?v=4",
+#                 "login": "osteele",
+#                 "resourcePath": "/osteele",
+#                 "url": "https://github.com/osteele"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "nil values in Liquid {% cycle %} are ignored after 3.5.0",
+#               "number": 6251,
+#               "url": "https://github.com/jekyll/jekyll/issues/6251",
+#               "body": "<!--\r\n  Hi! Thanks for considering to file a bug with Jekyll. Please take the time to\r\n  answer the basic questions. You can convert `[ ]` into `[x]` to check boxes (or submit\r\n  and check.) If there is no need for certain fields like output and redirection, please delete\r\n  those headers before submitting. We know not all tickets require those steps.\r\n  Otherwise, please try to be as detailed as possible.\r\n\r\n  If you are unsure this is a bug in Jekyll, or this is a bug caused\r\n  by a plugin that isn't directly related to Jekyll, or if this is just\r\n  a generic usage question, please consider asking your question at\r\n  https://talk.jekyllrb.com where non-bug questions go.\r\n\r\n  Please make sure to mention an affinity team whose responsibilities\r\n  most closely align with your issue.\r\n\r\n  Thanks!\r\n-->\r\n\r\n- [x] I believe this to be a bug, not a question about using Jekyll.\r\n- [x] I updated to the latest Jekyll (or) if on GitHub Pages to the latest `github-pages`\r\n- [x] I ran `jekyll doctor` to check my configuration\r\n- [x] I read the CONTRIBUTION file at https://jekyllrb.com/docs/contributing/\r\n- [ ] This is a feature request.\r\n\r\n---\r\n\r\n- [ ] I am on (or have tested on) ***macOS*** 10+\r\n- [ ] I am on (or have tested on) ***Debian/Ubuntu*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Fedora*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Arch*** GNU/Linux\r\n- [ ] I am on (or have tested on) ***Other*** GNU/Linux\r\n- [x] I am on (or have tested on) ***Windows*** 10+\r\n\r\n<!--\r\n  Other GNU/Linux includes Scientific GNU/Linux, CentOS GNU/Linux, and others.\r\n  If you are on a minor sub-distro (such as ElementaryOS which does not diverge from\r\n  Ubuntu much, please check the parent distro. Kubuntu, Edubuntu, Lubuntu should\r\n  also be flagged as Ubuntu as their packages come from upstream Ubuntu.\r\n-->\r\n\r\n---\r\n\r\n- [ ] I was trying to install.\r\n- [ ] There is a broken Plugin API.\r\n- [ ] I had an error on GitHub Pages, and I have reproduced it locally.\r\n- [ ] I had an error on GitHub Pages, and GitHub Support said it was a Jekyll Bug.\r\n- [ ] I had an error on GitHub Pages and I did not test it locally.\r\n- [ ] I was trying to build.\r\n- [x] It was another bug.\r\n\r\n## My Reproduction Steps\r\n\r\n- update Jekyll from 3.4.3 to 3.5.1\r\n- run Jekyll build\r\n\r\nOne of my pages contains a liquid cycle to add tags every 4 'for' iterations i.e.\r\n\r\n```\r\n{% for post in site.posts %}\r\n    {% cycle 'add row' : '<div class=\"row\">', nil, nil, nil %}\r\n\r\n        <div class=\"col-sm-3\">\r\n          //Column content\r\n        </div>\r\n\r\n    {% cycle 'end row' : nil, nil, nil, '</div>' %}\r\n{% endfor %}\r\n```\r\nBefore updating to 3.5.1 from 3.4.3 it was adding a  `<div class=\"row\">` every 1/4 iteration and  `</div>` after 4/4 iteration. \r\n\r\nAfter updating it adds  `<div class=\"row\">` and  `</div>` on every iteration, completely ignoring  `nil, nil, nil`  blocks.\r\n\r\nThis can be fixed by replacing `nil` with empty string. i.e. \r\n`{% cycle 'add row' : '<div class=\"row\">', '', '', '' %}`\r\n\r\nBug is present on both 3.5.0 and 3.5.1 and can't be reproduced on 3.4.3 or 3.4.5. May be related to Liquid v4 update in this version.\r\n\r\n## The Output I Wanted\r\n\r\nShouldn't wrap every `<div class=\"col-sm-3\"></div>` with a `<div class=\"row\"></div>`\r\n\r\n",
+#               "createdAt": "2017-07-27T10:46:55Z",
+#               "lastEditedAt": "2017-07-27T11:30:43Z",
+#               "updatedAt": "2017-07-27T12:00:58Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/26439375?v=4",
+#                 "login": "AlHoriun",
+#                 "resourcePath": "/AlHoriun",
+#                 "url": "https://github.com/AlHoriun"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Remove usage of default_proc everywhere",
+#               "number": 6252,
+#               "url": "https://github.com/jekyll/jekyll/issues/6252",
+#               "body": "For any Hash using default_proc, remove it and replace its functionality through some other means (often by manually setting values or transforming keys).",
+#               "createdAt": "2017-07-27T18:15:03Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-27T18:15:03Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/237985?v=4",
+#                 "login": "parkr",
+#                 "resourcePath": "/parkr",
+#                 "url": "https://github.com/parkr"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "jekyll/jekyll"
+#               },
+#               "title": "Links to repository on history page are broken",
+#               "number": 6254,
+#               "url": "https://github.com/jekyll/jekyll/issues/6254",
+#               "body": "[History](https://jekyllrb.com/docs/history/) links are in this mangled format:\r\n\r\nhttps://jekyllrb.com/docs/history/%7B%7B%20site.repository%20%7D%7D/issues/...\r\n\r\n/cc @jekyll/documentation\r\n",
+#               "createdAt": "2017-07-29T17:34:07Z",
+#               "lastEditedAt": "2017-07-29T17:34:42Z",
+#               "updatedAt": "2017-07-29T17:34:41Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/927220?v=4",
+#                 "login": "nickmccurdy",
+#                 "resourcePath": "/nickmccurdy",
+#                 "url": "https://github.com/nickmccurdy"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           }
+#         ]
+#       }
+#     }
+#   }
+# }
+#
+# @sinatra_issues = {
+#   "data": {
+#     "repository": {
+#       "issues": {
+#         "edges": [
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "add hijack io support to streaming once spec is finalized",
+#               "number": 604,
+#               "url": "https://github.com/sinatra/sinatra/issues/604",
+#               "body": "see rack/rack#481\n",
+#               "createdAt": "2013-01-06T16:51:46Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-08-21T04:33:20Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/30442?v=4",
+#                 "login": "rkh",
+#                 "resourcePath": "/rkh",
+#                 "url": "https://github.com/rkh"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Thank you! Sinatra is great",
+#               "number": 920,
+#               "url": "https://github.com/sinatra/sinatra/issues/920",
+#               "body": "I love Sinatra's approach to lean and mean web apps. You are great. You are doing a wonderful job!\n\nThank you! :heart: :heart: :heart:\n",
+#               "createdAt": "2014-08-30T01:49:31Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-05-20T17:02:58Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 18
+#               },
+#               "comments": {
+#                 "totalCount": 16
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/25666?v=4",
+#                 "login": "BanzaiMan",
+#                 "resourcePath": "/BanzaiMan",
+#                 "url": "https://github.com/BanzaiMan"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "regression"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "third party issue"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "vulnerability"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Is there a reason the server_settings option is not documented anywhere?",
+#               "number": 940,
+#               "url": "https://github.com/sinatra/sinatra/issues/940",
+#               "body": "Digging through the code I found that there is a `set :server_settings` option that does not seem to be documented anywhere (even Google search for this option and sinatra comes up with nothing). Is there a reason this is undocumented? I.e. is it ok to use this option moving forward, or will it be removed?\n\nIt makes it easy to pass options to the underlying server in a classic style app. For example:\n\n``` ruby\nrequire 'sinatra'\nrequire 'webrick/https'\n\nset :server, 'webrick'\n\nset :server_settings,\n  :DoNotReverseLookup => true,\n  :SSLEnable          => true,\n  :SSLVerifyClient    => ::OpenSSL::SSL::VERIFY_NONE,\n  :SSLCertName        => [['CN', 'Sinatra']]\n\nget '/' do\n  Time.now.to_s\nend\n```\n",
+#               "createdAt": "2014-11-01T05:56:34Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-01-31T10:29:19Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 5
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/77592?v=4",
+#                 "login": "vais",
+#                 "resourcePath": "/vais",
+#                 "url": "https://github.com/vais"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "your-first-pr"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Mention how to start various servers in threaded mode",
+#               "number": 941,
+#               "url": "https://github.com/sinatra/sinatra/issues/941",
+#               "body": "e.g. `thin --threaded start`\n\nFrom discussion here: https://github.com/sinatra/sinatra/issues/937\n",
+#               "createdAt": "2014-11-02T19:31:26Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-10-31T21:40:06Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 9
+#               },
+#               "comments": {
+#                 "totalCount": 10
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/276834?v=4",
+#                 "login": "kytrinyx",
+#                 "resourcePath": "/kytrinyx",
+#                 "url": "https://github.com/kytrinyx"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "your-first-pr"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Server-Sent Events dont work on JRuby",
+#               "number": 962,
+#               "url": "https://github.com/sinatra/sinatra/issues/962",
+#               "body": "I've uploaded an example repo that demonstrates the issue (of which there are two):\n\nhttps://github.com/Integralist/Sinatra-SSE\n\nThe first issue is that SSE doesn't appear to work when using JRuby, but it does work when using MRI (note: the above repo is set to use MRI so it should work; so make sure to switch to JRuby and reinstall dependencies before testing)\n\nRun with `rackup -p 8000` and then you'll be able to access the application via `http://localhost:8000/`.\n\nThe home page loads a JavaScript file that opens a connection to `/healthcheck`.\n\nThe `/healthcheck` endpoint gets passed an even object from `/update`. Where `/update` is a POST endpoint that receives JSON.\n\nYou can test this using something like:\n\n``` base\ncurl -v -H \"Content-Type: application/json\" -X POST -d '{\"foo\":\"bar\"}' http://127.0.0.1:8000/update\n```\n\nThere are no obvious errors when using JRuby. The errors reported by JavaScript aren't helpful either.\n\nThe output in the terminal (for JRuby) is:\n\n```\nPuma 2.10.2 starting...\n* Min threads: 0, max threads: 16\n* Environment: development\n* Listening on tcp://localhost:8000\n127.0.0.1 - - [14/Jan/2015:16:11:55 +0000] \"GET / HTTP/1.1\" 200 190 0.0960\n127.0.0.1 - - [14/Jan/2015:16:11:55 +0000] \"GET /assets/scripts/connection.js HTTP/1.1\" 304 - 0.0080\n127.0.0.1 - - [14/Jan/2015:16:11:55 +0000] \"GET /healthcheck HTTP/1.1\" 200 - 0.0200\n127.0.0.1 - - [14/Jan/2015:16:11:57 +0000] \"GET / HTTP/1.1\" 200 190 0.0380\n127.0.0.1 - - [14/Jan/2015:16:11:58 +0000] \"GET /assets/scripts/connection.js HTTP/1.1\" 304 - 0.0160\n127.0.0.1 - - [14/Jan/2015:16:11:58 +0000] \"GET /healthcheck HTTP/1.1\" 200 - 0.0130\n127.0.0.1 - - [14/Jan/2015:16:12:01 +0000] \"GET /healthcheck HTTP/1.1\" 200 - 0.0100\n127.0.0.1 - - [14/Jan/2015:16:12:04 +0000] \"GET /healthcheck HTTP/1.1\" 200 - 0.0060\n```\n\nThe browser displays something like:\n\n```\n:8000/healthcheck:1 GET http://localhost:8000/healthcheck net::ERR_CONNECTION_REFUSED\nconnection.js:12 error Event {clipboardData: undefined, path: NodeList[0], cancelBubble: false, returnValue: true, srcElement: EventSource…}\n```\n\n---\n\nThe second issue (with MRI) is a random error that is reported:\n\n```\nNoMethodError: undefined method `join' for #<String:0x007f8cb19bee58>\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/sinatra-1.4.5/lib/sinatra/show_exceptions.rb:37:in `rescue in call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/sinatra-1.4.5/lib/sinatra/show_exceptions.rb:21:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:180:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:2014:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1478:in `block in call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1788:in `synchronize'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:1478:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/urlmap.rb:66:in `block in call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/urlmap.rb:50:in `each'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/urlmap.rb:50:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/tempfile_reaper.rb:15:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/lint.rb:49:in `_call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/lint.rb:37:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/showexceptions.rb:24:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/commonlogger.rb:33:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/sinatra-1.4.5/lib/sinatra/base.rb:217:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/chunked.rb:54:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/content_length.rb:15:in `call'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/thin-1.6.3/lib/thin/connection.rb:86:in `block in pre_process'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/thin-1.6.3/lib/thin/connection.rb:84:in `catch'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/thin-1.6.3/lib/thin/connection.rb:84:in `pre_process'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/thin-1.6.3/lib/thin/connection.rb:53:in `process'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/thin-1.6.3/lib/thin/connection.rb:39:in `receive_data'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/eventmachine-1.0.4/lib/eventmachine.rb:187:in `run_machine'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/eventmachine-1.0.4/lib/eventmachine.rb:187:in `run'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/thin-1.6.3/lib/thin/backends/base.rb:73:in `start'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/thin-1.6.3/lib/thin/server.rb:162:in `start'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/handler/thin.rb:19:in `run'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/server.rb:286:in `start'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/server.rb:147:in `start'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/lib/rack/server.rb:147:in `start'                 \n        /Users/markmcdonnell/.gem/ruby/2.0.0/gems/rack-1.6.0/bin/rackup:4:in `<top (required)>'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/bin/rackup:23:in `load'\n        /Users/markmcdonnell/.gem/ruby/2.0.0/bin/rackup:23:in `<main>'\n```\n\n...this error occurs every once in a while. I've yet to find any rhyme or reason behind it.\n",
+#               "createdAt": "2015-01-14T16:10:47Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-08-21T04:33:32Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 5
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/180050?v=4",
+#                 "login": "Integralist",
+#                 "resourcePath": "/Integralist",
+#                 "url": "https://github.com/Integralist"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "bug"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "debug"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Cannot keep stream open with puma server",
+#               "number": 1035,
+#               "url": "https://github.com/sinatra/sinatra/issues/1035",
+#               "body": "I cannot get a stream to stay open (which is necessary for Server-Sent Events to work) with Sinatra running on Puma. I don't really have any idea why, but the connections close right away.\n\n``` ruby\nrequire 'sinatra'\n\nset :server, :puma\nset :connections, []\n\nget '/stream', provides: 'text/event-stream' do\n  stream :keep_open do |out|\n    settings.connections << out\n    out.callback do\n      puts 'stream closed'\n      settings.connections.delete(out)\n    end\n  end\nend\n```\n\nThen I run `curl http://localhost:4567/stream` and the output is\n\n```\n$ ruby example.rb \nPuma 2.13.4 starting...\n* Min threads: 0, max threads: 16\n* Environment: development\n* Listening on tcp://localhost:4567\n== Sinatra (v1.4.6) has taken the stage on 4567 for development with backup from Puma\nstream closed\n127.0.0.1 - - [14/Sep/2015 09:45:33] \"GET /stream HTTP/1.1\" 200 - 0.0047\n```\n\nIf I have the server as `:thin`, it works fine. I don't want to use Thin though, for other reasons. And if I understand puma/puma#3 correctly, Puma can do this kind of streaming just fine.\n\nThis could be related to the problems on #962, but I'm using MRI (tested on 2.1.5p273) so it might be unrelated to any problems JRuby has.\n",
+#               "createdAt": "2015-09-14T13:58:52Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-05-10T16:11:22Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 6
+#               },
+#               "comments": {
+#                 "totalCount": 23
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/3189231?v=4",
+#                 "login": "b-dean",
+#                 "resourcePath": "/b-dean",
+#                 "url": "https://github.com/b-dean"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Add option to silently startup Sinatra server? ",
+#               "number": 1077,
+#               "url": "https://github.com/sinatra/sinatra/issues/1077",
+#               "body": "Being that we spin up several Sinatra instances on demand in our rspec integration tests, we would like the ability to silence Sinatra's colorful startup message.\n\nUsing `disable :logging` doesn't appear to work. Is the startup and shutdown message handled differently than usual logging?\n\n![screen shot 2016-01-22 at 3 22 02 pm](https://cloud.githubusercontent.com/assets/5599279/12521964/eb3526f4-c11b-11e5-9bb4-63d662404020.png)\n\nPairs:\n@alex-hall\n@davwards\n",
+#               "createdAt": "2016-01-22T20:26:18Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-04-13T12:13:57Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/5599279?v=4",
+#                 "login": "alex-hall",
+#                 "resourcePath": "/alex-hall",
+#                 "url": "https://github.com/alex-hall"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "has attached pr"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Middleware instantiated multiple times under JRuby",
+#               "number": 1102,
+#               "url": "https://github.com/sinatra/sinatra/issues/1102",
+#               "body": "Running a simple app on Puma under JRuby (in single mode with many threads), I've noticed that a single `use` statement in my Sinatra class definition causes that piece of middleware to be instantiated multiple times, instead of it being instantiated once and shared between threads (as one might suspect). Moving the `use` statement out of the class definition and into a rackup script solves the problem, as does calling `run MyApp.new` instead of `run MyApp` from the rackup script. \n\nSinatra 1.4.7, Puma 3.1.0, JRuby 9.0.5.0, OpenJDK 7. \n",
+#               "createdAt": "2016-03-15T01:52:55Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-03-15T01:52:55Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/8540936?v=4",
+#                 "login": "mwpastore",
+#                 "resourcePath": "/mwpastore",
+#                 "url": "https://github.com/mwpastore"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Docker STDOUT missing when using sinatra",
+#               "number": 1118,
+#               "url": "https://github.com/sinatra/sinatra/issues/1118",
+#               "body": "Given the following simple example (app.rb) and nothing more\n\n```\n# -*- coding: utf-8 -*-\nrequire 'sinatra'\nset :bind, '0.0.0.0'\nputs \"WOOT a puts statement was HERE\"\nget '/' do\n  \"hello world\"\nend\n```\n\nExecuting this via\n`bundle exec ruby app.rb\n`\nRenders both the puts statement and the expected sinatra behavior.\n\nHowever when the same code is executed within a Docker container with the same execution command only the Sinatra output is visible.  The puts statement never gets rendered.\n\nHowever if you comment everything but the 'puts' statement and execute it in docker the puts statement is rendered correctly.  The difference in docker behavior seems to be dependent on whether sinatra is required or not.\n\nI seem to be missing something simple here.  Any ideas?\n",
+#               "createdAt": "2016-05-28T18:37:27Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-10-23T14:34:20Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/337349?v=4",
+#                 "login": "singram",
+#                 "resourcePath": "/singram",
+#                 "url": "https://github.com/singram"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "StatsD reporting of specific sinatra routes",
+#               "number": 1119,
+#               "url": "https://github.com/sinatra/sinatra/issues/1119",
+#               "body": "Hi,\n\nI would like to report metrics for specific sinatra routes to statsd and then graphite.\nFor the route GET /users/:uid I would like to report to a metric name `request.get.users.uid`\nThe uid in the metric name cannot be the actual variable value since it is not a good practice to insert a variable into a graphite metric name.\n\nFor each route I would like to count response codes and execution time.\n\nI tried to create a middleware to do that and saw that sinatra inserts a `sinatra.route` into the Rack env hash which I can use to get the request method and pattern a request was processed by.\n\n``` ruby\nclass StatsdReporting\n\n  def initialize(app)\n    @app = app\n  end\n\n  def call(env)\n    start_time = Time.now\n    status, headers, body  = @app.call(env)\n    time_took = (1000 * (Time.now - start_time)).round\n    statsd_rport env[\"sinatra.route\"], time_took\n    [status, headers, body]\n  end\nend\n```\n\nThe problem is that if I have a halt somewhere in a before filter that variable (sinatra.route) is not set in the Rack env hash so I'm missing the details I need in order to create the metric name.\n\nAny good solution to report statsd specific route metrics by route patterns rather than the actual request uri?\n",
+#               "createdAt": "2016-06-06T08:51:34Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-06-23T07:55:03Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/813024?v=4",
+#                 "login": "erez-rabih",
+#                 "resourcePath": "/erez-rabih",
+#                 "url": "https://github.com/erez-rabih"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Unable to overwrite configuration setting value with new hash value",
+#               "number": 1128,
+#               "url": "https://github.com/sinatra/sinatra/issues/1128",
+#               "body": "``` ruby\nconfigure do\n    set :test, {}\nend\n```\n\nirb(main):001:0> `require './app'`\n\n=> `true`\n\nirb(main):002:0> `MySinatraApp.test`\n\n=> `{}`\n\nirb(main):003:0> `MySinatraApp.test = {foo: \"bar\", bar: \"foo\"}`\n\n=> `{:foo=>\"bar\", :bar=>\"foo\"}`\n\nirb(main):004:0> `MySinatraApp.test`\n\n=> `{:foo=>\"bar\", :bar=>\"foo\"}`\n\nirb(main):005:0> `MySinatraApp.test = {foo: \"bar\"}`\n\n=> `{:foo=>\"bar\"}`\n#### irb(main):006:0> `MySinatraApp.test`\n#### => `{:foo=>\"bar\", :bar=>\"foo\"}`\n\nirb(main):007:0> `MySinatraApp.test = nil`\n\n=> `nil`\n\nirb(main):008:0> `MySinatraApp.test = {foo: \"bar\"}`\n\n=> `{:foo=>\"bar\"}`\n\nirb(main):009:0> `MySinatraApp.test`\n\n=> `{:foo=>\"bar\"}`\n\nirb(main):010:0> \n\nAs you can see, if you try to replace the configuration setting with a new hash, it won't take unless you set to `nil` first. Not sure if this is a sinatra or ruby thing, as I am somewhat a newb to both.\n",
+#               "createdAt": "2016-06-24T20:17:32Z",
+#               "lastEditedAt": "2016-06-24T20:22:35Z",
+#               "updatedAt": "2016-06-24T20:22:35Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/15836389?v=4",
+#                 "login": "aurcioli-handy",
+#                 "resourcePath": "/aurcioli-handy",
+#                 "url": "https://github.com/aurcioli-handy"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "send_file is not compatible with frozen string literals.",
+#               "number": 1136,
+#               "url": "https://github.com/sinatra/sinatra/issues/1136",
+#               "body": "If disposition is sent in via the opts hash as a literal string, the attachement method will blow up when `response['Content-Disposition'] << params` is called.\n\nThis should be a simple fix. A change from `.to_s` to `String.new(...)` should give us what worked... \n\nI'll put together a PR\n",
+#               "createdAt": "2016-07-19T22:27:00Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-07-19T22:48:51Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/11577?v=4",
+#                 "login": "aselder",
+#                 "resourcePath": "/aselder",
+#                 "url": "https://github.com/aselder"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Sinatra::ContentFor flush content",
+#               "number": 1138,
+#               "url": "https://github.com/sinatra/sinatra/issues/1138",
+#               "body": "This ticket is copied from sinatra/sinatra-contrib#204\n",
+#               "createdAt": "2016-07-21T10:04:19Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-07-21T10:04:19Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/277819?v=4",
+#                 "login": "zzak",
+#                 "resourcePath": "/zzak",
+#                 "url": "https://github.com/zzak"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "sinatra-contrib"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Sinatra::Reload load other files (besides .rb), such as .yml",
+#               "number": 1139,
+#               "url": "https://github.com/sinatra/sinatra/issues/1139",
+#               "body": "This ticket is copied from sinatra/sinatra-contrib#179\n",
+#               "createdAt": "2016-07-21T10:05:45Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-07-21T10:05:45Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/277819?v=4",
+#                 "login": "zzak",
+#                 "resourcePath": "/zzak",
+#                 "url": "https://github.com/zzak"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "sinatra-contrib"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Sinatra::Streaming missing features",
+#               "number": 1140,
+#               "url": "https://github.com/sinatra/sinatra/issues/1140",
+#               "body": "This ticket is copied from sinatra/sinatra-contrib#178\n",
+#               "createdAt": "2016-07-21T10:07:39Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-07-21T10:08:12Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/277819?v=4",
+#                 "login": "zzak",
+#                 "resourcePath": "/zzak",
+#                 "url": "https://github.com/zzak"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "sinatra-contrib"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "streaming"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Sinatra::RespondWith providing mime_type and Accept header",
+#               "number": 1141,
+#               "url": "https://github.com/sinatra/sinatra/issues/1141",
+#               "body": "This ticket is copied from sinatra/sinatra-contrib#149\n",
+#               "createdAt": "2016-07-21T10:10:57Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-03-04T16:48:05Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/277819?v=4",
+#                 "login": "zzak",
+#                 "resourcePath": "/zzak",
+#                 "url": "https://github.com/zzak"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "has attached pr"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "sinatra-contrib"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Sinatra::Capture possible encoding issues",
+#               "number": 1144,
+#               "url": "https://github.com/sinatra/sinatra/issues/1144",
+#               "body": "This ticket is copied from sinatra/sinatra-contrib#75\n",
+#               "createdAt": "2016-07-21T10:28:42Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-07-21T10:28:42Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/277819?v=4",
+#                 "login": "zzak",
+#                 "resourcePath": "/zzak",
+#                 "url": "https://github.com/zzak"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "debug"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "sinatra-contrib"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Rack::Protection more examples in docs",
+#               "number": 1154,
+#               "url": "https://github.com/sinatra/sinatra/issues/1154",
+#               "body": "/cc sinatra/rack-protection#55\n",
+#               "createdAt": "2016-07-28T04:41:36Z",
+#               "lastEditedAt": "2016-07-28T04:42:24Z",
+#               "updatedAt": "2016-07-28T04:42:24Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/277819?v=4",
+#                 "login": "zzak",
+#                 "resourcePath": "/zzak",
+#                 "url": "https://github.com/zzak"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "rack-protection"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "your-first-pr"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Rack::Protection more permissive `Accept-Language`?",
+#               "number": 1159,
+#               "url": "https://github.com/sinatra/sinatra/issues/1159",
+#               "body": "/cc sinatra/rack-protection#96\n",
+#               "createdAt": "2016-08-01T08:30:31Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-08-01T08:30:31Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/277819?v=4",
+#                 "login": "zzak",
+#                 "resourcePath": "/zzak",
+#                 "url": "https://github.com/zzak"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "rack-protection"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Document sharing sessions",
+#               "number": 1160,
+#               "url": "https://github.com/sinatra/sinatra/issues/1160",
+#               "body": "Perhaps this is already covered somewhere, but worth looking into.\n\nEspecially with regards to Rack::Protection and Sinatra sessions.\n\n/cc sinatra/rack-protection#107 and sinatra/rack-protection#83\n",
+#               "createdAt": "2016-08-01T16:18:56Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-08-01T16:18:56Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/277819?v=4",
+#                 "login": "zzak",
+#                 "resourcePath": "/zzak",
+#                 "url": "https://github.com/zzak"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "rack-protection"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "your-first-pr"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Rack::Protection document AuthenticityToken",
+#               "number": 1165,
+#               "url": "https://github.com/sinatra/sinatra/issues/1165",
+#               "body": "From original ticket (sinatra/rack-protection#106):\n\n> To accept a form i'd need to submit the authenticity_token param along with the form. This token is set in the session currently. Is there no way to get that in a meta tag so I can embed in page?\n\nAlso #1154 \n",
+#               "createdAt": "2016-08-12T09:25:14Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-12-03T08:13:34Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/277819?v=4",
+#                 "login": "zzak",
+#                 "resourcePath": "/zzak",
+#                 "url": "https://github.com/zzak"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "rack-protection"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "your-first-pr"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Rack::Protection::JsonCsrf deny GET image report",
+#               "number": 1166,
+#               "url": "https://github.com/sinatra/sinatra/issues/1166",
+#               "body": "Investigate issue originally reported at sinatra/rack-protection#84\n",
+#               "createdAt": "2016-08-12T09:41:08Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-08-12T09:41:08Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/277819?v=4",
+#                 "login": "zzak",
+#                 "resourcePath": "/zzak",
+#                 "url": "https://github.com/zzak"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "rack-protection"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "respond_with tried to require every engine Tilt knows about",
+#               "number": 1172,
+#               "url": "https://github.com/sinatra/sinatra/issues/1172",
+#               "body": "When it does `Tilt[engine]` in template_for, it tries to require the engine, but most of them are not installed.\n",
+#               "createdAt": "2016-08-18T19:17:24Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-01-30T03:38:03Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 6
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/695547?v=4",
+#                 "login": "ericroberts",
+#                 "resourcePath": "/ericroberts",
+#                 "url": "https://github.com/ericroberts"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "sinatra-contrib"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Symbolic Headers Pass During RSpec, But Fail in Rackup",
+#               "number": 1177,
+#               "url": "https://github.com/sinatra/sinatra/issues/1177",
+#               "body": "I set headers as a symbol:\n\n`headers( { x-custom-header: 'test' })` and it passed when I asserted that the response header x-custom-header existed. However, when I ran it within rack, I received the following error:\n\n`Rack::Lint::LintError: header key must be a string, was Symbol`\n\nIs there a way that we can make the improper symbolic headers fail in test too?\n",
+#               "createdAt": "2016-08-25T13:55:32Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-01-20T02:43:21Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 5
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/1827190?v=4",
+#                 "login": "jonmchan",
+#                 "resourcePath": "/jonmchan",
+#                 "url": "https://github.com/jonmchan"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Add lifecycle callbacks",
+#               "number": 1184,
+#               "url": "https://github.com/sinatra/sinatra/issues/1184",
+#               "body": "## Description\n\nLooking at the (admittedly not super popular) questions on StackOverflow like [this](http://stackoverflow.com/q/2589356/4970406) and [this](http://stackoverflow.com/q/6557079/4970406), I think it'd be handy to have some usable lifecycle callbacks for Sinatra. In particular, a callback when Sinatra is completely set up and a callback when Sinatra has completely stopped.\n## Use case\n\nWe use JRuby for a Rails application, but we also use Java code. The Ruby code calls out to a Java HTTP client, so when we're writing tests for that code we can't use any Ruby mocking libraries. Instead of an elaborate refactor whereby a mock Java HTTP client can be injected for testing, we use a number of tiny Sinatra servers that have very simple and predetermined responses to \"mock\" the third party servers. So far it has worked excellently, and allows us to keep our testing and production code very similar (mocks have bitten us by not failing in ways their production equivalents would).\n\nTo accomplish this, we've mashed together something like the linked answers above whereby we block until Sinatra has started. Unfortunately, there doesn't seem to be a similar solution for `stop!`, so rapidly starting and stopping Sinatra servers occasionally fails (client can't connect). My suspicion right now is that the previous Sinatra server has not fully stopped before the next one is attempting to start.\n\nFor us it'd be extremely useful to have an `on_start` and `on_quit` (with whatever names are appropriate for the lifecycle which would indicate Sinatra is completely up, running, and ready to go and completely stopped). \n",
+#               "createdAt": "2016-09-16T19:16:43Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-12-14T17:16:22Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/16090989?v=4",
+#                 "login": "tobymurray-nanometrics",
+#                 "resourcePath": "/tobymurray-nanometrics",
+#                 "url": "https://github.com/tobymurray-nanometrics"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Exceptions with http status code 400 ignore exception settings",
+#               "number": 1204,
+#               "url": "https://github.com/sinatra/sinatra/issues/1204",
+#               "body": "Regardless of my exception settings in Sinatra (the flags `raise_errors`, `dump_errors`, `show_exceptions`), exceptions get eaten and not logged if there is a non 500-599 http status error code associated with them. For example, I am using the [koala](https://github.com/arsduo/koala) library to communicate with Facebook and the library can raise exceptions with an http status code of 400 if an OAuth token is invalid. I feel like if this happens and my Sinatra application is not rescuing that error, it should appear in the logs in development mode. It doesn't because of the following line in the `handle_exception!` method:\r\n`return res if res or not server_error?`\r\n\r\nThis seems very intentional given Sinatra is relatively mature. Am I off here or does this seem bad to anyone else?",
+#               "createdAt": "2016-11-14T20:56:13Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-01-20T03:54:14Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 26
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/46859?v=4",
+#                 "login": "tamoyal",
+#                 "resourcePath": "/tamoyal",
+#                 "url": "https://github.com/tamoyal"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "has attached pr"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Remove backports dependency from sinatra-contrib",
+#               "number": 1207,
+#               "url": "https://github.com/sinatra/sinatra/issues/1207",
+#               "body": "Now that the minimum Ruby version is 2.2 (.2 due to Rack 2), can we remove sinatra-contrib's dependency on backports? Tests pass on 2.2.2 without it with some light refactoring around String#underscore and Object#try. \r\n\r\nWhy is Rack::Test a runtime dependency and not a development dependency?\r\n\r\nI've submitted a PR with these changes but wanted to see what \"tribal knowledge\" might be out there.",
+#               "createdAt": "2016-11-25T19:35:05Z",
+#               "lastEditedAt": "2016-11-25T19:43:21Z",
+#               "updatedAt": "2017-01-14T00:50:14Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/8540936?v=4",
+#                 "login": "mwpastore",
+#                 "resourcePath": "/mwpastore",
+#                 "url": "https://github.com/mwpastore"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "has attached pr"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "sinatra-contrib"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Inconsistent overriding of previously-defined helpers ",
+#               "number": 1213,
+#               "url": "https://github.com/sinatra/sinatra/issues/1213",
+#               "body": "There's a slight inconsistency with the order in which Sinatra applies helpers when those helpers may have been previously defined. This is probably best explained with an example:\r\n\r\n```ruby\r\nmodule HelperOne\r\n  def one; '1' end\r\nend\r\n\r\nclass MockApp < Sinatra::Base\r\n  helpers do\r\n    def one; nil end\r\n    def two; nil end\r\n  end\r\n\r\n  helpers ::HelperOne do\r\n    def two; '2' end\r\n  end\r\n\r\n  get('/one') { one }\r\n  get('/two') { two }\r\nend\r\n```\r\n\r\nOne might reasonably expect one of two outcomes from the above:\r\n\r\n1. `/one` returns `\"1\"` and `/two` returns `\"2\"` (i.e. the later-defined helpers override the previously-defined helpers)\r\n2. `/one` returns `nil` and `/two` returns `nil` (i.e. the previously-defined helpers are \"sticky\" and cannot be overridden)\r\n\r\nBut what actually happens is:\r\n\r\n3. `/one` returns `nil` and `/two` returns `\"2\"`\r\n\r\nSo previously-defined helpers can be overridden in the block, but not in an included helpers module. This is inconsistent and confusing. To fix it, let's `prepend` the module(s) instead of `include`-ing them. ",
+#               "createdAt": "2016-12-07T20:50:06Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2016-12-14T09:52:06Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 1
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/8540936?v=4",
+#                 "login": "mwpastore",
+#                 "resourcePath": "/mwpastore",
+#                 "url": "https://github.com/mwpastore"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Content-Type forced for all responses",
+#               "number": 1238,
+#               "url": "https://github.com/sinatra/sinatra/issues/1238",
+#               "body": "From `Sinatra::Base` @ https://github.com/sinatra/sinatra/blob/master/lib/sinatra/base.rb#L915:\r\n\r\n```ruby\r\n    def call!(env) # :nodoc:\r\n      @env      = env\r\n      @request  = Request.new(env)\r\n      @response = Response.new\r\n      template_cache.clear if settings.reload_templates\r\n\r\n      @response['Content-Type'] = nil\r\n      invoke { dispatch! }\r\n      invoke { error_block!(response.status) } unless @env['sinatra.error']\r\n\r\n      unless @response['Content-Type']\r\n        if Array === body and body[0].respond_to? :content_type\r\n          content_type body[0].content_type\r\n        else\r\n          content_type :html\r\n        end\r\n      end\r\n\r\n      @response.finish\r\n    end\r\n```\r\n\r\nCode\r\n\r\n```ruby\r\n      unless @response['Content-Type']\r\n        if Array === body and body[0].respond_to? :content_type\r\n          content_type body[0].content_type\r\n        else\r\n          content_type :html\r\n        end\r\n      end\r\n```\r\n\r\nis problematic, because it forces response to have a `Content-Type` header. In some cases we don't want that. Can we make a setting to allow disabling this behavior?\r\n\r\nMy usecase is not limited to 204 response. I have some error codes that should have no content as well.",
+#               "createdAt": "2017-01-23T10:31:43Z",
+#               "lastEditedAt": "2017-01-23T10:33:16Z",
+#               "updatedAt": "2017-01-30T03:12:21Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 7
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/265507?v=4",
+#                 "login": "MOZGIII",
+#                 "resourcePath": "/MOZGIII",
+#                 "url": "https://github.com/MOZGIII"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "has attached pr"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "skip session option for static files",
+#               "number": 1241,
+#               "url": "https://github.com/sinatra/sinatra/issues/1241",
+#               "body": "I'm using `Rack::Session::Couchbase` for session management.\r\nall static files are under public folder (the default of Sinatra)\r\nevery request to static file goes all the way to couchbase to gets the session document.\r\n\r\nIs there a way to intercept all static file request with 'before' so I'll make the request skip the session\r\n`request.session_options[:skip] = true`\r\n",
+#               "createdAt": "2017-01-25T13:46:21Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-03-04T16:17:07Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 9
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/10072883?v=4",
+#                 "login": "dvh91",
+#                 "resourcePath": "/dvh91",
+#                 "url": "https://github.com/dvh91"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "ConfigFile: settings.foo fails when settings file contains non-implemented environments",
+#               "number": 1243,
+#               "url": "https://github.com/sinatra/sinatra/issues/1243",
+#               "body": "I spent a while debugging this today in an older application. If your settings file contains more 'environments' than your application supports it will fail in _every_ environment in quite an opaque way. \r\n\r\n#### Symptom: \r\n\r\nCalling `settings.foo` fails with \r\n```ruby\r\nNoMethodError - undefined method `foo' for [ApplicationClass]:Class:\r\n```\r\n\r\n#### Reproducing:\r\n\r\nThe following will break settings in every environment, unless the application happens to support an environment called 'default':\r\n\r\n```yaml\r\ndefault: &default\r\n  foo: bar\r\n\r\ndevelopment:\r\n  <<: *default\r\n\r\nproduction:\r\n  <<: *default\r\n\r\ntest:\r\n  <<: *default\r\n```\r\n\r\n#### Solution:\r\n\r\nThe code is here:\r\nhttps://github.com/sinatra/sinatra/blob/master/sinatra-contrib/lib/sinatra/config_file.rb#L159\r\n\r\nI believe this is actually intended to do the opposite, to check that every environment in the application is covered in the settings file - not that every environment in the settings file is honoured by the application. Even then it could fail more gracefully; for example with an error message to warn the user of missing environments in the settings file or a suitable exception if it's the current environment.\r\n\r\nI can code this up over the weekend if it'd be useful. As a bonus it'd allow the functionality seen above, where a common, environment-agnostic set of default settings can be used.\r\n\r\n#### Workaround:\r\n\r\nIn the mean time you can get around this problem by passing the current environment to settings manually and accessing the information as a hash:\r\n\r\n```ruby\r\nsettings.send(settings.environment)['foo']\r\n```",
+#               "createdAt": "2017-01-27T12:46:25Z",
+#               "lastEditedAt": "2017-01-27T12:48:26Z",
+#               "updatedAt": "2017-01-30T10:47:22Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/39089?v=4",
+#                 "login": "JonMidhir",
+#                 "resourcePath": "/JonMidhir",
+#                 "url": "https://github.com/JonMidhir"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "has attached pr"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Update 2.0 README translations",
+#               "number": 1249,
+#               "url": "https://github.com/sinatra/sinatra/issues/1249",
+#               "body": "The Readme is our comprehensive sinatra documentation and deserves a lot of love. Thank you for everybody who has contributed to it so far!\r\n\r\nThe translations are great but some of them seem incomplete or outdated. For sinatra 2.0 they need a major overhaul and here's a list of languages that need to be worked on:\r\n\r\n- [x] German\r\n- [ ] Spanish\r\n- [ ] French\r\n- [ ] Hungarian\r\n- [ ] Portuguese (Brasil/Portugal)\r\n- [ ] Korean\r\n- [ ] Russian\r\n- [ ] Chinese",
+#               "createdAt": "2017-02-01T16:42:44Z",
+#               "lastEditedAt": "2017-02-01T17:00:26Z",
+#               "updatedAt": "2017-07-11T02:23:59Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 4
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/263378?v=4",
+#                 "login": "burningTyger",
+#                 "resourcePath": "/burningTyger",
+#                 "url": "https://github.com/burningTyger"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "docs"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "sinatra-namespace: cannot set :layout",
+#               "number": 1254,
+#               "url": "https://github.com/sinatra/sinatra/issues/1254",
+#               "body": "What's the logic behind the check at line [282](https://github.com/sinatra/sinatra/blob/master/sinatra-contrib/lib/sinatra/namespace.rb#L282)? It seems you can, in fact, only `set :views` inside a namespace.\r\n\r\nI'd like to set the layout for an entire namespace, in this case a CMS-like backend. And I'd like to do so without having to pass the same `:layout` argument to the `erb` method every time.\r\n\r\nEDIT: Apparently `set :layout` is not a thing at all. Perhaps it should?\r\nEDIT EDIT: Seems to be `set :erb, :layout => :something` instead, to set the default layout. But that has `sinatra-namespace` complaining about `set :erb`, which brings me back to the question above.",
+#               "createdAt": "2017-02-09T19:17:00Z",
+#               "lastEditedAt": "2017-02-09T19:24:08Z",
+#               "updatedAt": "2017-03-04T16:25:30Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/20434?v=4",
+#                 "login": "mkaito",
+#                 "resourcePath": "/mkaito",
+#                 "url": "https://github.com/mkaito"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feature"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "has attached pr"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "sinatra-contrib"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Passing multiple URL-encoded slashes in request path breaks router",
+#               "number": 1261,
+#               "url": "https://github.com/sinatra/sinatra/issues/1261",
+#               "body": "So the use case of mine is a simple REST service that would take an urlencoded HTTP URL as a first path item and then some more path items as a parameters.\r\n\r\nMy code:\r\n```\r\nget '/:url/*.*' do\r\n\t\"url: #{params['feed_url']} request['path']: #{request.path} URL: #{request.url}\"\r\nend\r\n```\r\n\r\nThe result of executing a request: \r\n`http://localhost:4567/http%3A%2F%2Fwww.example.com%2Fpath%2F/`\r\n\r\nis the following output:\r\n`url: http: request['path']: /http%3A/www.example.com/path/ URL: http://localhost:4567/http%3A/www.example.com/path/`\r\n\r\nI have a similar code implemented in NodeJS's \"http\" module, and it can parse this kind of request with no issues:\r\n```\r\n  pathname: '/http%3A%2F%2Fwww.example.com%2Fpath%2F/asdf',\r\n  path: '/http%3A%2F%2Fwww.example.com%2Fpath%2F/asdf?asdf',\r\n  href: '/http%3A%2F%2Fwww.example.com%2Fpath%2F/asdf?asdf' }\r\n```\r\n\r\nIs this a router bug or am i doing something wrong?",
+#               "createdAt": "2017-03-06T19:26:46Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-03-07T22:03:29Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 2
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/291658?v=4",
+#                 "login": "TheStalwart",
+#                 "resourcePath": "/TheStalwart",
+#                 "url": "https://github.com/TheStalwart"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Routes added in extension are not available after reload",
+#               "number": 1280,
+#               "url": "https://github.com/sinatra/sinatra/issues/1280",
+#               "body": "I'm was hoping to use the extensions to separate up routes in my modular application.\r\nI'm hitting an issue with the reloader extension.\r\n\r\nWhen changes are made to one of my extensions that provides some routes, those routes are not longer available after saving, sinatra return 404. A full boot of the app brings them back.\r\n\r\nThe routes are added inside `self.registered(app)`\r\n\r\nAny changes to the routes in the base application take effect. However it's like the extension is never re-registered after changes are saved.\r\n\r\n```\r\nclass Leads < Sinatra::Base\r\n  register Sinatra::ViewingFeedbackController\r\n\r\n  get '/leads/:id' do\r\n\r\n  end\r\n\r\nend\r\n```\r\n\r\n\r\n```\r\nmodule Sinatra\r\n  module ViewingFeedbackController\r\n\r\n    module Helpers\r\n\r\n    end\r\n\r\n    def self.registered(app)\r\n      app.helpers ViewingFeedbackController::Helpers\r\n\r\n      app.post '/leads/:lead_id/viewing_feedback' do\r\n\r\n      end\r\n\r\n      app.patch '/leads/:lead_id/viewing_feedback/:id' do\r\n\r\n      end\r\n    end\r\nend\r\n```\r\n",
+#               "createdAt": "2017-04-03T15:18:11Z",
+#               "lastEditedAt": "2017-04-03T15:26:08Z",
+#               "updatedAt": "2017-07-12T02:34:45Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 5
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/37096?v=4",
+#                 "login": "raldred",
+#                 "resourcePath": "/raldred",
+#                 "url": "https://github.com/raldred"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "on mac  \"\\x89\"",
+#               "number": 1288,
+#               "url": "https://github.com/sinatra/sinatra/issues/1288",
+#               "body": "# gem install sinatra\r\nFetching: sinatra-1.4.8.gem (100%)\r\nSuccessfully installed sinatra-1.4.8\r\nParsing documentation for sinatra-1.4.8\r\nunable to convert \"\\x89\" from ASCII-8BIT to UTF-8 for lib/sinatra/images/404.png, skipping\r\nunable to convert \"\\x89\" from ASCII-8BIT to UTF-8 for lib/sinatra/images/500.png, skipping\r\nInstalling ri documentation for sinatra-1.4.8\r\n\r\n1 gem installed",
+#               "createdAt": "2017-04-19T18:26:25Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-04T05:56:27Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/26254933?v=4",
+#                 "login": "and09",
+#                 "resourcePath": "/and09",
+#                 "url": "https://github.com/and09"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Can we make an official subdomain support in sintra-contrib?",
+#               "number": 1289,
+#               "url": "https://github.com/sinatra/sinatra/issues/1289",
+#               "body": "Since https://github.com/fnando/sinatra-subdomain subdomain hasn't updated for a long while.\r\n\r\n",
+#               "createdAt": "2017-04-24T03:18:44Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-04T17:31:36Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 7
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/10745?v=4",
+#                 "login": "chenillen",
+#                 "resourcePath": "/chenillen",
+#                 "url": "https://github.com/chenillen"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "sinatra-contrib"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Unable to activate dm-serializer-1.2.2, because json-2.0.2 conflicts with json (~> 1.6) (Gem::ConflictError)",
+#               "number": 1294,
+#               "url": "https://github.com/sinatra/sinatra/issues/1294",
+#               "body": "After Sinatra update to 2.0.0 version, my project fail to start.\r\nDowngrade to sinatra 1.4.6 solved my issue.\r\nSinatra + Datamapper 1.2.0\r\n\r\nHow can i use SInatra 2.0.0 with Datamapper? ",
+#               "createdAt": "2017-05-10T12:14:54Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-21T22:23:28Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 9
+#               },
+#               "comments": {
+#                 "totalCount": 12
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/8012803?v=4",
+#                 "login": "frankymad",
+#                 "resourcePath": "/frankymad",
+#                 "url": "https://github.com/frankymad"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Encrypt cookies with AES-GCM",
+#               "number": 1300,
+#               "url": "https://github.com/sinatra/sinatra/issues/1300",
+#               "body": "Recently, Rails added AEAD encrypted cookies: rails/rails#28132\r\n\r\nWe currently encrypt using SHA1: https://github.com/sinatra/sinatra/blob/1b0edc0aeaaf4839cadfcec1b21da86e6af1d4c0/rack-protection/lib/rack/protection/base.rb#L111\r\n\r\n/cc @jkowens @mikeycgto",
+#               "createdAt": "2017-05-28T23:05:12Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-05T14:09:20Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 11
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/277819?v=4",
+#                 "login": "zzak",
+#                 "resourcePath": "/zzak",
+#                 "url": "https://github.com/zzak"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "rack-protection"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Cloning fails due to zero-padded file modes",
+#               "number": 1305,
+#               "url": "https://github.com/sinatra/sinatra/issues/1305",
+#               "body": "I tried to clone the project but it does always fails. There seems to be an issue with the integrity of the git repo.\r\n\r\nI also tried forking it (worked) and then cloning it (same issue).\r\n\r\n```\r\n$> git clone git@github.com:sinatra/sinatra.git\r\nCloning into 'sinatra'...\r\nremote: Counting objects: 19910, done.\r\nerror: object 218b8c8019a785b8c08c1dd64beff68af63cc1f9: zeroPaddedFilemode: contains zero-padded file modes\r\nfatal: Error in object\r\nfatal: index-pack failed\r\n```",
+#               "createdAt": "2017-06-07T17:07:06Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-04T06:02:08Z",
+#               "assignees": {
+#                 "totalCount": 1
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 6
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars0.githubusercontent.com/u/457782?v=4",
+#                 "login": "mediafinger",
+#                 "resourcePath": "/mediafinger",
+#                 "url": "https://github.com/mediafinger"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "bug"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Consider  adding ./VERSION file to gemspec in order to support local unpacking.",
+#               "number": 1308,
+#               "url": "https://github.com/sinatra/sinatra/issues/1308",
+#               "body": "\r\nRuby Version: 2.3.3p222 (2016-11-21 revision 56859) [x86_64-darwin15]\r\n\r\n**Procedure to reproduce:**\r\n\r\n1. Unpack gem locally:\r\n\r\n        gem unpack sinatra\r\n\r\n2. Create Gemfile:\r\n\r\n        source \"https://rubygems.org\"\r\n        gem 'sinatra', :path => './sinatra-2.0.0'\r\n\r\n3. Run bundler:\r\n\r\n        bundle install\r\n\r\n    Output: \r\n\r\n        [!] There was an error while loading `sinatra.gemspec`: No such file or \r\n             directory @ rb_sysopen - <redacted>/sinatra-2.0.0/VERSION. Bundler \r\n             cannot continue.\r\n\r\n        #  from <redacted>/sinatra-2.0.0/sinatra.gemspec:1\r\n       #  -------------------------------------------\r\n       >  version = File.read(File.expand_path(\"../VERSION\", __FILE__)).strip\r\n       #  \r\n       #  -------------------------------------------\r\n\r\n**Local Fix:**\r\n\r\n  Create local `./sinatra-2.0.0/VERSION`  file with following contents:\r\n\r\n      2.0.0",
+#               "createdAt": "2017-06-08T21:19:54Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-04T06:03:16Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 3
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/5031906?v=4",
+#                 "login": "bwad",
+#                 "resourcePath": "/bwad",
+#                 "url": "https://github.com/bwad"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Nested Namespaces worked in 1.4.8, broken in 2.0.0",
+#               "number": 1310,
+#               "url": "https://github.com/sinatra/sinatra/issues/1310",
+#               "body": "I'm not sure if nested namespaces are actually supported as I don't see any specific mention of them in the docs. Anyhow in Sinatra 1.4.8 I could define an app like:\r\n\r\n```ruby\r\nrequire 'sinatra'\r\nrequire 'sinatra/contrib'\r\nrequire 'json'\r\n\r\nBOOKS = {\r\n  1 => {name: 'The Lord of the Rings'},\r\n  2 => {name: 'The Chronicles of Narnia'},\r\n  3 => {name: 'Harry Potter'},\r\n}\r\n\r\nnamespace '/api' do\r\n  namespace '/v1' do\r\n    namespace '/books' do\r\n      get do\r\n        body JSON.dump(BOOKS)\r\n      end\r\n    end\r\n  end\r\nend\r\n```\r\n\r\ncURLing the endpoint:\r\n\r\n```bash\r\n$ curl localhost:4567/api/v1/books\r\n{\"1\":{\"name\":\"The Lord of the Rings\"},\"2\":{\"name\":\"The Chronicles of Narnia\"},\"3\":{\"name\":\"Harry Potter\"}}\r\n```\r\n\r\nNow if I define a similar app in Sinatra 2.0.0:\r\n\r\n```ruby\r\nrequire 'sinatra'\r\nrequire 'sinatra/contrib'\r\nrequire 'json'\r\n\r\nBOOKS = {\r\n  1 => {name: 'The Lord of the Rings'},\r\n  2 => {name: 'The Chronicles of Narnia'},\r\n  3 => {name: 'Harry Potter'},\r\n}\r\n\r\nnamespace '/api' do\r\n  namespace '/v1' do\r\n    namespace '/books' do\r\n      get do\r\n        body JSON.dump(BOOKS)\r\n      end\r\n    end\r\n  end\r\nend\r\n```\r\n\r\nAnd then cURL the same path:\r\n\r\n```bash\r\n$  curl localhost:4567/api/v1/books\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n  <style type=\"text/css\">\r\n  body { text-align:center;font-family:helvetica,arial;font-size:22px;\r\n    color:#888;margin:20px}\r\n  #c {margin:0 auto;width:500px;text-align:left}\r\n  </style>\r\n</head>\r\n<body>\r\n  <h2>Sinatra doesn’t know this ditty.</h2>\r\n  <img src='http://localhost:4567/__sinatra__/404.png'>\r\n  <div id=\"c\">\r\n    Try this:\r\n    <pre>get &#x27;&#x2F;api&#x2F;v1&#x2F;books&#x27; do\r\n  &quot;Hello World&quot;\r\nend\r\n</pre>\r\n  </div>\r\n</body>\r\n</html>\r\n```\r\n\r\nWith this 2.0.0 Sintra app I decided to list all the GET paths:\r\n\r\n```ruby\r\nSinatra::Application.routes[\"GET\"].each do |route|\r\n  puts route[0]\r\nend\r\n```\r\n\r\nWhich results in:\r\n\r\n```\r\n/api/v1/v1/books\r\n```\r\n\r\nIf I cURL that path I get a successful result:\r\n\r\n```bash\r\n$  curl localhost:4567/api/v1/v1/books\r\n{\"1\":{\"name\":\"The Lord of the Rings\"},\"2\":{\"name\":\"The Chronicles of Narnia\"},\"3\":{\"name\":\"Harry Potter\"}}\r\n```\r\n\r\nThe repeated v1/v1 is not expected. Sinatra 1.4.8's `/api/v1/books` is the behaviour I would have expected.\r\n\r\nIs this supposed to work? If there is a better way to define nested namespaces please let me know.\r\n",
+#               "createdAt": "2017-06-09T22:46:51Z",
+#               "lastEditedAt": "2017-06-09T22:48:25Z",
+#               "updatedAt": "2017-07-05T15:45:09Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 7
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/282619?v=4",
+#                 "login": "aren55555",
+#                 "resourcePath": "/aren55555",
+#                 "url": "https://github.com/aren55555"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "debug"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "regression"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "sinatra-contrib"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Requiring 'sinatra' and 'sinatra/contrib' causes method redefined warnings on Test",
+#               "number": 1319,
+#               "url": "https://github.com/sinatra/sinatra/issues/1319",
+#               "body": "I created a repo with very basic setup that replicates the issue: https://github.com/faragorn/sinatra-method-redefined\r\nIf you comment out `require 'sinatra/contrib'` in `app.rb` the warnings will go away.\r\n## Environment: \r\n**Ruby Version:** 2.2.2\r\n**Sinatra Version:** 2.0.0\r\n**Testing Framework:** Minitest (haven't tested this with any other frameworks, but pretty sure the outcome is gonna be the same)\r\n## Run\r\n `rake test`\r\n## Result \r\n```\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: method redefined; discarding old config_file\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: previous definition of config_file was here\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: method redefined; discarding old head\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: previous definition of head was here\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: method redefined; discarding old delete\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: previous definition of delete was here\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: method redefined; discarding old get\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: previous definition of get was here\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: method redefined; discarding old options\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: previous definition of options was here\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: method redefined; discarding old patch\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: previous definition of patch was here\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: method redefined; discarding old post\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: previous definition of post was here\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: method redefined; discarding old put\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: previous definition of put was here\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: method redefined; discarding old mime_type\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: previous definition of mime_type was here\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: method redefined; discarding old respond_to\r\n/Users/user/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/sinatra-2.0.0/lib/sinatra/base.rb:1921: warning: previous definition of respond_to was here\r\n```",
+#               "createdAt": "2017-07-03T07:50:18Z",
+#               "lastEditedAt": "2017-07-03T07:53:58Z",
+#               "updatedAt": "2017-07-09T18:35:32Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 3
+#               },
+#               "comments": {
+#                 "totalCount": 2
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/5913886?v=4",
+#                 "login": "faragorn",
+#                 "resourcePath": "/faragorn",
+#                 "url": "https://github.com/faragorn"
+#               },
+#               "labels": {
+#                 "edges": [
+#                   {
+#                     "node": {
+#                       "name": "debug"
+#                     }
+#                   },
+#                   {
+#                     "node": {
+#                       "name": "feedback"
+#                     }
+#                   }
+#                 ]
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Override a single view of a mounted Sinatra app (in rails)",
+#               "number": 1326,
+#               "url": "https://github.com/sinatra/sinatra/issues/1326",
+#               "body": "How do I override a single Sinatra view? At the moment, I've sub-classed the app's `Sinatra::Base` class and added the following code:\r\n```\r\nnew_dir = File.dirname(File.expand_path(__FILE__))\r\nset :views,  \"#{new_dir}/server/views\"\r\n```\r\n\r\nBut this means I have to copy over and override all the views from the app. Is it possible to override a single view?",
+#               "createdAt": "2017-07-14T11:08:11Z",
+#               "lastEditedAt": nil,
+#               "updatedAt": "2017-07-14T11:08:11Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars2.githubusercontent.com/u/14998342?v=4",
+#                 "login": "takahashi64",
+#                 "resourcePath": "/takahashi64",
+#                 "url": "https://github.com/takahashi64"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "Sinatra 2.0.0 - system overloads on large uploads",
+#               "number": 1327,
+#               "url": "https://github.com/sinatra/sinatra/issues/1327",
+#               "body": "Hello,\r\nI have a small web service that basically have a single endpoint to upload large files (docker tar images ~800MB)\r\nHowever, I just upgraded Sinatra to version 2.0.0 (from 1.4.7), and my uploads now takes forever (over 10min (timed out) from the very same server that hosts the web service -> via loopback), compared to a few seconds before.\r\nAlso, the CPU is now at 100% (on a single thread -> 25% on a quad core), compared to 5-10% with the old version.\r\n\r\nHere is my webserver:\r\n```ruby\r\npost '/create' do\r\n\t# checking if the CSS has been sent\r\n\tunless params[:css] && params[:css][:tempfile]\r\n\t\treturn [400, \"No css file sent\"]\r\n\tend\r\n\r\n\t# saving upload file\r\n\ttar_file = \"#{$docker_dir}/#{UUIDTools::UUID.random_create}.tar\"\r\n\tFile.open(tar_file, \"wb\") do |f|\r\n\t\tf.write(params[:css][:tempfile].read)\r\n\tend\r\nend\r\n```\r\n\r\nAnd here is my upload client (with Gem RestClient):\r\n\r\n```ruby\r\n#!/usr/bin/env ruby\r\n\r\nrequire 'rest-client'\r\n\r\n# defines\r\n$css_tar = \"../../css/css.tar\"\r\n$base_url = \"http://my-server:8080\"\r\n$http_timeout = 600\r\n\r\n# checking if the css.tar is there\r\nraise \"Couldn't find css tar archive at: #{$css_tar}\" unless File.exists? $css_tar\r\n\r\nputs \"INFO :: uploading css.tar archive\"\r\n\r\n# creating and sending request to upload archive\r\nanswer = RestClient::Request.execute(method: :post, url: \"#{$base_url}/create\", timeout: $http_timeout, payload: {:css => File.new($css_tar, 'rb')})\r\n\r\nraise \"ERROR :: Couldn't create infra from css.tar archive: #{answer.body}\" unless answer.code == 200\r\n```\r\n\r\nThanks for your help and support,\r\nBest regards\r\n\r\n",
+#               "createdAt": "2017-07-17T11:52:36Z",
+#               "lastEditedAt": "2017-07-18T09:33:14Z",
+#               "updatedAt": "2017-07-19T18:56:10Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 4
+#               },
+#               "comments": {
+#                 "totalCount": 8
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars1.githubusercontent.com/u/5125105?v=4",
+#                 "login": "Kanshiroron",
+#                 "resourcePath": "/Kanshiroron",
+#                 "url": "https://github.com/Kanshiroron"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           },
+#           {
+#             "node": {
+#               "repository": {
+#                 "nameWithOwner": "sinatra/sinatra"
+#               },
+#               "title": "adding % to a paramater is not passed to sqlite when using Sinatra and Unicorn",
+#               "number": 1328,
+#               "url": "https://github.com/sinatra/sinatra/issues/1328",
+#               "body": "Adding % symbols to a parameter will not get passed to sqlite under Unicorn and Sinatra 2.0, but work just fine running under rackup.  Percent symbols can also be passed to sqlite if they are stored in a string.  Passing % symbols worked just fine with Sinatra 1.4.7 and Unicorn 5.3.0.\r\n\r\nWorking example:\r\n```Ruby\r\n    get '/good/:string/' do\r\n      test_string = \"This search\".gsub(' ','%').concat('%') #this works\r\n      rs = @PREPARED_QUERY.execute(test_string)\r\n    end\r\n```\r\n\r\nThis breaks:\r\n```Ruby\r\n    get '/bad/:string/' do\r\n      wildcard_search_string = params['string'].gsub(' ','%').concat('%')\r\n      rs = @PREPARED_QUERY.execute(test_string)\r\n    end\r\n```\r\n\r\nI have attached a test case tar file for testing.\r\n\r\nsetup: \r\nuntar test case\r\nexecute commands in\r\n[test_case.tar.gz](https://github.com/sinatra/sinatra/files/1167575/test_case.tar.gz)\r\n readme.txt\r\n\r\n\r\nThese tests were run under Debian Stretch.\r\n\r\nBrandon",
+#               "createdAt": "2017-07-22T19:02:17Z",
+#               "lastEditedAt": "2017-07-22T19:03:43Z",
+#               "updatedAt": "2017-07-22T19:03:43Z",
+#               "assignees": {
+#                 "totalCount": 0
+#               },
+#               "participants": {
+#                 "totalCount": 1
+#               },
+#               "comments": {
+#                 "totalCount": 0
+#               },
+#               "author": {
+#                 "avatarUrl": "https://avatars3.githubusercontent.com/u/7517945?v=4",
+#                 "login": "metrix78",
+#                 "resourcePath": "/metrix78",
+#                 "url": "https://github.com/metrix78"
+#               },
+#               "labels": {
+#                 "edges": []
+#               }
+#             }
+#           }
+#         ]
+#       }
+#     }
+#   }
+# }

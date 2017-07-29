@@ -3,32 +3,36 @@ require_relative 'fake_server_response'
 Repo.delete_all
 Issue.delete_all
 
-@javascript_repos[:data][:search][:edges].each do |repo|
-  repo = repo[:node]
-  standardized_language = repo[:primaryLanguage][:name].downcase.gsub(/\s/,"_")
+[@ruby_repos, @javascript_repos].each do |language|
+  language[:data][:search][:edges].each do |repo|
+    repo = repo[:node]
+    standardized_language = repo[:primaryLanguage][:name].downcase.gsub(/\s/,"_")
 
-  repo_entry = Repo.new(
+    repo_entry = Repo.new(
 
-  name: repo[:name],
-  url: repo[:url],
-  owner: repo[:owner][:login],
-  description: repo[:description],
-  language_id: Language.find_or_create_by(language: standardized_language).id,
-  mentionable_user_count: repo[:mentionableUsers][:totalCount],
-  stargazers_count: repo[:stargazers][:totalCount],
-  issues_count: repo[:issues][:totalCount],
-  forks_count: repo[:forks][:totalCount],
-  pull_request_count: repo[:pullRequests][:totalCount],
-  repo_updated_at: DateTime.parse(repo[:updatedAt])
+    name: repo[:name],
+    url: repo[:url],
+    owner: repo[:owner][:login],
+    description: repo[:description],
+    language_id: Language.find_or_create_by(language: standardized_language).id,
+    mentionable_user_count: repo[:mentionableUsers][:totalCount],
+    stargazers_count: repo[:stargazers][:totalCount],
+    issues_count: repo[:issues][:totalCount],
+    forks_count: repo[:forks][:totalCount],
+    pull_request_count: repo[:pullRequests][:totalCount],
+    repo_updated_at: DateTime.parse(repo[:updatedAt])
 
-  )
+    )
 
-  repo_entry.save
-  p repo_entry.name
-
+    repo_entry.save
+    p repo_entry.name
+    
+  end
 end
 
-[@modernizr_issues, @webpack_issues, @freecodecamp_issues].each do |repo|
+
+
+[@modernizr_issues, @webpack_issues, @freecodecamp_issues, @rails_issues].each do |repo|
   repo[:data][:repository][:issues][:edges].each do |issue|
     issue = issue[:node]
 

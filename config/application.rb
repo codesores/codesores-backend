@@ -30,12 +30,14 @@ module CodesoresBackend
     # Skip views, helpers and assets when generating a new resource.
     config.api_only = true
 
+    config.autoload_paths += %W(#{config.root}/lib)
+
+
     config.middleware.insert_before 0, Rack::Cors do
       allow do
         origins 'localhost:3001'
         resource '*', :headers => :any, :methods => [:get, :post, :delete, :put, :patch, :options, :head]
       end
     end
-
   end
 end

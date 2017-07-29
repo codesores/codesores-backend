@@ -4,7 +4,7 @@ class CreateRepos < ActiveRecord::Migration[5.1]
 
       t.string :name
       t.string :owner
-      t.string :language
+      t.integer :language_id
       t.string :description
       t.integer :stargazers_count
       t.integer :issues_count

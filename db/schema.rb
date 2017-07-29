@@ -30,7 +30,7 @@ ActiveRecord::Schema.define(version: 20170728220846) do
     t.integer "comment_count"
     t.string "url"
     t.string "author"
-    t.integer "particpant_count"
+    t.integer "participant_count"
     t.integer "assignee_count"
     t.integer "repo_id"
     t.datetime "created_at", null: false

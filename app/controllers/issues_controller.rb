@@ -1,5 +1,10 @@
 class  IssuesController < ApplicationController
 
+  def start
+    @languages = Language.all.pluck(:language).unshift('All')
+    render json: @languages
+  end
+
   def index
     render json: @issues
   end

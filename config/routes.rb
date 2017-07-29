@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :users
+  resource :user, only: [:show]
   get '/auth/github', to: 'authentication#github', format: false
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 

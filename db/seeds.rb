@@ -1,6 +1,5 @@
 require_relative 'fake_server_response'
 
-
 Repo.delete_all
 Issue.delete_all
 

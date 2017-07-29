@@ -5,6 +5,7 @@ Issue.delete_all
 
 @javascript_repos[:data][:search][:edges].each do |repo|
   repo = repo[:node]
+  standardized_language = repo[:primaryLanguage][:name].downcase.gsub(/\s/,"_")
 
   repo_entry = Repo.new(
 
@@ -12,7 +13,7 @@ Issue.delete_all
   url: repo[:url],
   owner: repo[:owner][:login],
   description: repo[:description],
-  language: repo[:primaryLanguage][:name],
+  language_id: Language.find_or_create_by(standardized_language).id,
   mentionable_user_count: repo[:mentionableUsers][:totalCount],
   stargazers_count: repo[:stargazers][:totalCount],
   issues_count: repo[:issues][:totalCount],

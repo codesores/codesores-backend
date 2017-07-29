@@ -1,75 +1,54 @@
 require_relative 'fake_server_response'
 
 
-Repos.delete_all
-Issues.delete_all
+Repo.delete_all
+Issue.delete_all
 
- @repos[:data][:search][:edges].each do |repo|
-   repo = repo[:node]
+@repos[:data][:search][:edges].each do |repo|
+  repo = repo[:node]
 
-   repo_entry = Repo.new(
+  repo_entry = Repo.new(
 
-   name: repo[:name],
-   url: repo[:url],
-   owner: repo[:owner][:login],
-   description: repo[:description],
-   language: repo[:primaryLanguage][:name],
-   mentionable_user_count: repo[:mentionableUsers][:totalCount],
-   stargazers_count: repo[:stargazers][:totalCount],
-   issues_count: repo[:issues][:totalCount],
-   forks_count: repo[:forks][:totalCount],
-   pull_request_count: repo[:pullRequests][:totalCount],
-   repo_updated_at: repo[:updatedAt]
+  name: repo[:name],
+  url: repo[:url],
+  owner: repo[:owner][:login],
+  description: repo[:description],
+  language: repo[:primaryLanguage][:name],
+  mentionable_user_count: repo[:mentionableUsers][:totalCount],
+  stargazers_count: repo[:stargazers][:totalCount],
+  issues_count: repo[:issues][:totalCount],
+  forks_count: repo[:forks][:totalCount],
+  pull_request_count: repo[:pullRequests][:totalCount],
+  repo_updated_at: DateTime.parse(repo[:updatedAt])
 
-   )
+  )
 
-   repo_entry.save
-   p repo_entry.name
+  repo_entry.save
+  p repo_entry.name
 
- end
-
-@freecodecamp_issues[:data][:repository][:issues][:edges].each do |obj|
-
-   obj.each do |key, value|
-      p value[:title]
-      p value[:labels][:edges]
-      p value[:createdAt]
-      p value[:comments][:totalCount]
-      p value[:url]
-      p value[:author][:login]
-      p value[:participants][:totalCount]
-      p value[:assignees][:totalCount]
-      p value[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]
-   end
 end
 
-@webpack_issues[:data][:repository][:issues][:edges].each do |obj|
+[@modernizr_issues, @webpack_issues, @freecodecamp_issues].each do |repo|
+  repo[:data][:repository][:issues][:edges].each do |issue|
+    issue = issue[:node]
 
-   obj.each do |key, value|
-      p value[:title]
-      p value[:labels][:edges]
-      p value[:createdAt]
-      p value[:comments][:totalCount]
-      p value[:url]
-      p value[:author][:login]
-      p value[:participants][:totalCount]
-      p value[:assignees][:totalCount]
-      p value[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]
-   end
+    issue_entry = Issue.new(
+    title: issue[:title],
+    labels: issue[:labels][:edges],
+    issue_created_at: DateTime.parse(issue[:createdAt]),
+    comment_count: issue[:comments][:totalCount],
+    url: issue[:url],
+    author: issue[:author][:login],
+    participant_count: issue[:participants][:totalCount],
+    assignee_count: issue[:assignees][:totalCount],
+    repo_id: Repo.find_by(name: issue[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]).id
+    # issue[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]
+    )
+
+    issue_entry.save
+    issue_entry.title
+  end
+
 end
 
-@modernizr_issues[:data][:repository][:issues][:edges].each do |obj|
-
-   obj.each do |key, value|
-      p value[:title]
-      p value[:labels][:edges]
-      p value[:createdAt]
-      p value[:comments][:totalCount]
-      p value[:url]
-      p value[:author][:login]
-      p value[:participants][:totalCount]
-      p value[:assignees][:totalCount]
-      p value[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]
-   end
-end
 

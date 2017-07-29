@@ -26,7 +26,7 @@ ActiveRecord::Schema.define(version: 20170728220846) do
   create_table "issues", force: :cascade do |t|
     t.string "title"
     t.string "labels"
-    t.datetime "issue_create_at"
+    t.datetime "issue_created_at"
     t.integer "comment_count"
     t.string "url"
     t.string "author"

@@ -1,32 +1,19 @@
 class  IssuesController < ApplicationController
 
   def index
-    render json: ['hi']
+    render json: @issues
   end
 
   def show
-    @test_response = {
-      issue: {
-        summary: 'there is something wrong with something',
-        comments: [
-          {comment: 'this is a comment',
-            author: 'JM'
-          },
-          {comment: 'this is another comment',
-            author: 'JM'
-          }
-        ],
-        meta: {
-          labels: ['label1', 'label2']
-        }
-      },
+    issue = Issue.find(params[:id])
+    issue = issue.attributes
+    repo = Repo.find(issue['repo_id'])
+    issue[:repo_name] = repo['name']
+    issue[:repo_owner] = repo['owner']
+    issue[:repo_language] = repo['language']
+    issue[:repo_description] = repo['description']
 
-      feedback: {
-        data: 'data'
-      }
-    }
-
-    render json: @test_response
+    render json: issue
   end
 
   def search

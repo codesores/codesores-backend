@@ -30,7 +30,6 @@ class Authenticator
       client_id:     ENV['GITHUB_CLIENT_ID'],
       client_secret: ENV['GITHUB_CLIENT_SECRET']
     }
-    # binding.pry
     raise IOError, 'FETCH_ACCESS_TOKEN' unless resp.success?
     URI.decode_www_form(resp.body).to_h
   end

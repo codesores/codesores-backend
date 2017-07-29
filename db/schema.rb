@@ -19,7 +19,6 @@ ActiveRecord::Schema.define(version: 20170729203732) do
     t.integer "validity_indicator"
     t.integer "complexity_indicator"
     t.integer "scope_indicator"
-    t.integer "request_type_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -48,7 +47,7 @@ ActiveRecord::Schema.define(version: 20170729203732) do
   create_table "repos", force: :cascade do |t|
     t.string "name"
     t.string "owner"
-    t.integer "language_id"
+    t.string "language"
     t.string "description"
     t.integer "stargazers_count"
     t.integer "issues_count"

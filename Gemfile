@@ -10,6 +10,10 @@ end
 gem 'omniauth'
 gem 'omniauth-github'
 gem 'devise'
+
+gem 'faraday'
+gem 'jwt'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.2'
 # Use postgresql as the database for Active Record
@@ -28,9 +32,10 @@ gem 'puma', '~> 3.7'
 
 # Use Rack CORS for handling Cross-Origin Resource Sharing (CORS), making cross-origin AJAX possible
 gem 'rack-cors'
-gem 'dotenv-rails'
+# gem 'dotenv-rails'
 
 group :development, :test do
+  gem 'dotenv-rails'
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   # gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
   gem 'rspec-rails'

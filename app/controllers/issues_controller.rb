@@ -26,7 +26,7 @@ class  IssuesController < ApplicationController
   end
 
   def results
-
+    render json: Issue.limit(10)
   end
 
 end

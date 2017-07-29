@@ -26,11 +26,12 @@ ActiveRecord::Schema.define(version: 20170728234300) do
   create_table "issues", force: :cascade do |t|
     t.string "title"
     t.string "labels"
-    t.datetime "issue_create_at"
+    t.datetime "issue_created_at"
     t.integer "comment_count"
     t.string "url"
+    t.string "body"
     t.string "author"
-    t.integer "particpant_count"
+    t.integer "participant_count"
     t.integer "assignee_count"
     t.integer "repo_id"
     t.datetime "created_at", null: false

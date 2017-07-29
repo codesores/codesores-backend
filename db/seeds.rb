@@ -1,23 +1,28 @@
 require_relative 'fake_server_response'
 
-Repos.delete_all
-Issues.delete_all
+Repo.delete_all
+Issue.delete_all
 
  @repos[:data][:search][:edges].each do |repo|
    repo = repo[:node]
 
-   Repo.new(
-   :name=>"freeCodeCamp",
-   :url=>"https://github.com/freeCodeCamp/freeCodeCamp",
-   :owner[:login],
-   :description=>"The https://freeCodeCamp.com open source codebase and curriculum. Learn to code and help nonprofits.",
-   :primaryLanguage=>{:name=>"JavaScript"},
-   :mentionableUsers[:totalCount]
-   :stargazers[:totalCount]
-   :issues=[:totalCount]
-   :forks[:totalCount]
-   :pullRequests[:totalCount]
-   :updatedAt=>"2017-07-28T21:18:32Z"}
+   repo_entry = Repo.new(
+
+   name: repo[:name],
+   url: repo[:url],
+   owner: repo[:owner][:login],
+   description: repo[:description],
+   language: repo[:primaryLanguage][:name],
+   mentionable_user_count: repo[:mentionableUsers][:totalCount],
+   stargazers_count: repo[:stargazers][:totalCount],
+   issues_count: repo[:issues][:totalCount],
+   forks_count: repo[:forks][:totalCount],
+   pull_request_count: repo[:pullRequests][:totalCount],
+   repo_updated_at: repo[:updatedAt]
+
    )
+
+   repo_entry.save
+   p repo_entry.name
 
  end

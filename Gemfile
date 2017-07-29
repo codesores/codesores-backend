@@ -11,7 +11,9 @@ end
 gem 'omniauth'
 gem 'omniauth-github'
 gem 'devise'
+
 gem 'rest-client', '~> 2.0', '>= 2.0.2'
+
 gem 'faraday'
 gem 'jwt'
 

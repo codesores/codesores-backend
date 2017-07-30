@@ -2,6 +2,7 @@ require_relative 'fake_server_response'
 
 Repo.delete_all
 Issue.delete_all
+RequestType.delete_all
 
 [@ruby_repos, @javascript_repos].each do |language|
   language[:data][:search][:edges].each do |repo|
@@ -56,4 +57,7 @@ end
 
 end
 
+RequestType.create(scope: 'Bug')
+RequestType.create(scope: 'Docs')
+RequestType.create(scope: 'Other')
 

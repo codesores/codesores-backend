@@ -22,7 +22,10 @@ class  IssuesController < ApplicationController
   end
 
   def search
-
+    @language = Language.find_by(language: params[:language])
+    @issues = Issue.joins(:repo).where("repos.language_id = #{@language.id}")
+ 
+    render json: @issues
   end
 
   def results

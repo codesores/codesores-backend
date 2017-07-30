@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20170729203732) do
+ActiveRecord::Schema.define(version: 20170730023643) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -19,6 +19,7 @@ ActiveRecord::Schema.define(version: 20170729203732) do
     t.integer "validity_indicator"
     t.integer "complexity_indicator"
     t.integer "scope_indicator"
+    t.integer "request_type_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end
@@ -47,7 +48,7 @@ ActiveRecord::Schema.define(version: 20170729203732) do
   create_table "repos", force: :cascade do |t|
     t.string "name"
     t.string "owner"
-    t.string "language"
+    t.integer "language_id"
     t.string "description"
     t.integer "stargazers_count"
     t.integer "issues_count"
@@ -61,10 +62,16 @@ ActiveRecord::Schema.define(version: 20170729203732) do
     t.datetime "updated_at", null: false
   end
 
+  create_table "request_types", force: :cascade do |t|
+    t.string "scope"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
   create_table "user_feedbacks", force: :cascade do |t|
     t.integer "validity"
-    t.integer "diffculty"
-    t.integer "scope"
+    t.integer "difficulty"
+    t.integer "request_type_id"
     t.integer "user_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false

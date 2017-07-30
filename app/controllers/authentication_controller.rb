@@ -23,9 +23,9 @@ class AuthenticationController < ApplicationController
       public_repos: public_repos
     )
     # ... and redirect to client app.
-    redirect_to "#{issuer}?token=#{token}"
+    redirect_to "#{issuer}home?token=#{token}"
   rescue StandardError => error
-    redirect_to "#{issuer}?error=#{error.message}"
+    redirect_to "#{issuer}home?error=#{error.message}"
   end
 
   private

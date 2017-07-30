@@ -1,4 +1,5 @@
-@query = {
+query = <<-GRAPHQL
+  {
   search(query: "language:JavaScript stars:>10000", type: REPOSITORY, first: 10) {
     repositoryCount
     edges {
@@ -36,20 +37,41 @@
     }
   }
 }
+GRAPHQL
 
-require 'net/http'
-require 'uri'
-require 'json'
+query = query.gsub("\n",'')
 
-# require 'json'
+check_rate = <<-GRAPHQL
+query {
+  viewer {
+    login
+  }
+  rateLimit {
+    limit
+    cost
+    remaining
+    resetAt
+  }
+}
+GRAPHQL
 
-uri = URI.parse('https://api.github.com/graphql')
-header = {'Content-Type': 'text/json'}
+check_rate = check_rate.gsub("\n",'')
+
+schema = <<-GRAPHQL
+query {
+  __schema {
+    types {
+      name
+      kind
+      description
+      fields {
+        name
+      }
+    }
+  }
+}
+GRAPHQL
 
 
-http = Net::HTTP.new(uri.host, uri.port)
-request = Net::HTTP::Post.new(uri.request_uri, header)
-request.body = user.to_json
 
-# Send the request
-response = http.request(request)
+

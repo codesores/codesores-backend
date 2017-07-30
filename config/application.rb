@@ -9,6 +9,10 @@ require "action_controller/railtie"
 require "action_mailer/railtie"
 require "action_view/railtie"
 require "action_cable/engine"
+
+require "graphql/client/http"
+require "graphql/client/railtie"
+
 # require "sprockets/railtie"
 # require "rails/test_unit/railtie"
 
@@ -40,4 +44,22 @@ module CodesoresBackend
       end
     end
   end
+
+  HTTPAdapter = GraphQL::Client::HTTP.new("https://api.github.com/graphql") do
+    def headers(context)
+      unless token = ENV['GITHUB_PERSONAL_ACCESS_KEY']
+        fail "Missing GitHub access token"
+      end
+
+      {
+        "Authorization" => "Bearer #{token}"
+      }
+    end
+  end
+
+  Client = GraphQL::Client.new(
+     schema: Application.root.join("db/schema.json").to_s,
+     execute: HTTPAdapter
+   )
+   Application.config.graphql.client = Client
 end

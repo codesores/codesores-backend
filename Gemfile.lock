@@ -63,6 +63,10 @@ GEM
     ffi (1.9.18)
     globalid (0.4.0)
       activesupport (>= 4.2.0)
+    graphql (1.2.2)
+    graphql-client (0.2.3)
+      activesupport (>= 3.0, < 6.0)
+      graphql (>= 0.19.2)
     hashie (3.5.6)
     http-cookie (1.0.3)
       domain_name (~> 0.5)
@@ -203,6 +207,8 @@ DEPENDENCIES
   devise
   dotenv-rails
   faraday
+  graphql (= 1.2.2)
+  graphql-client (= 0.2.3)
   jwt
   listen (>= 3.0.5, < 3.2)
   omniauth

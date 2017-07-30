@@ -11,7 +11,8 @@ end
 gem 'omniauth'
 gem 'omniauth-github'
 gem 'devise'
-
+gem "graphql", "1.2.2"
+gem "graphql-client", "0.2.3"
 gem 'rest-client', '~> 2.0', '>= 2.0.2'
 
 gem 'faraday'

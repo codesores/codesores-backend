@@ -10,4 +10,6 @@ Rails.application.routes.draw do
 
   post '/issues/search', to: 'issues#search'
 
+  post '/user_feedbacks', to: 'user_feedbacks#create'
+
 end

@@ -57,7 +57,7 @@ end
 
 end
 
-RequestType.create(scope: 'Bug')
-RequestType.create(scope: 'Docs')
-RequestType.create(scope: 'Other')
+RequestType.create(scope: 'bug')
+RequestType.create(scope: 'docs')
+RequestType.create(scope: 'other')
 

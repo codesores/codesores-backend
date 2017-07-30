@@ -4,8 +4,6 @@ class UserFeedbacksController < ApplicationController
     @feedback = UserFeedback.new(feedback_params)  
     @feedback.user = User.first               #missing user id !!!
 
-    
-
     @feedback.save!
     render json: ['hii']
   end

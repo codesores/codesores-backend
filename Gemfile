@@ -14,6 +14,13 @@ gem 'devise'
 
 gem 'rest-client', '~> 2.0', '>= 2.0.2'
 
+#Gems to communicate with GitHub API
+gem "graphql", "1.2.2"
+gem "graphql-client", "0.2.3"
+gem 'graphiql-rails'
+gem 'erubis', '~> 2.7.0'
+
+#Used for authentification and login with GitHub
 gem 'faraday'
 gem 'jwt'
 

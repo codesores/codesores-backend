@@ -12,5 +12,5 @@ Rails.application.routes.draw do
 
   post '/user_feedbacks', to: 'user_feedbacks#create'
 
-  get '/graphql', to: 'application#index'
+  get '/graphqlexample', to: 'application#graphqlexample'
 end

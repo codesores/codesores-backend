@@ -1,9 +1,11 @@
 class UserFeedbacksController < ApplicationController
+  # before_action :authenticate_user!
+
   def create
     p "* " * 200
     @feedback = UserFeedback.new(feedback_params)  
-    @feedback.user = User.first               #missing user id !!!
-
+    @feedback.user = current_user              
+    
     @feedback.save!
     render json: ['hii']
   end

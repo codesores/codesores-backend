@@ -1,8 +1,8 @@
 class  IssuesController < ApplicationController
-  before_action :authenticate_user!
+  # before_action :authenticate_user!
 
   def start
-    @languages = Language.all.pluck(:language).unshift('All')
+    @languages = Language.all.pluck(:language).unshift('Languages')
     render json: @languages
   end
 

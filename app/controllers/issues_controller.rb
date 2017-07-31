@@ -1,4 +1,5 @@
 class  IssuesController < ApplicationController
+  before_action :authenticate_user!
 
   def start
     @languages = Language.all.pluck(:language).unshift('All')
@@ -24,7 +25,7 @@ class  IssuesController < ApplicationController
   def search
     @language = Language.find_by(language: params[:language])
     @issues = Issue.joins(:repo).where("repos.language_id = #{@language.id}")
- 
+
     render json: @issues
   end
 

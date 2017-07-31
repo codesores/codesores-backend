@@ -11,5 +11,6 @@ class ApplicationController < ActionController::API
 
   def authenticate_user!
     head :unauthorized unless logged_in?
+    p current_user
   end
 end

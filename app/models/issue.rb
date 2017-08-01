@@ -23,7 +23,7 @@ class Issue < ApplicationRecord
     end
 
     def filter_language(language, issue_array)
-      if language != nil
+      if language != ""
         language_id = Language.find_by(language: language).id
         results = issue_array.select do |issue|
           issue.repo.language.id == language_id
@@ -42,7 +42,7 @@ class Issue < ApplicationRecord
     end
 
     def filter_difficulty(difficulty_input, issue_array)
-      if difficulty_input != nil
+      if difficulty_input != ""
         results = issue_array.select do |issue|
           difficulty_scores = issue.user_feedbacks.pluck(:difficulty)
           (difficulty_scores.sum.to_f / difficulty_scores.count.to_f) <= difficulty_input
@@ -55,7 +55,7 @@ class Issue < ApplicationRecord
 
     def advanced_search(bugs, documentation, language, difficulty_input, search_term)
 
-      if search_term != nil
+      if search_term != ""
         search_issues = Issue.search_all_text(search_term)
       else
         search_issues = Issue.all

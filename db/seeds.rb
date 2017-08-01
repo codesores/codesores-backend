@@ -1,4 +1,8 @@
 require_relative 'fake_server_response'
+require 'uri'
+require 'net/http'
+require 'json'
+
 
 Repo.delete_all
 Issue.delete_all
@@ -67,12 +71,29 @@ RequestType.create(scope: 'other')
 end
 
 Issue.all.each do |issue|
+  # Obtain validity predicted
+  nlc_text_input = issue.title
+  url = URI("https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/1c5f1ex204-nlc-102709/classify?text=#{nlc_text_input}")
+
+  http = Net::HTTP.new(url.host, url.port)
+  http.use_ssl = true
+  http.verify_mode = OpenSSL::SSL::VERIFY_NONE
+
+  request = Net::HTTP::Get.new(url)
+  request["authorization"] = 'Basic MjM1Mzk1ZDctYWUzOC00OGY2LThiNDktNDdlYmVhM2MxOTJlOlVvVFpVMEdMYXJKbA=='
+  request["cache-control"] = 'no-cache'
+  request["postman-token"] = '9e748e3b-4331-2f4b-d4e4-8a2091328555'
+
+  response = http.request(request)
+  result = JSON.parse(response.body)
+  p result["top_class"].to_i
+
   20.times do
     input = UserFeedback.new(
       user_id: User.first.id,
     issue_id: issue.id,
     validity: rand(0..1),
-    difficulty: rand(1..5)
+    difficulty: result["top_class"].to_i
     )
     p input.valid?
     p input.errors.full_messages

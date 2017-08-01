@@ -3,6 +3,7 @@ class Issue < ApplicationRecord
   has_one :language, through: :repo, source: :language
   has_many :user_feedbacks
   has_one :request_type
+  has_many :stars
 
 
   def as_json(options = {})

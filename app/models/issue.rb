@@ -1,68 +1,75 @@
 class Issue < ApplicationRecord
+  include PgSearch
+
   belongs_to :repo
   has_one :language, through: :repo, source: :language
   has_many :user_feedbacks
   has_one :request_type
 
+  pg_search_scope :search_all_text, against: [:title, :labels, :repo_name, :body, :author], using: { tsearch: { any_word: true } }
 
   def as_json(options = {})
     super(include: [:repo, :language, :user_feedbacks])
   end
 
-  def self.advanced_search(difficulty_input, request_type_id, language_id)
-    # Grab issues that match language and request_type param
-    first_results = Issue.where(request_type_id: request_type_id)
+  class << self
 
-    second_results = first_results.select do |issue|
-      issue.repo.language.id == language_id
+    def filter_validity(issue_array)
+      issue_array.reject do |issue|
+        valid_scores = issue.user_feedbacks.pluck(:validity)
+        valid_scores.count > 15 && (valid_scores.sum.to_f / valid_scores.count.to_f) <= 0.3
+      end
+      return issue_array
     end
 
-    # Grab issues that are considered valid
-    third_results = second_results.select do |issue|
-      valid_scores = issue.user_feedbacks.pluck(:validity)
-      valid_scores.count > 15 && (valid_scores.sum.to_f / valid_scores.count.to_f) <= 0.3
+    def filter_language(language, issue_array)
+      if language != nil
+        language_id = Language.find_by(language: language).id
+        results = issue_array.select do |issue|
+          issue.repo.language.id == language_id
+        end
+        return results
+      else
+        return issue_array
+      end
     end
 
-    # Grab issues that are less than or equal to the user's target difficulty level
-    final_results = third_results.select do |issue|
-      difficulty_scores = issue.user_feedbacks.pluck(:difficulty)
-      (difficulty_scores.sum.to_f / difficulty_scores.count.to_f) <= difficulty_input
+    def filter_request_type(bugs, documentation, issue_array)
+      results = issue_array
+      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'bug').id } if bugs == false
+      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'docs').id } if documentation == false
+      return results
     end
 
-    # return the sorted results
-    final_results
+    def filter_difficulty(difficulty_input, issue_array)
+      if difficulty_input != nil
+        results = issue_array.select do |issue|
+          difficulty_scores = issue.user_feedbacks.pluck(:difficulty)
+          (difficulty_scores.sum.to_f / difficulty_scores.count.to_f) <= difficulty_input
+        end
+        return results
+      else
+        return issue_array
+      end
+    end
+
+    def advanced_search(bugs, documentation, language, difficulty_input, search_term)
+
+      if search_term != nil
+        search_issues = Issue.search_all_text(search_term)
+      else
+        search_issues = Issue.all
+      end
+
+      valid_issues = filter_validity(search_issues)
+
+      valid_lang = filter_language(language, valid_issues)
+
+      valid_lang_request = filter_request_type(bugs, documentation, valid_lang)
+
+      valid_lang_request_difficulty = filter_difficulty(difficulty_input, valid_lang_request)
+
+      return valid_lang_request_difficulty
+    end
   end
-
-
-  private
-  # def self.valid_issue
-  #   valid_issues = []
-  #   Issue.all.each do |issue|
-  #     valid_scores = issue.user_feedbacks.pluck(:validity)
-  #     if !(valid_scores.count > 15 && get_average(valid_scores) <= 0.3)
-  #       valid_issues << issue
-  #     end
-  #   end
-  #   valid_issues
-  # end
-  #
-  # def self.difficulty_mean(difficulty_input)
-  #   difficulty_issues = []
-  #   Issue.all.each do |issue|
-  #     difficulty_scores = issue.user_feedbacks.pluck(:difficulty)
-  #     if get_average(difficulty_scores) <= difficulty_input
-  #       difficulty_issues << issue
-  #     end
-  #   end
-  #   difficulty_issues
-  # end
-  #
-  # def self.by_request_type(request_type_input)
-  #   Issue.where(request_type_id: request_type_input)
-  # end
-
-  # def get_average(arr)
-  #   arr.inject{ |sum, el| sum + el }.to_f / arr.size
-  # end
-
 end

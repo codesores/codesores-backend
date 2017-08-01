@@ -1,9 +1,9 @@
 require 'csv'
 
 CSV.open("./training.csv", "wb") do |csv|
-    csv << ['complexity', 'issue', 'url']
+    csv << ['validity', 'issue', 'url']
   Issue.all.each do |issue|
-    csv << ['', "TITLE: #{issue.title} BODY: #{issue.title}", issue.url]
+    csv << [rand(1..5), "TITLE: #{issue.title} BODY: #{issue.body}", issue.url]
   end
 end
 

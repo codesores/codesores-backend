@@ -4,6 +4,9 @@ Repo.delete_all
 Issue.delete_all
 RequestType.delete_all
 UserFeedback.delete_all
+User.delete_all
+
+User.create(login: "octocat", name: "The Octocat", avatar_url: "https://avatars3.githubusercontent.com/u/583231?v=4&s=460")
 
 [@ruby_repos, @javascript_repos].each do |language|
   language[:data][:search][:edges].each do |repo|
@@ -65,7 +68,7 @@ end
 Issue.all.each do |issue|
   20.times do
     input = UserFeedback.new(
-    user_id: 1,
+      user_id: User.first.id,
     issue_id: issue.id,
     validity: rand(0..1),
     difficulty: rand(1..5)

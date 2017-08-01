@@ -42,10 +42,10 @@ class Issue < ApplicationRecord
     end
 
     def filter_difficulty(difficulty_input, issue_array)
-      if difficulty_input != ""
+      if difficulty_input > 0
         results = issue_array.select do |issue|
           difficulty_scores = issue.user_feedbacks.pluck(:difficulty)
-          (difficulty_scores.sum.to_f / difficulty_scores.count.to_f) <= difficulty_input
+          (difficulty_scores.sum.to_f / difficulty_scores.count.to_f).ceil == difficulty_input
         end
         return results
       else

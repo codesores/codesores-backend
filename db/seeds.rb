@@ -3,6 +3,7 @@ require_relative 'fake_server_response'
 Repo.delete_all
 Issue.delete_all
 RequestType.delete_all
+UserFeedback.delete_all
 
 [@ruby_repos, @javascript_repos].each do |language|
   language[:data][:search][:edges].each do |repo|
@@ -27,10 +28,13 @@ RequestType.delete_all
 
     repo_entry.save
     p repo_entry.name
-    
+
   end
 end
 
+RequestType.create(scope: 'bug')
+RequestType.create(scope: 'docs')
+RequestType.create(scope: 'other')
 
 
 [@modernizr_issues, @webpack_issues, @freecodecamp_issues, @rails_issues].each do |repo|
@@ -47,7 +51,8 @@ end
     author: issue[:author][:login],
     participant_count: issue[:participants][:totalCount],
     assignee_count: issue[:assignees][:totalCount],
-    repo_id: Repo.find_by(name: issue[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]).id
+    repo_id: Repo.find_by(name: issue[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]).id,
+    request_type_id: rand(1..3)
     # issue[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]
     )
 
@@ -57,7 +62,16 @@ end
 
 end
 
-RequestType.create(scope: 'bug')
-RequestType.create(scope: 'docs')
-RequestType.create(scope: 'other')
-
+Issue.all.each do |issue|
+  20.times do
+    input = UserFeedback.new(
+    user_id: 1,
+    issue_id: issue.id,
+    validity: rand(0..1),
+    difficulty: rand(1..5)
+    )
+    p input.valid?
+    p input.errors.full_messages
+    input.save
+  end
+end

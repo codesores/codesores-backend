@@ -1,3 +1,3 @@
 class RequestType < ApplicationRecord
-  has_many :user_feedbacks
+  has_many :issues
 end

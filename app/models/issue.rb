@@ -7,7 +7,7 @@ class Issue < ApplicationRecord
 
 
   def as_json(options = {})
-    super(include: [:repo, :language, :user_feedbacks])
+    super(include: [:repo, :language, :user_feedbacks, :stars])
   end
 
   def self.advanced_search(difficulty_input, request_type_id, language_id)

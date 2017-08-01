@@ -55,6 +55,7 @@ RequestType.create(scope: 'other')
     participant_count: issue[:participants][:totalCount],
     assignee_count: issue[:assignees][:totalCount],
     repo_id: Repo.find_by(name: issue[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]).id,
+    repo_name: issue[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)],
     request_type_id: rand(1..3)
     # issue[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]
     )

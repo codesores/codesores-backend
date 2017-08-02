@@ -11,6 +11,7 @@ end
 gem 'omniauth'
 gem 'omniauth-github'
 gem 'devise'
+gem 'pg_search'
 
 gem 'rest-client', '~> 2.0', '>= 2.0.2'
 

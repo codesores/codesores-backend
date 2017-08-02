@@ -72,7 +72,7 @@ end
 
 Issue.all.each do |issue|
   # Obtain validity predicted
-  nlc_text_input = issue.title
+  nlc_text_input = issue.title.tr('^A-Za-z0-9', ' ')
   url = URI("https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/1c5f1ex204-nlc-102709/classify?text=#{nlc_text_input}")
 
   http = Net::HTTP.new(url.host, url.port)
@@ -86,6 +86,7 @@ Issue.all.each do |issue|
 
   response = http.request(request)
   response_body = response.read_body
+  p "Issue: #{issue.id}"
   p result = JSON.parse(response_body)
   p result["top_class"].to_i
 

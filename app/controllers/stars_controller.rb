@@ -1,6 +1,10 @@
 class StarsController < ApplicationController
   before_action :authenticate_user!
 
+  def show 
+    @stars = Star.where(user: current_user)
+  end
+
   def create
     @issue = Issue.find_by(id: params[:issue_id])
     @star = Star.create(issue: @issue, user: current_user)

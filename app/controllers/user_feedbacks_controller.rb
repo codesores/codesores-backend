@@ -15,8 +15,8 @@ class UserFeedbacksController < ApplicationController
   private
   def feedback_params
     @params = params.require(:feedback).permit(:validity, :difficulty, :request_type, :issue_id)
-    # @request_type = RequestType.where(scope: @params[:request_type]).first
-    # @params[:request_type] = @request_type
+    @request_type = RequestType.find_by(scope: @params[:request_type])
+    @params[:request_type] = @request_type
 
     @params
   end

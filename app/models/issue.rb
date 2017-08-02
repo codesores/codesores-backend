@@ -52,7 +52,9 @@ class Issue < ApplicationRecord
       if difficulty_input > 0
         results = issue_array.select do |issue|
           difficulty_scores = issue.user_feedbacks.pluck(:difficulty)
-          (difficulty_scores.sum.to_f / difficulty_scores.count.to_f).ceil == difficulty_input
+          avg_diff = (difficulty_scores.sum.to_f / difficulty_scores.count.to_f)
+          avg_diff_rounded = (avg_diff * 10**0).round.to_f / 10**0
+          avg_diff_rounded == difficulty_input
         end
         return results
       else

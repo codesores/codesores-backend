@@ -5,11 +5,12 @@ class Issue < ApplicationRecord
   has_one :language, through: :repo, source: :language
   has_many :user_feedbacks
   has_one :request_type
+  has_many :stars
 
   pg_search_scope :search_all_text, against: [:title, :labels, :repo_name, :body, :author], using: { tsearch: { any_word: true } }
 
   def as_json(options = {})
-    super(include: [:repo, :language, :user_feedbacks])
+    super(include: [:repo, :language, :user_feedbacks, :stars])
   end
 
   class << self

@@ -11,6 +11,10 @@ class Issue < ApplicationRecord
 
   scope :most_recent, -> (limit) { order("issue_created_at DESC").limit(limit) }
 
+  def self.hot_issues
+    order('stars_count DESC').limit(10)
+  end
+
   def as_json(options = {})
     super(include: [:repo, :language, :user_feedbacks, :stars])
   end

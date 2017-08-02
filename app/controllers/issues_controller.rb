@@ -3,7 +3,8 @@ class  IssuesController < ApplicationController
 
   def start
     @languages = Language.all.pluck(:language)
-    @issues = Issue.most_recent(10)
+    # @issues = Issue.most_recent(10)
+    @issues = Issue.hot_issues
     # render json: @languages, @issues
     render :json => {
       :languages => @languages.as_json,

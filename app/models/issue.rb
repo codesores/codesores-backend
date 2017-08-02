@@ -9,6 +9,8 @@ class Issue < ApplicationRecord
 
   pg_search_scope :search_all_text, against: [:title, :labels, :repo_name, :body, :author], using: { tsearch: { any_word: true } }
 
+  scope :most_recent, -> (limit) { order("issue_created_at DESC").limit(limit) }
+
   def as_json(options = {})
     super(include: [:repo, :language, :user_feedbacks, :stars])
   end

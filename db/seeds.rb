@@ -85,7 +85,8 @@ Issue.all.each do |issue|
   request["postman-token"] = '9e748e3b-4331-2f4b-d4e4-8a2091328555'
 
   response = http.request(request)
-  result = JSON.parse(response.body)
+  response_body = response.read_body
+  p result = JSON.parse(response_body)
   p result["top_class"].to_i
 
   20.times do

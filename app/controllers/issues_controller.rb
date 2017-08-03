@@ -18,7 +18,12 @@ class  IssuesController < ApplicationController
 
   def show
     issue = Issue.includes(:repo, :language, :user_feedbacks, :stars).find(params[:id])
-    render json: {issue: issue, feedbacks: issue.user_feedbacks, repo: issue.repo, stars: issue.stars}
+    feedback = {
+      count: issue.user_feedbacks.count,
+      average_validity: issue.user_feedbacks.average(:validity),
+      average_difficulty: issue.user_feedbacks.average(:difficulty)
+    }
+    render json: {issue: issue, feedbacks: feedback, language: issue.language.language, repo: issue.repo, stars: issue.stars}
   end
 
   def search

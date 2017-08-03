@@ -12,12 +12,12 @@ class Issue < ApplicationRecord
   scope :most_recent, -> (limit) { order("issue_created_at DESC").limit(limit) }
 
   def self.hot_issues
-    order('stars_count DESC').limit(10)
+    order('stars_count DESC').includes(:repo).limit(10)
   end
 
-  def as_json(options = {})
-    super(include: [:repo, :language, :user_feedbacks, :stars])
-  end
+  # def as_json(options = {})
+  #   super(include: [:repo, :language])
+  # end
 
   class << self
 
@@ -65,7 +65,7 @@ class Issue < ApplicationRecord
       if search_term != ""
         search_issues = Issue.search_all_text(search_term)
       else
-        search_issues = Issue.all
+        search_issues = Issue.all.includes(:repo)
       end
 
       valid_issues = filter_validity(search_issues)

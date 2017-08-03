@@ -7,7 +7,7 @@ class Issue < ApplicationRecord
   has_one :request_type
   has_many :stars
 
-  pg_search_scope :search_all_text, against: [:title, :labels, :repo_name, :body, :author], using: { tsearch: { any_word: true } }
+  pg_search_scope :search_all_text, against: [:title, :labels, :repo_name, :body, :author], using: { tsearch: { any_word: false } }
 
   scope :most_recent, -> (limit) { order("issue_created_at DESC").limit(limit) }
 
@@ -29,22 +29,23 @@ class Issue < ApplicationRecord
       return issue_array
     end
 
-    def filter_language(language, issue_array)
-      if language != ""
-        language_id = Language.find_by(language: language).id
-        results = issue_array.select do |issue|
-          issue.repo.language.id == language_id
-        end
+    def filter_language(language_input, issue_array)
+      if language_input != ""
+        language_array = language_input.split(",")
+        language_list = language_array.map { |language| Language.find_by(language: language).id }
+        results = issue_array.select { |issue| language_list.include?(issue.repo.language.id) }
         return results
       else
         return issue_array
       end
     end
 
-    def filter_request_type(bugs, documentation, issue_array)
+    def filter_request_type(bugs, documentation, features, other, issue_array)
       results = issue_array
       results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'bug').id } if bugs == false
       results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'docs').id } if documentation == false
+      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'feature').id } if features == false
+      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'other').id } if other == false
       return results
     end
 
@@ -62,7 +63,7 @@ class Issue < ApplicationRecord
       end
     end
 
-    def advanced_search(bugs, documentation, language, difficulty_input, search_term)
+    def advanced_search(bugs, documentation, features, other, language, difficulty_input, search_term)
 
       if search_term != ""
         search_issues = Issue.search_all_text(search_term)
@@ -74,7 +75,7 @@ class Issue < ApplicationRecord
 
       valid_lang = filter_language(language, valid_issues)
 
-      valid_lang_request = filter_request_type(bugs, documentation, valid_lang)
+      valid_lang_request = filter_request_type(bugs, documentation, features, other, valid_lang)
 
       valid_lang_request_difficulty = filter_difficulty(difficulty_input, valid_lang_request)
 

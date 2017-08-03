@@ -29,12 +29,11 @@ class Issue < ApplicationRecord
       return issue_array
     end
 
-    def filter_language(language, issue_array)
-      if language != ""
-        language_id = Language.find_by(language: language).id
-        results = issue_array.select do |issue|
-          issue.repo.language.id == language_id
-        end
+    def filter_language(language_input, issue_array)
+      if language_input != ""
+        language_array = language_input.split(",")
+        language_list = language_array.map { |language| Language.find_by(language: language).id }
+        results = issue_array.select { |issue| language_list.include?(issue.repo.language.id) }
         return results
       else
         return issue_array

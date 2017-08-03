@@ -23,7 +23,7 @@ class  IssuesController < ApplicationController
       average_validity: issue.user_feedbacks.average(:validity),
       average_difficulty: issue.user_feedbacks.average(:difficulty)
     }
-    render json: {issue: issue, feedbacks: feedback, language: issue.language.language, repo: issue.repo, stars: issue.stars}
+    render json: {issue: issue, feedbacks: feedback, language: issue.language.language, repo: issue.repo, stars: issue.stars, request_type: RequestType.find(issue.request_type_id)}
   end
 
   def search

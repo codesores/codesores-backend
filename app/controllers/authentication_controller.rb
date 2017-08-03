@@ -22,6 +22,9 @@ class AuthenticationController < ApplicationController
       user_created_at: user_created_at,
       public_repos: public_repos
     )
+    response.headers['JWT'] = token
+    # cookies[:token] = token
+    response.set_cookie 'token', token
     # ... and redirect to client app.
     redirect_to "#{issuer}?token=#{token}"
   rescue StandardError => error

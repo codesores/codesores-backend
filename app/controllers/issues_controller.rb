@@ -27,7 +27,7 @@ class  IssuesController < ApplicationController
   end
 
   def search
-    @issues = Issue.advanced_search(params['bugs'], params['documentation'], params['language'], params['difficulty'].to_i, params["keywords"])
+    @issues = Issue.advanced_search(params['bugs'], params['documentation'], params['features'], params['other'], params['language'], params['difficulty'].to_i, params["keywords"])
 
     render json: @issues.as_json(include: :repo)
   end

@@ -30,7 +30,7 @@ class Issue < ApplicationRecord
     end
 
     def filter_language(language_input, issue_array)
-      if language_input != ""
+      if language_input != "" || [] || nil
         language_array = language_input.split(",")
         language_list = language_array.map { |language| Language.find_by(language: language).id }
         results = issue_array.select { |issue| language_list.include?(issue.repo.language.id) }

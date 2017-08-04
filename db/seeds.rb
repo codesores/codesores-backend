@@ -28,7 +28,7 @@ RequestType.create(scope: 'feature')
 RequestType.create(scope: 'other')
 
 # Seed repos
-[@ruby_repos, @javascript_repos].each do |language|
+[@ruby_repos, @javascript_repos, @python_repos].each do |language|
   language[:data][:search][:edges].each do |repo|
     repo = repo[:node]
     standardized_language = repo[:primaryLanguage][:name].downcase.gsub(/\s/,"_")
@@ -53,7 +53,7 @@ RequestType.create(scope: 'other')
 end
 
 # Seed issues
-[@modernizr_issues, @webpack_issues, @freecodecamp_issues, @rails_issues].each do |repo|
+[@modernizr_issues, @webpack_issues, @freecodecamp_issues, @rails_issues, @awesome_python_issues, @httpie_issues, @flask_issues].each do |repo|
   repo[:data][:repository][:issues][:edges].each do |issue|
     issue = issue[:node]
 

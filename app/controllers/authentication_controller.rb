@@ -22,10 +22,18 @@
       user_created_at: user_created_at,
       public_repos: public_repos
     )
+    response.set_cookie 'token', {value: token, path: "/"}
     # ... and redirect to client app.
-    redirect_to "#{issuer}search?token=#{token}"
+    # redirect_to "#{issuer}?token=#{token}"
+    redirect_to "#{issuer}search"
+
   rescue StandardError => error
     redirect_to "#{issuer}?error=#{error.message}"
+  end
+
+  def logout
+    response.delete_cookie 'token'
+    redirect_to issuer
   end
 
   private

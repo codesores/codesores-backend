@@ -22,6 +22,10 @@ Bundler.require(*Rails.groups)
 
 module CodesoresBackend
   class Application < Rails::Application
+    # Add cookies so can read jwt automatically
+    # config.middleware.use ActionDispatch::Cookies
+    # config.middleware.use ActionDispatch::Session::CookieStore
+
     # Initialize configuration defaults for originally generated Rails version.
     config.load_defaults 5.1
 
@@ -39,7 +43,7 @@ module CodesoresBackend
 
     config.middleware.insert_before 0, Rack::Cors do
       allow do
-        origins 'localhost:3001'
+        origins 'localhost:3000', 'localhost:3001', 'codesores.herokuapp.com', 'http://localhost:3001'
         resource '*', :headers => :any, :methods => [:get, :post, :delete, :put, :patch, :options, :head]
       end
     end

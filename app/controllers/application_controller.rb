@@ -1,9 +1,13 @@
 class ApplicationController < ActionController::API
+  before_action :check_cookie
+
   class QueryError < StandardError; end
   require_relative '../../db/graphql_calls'
 
   def current_user
-    token = params[:token]
+    token = request.authorization.split(' ').last
+    # token = request.cookies['token']
+    # token = request.headers['token']
     payload = TokiToki.decode(token)
     @current_user ||= User.find_by_login(payload[0]['sub'])
   end
@@ -24,17 +28,23 @@ class ApplicationController < ActionController::API
   end
 
   private
-    def query(definition, variables = {})
-      response = CodesoresBackend::Client.query(definition, variables: variables, context: client_context)
+  def check_cookie
+    p "*************************Cooooookeieeeeeee***************", request.cookies
+    p "*************************header***************", request.headers['token']
+    p "*****************auth***************", request.authorization
+  end
 
-      if response.errors.any?
-        raise QueryError.new(response.errors[:data].join(", "))
-      else
-        response.data
-      end
-    end
+  def query(definition, variables = {})
+    response = CodesoresBackend::Client.query(definition, variables: variables, context: client_context)
 
-    def client_context
-      { access_token: CodesoresBackend::Application.secrets.github_access_token }
+    if response.errors.any?
+      raise QueryError.new(response.errors[:data].join(", "))
+    else
+      response.data
     end
+  end
+
+  def client_context
+    { access_token: CodesoresBackend::Application.secrets.github_access_token }
+  end
 end

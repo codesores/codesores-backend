@@ -1,6 +1,13 @@
 class UserFeedbacksController < ApplicationController
   # before_action :authenticate_user!
 
+  def all
+    @feedbacks = UserFeedback.where(user: current_user)
+    p "* " * 100
+    p @feedbacks
+    render json: @feedbacks
+  end
+
   def create
     p "* " * 200
     @feedback = UserFeedback.new(feedback_params)

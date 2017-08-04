@@ -4923,6 +4923,3116 @@
   }
 }
 
+@python_repos = {
+  "data": {
+    "search": {
+      "repositoryCount": 1014,
+      "edges": [
+        {
+          "node": {
+            "name": "awesome-python",
+            "url": "https://github.com/vinta/awesome-python",
+            "owner": {
+              "id": "MDQ6VXNlcjY1MjA3MA==",
+              "login": "vinta"
+            },
+            "nameWithOwner": "vinta/awesome-python",
+            "description": "A curated list of awesome Python frameworks, libraries, software and resources",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 263
+            },
+            "stargazers": {
+              "totalCount": 37004
+            },
+            "issues": {
+              "totalCount": 92
+            },
+            "forks": {
+              "totalCount": 6693
+            },
+            "pullRequests": {
+              "totalCount": 816
+            },
+            "updatedAt": "2017-08-04T05:52:03Z"
+          }
+        },
+        {
+          "node": {
+            "name": "httpie",
+            "url": "https://github.com/jakubroztocil/httpie",
+            "owner": {
+              "id": "MDQ6VXNlcjMyNjg4NQ==",
+              "login": "jakubroztocil"
+            },
+            "nameWithOwner": "jakubroztocil/httpie",
+            "description": "Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 65
+            },
+            "stargazers": {
+              "totalCount": 30841
+            },
+            "issues": {
+              "totalCount": 423
+            },
+            "forks": {
+              "totalCount": 1994
+            },
+            "pullRequests": {
+              "totalCount": 173
+            },
+            "updatedAt": "2017-08-04T05:43:07Z"
+          }
+        },
+        {
+          "node": {
+            "name": "thefuck",
+            "url": "https://github.com/nvbn/thefuck",
+            "owner": {
+              "id": "MDQ6VXNlcjExMTQ1NDI=",
+              "login": "nvbn"
+            },
+            "nameWithOwner": "nvbn/thefuck",
+            "description": "Magnificent app which corrects your previous console command.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 93
+            },
+            "stargazers": {
+              "totalCount": 29363
+            },
+            "issues": {
+              "totalCount": 335
+            },
+            "forks": {
+              "totalCount": 1410
+            },
+            "pullRequests": {
+              "totalCount": 334
+            },
+            "updatedAt": "2017-08-04T04:44:20Z"
+          }
+        },
+        {
+          "node": {
+            "name": "flask",
+            "url": "https://github.com/pallets/flask",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE2NzQ4NTA1",
+              "login": "pallets"
+            },
+            "nameWithOwner": "pallets/flask",
+            "description": "A microframework based on Werkzeug, Jinja2 and good intentions",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 451
+            },
+            "stargazers": {
+              "totalCount": 28761
+            },
+            "issues": {
+              "totalCount": 1274
+            },
+            "forks": {
+              "totalCount": 8909
+            },
+            "pullRequests": {
+              "totalCount": 1161
+            },
+            "updatedAt": "2017-08-04T05:22:36Z"
+          }
+        },
+        {
+          "node": {
+            "name": "youtube-dl",
+            "url": "https://github.com/rg3/youtube-dl",
+            "owner": {
+              "id": "MDQ6VXNlcjUzNDg3",
+              "login": "rg3"
+            },
+            "nameWithOwner": "rg3/youtube-dl",
+            "description": "Command-line program to download videos from YouTube.com and other video sites",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 555
+            },
+            "stargazers": {
+              "totalCount": 27921
+            },
+            "issues": {
+              "totalCount": 11321
+            },
+            "forks": {
+              "totalCount": 5164
+            },
+            "pullRequests": {
+              "totalCount": 2437
+            },
+            "updatedAt": "2017-08-04T06:18:52Z"
+          }
+        },
+        {
+          "node": {
+            "name": "django",
+            "url": "https://github.com/django/django",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI3ODA0",
+              "login": "django"
+            },
+            "nameWithOwner": "django/django",
+            "description": "The Web framework for perfectionists with deadlines.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 996
+            },
+            "stargazers": {
+              "totalCount": 27248
+            },
+            "issues": {
+              "totalCount": 0
+            },
+            "forks": {
+              "totalCount": 11035
+            },
+            "pullRequests": {
+              "totalCount": 8844
+            },
+            "updatedAt": "2017-08-04T06:10:27Z"
+          }
+        },
+        {
+          "node": {
+            "name": "requests",
+            "url": "https://github.com/requests/requests",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI4MDUzMzE=",
+              "login": "requests"
+            },
+            "nameWithOwner": "requests/requests",
+            "description": "Python HTTP Requests for Humans™ ✨🍰✨",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 492
+            },
+            "stargazers": {
+              "totalCount": 26598
+            },
+            "issues": {
+              "totalCount": 2323
+            },
+            "forks": {
+              "totalCount": 4710
+            },
+            "pullRequests": {
+              "totalCount": 1662
+            },
+            "updatedAt": "2017-08-04T03:44:32Z"
+          }
+        },
+        {
+          "node": {
+            "name": "awesome-machine-learning",
+            "url": "https://github.com/josephmisiti/awesome-machine-learning",
+            "owner": {
+              "id": "MDQ6VXNlcjI0NjMwMg==",
+              "login": "josephmisiti"
+            },
+            "nameWithOwner": "josephmisiti/awesome-machine-learning",
+            "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 254
+            },
+            "stargazers": {
+              "totalCount": 24698
+            },
+            "issues": {
+              "totalCount": 39
+            },
+            "forks": {
+              "totalCount": 5531
+            },
+            "pullRequests": {
+              "totalCount": 368
+            },
+            "updatedAt": "2017-08-04T06:19:11Z"
+          }
+        },
+        {
+          "node": {
+            "name": "ansible",
+            "url": "https://github.com/ansible/ansible",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE1MDc0NTI=",
+              "login": "ansible"
+            },
+            "nameWithOwner": "ansible/ansible",
+            "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 986
+            },
+            "stargazers": {
+              "totalCount": 24582
+            },
+            "issues": {
+              "totalCount": 12536
+            },
+            "forks": {
+              "totalCount": 8278
+            },
+            "pullRequests": {
+              "totalCount": 15195
+            },
+            "updatedAt": "2017-08-04T06:16:09Z"
+          }
+        },
+        {
+          "node": {
+            "name": "scrapy",
+            "url": "https://github.com/scrapy/scrapy",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjczMzYzNQ==",
+              "login": "scrapy"
+            },
+            "nameWithOwner": "scrapy/scrapy",
+            "description": "Scrapy, a fast high-level web crawling & scraping framework for Python.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 260
+            },
+            "stargazers": {
+              "totalCount": 21909
+            },
+            "issues": {
+              "totalCount": 1332
+            },
+            "forks": {
+              "totalCount": 5599
+            },
+            "pullRequests": {
+              "totalCount": 1536
+            },
+            "updatedAt": "2017-08-04T06:13:14Z"
+          }
+        },
+        {
+          "node": {
+            "name": "big-list-of-naughty-strings",
+            "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+            "owner": {
+              "id": "MDQ6VXNlcjIxNzk3MDg=",
+              "login": "minimaxir"
+            },
+            "nameWithOwner": "minimaxir/big-list-of-naughty-strings",
+            "description": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 53
+            },
+            "stargazers": {
+              "totalCount": 21353
+            },
+            "issues": {
+              "totalCount": 49
+            },
+            "forks": {
+              "totalCount": 821
+            },
+            "pullRequests": {
+              "totalCount": 101
+            },
+            "updatedAt": "2017-08-04T05:43:26Z"
+          }
+        },
+        {
+          "node": {
+            "name": "scikit-learn",
+            "url": "https://github.com/scikit-learn/scikit-learn",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjM2NTYzMA==",
+              "login": "scikit-learn"
+            },
+            "nameWithOwner": "scikit-learn/scikit-learn",
+            "description": "scikit-learn: machine learning in Python",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 915
+            },
+            "stargazers": {
+              "totalCount": 20293
+            },
+            "issues": {
+              "totalCount": 4192
+            },
+            "forks": {
+              "totalCount": 10632
+            },
+            "pullRequests": {
+              "totalCount": 5298
+            },
+            "updatedAt": "2017-08-04T06:01:41Z"
+          }
+        },
+        {
+          "node": {
+            "name": "models",
+            "url": "https://github.com/tensorflow/models",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE1NjU4NjM4",
+              "login": "tensorflow"
+            },
+            "nameWithOwner": "tensorflow/models",
+            "description": "Models built with TensorFlow",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 334
+            },
+            "stargazers": {
+              "totalCount": 19458
+            },
+            "issues": {
+              "totalCount": 1294
+            },
+            "forks": {
+              "totalCount": 8109
+            },
+            "pullRequests": {
+              "totalCount": 756
+            },
+            "updatedAt": "2017-08-04T06:12:58Z"
+          }
+        },
+        {
+          "node": {
+            "name": "shadowsocks",
+            "url": "https://github.com/shadowsocks/shadowsocks",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjMwMDYxOTA=",
+              "login": "shadowsocks"
+            },
+            "nameWithOwner": "shadowsocks/shadowsocks",
+            "description": nil,
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 15
+            },
+            "stargazers": {
+              "totalCount": 19244
+            },
+            "issues": {
+              "totalCount": 789
+            },
+            "forks": {
+              "totalCount": 8686
+            },
+            "pullRequests": {
+              "totalCount": 133
+            },
+            "updatedAt": "2017-08-04T06:10:43Z"
+          }
+        },
+        {
+          "node": {
+            "name": "certbot",
+            "url": "https://github.com/certbot/certbot",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE3ODg5MDEz",
+              "login": "certbot"
+            },
+            "nameWithOwner": "certbot/certbot",
+            "description": "Certbot, previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 295
+            },
+            "stargazers": {
+              "totalCount": 19197
+            },
+            "issues": {
+              "totalCount": 2842
+            },
+            "forks": {
+              "totalCount": 1690
+            },
+            "pullRequests": {
+              "totalCount": 2145
+            },
+            "updatedAt": "2017-08-04T05:39:16Z"
+          }
+        },
+        {
+          "node": {
+            "name": "system-design-primer",
+            "url": "https://github.com/donnemartin/system-design-primer",
+            "owner": {
+              "id": "MDQ6VXNlcjU0NTg5OTc=",
+              "login": "donnemartin"
+            },
+            "nameWithOwner": "donnemartin/system-design-primer",
+            "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 24
+            },
+            "stargazers": {
+              "totalCount": 18501
+            },
+            "issues": {
+              "totalCount": 33
+            },
+            "forks": {
+              "totalCount": 1857
+            },
+            "pullRequests": {
+              "totalCount": 64
+            },
+            "updatedAt": "2017-08-04T06:17:14Z"
+          }
+        },
+        {
+          "node": {
+            "name": "keras",
+            "url": "https://github.com/fchollet/keras",
+            "owner": {
+              "id": "MDQ6VXNlcjcxMDI1NQ==",
+              "login": "fchollet"
+            },
+            "nameWithOwner": "fchollet/keras",
+            "description": "Deep Learning library for Python. Runs on TensorFlow, Theano, or CNTK.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 517
+            },
+            "stargazers": {
+              "totalCount": 18270
+            },
+            "issues": {
+              "totalCount": 5427
+            },
+            "forks": {
+              "totalCount": 6289
+            },
+            "pullRequests": {
+              "totalCount": 2083
+            },
+            "updatedAt": "2017-08-04T06:18:21Z"
+          }
+        },
+        {
+          "node": {
+            "name": "XX-Net",
+            "url": "https://github.com/XX-net/XX-Net",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEwMzk1NTQy",
+              "login": "XX-net"
+            },
+            "nameWithOwner": "XX-net/XX-Net",
+            "description": "a web proxy tool",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 52
+            },
+            "stargazers": {
+              "totalCount": 15806
+            },
+            "issues": {
+              "totalCount": 5785
+            },
+            "forks": {
+              "totalCount": 4988
+            },
+            "pullRequests": {
+              "totalCount": 343
+            },
+            "updatedAt": "2017-08-04T06:16:38Z"
+          }
+        },
+        {
+          "node": {
+            "name": "incubator-superset",
+            "url": "https://github.com/apache/incubator-superset",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjQ3MzU5",
+              "login": "apache"
+            },
+            "nameWithOwner": "apache/incubator-superset",
+            "description": "Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 169
+            },
+            "stargazers": {
+              "totalCount": 15191
+            },
+            "issues": {
+              "totalCount": 1667
+            },
+            "forks": {
+              "totalCount": 2127
+            },
+            "pullRequests": {
+              "totalCount": 1573
+            },
+            "updatedAt": "2017-08-04T03:51:18Z"
+          }
+        },
+        {
+          "node": {
+            "name": "CppCoreGuidelines",
+            "url": "https://github.com/isocpp/CppCoreGuidelines",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEzODQxNTc0",
+              "login": "isocpp"
+            },
+            "nameWithOwner": "isocpp/CppCoreGuidelines",
+            "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 171
+            },
+            "stargazers": {
+              "totalCount": 14475
+            },
+            "issues": {
+              "totalCount": 471
+            },
+            "forks": {
+              "totalCount": 1717
+            },
+            "pullRequests": {
+              "totalCount": 546
+            },
+            "updatedAt": "2017-08-04T05:40:58Z"
+          }
+        },
+        {
+          "node": {
+            "name": "YouCompleteMe",
+            "url": "https://github.com/Valloric/YouCompleteMe",
+            "owner": {
+              "id": "MDQ6VXNlcjkxOTQ0NA==",
+              "login": "Valloric"
+            },
+            "nameWithOwner": "Valloric/YouCompleteMe",
+            "description": "A code-completion engine for Vim",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 120
+            },
+            "stargazers": {
+              "totalCount": 14340
+            },
+            "issues": {
+              "totalCount": 2190
+            },
+            "forks": {
+              "totalCount": 1602
+            },
+            "pullRequests": {
+              "totalCount": 552
+            },
+            "updatedAt": "2017-08-03T22:33:38Z"
+          }
+        },
+        {
+          "node": {
+            "name": "you-get",
+            "url": "https://github.com/soimort/you-get",
+            "owner": {
+              "id": "MDQ6VXNlcjM0Mjk0NQ==",
+              "login": "soimort"
+            },
+            "nameWithOwner": "soimort/you-get",
+            "description": ":arrow_double_down: Dumb downloader that scrapes the web",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 106
+            },
+            "stargazers": {
+              "totalCount": 14030
+            },
+            "issues": {
+              "totalCount": 1666
+            },
+            "forks": {
+              "totalCount": 2775
+            },
+            "pullRequests": {
+              "totalCount": 538
+            },
+            "updatedAt": "2017-08-04T03:38:30Z"
+          }
+        },
+        {
+          "node": {
+            "name": "tornado",
+            "url": "https://github.com/tornadoweb/tornado",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjc0Njg5ODA=",
+              "login": "tornadoweb"
+            },
+            "nameWithOwner": "tornadoweb/tornado",
+            "description": "Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 274
+            },
+            "stargazers": {
+              "totalCount": 14000
+            },
+            "issues": {
+              "totalCount": 1149
+            },
+            "forks": {
+              "totalCount": 3933
+            },
+            "pullRequests": {
+              "totalCount": 973
+            },
+            "updatedAt": "2017-08-04T05:58:42Z"
+          }
+        },
+        {
+          "node": {
+            "name": "reddit",
+            "url": "https://github.com/reddit/reddit",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE0MjQ4",
+              "login": "reddit"
+            },
+            "nameWithOwner": "reddit/reddit",
+            "description": "the code that powers reddit.com",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 271
+            },
+            "stargazers": {
+              "totalCount": 13596
+            },
+            "issues": {
+              "totalCount": 938
+            },
+            "forks": {
+              "totalCount": 2382
+            },
+            "pullRequests": {
+              "totalCount": 881
+            },
+            "updatedAt": "2017-08-03T19:55:30Z"
+          }
+        },
+        {
+          "node": {
+            "name": "sentry",
+            "url": "https://github.com/getsentry/sentry",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEzOTY5NTE=",
+              "login": "getsentry"
+            },
+            "nameWithOwner": "getsentry/sentry",
+            "description": "Sentry is a cross-platform crash reporting and aggregation platform.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 328
+            },
+            "stargazers": {
+              "totalCount": 13400
+            },
+            "issues": {
+              "totalCount": 2697
+            },
+            "forks": {
+              "totalCount": 1583
+            },
+            "pullRequests": {
+              "totalCount": 3110
+            },
+            "updatedAt": "2017-08-04T06:11:54Z"
+          }
+        },
+        {
+          "node": {
+            "name": "Deep-Learning-Papers-Reading-Roadmap",
+            "url": "https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap",
+            "owner": {
+              "id": "MDQ6VXNlcjM4ODA5NjM=",
+              "login": "songrotek"
+            },
+            "nameWithOwner": "songrotek/Deep-Learning-Papers-Reading-Roadmap",
+            "description": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 18
+            },
+            "stargazers": {
+              "totalCount": 12915
+            },
+            "issues": {
+              "totalCount": 21
+            },
+            "forks": {
+              "totalCount": 2237
+            },
+            "pullRequests": {
+              "totalCount": 44
+            },
+            "updatedAt": "2017-08-04T01:15:30Z"
+          }
+        },
+        {
+          "node": {
+            "name": "python-patterns",
+            "url": "https://github.com/faif/python-patterns",
+            "owner": {
+              "id": "MDQ6VXNlcjEzMDQ2NjE=",
+              "login": "faif"
+            },
+            "nameWithOwner": "faif/python-patterns",
+            "description": "A collection of design patterns/idioms in Python",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 72
+            },
+            "stargazers": {
+              "totalCount": 12130
+            },
+            "issues": {
+              "totalCount": 33
+            },
+            "forks": {
+              "totalCount": 2671
+            },
+            "pullRequests": {
+              "totalCount": 172
+            },
+            "updatedAt": "2017-08-04T06:17:35Z"
+          }
+        },
+        {
+          "node": {
+            "name": "cpython",
+            "url": "https://github.com/python/cpython",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE1MjU5ODE=",
+              "login": "python"
+            },
+            "nameWithOwner": "python/cpython",
+            "description": "The Python programming language",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 284
+            },
+            "stargazers": {
+              "totalCount": 12085
+            },
+            "issues": {
+              "totalCount": 0
+            },
+            "forks": {
+              "totalCount": 2053
+            },
+            "pullRequests": {
+              "totalCount": 2998
+            },
+            "updatedAt": "2017-08-04T05:52:26Z"
+          }
+        },
+        {
+          "node": {
+            "name": "ipython",
+            "url": "https://github.com/ipython/ipython",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjIzMDQ1Mw==",
+              "login": "ipython"
+            },
+            "nameWithOwner": "ipython/ipython",
+            "description": "Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 522
+            },
+            "stargazers": {
+              "totalCount": 11760
+            },
+            "issues": {
+              "totalCount": 5449
+            },
+            "forks": {
+              "totalCount": 3330
+            },
+            "pullRequests": {
+              "totalCount": 5240
+            },
+            "updatedAt": "2017-08-03T20:55:56Z"
+          }
+        },
+        {
+          "node": {
+            "name": "macOS-Security-and-Privacy-Guide",
+            "url": "https://github.com/drduh/macOS-Security-and-Privacy-Guide",
+            "owner": {
+              "id": "MDQ6VXNlcjEyNDc1MTEw",
+              "login": "drduh"
+            },
+            "nameWithOwner": "drduh/macOS-Security-and-Privacy-Guide",
+            "description": "A practical guide to securing macOS.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 48
+            },
+            "stargazers": {
+              "totalCount": 11652
+            },
+            "issues": {
+              "totalCount": 141
+            },
+            "forks": {
+              "totalCount": 684
+            },
+            "pullRequests": {
+              "totalCount": 90
+            },
+            "updatedAt": "2017-08-04T03:39:32Z"
+          }
+        },
+        {
+          "node": {
+            "name": "source-code-pro",
+            "url": "https://github.com/adobe-fonts/source-code-pro",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjQwMjg4NzI=",
+              "login": "adobe-fonts"
+            },
+            "nameWithOwner": "adobe-fonts/source-code-pro",
+            "description": "Monospaced font family for user interface and coding environments",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 19
+            },
+            "stargazers": {
+              "totalCount": 11180
+            },
+            "issues": {
+              "totalCount": 128
+            },
+            "forks": {
+              "totalCount": 953
+            },
+            "pullRequests": {
+              "totalCount": 35
+            },
+            "updatedAt": "2017-08-04T02:05:41Z"
+          }
+        },
+        {
+          "node": {
+            "name": "interactive-coding-challenges",
+            "url": "https://github.com/donnemartin/interactive-coding-challenges",
+            "owner": {
+              "id": "MDQ6VXNlcjU0NTg5OTc=",
+              "login": "donnemartin"
+            },
+            "nameWithOwner": "donnemartin/interactive-coding-challenges",
+            "description": "Huge update!  Interactive Python coding interview challenges (algorithms and data structures).  Includes Anki flashcards.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 31
+            },
+            "stargazers": {
+              "totalCount": 10764
+            },
+            "issues": {
+              "totalCount": 33
+            },
+            "forks": {
+              "totalCount": 1183
+            },
+            "pullRequests": {
+              "totalCount": 172
+            },
+            "updatedAt": "2017-08-04T02:16:00Z"
+          }
+        },
+        {
+          "node": {
+            "name": "incubator-mxnet",
+            "url": "https://github.com/apache/incubator-mxnet",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjQ3MzU5",
+              "login": "apache"
+            },
+            "nameWithOwner": "apache/incubator-mxnet",
+            "description": "Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 420
+            },
+            "stargazers": {
+              "totalCount": 10640
+            },
+            "issues": {
+              "totalCount": 4198
+            },
+            "forks": {
+              "totalCount": 3841
+            },
+            "pullRequests": {
+              "totalCount": 3131
+            },
+            "updatedAt": "2017-08-04T05:18:08Z"
+          }
+        },
+        {
+          "node": {
+            "name": "pandas",
+            "url": "https://github.com/pandas-dev/pandas",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjIxMjA2OTc2",
+              "login": "pandas-dev"
+            },
+            "nameWithOwner": "pandas-dev/pandas",
+            "description": "Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 867
+            },
+            "stargazers": {
+              "totalCount": 10431
+            },
+            "issues": {
+              "totalCount": 10466
+            },
+            "forks": {
+              "totalCount": 4008
+            },
+            "pullRequests": {
+              "totalCount": 6696
+            },
+            "updatedAt": "2017-08-04T04:54:21Z"
+          }
+        },
+        {
+          "node": {
+            "name": "compose",
+            "url": "https://github.com/docker/compose",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjU0Mjk0NzA=",
+              "login": "docker"
+            },
+            "nameWithOwner": "docker/compose",
+            "description": "Define and run multi-container applications with Docker",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 274
+            },
+            "stargazers": {
+              "totalCount": 10146
+            },
+            "issues": {
+              "totalCount": 3239
+            },
+            "forks": {
+              "totalCount": 1570
+            },
+            "pullRequests": {
+              "totalCount": 1801
+            },
+            "updatedAt": "2017-08-04T01:27:08Z"
+          }
+        },
+        {
+          "node": {
+            "name": "data-science-ipython-notebooks",
+            "url": "https://github.com/donnemartin/data-science-ipython-notebooks",
+            "owner": {
+              "id": "MDQ6VXNlcjU0NTg5OTc=",
+              "login": "donnemartin"
+            },
+            "nameWithOwner": "donnemartin/data-science-ipython-notebooks",
+            "description": "Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 9
+            },
+            "stargazers": {
+              "totalCount": 9788
+            },
+            "issues": {
+              "totalCount": 21
+            },
+            "forks": {
+              "totalCount": 2390
+            },
+            "pullRequests": {
+              "totalCount": 29
+            },
+            "updatedAt": "2017-08-04T04:51:37Z"
+          }
+        },
+        {
+          "node": {
+            "name": "material-theme",
+            "url": "https://github.com/equinusocio/material-theme",
+            "owner": {
+              "id": "MDQ6VXNlcjEwNDU0NzQx",
+              "login": "equinusocio"
+            },
+            "nameWithOwner": "equinusocio/material-theme",
+            "description": "Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 68
+            },
+            "stargazers": {
+              "totalCount": 9552
+            },
+            "issues": {
+              "totalCount": 1029
+            },
+            "forks": {
+              "totalCount": 685
+            },
+            "pullRequests": {
+              "totalCount": 138
+            },
+            "updatedAt": "2017-08-04T03:30:33Z"
+          }
+        },
+        {
+          "node": {
+            "name": "jieba",
+            "url": "https://github.com/fxsjy/jieba",
+            "owner": {
+              "id": "MDQ6VXNlcjE2NzgzNw==",
+              "login": "fxsjy"
+            },
+            "nameWithOwner": "fxsjy/jieba",
+            "description": "结巴中文分词",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 32
+            },
+            "stargazers": {
+              "totalCount": 9494
+            },
+            "issues": {
+              "totalCount": 391
+            },
+            "forks": {
+              "totalCount": 2726
+            },
+            "pullRequests": {
+              "totalCount": 111
+            },
+            "updatedAt": "2017-08-04T02:23:50Z"
+          }
+        },
+        {
+          "node": {
+            "name": "pyspider",
+            "url": "https://github.com/binux/pyspider",
+            "owner": {
+              "id": "MDQ6VXNlcjY0NjQ1MQ==",
+              "login": "binux"
+            },
+            "nameWithOwner": "binux/pyspider",
+            "description": "A Powerful Spider(Web Crawler) System in Python.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 40
+            },
+            "stargazers": {
+              "totalCount": 9455
+            },
+            "issues": {
+              "totalCount": 612
+            },
+            "forks": {
+              "totalCount": 2435
+            },
+            "pullRequests": {
+              "totalCount": 110
+            },
+            "updatedAt": "2017-08-04T04:41:37Z"
+          }
+        },
+        {
+          "node": {
+            "name": "Hack",
+            "url": "https://github.com/chrissimpkins/Hack",
+            "owner": {
+              "id": "MDQ6VXNlcjQyNDk1OTE=",
+              "login": "chrissimpkins"
+            },
+            "nameWithOwner": "chrissimpkins/Hack",
+            "description": "A typeface designed for source code",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 13
+            },
+            "stargazers": {
+              "totalCount": 9322
+            },
+            "issues": {
+              "totalCount": 233
+            },
+            "forks": {
+              "totalCount": 301
+            },
+            "pullRequests": {
+              "totalCount": 21
+            },
+            "updatedAt": "2017-08-04T00:52:56Z"
+          }
+        },
+        {
+          "node": {
+            "name": "sqlmap",
+            "url": "https://github.com/sqlmapproject/sqlmap",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjczNTI4OQ==",
+              "login": "sqlmapproject"
+            },
+            "nameWithOwner": "sqlmapproject/sqlmap",
+            "description": "Automatic SQL injection and database takeover tool",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 58
+            },
+            "stargazers": {
+              "totalCount": 9128
+            },
+            "issues": {
+              "totalCount": 2483
+            },
+            "forks": {
+              "totalCount": 2088
+            },
+            "pullRequests": {
+              "totalCount": 137
+            },
+            "updatedAt": "2017-08-04T04:57:06Z"
+          }
+        },
+        {
+          "node": {
+            "name": "ZeroNet",
+            "url": "https://github.com/HelloZeroNet/ZeroNet",
+            "owner": {
+              "id": "MDQ6VXNlcjEwMzUwMzU5",
+              "login": "HelloZeroNet"
+            },
+            "nameWithOwner": "HelloZeroNet/ZeroNet",
+            "description": "ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 71
+            },
+            "stargazers": {
+              "totalCount": 9047
+            },
+            "issues": {
+              "totalCount": 837
+            },
+            "forks": {
+              "totalCount": 1086
+            },
+            "pullRequests": {
+              "totalCount": 227
+            },
+            "updatedAt": "2017-08-04T04:17:10Z"
+          }
+        },
+        {
+          "node": {
+            "name": "algorithms",
+            "url": "https://github.com/keon/algorithms",
+            "owner": {
+              "id": "MDQ6VXNlcjEwNzkzOTYy",
+              "login": "keon"
+            },
+            "nameWithOwner": "keon/algorithms",
+            "description": "Minimal examples of data structures and algorithms in Python",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 36
+            },
+            "stargazers": {
+              "totalCount": 8974
+            },
+            "issues": {
+              "totalCount": 16
+            },
+            "forks": {
+              "totalCount": 1139
+            },
+            "pullRequests": {
+              "totalCount": 81
+            },
+            "updatedAt": "2017-08-04T01:30:02Z"
+          }
+        },
+        {
+          "node": {
+            "name": "fabric",
+            "url": "https://github.com/fabric/fabric",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjQwMDQ4MQ==",
+              "login": "fabric"
+            },
+            "nameWithOwner": "fabric/fabric",
+            "description": "Simple, Pythonic remote execution and deployment.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 126
+            },
+            "stargazers": {
+              "totalCount": 8866
+            },
+            "issues": {
+              "totalCount": 1214
+            },
+            "forks": {
+              "totalCount": 1349
+            },
+            "pullRequests": {
+              "totalCount": 425
+            },
+            "updatedAt": "2017-08-04T05:37:58Z"
+          }
+        },
+        {
+          "node": {
+            "name": "sshuttle",
+            "url": "https://github.com/apenwarr/sshuttle",
+            "owner": {
+              "id": "MDQ6VXNlcjIwNTky",
+              "login": "apenwarr"
+            },
+            "nameWithOwner": "apenwarr/sshuttle",
+            "description": "Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 32
+            },
+            "stargazers": {
+              "totalCount": 8371
+            },
+            "issues": {
+              "totalCount": 0
+            },
+            "forks": {
+              "totalCount": 591
+            },
+            "pullRequests": {
+              "totalCount": 53
+            },
+            "updatedAt": "2017-08-04T05:44:36Z"
+          }
+        },
+        {
+          "node": {
+            "name": "django-rest-framework",
+            "url": "https://github.com/encode/django-rest-framework",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE5MTU5Mzkw",
+              "login": "encode"
+            },
+            "nameWithOwner": "encode/django-rest-framework",
+            "description": "Web APIs for Django.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 711
+            },
+            "stargazers": {
+              "totalCount": 8356
+            },
+            "issues": {
+              "totalCount": 2548
+            },
+            "forks": {
+              "totalCount": 2759
+            },
+            "pullRequests": {
+              "totalCount": 2756
+            },
+            "updatedAt": "2017-08-03T21:01:54Z"
+          }
+        },
+        {
+          "node": {
+            "name": "RocAlphaGo",
+            "url": "https://github.com/Rochester-NRT/RocAlphaGo",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE3MDE1Mzkw",
+              "login": "Rochester-NRT"
+            },
+            "nameWithOwner": "Rochester-NRT/RocAlphaGo",
+            "description": "An independent, student-led replication of DeepMind's 2016 Nature publication, \"Mastering the game of Go with deep neural networks and tree search\" (Nature 529, 484-489, 28 Jan 2016), details of which can be found on their website https://deepmind.com/publications.html.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 18
+            },
+            "stargazers": {
+              "totalCount": 8295
+            },
+            "issues": {
+              "totalCount": 109
+            },
+            "forks": {
+              "totalCount": 2295
+            },
+            "pullRequests": {
+              "totalCount": 106
+            },
+            "updatedAt": "2017-08-03T16:06:44Z"
+          }
+        },
+        {
+          "node": {
+            "name": "mitmproxy",
+            "url": "https://github.com/mitmproxy/mitmproxy",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjQ2NTI3ODc=",
+              "login": "mitmproxy"
+            },
+            "nameWithOwner": "mitmproxy/mitmproxy",
+            "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 191
+            },
+            "stargazers": {
+              "totalCount": 8190
+            },
+            "issues": {
+              "totalCount": 1308
+            },
+            "forks": {
+              "totalCount": 1134
+            },
+            "pullRequests": {
+              "totalCount": 1190
+            },
+            "updatedAt": "2017-08-03T16:28:22Z"
+          }
+        },
+        {
+          "node": {
+            "name": "localstack",
+            "url": "https://github.com/localstack/localstack",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI4NzMyMTIy",
+              "login": "localstack"
+            },
+            "nameWithOwner": "localstack/localstack",
+            "description": "💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 29
+            },
+            "stargazers": {
+              "totalCount": 8167
+            },
+            "issues": {
+              "totalCount": 165
+            },
+            "forks": {
+              "totalCount": 322
+            },
+            "pullRequests": {
+              "totalCount": 66
+            },
+            "updatedAt": "2017-08-04T00:58:56Z"
+          }
+        },
+        {
+          "node": {
+            "name": "neural-doodle",
+            "url": "https://github.com/alexjc/neural-doodle",
+            "owner": {
+              "id": "MDQ6VXNlcjQ0NTIwOA==",
+              "login": "alexjc"
+            },
+            "nameWithOwner": "alexjc/neural-doodle",
+            "description": "Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... there's more! (An implementation of Semantic Style Transfer.)",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 3
+            },
+            "stargazers": {
+              "totalCount": 7979
+            },
+            "issues": {
+              "totalCount": 89
+            },
+            "forks": {
+              "totalCount": 615
+            },
+            "pullRequests": {
+              "totalCount": 12
+            },
+            "updatedAt": "2017-08-03T11:49:37Z"
+          }
+        },
+        {
+          "node": {
+            "name": "salt",
+            "url": "https://github.com/saltstack/salt",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjExNDc0NzM=",
+              "login": "saltstack"
+            },
+            "nameWithOwner": "saltstack/salt",
+            "description": "Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here: ",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 990
+            },
+            "stargazers": {
+              "totalCount": 7928
+            },
+            "issues": {
+              "totalCount": 16280
+            },
+            "forks": {
+              "totalCount": 3594
+            },
+            "pullRequests": {
+              "totalCount": 26451
+            },
+            "updatedAt": "2017-08-04T03:32:11Z"
+          }
+        },
+        {
+          "node": {
+            "name": "powerline",
+            "url": "https://github.com/powerline/powerline",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEwMTAwNTc2",
+              "login": "powerline"
+            },
+            "nameWithOwner": "powerline/powerline",
+            "description": "Powerline is a statusline plugin for vim, and provides statuslines and prompts for several other applications, including zsh, bash, tmux, IPython, Awesome and Qtile.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 101
+            },
+            "stargazers": {
+              "totalCount": 7834
+            },
+            "issues": {
+              "totalCount": 1134
+            },
+            "forks": {
+              "totalCount": 633
+            },
+            "pullRequests": {
+              "totalCount": 649
+            },
+            "updatedAt": "2017-08-04T05:26:48Z"
+          }
+        },
+        {
+          "node": {
+            "name": "glances",
+            "url": "https://github.com/nicolargo/glances",
+            "owner": {
+              "id": "MDQ6VXNlcjc3Njc0Nw==",
+              "login": "nicolargo"
+            },
+            "nameWithOwner": "nicolargo/glances",
+            "description": "Glances an Eye on your system. A top/htop alternative.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 72
+            },
+            "stargazers": {
+              "totalCount": 7737
+            },
+            "issues": {
+              "totalCount": 785
+            },
+            "forks": {
+              "totalCount": 560
+            },
+            "pullRequests": {
+              "totalCount": 345
+            },
+            "updatedAt": "2017-08-04T05:55:41Z"
+          }
+        },
+        {
+          "node": {
+            "name": "home-assistant",
+            "url": "https://github.com/home-assistant/home-assistant",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEzODQ0OTc1",
+              "login": "home-assistant"
+            },
+            "nameWithOwner": "home-assistant/home-assistant",
+            "description": ":house_with_garden: Open-source home automation platform running on Python 3",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 612
+            },
+            "stargazers": {
+              "totalCount": 7708
+            },
+            "issues": {
+              "totalCount": 3117
+            },
+            "forks": {
+              "totalCount": 2283
+            },
+            "pullRequests": {
+              "totalCount": 5696
+            },
+            "updatedAt": "2017-08-04T04:40:41Z"
+          }
+        },
+        {
+          "node": {
+            "name": "luigi",
+            "url": "https://github.com/spotify/luigi",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI1MTM3NA==",
+              "login": "spotify"
+            },
+            "nameWithOwner": "spotify/luigi",
+            "description": "Luigi is a Python module that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization etc. It also comes with Hadoop support built in. ",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 347
+            },
+            "stargazers": {
+              "totalCount": 7452
+            },
+            "issues": {
+              "totalCount": 523
+            },
+            "forks": {
+              "totalCount": 1316
+            },
+            "pullRequests": {
+              "totalCount": 1677
+            },
+            "updatedAt": "2017-08-04T04:39:21Z"
+          }
+        },
+        {
+          "node": {
+            "name": "celery",
+            "url": "https://github.com/celery/celery",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjMxOTk4Mw==",
+              "login": "celery"
+            },
+            "nameWithOwner": "celery/celery",
+            "description": "Distributed Task Queue (development branch)",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 577
+            },
+            "stargazers": {
+              "totalCount": 7314
+            },
+            "issues": {
+              "totalCount": 2942
+            },
+            "forks": {
+              "totalCount": 2132
+            },
+            "pullRequests": {
+              "totalCount": 1235
+            },
+            "updatedAt": "2017-08-04T05:16:08Z"
+          }
+        },
+        {
+          "node": {
+            "name": "odoo",
+            "url": "https://github.com/odoo/odoo",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjYzNjg0ODM=",
+              "login": "odoo"
+            },
+            "nameWithOwner": "odoo/odoo",
+            "description": "Odoo. Open Source Apps To Grow Your Business.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 698
+            },
+            "stargazers": {
+              "totalCount": 7156
+            },
+            "issues": {
+              "totalCount": 6562
+            },
+            "forks": {
+              "totalCount": 6127
+            },
+            "pullRequests": {
+              "totalCount": 11331
+            },
+            "updatedAt": "2017-08-04T04:23:57Z"
+          }
+        },
+        {
+          "node": {
+            "name": "pelican",
+            "url": "https://github.com/getpelican/pelican",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjIwNDM0OTI=",
+              "login": "getpelican"
+            },
+            "nameWithOwner": "getpelican/pelican",
+            "description": "Static site generator that supports Markdown and reST syntax. Powered by Python.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 308
+            },
+            "stargazers": {
+              "totalCount": 7124
+            },
+            "issues": {
+              "totalCount": 1075
+            },
+            "forks": {
+              "totalCount": 1389
+            },
+            "pullRequests": {
+              "totalCount": 1118
+            },
+            "updatedAt": "2017-08-04T05:42:09Z"
+          }
+        },
+        {
+          "node": {
+            "name": "redash",
+            "url": "https://github.com/getredash/redash",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEwNzQ2Nzgw",
+              "login": "getredash"
+            },
+            "nameWithOwner": "getredash/redash",
+            "description": "Make Your Company Data Driven. Connect to any data source, easily visualize and share your data.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 160
+            },
+            "stargazers": {
+              "totalCount": 7041
+            },
+            "issues": {
+              "totalCount": 795
+            },
+            "forks": {
+              "totalCount": 958
+            },
+            "pullRequests": {
+              "totalCount": 1110
+            },
+            "updatedAt": "2017-08-04T00:56:20Z"
+          }
+        },
+        {
+          "node": {
+            "name": "Mailpile",
+            "url": "https://github.com/mailpile/Mailpile",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjUzNzQ4MTY=",
+              "login": "mailpile"
+            },
+            "nameWithOwner": "mailpile/Mailpile",
+            "description": "A free & open modern, fast email client with user-friendly encryption and privacy features",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 131
+            },
+            "stargazers": {
+              "totalCount": 6998
+            },
+            "issues": {
+              "totalCount": 1413
+            },
+            "forks": {
+              "totalCount": 762
+            },
+            "pullRequests": {
+              "totalCount": 487
+            },
+            "updatedAt": "2017-08-03T17:33:43Z"
+          }
+        },
+        {
+          "node": {
+            "name": "neural-enhance",
+            "url": "https://github.com/alexjc/neural-enhance",
+            "owner": {
+              "id": "MDQ6VXNlcjQ0NTIwOA==",
+              "login": "alexjc"
+            },
+            "nameWithOwner": "alexjc/neural-enhance",
+            "description": "Super Resolution for images using deep learning.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 10
+            },
+            "stargazers": {
+              "totalCount": 6879
+            },
+            "issues": {
+              "totalCount": 132
+            },
+            "forks": {
+              "totalCount": 573
+            },
+            "pullRequests": {
+              "totalCount": 27
+            },
+            "updatedAt": "2017-08-03T23:02:24Z"
+          }
+        },
+        {
+          "node": {
+            "name": "Theano",
+            "url": "https://github.com/Theano/Theano",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjk3MDUxNw==",
+              "login": "Theano"
+            },
+            "nameWithOwner": "Theano/Theano",
+            "description": "Theano is a Python library that allows you to define, optimize, and evaluate mathematical expressions involving multi-dimensional arrays efficiently. It can use GPUs and perform efficient symbolic differentiation.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 322
+            },
+            "stargazers": {
+              "totalCount": 6721
+            },
+            "issues": {
+              "totalCount": 2382
+            },
+            "forks": {
+              "totalCount": 2169
+            },
+            "pullRequests": {
+              "totalCount": 3875
+            },
+            "updatedAt": "2017-08-04T03:02:21Z"
+          }
+        },
+        {
+          "node": {
+            "name": "python-fire",
+            "url": "https://github.com/google/python-fire",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEzNDIwMDQ=",
+              "login": "google"
+            },
+            "nameWithOwner": "google/python-fire",
+            "description": "Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 18
+            },
+            "stargazers": {
+              "totalCount": 6633
+            },
+            "issues": {
+              "totalCount": 51
+            },
+            "forks": {
+              "totalCount": 309
+            },
+            "pullRequests": {
+              "totalCount": 38
+            },
+            "updatedAt": "2017-08-04T02:51:14Z"
+          }
+        },
+        {
+          "node": {
+            "name": "hosts",
+            "url": "https://github.com/StevenBlack/hosts",
+            "owner": {
+              "id": "MDQ6VXNlcjgwMTQ0",
+              "login": "StevenBlack"
+            },
+            "nameWithOwner": "StevenBlack/hosts",
+            "description": "Extending and consolidating hosts files from several well-curated sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, and potentially others.  You can optionally invoke extensions to block additional sites by category.  SHALLOW CLONE to avoid cloning too much history. ",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 36
+            },
+            "stargazers": {
+              "totalCount": 6613
+            },
+            "issues": {
+              "totalCount": 232
+            },
+            "forks": {
+              "totalCount": 626
+            },
+            "pullRequests": {
+              "totalCount": 140
+            },
+            "updatedAt": "2017-08-04T06:08:47Z"
+          }
+        },
+        {
+          "node": {
+            "name": "magic-wormhole",
+            "url": "https://github.com/warner/magic-wormhole",
+            "owner": {
+              "id": "MDQ6VXNlcjI3MTQ2",
+              "login": "warner"
+            },
+            "nameWithOwner": "warner/magic-wormhole",
+            "description": "get things from one computer to another, safely",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 28
+            },
+            "stargazers": {
+              "totalCount": 6591
+            },
+            "issues": {
+              "totalCount": 152
+            },
+            "forks": {
+              "totalCount": 242
+            },
+            "pullRequests": {
+              "totalCount": 89
+            },
+            "updatedAt": "2017-08-04T05:50:43Z"
+          }
+        },
+        {
+          "node": {
+            "name": "sanic",
+            "url": "https://github.com/channelcat/sanic",
+            "owner": {
+              "id": "MDQ6VXNlcjQ3NDk4OQ==",
+              "login": "channelcat"
+            },
+            "nameWithOwner": "channelcat/sanic",
+            "description": "Async Python 3.5+ web server that's written to go fast",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 118
+            },
+            "stargazers": {
+              "totalCount": 6516
+            },
+            "issues": {
+              "totalCount": 348
+            },
+            "forks": {
+              "totalCount": 557
+            },
+            "pullRequests": {
+              "totalCount": 531
+            },
+            "updatedAt": "2017-08-04T05:20:43Z"
+          }
+        },
+        {
+          "node": {
+            "name": "http-prompt",
+            "url": "https://github.com/eliangcs/http-prompt",
+            "owner": {
+              "id": "MDQ6VXNlcjc0MDQ2MQ==",
+              "login": "eliangcs"
+            },
+            "nameWithOwner": "eliangcs/http-prompt",
+            "description": "HTTPie + prompt_toolkit = an interactive command-line HTTP client featuring autocomplete and syntax highlighting",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 12
+            },
+            "stargazers": {
+              "totalCount": 6505
+            },
+            "issues": {
+              "totalCount": 58
+            },
+            "forks": {
+              "totalCount": 216
+            },
+            "pullRequests": {
+              "totalCount": 68
+            },
+            "updatedAt": "2017-08-03T16:14:55Z"
+          }
+        },
+        {
+          "node": {
+            "name": "mailinabox",
+            "url": "https://github.com/mail-in-a-box/mailinabox",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjgxMDczNzA=",
+              "login": "mail-in-a-box"
+            },
+            "nameWithOwner": "mail-in-a-box/mailinabox",
+            "description": "Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 109
+            },
+            "stargazers": {
+              "totalCount": 6504
+            },
+            "issues": {
+              "totalCount": 836
+            },
+            "forks": {
+              "totalCount": 569
+            },
+            "pullRequests": {
+              "totalCount": 388
+            },
+            "updatedAt": "2017-08-03T20:44:14Z"
+          }
+        },
+        {
+          "node": {
+            "name": "gym",
+            "url": "https://github.com/openai/gym",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE0OTU3MDgy",
+              "login": "openai"
+            },
+            "nameWithOwner": "openai/gym",
+            "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 140
+            },
+            "stargazers": {
+              "totalCount": 6465
+            },
+            "issues": {
+              "totalCount": 358
+            },
+            "forks": {
+              "totalCount": 1357
+            },
+            "pullRequests": {
+              "totalCount": 319
+            },
+            "updatedAt": "2017-08-04T06:02:38Z"
+          }
+        },
+        {
+          "node": {
+            "name": "sovereign",
+            "url": "https://github.com/sovereign/sovereign",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjYyODk4NTU=",
+              "login": "sovereign"
+            },
+            "nameWithOwner": "sovereign/sovereign",
+            "description": "A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 86
+            },
+            "stargazers": {
+              "totalCount": 6440
+            },
+            "issues": {
+              "totalCount": 344
+            },
+            "forks": {
+              "totalCount": 584
+            },
+            "pullRequests": {
+              "totalCount": 358
+            },
+            "updatedAt": "2017-08-04T02:11:03Z"
+          }
+        },
+        {
+          "node": {
+            "name": "tflearn",
+            "url": "https://github.com/tflearn/tflearn",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE2ODQ4MjYx",
+              "login": "tflearn"
+            },
+            "nameWithOwner": "tflearn/tflearn",
+            "description": "Deep learning library featuring a higher-level API for TensorFlow.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 96
+            },
+            "stargazers": {
+              "totalCount": 6383
+            },
+            "issues": {
+              "totalCount": 656
+            },
+            "forks": {
+              "totalCount": 1270
+            },
+            "pullRequests": {
+              "totalCount": 203
+            },
+            "updatedAt": "2017-08-04T04:20:21Z"
+          }
+        },
+        {
+          "node": {
+            "name": "kivy",
+            "url": "https://github.com/kivy/kivy",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEyNjYxNTI=",
+              "login": "kivy"
+            },
+            "nameWithOwner": "kivy/kivy",
+            "description": "Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 298
+            },
+            "stargazers": {
+              "totalCount": 6245
+            },
+            "issues": {
+              "totalCount": 2961
+            },
+            "forks": {
+              "totalCount": 1496
+            },
+            "pullRequests": {
+              "totalCount": 2353
+            },
+            "updatedAt": "2017-08-04T06:15:22Z"
+          }
+        },
+        {
+          "node": {
+            "name": "bokeh",
+            "url": "https://github.com/bokeh/bokeh",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjg0NDA5NjU=",
+              "login": "bokeh"
+            },
+            "nameWithOwner": "bokeh/bokeh",
+            "description": "Interactive Web Plotting for Python",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 251
+            },
+            "stargazers": {
+              "totalCount": 6240
+            },
+            "issues": {
+              "totalCount": 4019
+            },
+            "forks": {
+              "totalCount": 1537
+            },
+            "pullRequests": {
+              "totalCount": 2698
+            },
+            "updatedAt": "2017-08-04T05:42:41Z"
+          }
+        },
+        {
+          "node": {
+            "name": "maybe",
+            "url": "https://github.com/p-e-w/maybe",
+            "owner": {
+              "id": "MDQ6VXNlcjI3MDI1MjY=",
+              "login": "p-e-w"
+            },
+            "nameWithOwner": "p-e-w/maybe",
+            "description": " :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 2
+            },
+            "stargazers": {
+              "totalCount": 6228
+            },
+            "issues": {
+              "totalCount": 33
+            },
+            "forks": {
+              "totalCount": 163
+            },
+            "pullRequests": {
+              "totalCount": 7
+            },
+            "updatedAt": "2017-07-29T12:15:08Z"
+          }
+        },
+        {
+          "node": {
+            "name": "mackup",
+            "url": "https://github.com/lra/mackup",
+            "owner": {
+              "id": "MDQ6VXNlcjEyMjI4Ng==",
+              "login": "lra"
+            },
+            "nameWithOwner": "lra/mackup",
+            "description": "Keep your application settings in sync (OS X/Linux)",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 215
+            },
+            "stargazers": {
+              "totalCount": 6221
+            },
+            "issues": {
+              "totalCount": 350
+            },
+            "forks": {
+              "totalCount": 528
+            },
+            "pullRequests": {
+              "totalCount": 688
+            },
+            "updatedAt": "2017-08-03T21:34:54Z"
+          }
+        },
+        {
+          "node": {
+            "name": "ML-From-Scratch",
+            "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+            "owner": {
+              "id": "MDQ6VXNlcjc5Nzc1MDU=",
+              "login": "eriklindernoren"
+            },
+            "nameWithOwner": "eriklindernoren/ML-From-Scratch",
+            "description": "Bare bones Python implementations of some of the fundamental Machine Learning models and algorithms.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 1
+            },
+            "stargazers": {
+              "totalCount": 6193
+            },
+            "issues": {
+              "totalCount": 17
+            },
+            "forks": {
+              "totalCount": 635
+            },
+            "pullRequests": {
+              "totalCount": 0
+            },
+            "updatedAt": "2017-08-03T09:34:02Z"
+          }
+        },
+        {
+          "node": {
+            "name": "chisel",
+            "url": "https://github.com/facebook/chisel",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjY5NjMx",
+              "login": "facebook"
+            },
+            "nameWithOwner": "facebook/chisel",
+            "description": "Chisel is a collection of LLDB commands to assist debugging iOS apps.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 49
+            },
+            "stargazers": {
+              "totalCount": 6112
+            },
+            "issues": {
+              "totalCount": 85
+            },
+            "forks": {
+              "totalCount": 517
+            },
+            "pullRequests": {
+              "totalCount": 112
+            },
+            "updatedAt": "2017-08-03T08:30:25Z"
+          }
+        },
+        {
+          "node": {
+            "name": "pytorch",
+            "url": "https://github.com/pytorch/pytorch",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjIxMDAzNzEw",
+              "login": "pytorch"
+            },
+            "nameWithOwner": "pytorch/pytorch",
+            "description": "Tensors and Dynamic neural networks in Python  with strong GPU acceleration",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 196
+            },
+            "stargazers": {
+              "totalCount": 6099
+            },
+            "issues": {
+              "totalCount": 1226
+            },
+            "forks": {
+              "totalCount": 1171
+            },
+            "pullRequests": {
+              "totalCount": 1065
+            },
+            "updatedAt": "2017-08-04T06:11:41Z"
+          }
+        },
+        {
+          "node": {
+            "name": "beets",
+            "url": "https://github.com/beetbox/beets",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE1OTIwMzEz",
+              "login": "beetbox"
+            },
+            "nameWithOwner": "beetbox/beets",
+            "description": "music library manager and MusicBrainz tagger",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 251
+            },
+            "stargazers": {
+              "totalCount": 6055
+            },
+            "issues": {
+              "totalCount": 1655
+            },
+            "forks": {
+              "totalCount": 969
+            },
+            "pullRequests": {
+              "totalCount": 992
+            },
+            "updatedAt": "2017-08-04T04:12:03Z"
+          }
+        },
+        {
+          "node": {
+            "name": "deis",
+            "url": "https://github.com/deis/deis",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjYxMTc0MDc=",
+              "login": "deis"
+            },
+            "nameWithOwner": "deis/deis",
+            "description": "Deis v1, the CoreOS and Docker PaaS: Your PaaS. Your Rules. ",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 182
+            },
+            "stargazers": {
+              "totalCount": 6028
+            },
+            "issues": {
+              "totalCount": 2649
+            },
+            "forks": {
+              "totalCount": 855
+            },
+            "pullRequests": {
+              "totalCount": 2468
+            },
+            "updatedAt": "2017-08-03T11:58:15Z"
+          }
+        },
+        {
+          "node": {
+            "name": "MLAlgorithms",
+            "url": "https://github.com/rushter/MLAlgorithms",
+            "owner": {
+              "id": "MDQ6VXNlcjMxODc5NTE=",
+              "login": "rushter"
+            },
+            "nameWithOwner": "rushter/MLAlgorithms",
+            "description": "Minimal and clean examples of machine learning algorithms",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 12
+            },
+            "stargazers": {
+              "totalCount": 6013
+            },
+            "issues": {
+              "totalCount": 7
+            },
+            "forks": {
+              "totalCount": 849
+            },
+            "pullRequests": {
+              "totalCount": 22
+            },
+            "updatedAt": "2017-08-04T00:17:25Z"
+          }
+        },
+        {
+          "node": {
+            "name": "ItChat",
+            "url": "https://github.com/littlecodersh/ItChat",
+            "owner": {
+              "id": "MDQ6VXNlcjEzMDI4MzQw",
+              "login": "littlecodersh"
+            },
+            "nameWithOwner": "littlecodersh/ItChat",
+            "description": "A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 16
+            },
+            "stargazers": {
+              "totalCount": 5942
+            },
+            "issues": {
+              "totalCount": 386
+            },
+            "forks": {
+              "totalCount": 1388
+            },
+            "pullRequests": {
+              "totalCount": 79
+            },
+            "updatedAt": "2017-08-04T05:48:58Z"
+          }
+        },
+        {
+          "node": {
+            "name": "boto",
+            "url": "https://github.com/boto/boto",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjMyNzc1Mg==",
+              "login": "boto"
+            },
+            "nameWithOwner": "boto/boto",
+            "description": "For the latest version of boto, see https://github.com/boto/boto3 -- Python interface to Amazon Web Services",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 527
+            },
+            "stargazers": {
+              "totalCount": 5935
+            },
+            "issues": {
+              "totalCount": 1561
+            },
+            "forks": {
+              "totalCount": 2050
+            },
+            "pullRequests": {
+              "totalCount": 2183
+            },
+            "updatedAt": "2017-08-03T21:29:46Z"
+          }
+        },
+        {
+          "node": {
+            "name": "nginx-proxy",
+            "url": "https://github.com/jwilder/nginx-proxy",
+            "owner": {
+              "id": "MDQ6VXNlcjIxOTkzNQ==",
+              "login": "jwilder"
+            },
+            "nameWithOwner": "jwilder/nginx-proxy",
+            "description": "Automated nginx proxy for Docker containers using docker-gen",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 60
+            },
+            "stargazers": {
+              "totalCount": 5835
+            },
+            "issues": {
+              "totalCount": 641
+            },
+            "forks": {
+              "totalCount": 1103
+            },
+            "pullRequests": {
+              "totalCount": 253
+            },
+            "updatedAt": "2017-08-04T04:44:25Z"
+          }
+        },
+        {
+          "node": {
+            "name": "pgcli",
+            "url": "https://github.com/dbcli/pgcli",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjExODEwNzI3",
+              "login": "dbcli"
+            },
+            "nameWithOwner": "dbcli/pgcli",
+            "description": "Postgres CLI with autocompletion and syntax highlighting",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 190
+            },
+            "stargazers": {
+              "totalCount": 5782
+            },
+            "issues": {
+              "totalCount": 345
+            },
+            "forks": {
+              "totalCount": 246
+            },
+            "pullRequests": {
+              "totalCount": 422
+            },
+            "updatedAt": "2017-08-03T13:37:37Z"
+          }
+        },
+        {
+          "node": {
+            "name": "incubator-airflow",
+            "url": "https://github.com/apache/incubator-airflow",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjQ3MzU5",
+              "login": "apache"
+            },
+            "nameWithOwner": "apache/incubator-airflow",
+            "description": "Apache Airflow (Incubating)",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 304
+            },
+            "stargazers": {
+              "totalCount": 5763
+            },
+            "issues": {
+              "totalCount": 649
+            },
+            "forks": {
+              "totalCount": 1579
+            },
+            "pullRequests": {
+              "totalCount": 1846
+            },
+            "updatedAt": "2017-08-04T05:22:19Z"
+          }
+        },
+        {
+          "node": {
+            "name": "autojump",
+            "url": "https://github.com/wting/autojump",
+            "owner": {
+              "id": "MDQ6VXNlcjYyMjE3MA==",
+              "login": "wting"
+            },
+            "nameWithOwner": "wting/autojump",
+            "description": "A cd command that learns - easily navigate directories from the command line",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 55
+            },
+            "stargazers": {
+              "totalCount": 5719
+            },
+            "issues": {
+              "totalCount": 349
+            },
+            "forks": {
+              "totalCount": 326
+            },
+            "pullRequests": {
+              "totalCount": 142
+            },
+            "updatedAt": "2017-08-04T04:08:46Z"
+          }
+        },
+        {
+          "node": {
+            "name": "locust",
+            "url": "https://github.com/locustio/locust",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI2NDEwNjM=",
+              "login": "locustio"
+            },
+            "nameWithOwner": "locustio/locust",
+            "description": "Scalable user load testing tool written in Python",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 69
+            },
+            "stargazers": {
+              "totalCount": 5709
+            },
+            "issues": {
+              "totalCount": 439
+            },
+            "forks": {
+              "totalCount": 769
+            },
+            "pullRequests": {
+              "totalCount": 202
+            },
+            "updatedAt": "2017-08-04T03:02:59Z"
+          }
+        },
+        {
+          "node": {
+            "name": "matplotlib",
+            "url": "https://github.com/matplotlib/matplotlib",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjIxNTk0Nw==",
+              "login": "matplotlib"
+            },
+            "nameWithOwner": "matplotlib/matplotlib",
+            "description": "matplotlib: plotting with Python",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 616
+            },
+            "stargazers": {
+              "totalCount": 5672
+            },
+            "issues": {
+              "totalCount": 3995
+            },
+            "forks": {
+              "totalCount": 2648
+            },
+            "pullRequests": {
+              "totalCount": 4990
+            },
+            "updatedAt": "2017-08-03T23:13:18Z"
+          }
+        },
+        {
+          "node": {
+            "name": "universe",
+            "url": "https://github.com/openai/universe",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE0OTU3MDgy",
+              "login": "openai"
+            },
+            "nameWithOwner": "openai/universe",
+            "description": "Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 87
+            },
+            "stargazers": {
+              "totalCount": 5661
+            },
+            "issues": {
+              "totalCount": 161
+            },
+            "forks": {
+              "totalCount": 591
+            },
+            "pullRequests": {
+              "totalCount": 38
+            },
+            "updatedAt": "2017-08-04T05:31:10Z"
+          }
+        },
+        {
+          "node": {
+            "name": "TrumpScript",
+            "url": "https://github.com/samshadwell/TrumpScript",
+            "owner": {
+              "id": "MDQ6VXNlcjMyNjU2MzM=",
+              "login": "samshadwell"
+            },
+            "nameWithOwner": "samshadwell/TrumpScript",
+            "description": "Make Python great again",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 35
+            },
+            "stargazers": {
+              "totalCount": 5616
+            },
+            "issues": {
+              "totalCount": 118
+            },
+            "forks": {
+              "totalCount": 316
+            },
+            "pullRequests": {
+              "totalCount": 87
+            },
+            "updatedAt": "2017-08-03T14:31:11Z"
+          }
+        },
+        {
+          "node": {
+            "name": "baseimage-docker",
+            "url": "https://github.com/phusion/baseimage-docker",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjgzMDU4OA==",
+              "login": "phusion"
+            },
+            "nameWithOwner": "phusion/baseimage-docker",
+            "description": "A minimal Ubuntu base image modified for Docker-friendliness",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 66
+            },
+            "stargazers": {
+              "totalCount": 5606
+            },
+            "issues": {
+              "totalCount": 268
+            },
+            "forks": {
+              "totalCount": 725
+            },
+            "pullRequests": {
+              "totalCount": 163
+            },
+            "updatedAt": "2017-08-04T05:02:26Z"
+          }
+        },
+        {
+          "node": {
+            "name": "pattern",
+            "url": "https://github.com/clips/pattern",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjc2NTkyNA==",
+              "login": "clips"
+            },
+            "nameWithOwner": "clips/pattern",
+            "description": "Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 33
+            },
+            "stargazers": {
+              "totalCount": 5559
+            },
+            "issues": {
+              "totalCount": 114
+            },
+            "forks": {
+              "totalCount": 1001
+            },
+            "pullRequests": {
+              "totalCount": 75
+            },
+            "updatedAt": "2017-08-04T00:05:59Z"
+          }
+        },
+        {
+          "node": {
+            "name": "howdoi",
+            "url": "https://github.com/gleitz/howdoi",
+            "owner": {
+              "id": "MDQ6VXNlcjM5NTI1NA==",
+              "login": "gleitz"
+            },
+            "nameWithOwner": "gleitz/howdoi",
+            "description": "instant coding answers via the command line",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 29
+            },
+            "stargazers": {
+              "totalCount": 5542
+            },
+            "issues": {
+              "totalCount": 101
+            },
+            "forks": {
+              "totalCount": 498
+            },
+            "pullRequests": {
+              "totalCount": 64
+            },
+            "updatedAt": "2017-08-03T19:11:23Z"
+          }
+        },
+        {
+          "node": {
+            "name": "cookiecutter",
+            "url": "https://github.com/audreyr/cookiecutter",
+            "owner": {
+              "id": "MDQ6VXNlcjc0NzM5",
+              "login": "audreyr"
+            },
+            "nameWithOwner": "audreyr/cookiecutter",
+            "description": "A command-line utility that creates projects from cookiecutters (project templates). E.g. Python package projects, jQuery plugin projects.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 160
+            },
+            "stargazers": {
+              "totalCount": 5495
+            },
+            "issues": {
+              "totalCount": 406
+            },
+            "forks": {
+              "totalCount": 612
+            },
+            "pullRequests": {
+              "totalCount": 570
+            },
+            "updatedAt": "2017-08-04T04:46:59Z"
+          }
+        },
+        {
+          "node": {
+            "name": "wifiphisher",
+            "url": "https://github.com/wifiphisher/wifiphisher",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjI1NjYxNDY3",
+              "login": "wifiphisher"
+            },
+            "nameWithOwner": "wifiphisher/wifiphisher",
+            "description": "Automated victim-customized phishing attacks against Wi-Fi clients",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 25
+            },
+            "stargazers": {
+              "totalCount": 5382
+            },
+            "issues": {
+              "totalCount": 527
+            },
+            "forks": {
+              "totalCount": 1175
+            },
+            "pullRequests": {
+              "totalCount": 163
+            },
+            "updatedAt": "2017-08-04T03:17:07Z"
+          }
+        },
+        {
+          "node": {
+            "name": "speedtest-cli",
+            "url": "https://github.com/sivel/speedtest-cli",
+            "owner": {
+              "id": "MDQ6VXNlcjM5MzQw",
+              "login": "sivel"
+            },
+            "nameWithOwner": "sivel/speedtest-cli",
+            "description": "Command line interface for testing internet bandwidth using speedtest.net",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 7
+            },
+            "stargazers": {
+              "totalCount": 5368
+            },
+            "issues": {
+              "totalCount": 290
+            },
+            "forks": {
+              "totalCount": 745
+            },
+            "pullRequests": {
+              "totalCount": 130
+            },
+            "updatedAt": "2017-08-03T15:31:11Z"
+          }
+        },
+        {
+          "node": {
+            "name": "yapf",
+            "url": "https://github.com/google/yapf",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjEzNDIwMDQ=",
+              "login": "google"
+            },
+            "nameWithOwner": "google/yapf",
+            "description": "A formatter for Python files",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 51
+            },
+            "stargazers": {
+              "totalCount": 5328
+            },
+            "issues": {
+              "totalCount": 320
+            },
+            "forks": {
+              "totalCount": 352
+            },
+            "pullRequests": {
+              "totalCount": 119
+            },
+            "updatedAt": "2017-08-04T03:07:55Z"
+          }
+        },
+        {
+          "node": {
+            "name": "docopt",
+            "url": "https://github.com/docopt/docopt",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjE4MjA0Nzg=",
+              "login": "docopt"
+            },
+            "nameWithOwner": "docopt/docopt",
+            "description": "Pythonic command line arguments parser, that will make you smile",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 40
+            },
+            "stargazers": {
+              "totalCount": 5313
+            },
+            "issues": {
+              "totalCount": 303
+            },
+            "forks": {
+              "totalCount": 427
+            },
+            "pullRequests": {
+              "totalCount": 84
+            },
+            "updatedAt": "2017-08-03T15:23:54Z"
+          }
+        },
+        {
+          "node": {
+            "name": "coursera-dl",
+            "url": "https://github.com/coursera-dl/coursera-dl",
+            "owner": {
+              "id": "MDEyOk9yZ2FuaXphdGlvbjU1ODg5NDI=",
+              "login": "coursera-dl"
+            },
+            "nameWithOwner": "coursera-dl/coursera-dl",
+            "description": "Script for downloading Coursera.org videos and naming them.",
+            "primaryLanguage": {
+              "name": "Python"
+            },
+            "mentionableUsers": {
+              "totalCount": 66
+            },
+            "stargazers": {
+              "totalCount": 5310
+            },
+            "issues": {
+              "totalCount": 443
+            },
+            "forks": {
+              "totalCount": 1147
+            },
+            "pullRequests": {
+              "totalCount": 168
+            },
+            "updatedAt": "2017-08-04T05:12:03Z"
+          }
+        }
+      ]
+    }
+  }
+}
+
 @freecodecamp_issues = {
   "data": {
     "repository": {
@@ -23958,6 +27068,5776 @@
               },
               "labels": {
                 "edges": []
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+
+@awesome_python_issues = {
+  "data": {
+    "repository": {
+      "issues": {
+        "edges": [
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "project activity",
+              "number": 102,
+              "url": "https://github.com/vinta/awesome-python/issues/102",
+              "body": "maybe add commits count and last commit date can be helpful\nuser can understand how much project is developing. \n",
+              "createdAt": "2014-07-08T08:57:27Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2014-09-15T17:18:39Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/1132647?v=4",
+                "login": "efazati",
+                "resourcePath": "/efazati",
+                "url": "https://github.com/efazati"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Table Of Contents for subsection",
+              "number": 137,
+              "url": "https://github.com/vinta/awesome-python/issues/137",
+              "body": "add subsection title to TOC\n",
+              "createdAt": "2014-07-13T16:45:47Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2014-09-14T09:10:20Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/652070?v=4",
+                "login": "vinta",
+                "resourcePath": "/vinta",
+                "url": "https://github.com/vinta"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add PyAutoGUI",
+              "number": 262,
+              "url": "https://github.com/vinta/awesome-python/issues/262",
+              "body": "PyAutoGUI is a cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.\n\nhttps://github.com/asweigart/pyautogui\n",
+              "createdAt": "2014-11-16T10:59:47Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2014-11-16T10:59:47Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/7430438?v=4",
+                "login": "OlegWock",
+                "resourcePath": "/OlegWock",
+                "url": "https://github.com/OlegWock"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add \"enthought/traits\" to Data Validation",
+              "number": 281,
+              "url": "https://github.com/vinta/awesome-python/issues/281",
+              "body": "I can personally testify that \"traits\" is a very good data validation framework...\n\nhttps://github.com/enthought/traits\n",
+              "createdAt": "2014-12-09T11:41:42Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2014-12-09T11:41:42Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/36991?v=4",
+                "login": "mpenning",
+                "resourcePath": "/mpenning",
+                "url": "https://github.com/mpenning"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "How about Oktest?",
+              "number": 292,
+              "url": "https://github.com/vinta/awesome-python/issues/292",
+              "body": "How about Oktest from kuwata-lab?\n\nI was in love at first sight with Oktest because of its fat-free pythonic syntax.\nhttp://www.kuwata-lab.com/oktest/\n\nAlso, the use of decorators to describe the test makes it much more human readable.\nhttp://www.kuwata-lab.com/oktest/oktest-py_users-guide.html#example\n",
+              "createdAt": "2015-01-05T00:42:54Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-01-05T00:42:54Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/7665028?v=4",
+                "login": "helambuapps",
+                "resourcePath": "/helambuapps",
+                "url": "https://github.com/helambuapps"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "suggestion for code analysis tools",
+              "number": 299,
+              "url": "https://github.com/vinta/awesome-python/issues/299",
+              "body": "Radon is a Python tool which computes various code metrics. Supported metrics are:\n- raw metrics: SLOC, comment lines, blank lines, &c.\n- Cyclomatic Complexity (i.e. McCabe’s Complexity)\n- Halstead metrics (all of them)\n- the Maintainability Index (a Visual Studio metric)\n\nhttps://radon.readthedocs.org/en/latest/\nhttps://pypi.python.org/pypi/radon\n",
+              "createdAt": "2015-01-17T11:22:54Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-01-17T11:22:54Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/59870?v=4",
+                "login": "medecau",
+                "resourcePath": "/medecau",
+                "url": "https://github.com/medecau"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Suggestion, Inflection package",
+              "number": 361,
+              "url": "https://github.com/vinta/awesome-python/issues/361",
+              "body": "From Inflection docs:\n\n`Inflection is a string transformation library. It singularizes and pluralizes English words, and transforms strings from CamelCase to underscored_string. Inflection is a port of Ruby on Rails‘ inflector to Python.`\n",
+              "createdAt": "2015-04-26T08:26:55Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-04-26T08:26:55Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/4004996?v=4",
+                "login": "alexmarco",
+                "resourcePath": "/alexmarco",
+                "url": "https://github.com/alexmarco"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add Polyglot - A massively multilingual NLP Pipeline",
+              "number": 362,
+              "url": "https://github.com/vinta/awesome-python/issues/362",
+              "body": "Polyglot (https://github.com/aboSamoor/polyglot) is a Python package that supports several NLP tasks (like Tokenization, NER, Sentiment analysis) in a **massively multilingual** setting (**~100** languages). This issue is a request to add this package to the awesome-python list under  the NLP toolkits.\n",
+              "createdAt": "2015-04-26T21:17:41Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-04-26T21:17:41Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/335394?v=4",
+                "login": "viveksck",
+                "resourcePath": "/viveksck",
+                "url": "https://github.com/viveksck"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add geospatial tools section",
+              "number": 363,
+              "url": "https://github.com/vinta/awesome-python/issues/363",
+              "body": "I would add under this section:\n\nGDAL (https://pypi.python.org/pypi/GDAL/) provides tools for raster and vector data manipulation. It is based on the C++ gdal.\n\nGeographicLib (http://geographiclib.sourceforge.net/html/other.html#python) allows manipulation of geographic and projected references systems. It is based on the C++ GeographicLib.\n",
+              "createdAt": "2015-04-27T00:33:51Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-05-09T18:16:27Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/6894066?v=4",
+                "login": "rvalenzuelar",
+                "resourcePath": "/rvalenzuelar",
+                "url": "https://github.com/rvalenzuelar"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Adding «Clize» to «Command-line Tools» section",
+              "number": 374,
+              "url": "https://github.com/vinta/awesome-python/issues/374",
+              "body": "I had found a «Clize» which is an argument parser.\nIf it's possible, please add this info to [«Command-line Tools»](https://github.com/vinta/awesome-python#command-line-tools) section:\n\nclize — http://clize.readthedocs.org/en/3.0/index.html\n",
+              "createdAt": "2015-05-15T07:19:41Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-09-21T13:47:02Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": nil,
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Let's add circuits",
+              "number": 382,
+              "url": "https://github.com/vinta/awesome-python/issues/382",
+              "body": "Let's add [circuits](https://github.com/circuits/circuits)\n\nSummary:\n\ncircuits is a Lightweight Event driven and Asynchronous Application Framework for the Python Programming Language with a strong Component Architecture.\n\nExample:\n\n``` #!python\n#!/usr/bin/env python\n\n\"\"\"Simple TCP Echo Server\n\nThis example shows how you can create a simple TCP Server (an Echo Service)\nutilizing the builtin Socket Components that the circuits library ships with.\n\"\"\"\n\nfrom circuits import handler, Debugger\nfrom circuits.net.sockets import TCPServer\n\n\nclass EchoServer(TCPServer):\n\n    @handler(\"read\")\n    def on_read(self, sock, data):\n        \"\"\"Read Event Handler\n\n        This is fired by the underlying Socket Component when there has been\n        new data read from the connected client.\n\n        ..note :: By simply returning, client/server socket components listen\n                  to ValueChagned events (feedback) to determine if a handler\n                  returned some data and fires a subsequent Write event with\n                  the value returned.\n        \"\"\"\n\n        return data\n\n# Start and \"run\" the system.\n# Bind to port 0.0.0.0:8000\napp = EchoServer((\"0.0.0.0\", 8000))\nDebugger().register(app)\napp.run()\n```\n",
+              "createdAt": "2015-05-25T01:29:18Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-05-25T01:29:18Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/1290234?v=4",
+                "login": "prologic",
+                "resourcePath": "/prologic",
+                "url": "https://github.com/prologic"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "RunSnakeRun",
+              "number": 384,
+              "url": "https://github.com/vinta/awesome-python/issues/384",
+              "body": "I recommend adding [RunSnakeRun](http://www.vrplumber.com/programming/runsnakerun/) to maybe the debugging section. Very useful GUI for viewing (Python) profile and cprofile dumps. Very interactive and intuitive.\n",
+              "createdAt": "2015-05-27T01:27:03Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-05-27T01:27:03Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/8513153?v=4",
+                "login": "storax",
+                "resourcePath": "/storax",
+                "url": "https://github.com/storax"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Docbuilder?",
+              "number": 405,
+              "url": "https://github.com/vinta/awesome-python/issues/405",
+              "body": "I wonder if I can suggest adding [Docbuilder](https://github.com/shakna-israel/docbuilder) to the list under documentation?\n\nIt's similar to [Pycco](http://fitzgen.github.io/pycco/), but does a few things differently, with a few more features. PyPI lists it at around 8k downloads a month.\n\nBut...\n1. Not followed at all on GitHub\n2. I'm the author.\n",
+              "createdAt": "2015-06-20T02:50:52Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-08-09T10:31:08Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/2098729?v=4",
+                "login": "shakna-israel",
+                "resourcePath": "/shakna-israel",
+                "url": "https://github.com/shakna-israel"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "New item Admin Panels - Django JET",
+              "number": 446,
+              "url": "https://github.com/vinta/awesome-python/issues/446",
+              "body": "New fresh looking Django Admin interface with improved functionality\nhttps://github.com/geex-arts/django-jet\n",
+              "createdAt": "2015-09-03T16:26:13Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-11-24T10:27:22Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/1628232?v=4",
+                "login": "f1nality",
+                "resourcePath": "/f1nality",
+                "url": "https://github.com/f1nality"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add pythonz",
+              "number": 456,
+              "url": "https://github.com/vinta/awesome-python/issues/456",
+              "body": "https://github.com/saghul/pythonz\n",
+              "createdAt": "2015-09-19T18:06:05Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-09-19T18:06:05Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/3175538?v=4",
+                "login": "sgaynetdinov",
+                "resourcePath": "/sgaynetdinov",
+                "url": "https://github.com/sgaynetdinov"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add pymorphy2",
+              "number": 457,
+              "url": "https://github.com/vinta/awesome-python/issues/457",
+              "body": "https://github.com/kmike/pymorphy2\n",
+              "createdAt": "2015-09-19T18:07:41Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-09-19T18:07:41Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/3175538?v=4",
+                "login": "sgaynetdinov",
+                "resourcePath": "/sgaynetdinov",
+                "url": "https://github.com/sgaynetdinov"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add hask",
+              "number": 458,
+              "url": "https://github.com/vinta/awesome-python/issues/458",
+              "body": "https://github.com/billpmurphy/hask/\n",
+              "createdAt": "2015-09-20T13:42:40Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-09-20T13:42:40Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/3175538?v=4",
+                "login": "sgaynetdinov",
+                "resourcePath": "/sgaynetdinov",
+                "url": "https://github.com/sgaynetdinov"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add \"How to Think~\" (interactive tutorial)",
+              "number": 473,
+              "url": "https://github.com/vinta/awesome-python/issues/473",
+              "body": "[How To Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/toc.html)\n",
+              "createdAt": "2015-10-10T15:58:16Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-10-10T21:00:26Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/5788652?v=4",
+                "login": "demidovakatya",
+                "resourcePath": "/demidovakatya",
+                "url": "https://github.com/demidovakatya"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Remove libraries that are not awesome",
+              "number": 489,
+              "url": "https://github.com/vinta/awesome-python/issues/489",
+              "body": "to keep this list short and concise.\n\nAny idea?\n",
+              "createdAt": "2015-10-22T10:55:28Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-04-21T04:23:25Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 10
+              },
+              "comments": {
+                "totalCount": 16
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/652070?v=4",
+                "login": "vinta",
+                "resourcePath": "/vinta",
+                "url": "https://github.com/vinta"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Tweepy",
+              "number": 521,
+              "url": "https://github.com/vinta/awesome-python/issues/521",
+              "body": "Twitter API, at least as awesome as Twython\n",
+              "createdAt": "2015-12-07T03:26:26Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-12-07T03:26:26Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/7456235?v=4",
+                "login": "steve-vincent",
+                "resourcePath": "/steve-vincent",
+                "url": "https://github.com/steve-vincent"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Suggest adding `walrus` to NoSQL ORMs",
+              "number": 545,
+              "url": "https://github.com/vinta/awesome-python/issues/545",
+              "body": "[walrus](https://github.com/coleifer/walrus) is a combination ORM and general toolkit for working with Redis. It includes a model and rich querying API, full-text search indexes and secondary indexes. Also has caching, rate-limiting, locking, array support (via lua), autocomplete, counters, and support for a variety of redis-like databases (ledisdb, vedis, rlite).\n",
+              "createdAt": "2016-01-14T05:09:44Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-03-22T16:08:52Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/119974?v=4",
+                "login": "coleifer",
+                "resourcePath": "/coleifer",
+                "url": "https://github.com/coleifer"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add QuTiP for quantum mechanics",
+              "number": 579,
+              "url": "https://github.com/vinta/awesome-python/issues/579",
+              "body": "[QuTiP](https://github.com/qutip/qutip) - I noticed that awesome-python has an astronomy module, but lacks a quantum mechanics one. QuTiP has an expansive toolkit of quantum mechanical functions.\n",
+              "createdAt": "2016-03-07T15:25:39Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-03-07T15:25:47Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/15251343?v=4",
+                "login": "dkpinto",
+                "resourcePath": "/dkpinto",
+                "url": "https://github.com/dkpinto"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add EDA section",
+              "number": 612,
+              "url": "https://github.com/vinta/awesome-python/issues/612",
+              "body": "It would be nice if the EDA section can be added.\nThere are many interesting tools in python for EDA, like:\npycircuit, \ncocotb,\nmyhdl\n\nthanks\n",
+              "createdAt": "2016-04-15T09:17:18Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-04-15T09:17:18Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/5182942?v=4",
+                "login": "zonyzhao",
+                "resourcePath": "/zonyzhao",
+                "url": "https://github.com/zonyzhao"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Portage",
+              "number": 629,
+              "url": "https://github.com/vinta/awesome-python/issues/629",
+              "body": "https://en.wikipedia.org/wiki/Portage_(software)\n",
+              "createdAt": "2016-04-26T15:58:41Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-04-26T15:58:41Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/6344099?v=4",
+                "login": "ShalokShalom",
+                "resourcePath": "/ShalokShalom",
+                "url": "https://github.com/ShalokShalom"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add tqdm",
+              "number": 648,
+              "url": "https://github.com/vinta/awesome-python/issues/648",
+              "body": "Add a progress meter to your loops in a second\nhttps://github.com/tqdm/tqdm\n",
+              "createdAt": "2016-05-21T17:30:51Z",
+              "lastEditedAt": "2016-05-21T17:34:06Z",
+              "updatedAt": "2016-05-21T17:34:06Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/3175538?v=4",
+                "login": "sgaynetdinov",
+                "resourcePath": "/sgaynetdinov",
+                "url": "https://github.com/sgaynetdinov"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add pyglet lib under 'game development'.",
+              "number": 668,
+              "url": "https://github.com/vinta/awesome-python/issues/668",
+              "body": "https://pyglet.readthedocs.io/en/pyglet-1.2-maintenance/\n\nPyglet needs some love:\nhttps://www.reddit.com/r/Python/comments/15lz1m/pygame_pyglet_something_else_entirely/\n",
+              "createdAt": "2016-06-21T12:00:29Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-06-21T12:00:29Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/2156349?v=4",
+                "login": "robrechtdr",
+                "resourcePath": "/robrechtdr",
+                "url": "https://github.com/robrechtdr"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "ADD",
+              "number": 670,
+              "url": "https://github.com/vinta/awesome-python/issues/670",
+              "body": "# add a web framework library\n\ncode:\n[https://github.com/salamer/jolla](https://github.com/salamer/jolla)\n\nhome page:\n[http://salamer.github.io/jolla/](http://salamer.github.io/jolla/)\n",
+              "createdAt": "2016-06-26T05:03:55Z",
+              "lastEditedAt": "2016-07-07T11:35:56Z",
+              "updatedAt": "2016-07-07T11:35:56Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/11182185?v=4",
+                "login": "salamer",
+                "resourcePath": "/salamer",
+                "url": "https://github.com/salamer"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add weppy web framework",
+              "number": 705,
+              "url": "https://github.com/vinta/awesome-python/issues/705",
+              "body": "weppy is a full-stack python web framework designed with simplicity in mind \n\nhttp://weppy.org/\n",
+              "createdAt": "2016-08-26T11:48:12Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-08-26T11:48:12Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/5981345?v=4",
+                "login": "josejachuf",
+                "resourcePath": "/josejachuf",
+                "url": "https://github.com/josejachuf"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add Firebird database drivers",
+              "number": 706,
+              "url": "https://github.com/vinta/awesome-python/issues/706",
+              "body": "fdb [1] and [2]\npyfirebirdsql [3]\n\n[1] http://www.firebirdsql.org/en/devel-python-driver/\n[2] https://pypi.python.org/pypi/fdb/1.6\n[3] https://github.com/nakagami/pyfirebirdsql/\n",
+              "createdAt": "2016-08-26T11:58:52Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-08-27T23:14:37Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/5981345?v=4",
+                "login": "josejachuf",
+                "resourcePath": "/josejachuf",
+                "url": "https://github.com/josejachuf"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Text editors",
+              "number": 737,
+              "url": "https://github.com/vinta/awesome-python/issues/737",
+              "body": "What about general purpose text editors written in Python? CLI text editors? Should such a project be included in one of the _IDEs_ / _Command-line Tools_ sections, or have a section of its own?\n",
+              "createdAt": "2016-10-02T17:14:52Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-11-18T13:24:02Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/11015142?v=4",
+                "login": "nechoventsi",
+                "resourcePath": "/nechoventsi",
+                "url": "https://github.com/nechoventsi"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add Thonny to IDE-s and Debuggers",
+              "number": 745,
+              "url": "https://github.com/vinta/awesome-python/issues/745",
+              "body": "Thonny (http://thonny.cs.ut.ee/) is a Python IDE for beginners. It includes a great debugger with some unique features (eg. stepping through expression evaluation)\n",
+              "createdAt": "2016-10-15T11:12:32Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-11-18T13:21:45Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/1802?v=4",
+                "login": "aivarannamaa",
+                "resourcePath": "/aivarannamaa",
+                "url": "https://github.com/aivarannamaa"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Native apps with Python!",
+              "number": 803,
+              "url": "https://github.com/vinta/awesome-python/issues/803",
+              "body": "I hope that one day I find a Github project where I can read something like this\r\n\r\n> Create rich native apps using _**Python**_ across iOS, Android & Windows Phone, while maximizing code reuse. Share code across device platforms with shared projects or portable class libraries. With 100% of the native APIs exposed, you have full access to device capabilities. Create apps with native user experiences and native performance with _**Python**_!\r\n\r\nWhy is this [possible with C# and C++](https://www.visualstudio.com/vs/mobile-app-development/) but not with Python?!\r\n\r\nNeed money? How about crowd founding such a project on [Kickstarter.com](https://www.kickstarter.com/)? \r\n\r\nCommon, Python Gurus! Put your brains together and let this dream of many Python fans comme true! Make Python a first class citizen in cross platform - better yet - _**native app development**_!\r\n\r\n... there is hope --> BeeWare ([homepage ](http://pybee.org/)| [github](https://github.com/pybee/))\r\n",
+              "createdAt": "2016-12-24T15:07:11Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-12-24T15:07:11Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/5635462?v=4",
+                "login": "Tset-Noitamotua",
+                "resourcePath": "/Tset-Noitamotua",
+                "url": "https://github.com/Tset-Noitamotua"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add MessagePack (serialization)",
+              "number": 806,
+              "url": "https://github.com/vinta/awesome-python/issues/806",
+              "body": "https://github.com/msgpack/msgpack-python\r\n\r\nIt's good for interoperability with other programming languages.\r\n\r\nMessagePack is already mentioned in zeroRPC description. I think it should have its own entry :)",
+              "createdAt": "2017-01-02T01:41:24Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-01-02T01:41:24Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/115487?v=4",
+                "login": "messa",
+                "resourcePath": "/messa",
+                "url": "https://github.com/messa"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add Cap’n Proto (serialization library)",
+              "number": 807,
+              "url": "https://github.com/vinta/awesome-python/issues/807",
+              "body": "http://jparyani.github.io/pycapnp/\r\n\r\n> Cap’n Proto is an insanely fast data interchange format and capability-based RPC system.\r\n\r\n[Cap’n Proto](https://capnproto.org/) is something like \"Google Protocol Buffers rethinked\" from Protocol Buffers author.\r\n\r\n> I, Kenton Varda, was the primary author of Protocol Buffers version 2, which is the version that Google released open source. Cap’n Proto is the result of years of experience working on Protobufs, listening to user feedback, and thinking about how things could be done better.\r\n\r\nHonestly I don't know whether this is _awesome_ enough but for me it is. It has interesting approach to serialization implementation - different from all the json, bson, msgpack and other similar libraries.",
+              "createdAt": "2017-01-02T01:47:48Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-01-02T11:12:26Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/115487?v=4",
+                "login": "messa",
+                "resourcePath": "/messa",
+                "url": "https://github.com/messa"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add termcolor ",
+              "number": 812,
+              "url": "https://github.com/vinta/awesome-python/issues/812",
+              "body": "ANSII Color formatting for output in terminal.\r\nhttps://pypi.python.org/pypi/termcolor\r\n",
+              "createdAt": "2017-01-13T20:45:50Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-01-13T20:45:50Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/1210749?v=4",
+                "login": "kiran-vemuri",
+                "resourcePath": "/kiran-vemuri",
+                "url": "https://github.com/kiran-vemuri"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Circle CI integrations",
+              "number": 815,
+              "url": "https://github.com/vinta/awesome-python/issues/815",
+              "body": "The list says that Circle CI integration is only possible with GitHub, but that is not the case anymore. See [here](https://circleci.com/integrations/bitbucket/).",
+              "createdAt": "2017-01-17T08:32:05Z",
+              "lastEditedAt": "2017-01-17T09:48:12Z",
+              "updatedAt": "2017-01-17T09:48:12Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/13560477?v=4",
+                "login": "danielacraciun",
+                "resourcePath": "/danielacraciun",
+                "url": "https://github.com/danielacraciun"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add Butterflow",
+              "number": 818,
+              "url": "https://github.com/vinta/awesome-python/issues/818",
+              "body": "Amazing video utility\r\n[Butterflow on Github](https://github.com/dthpham/butterflow)",
+              "createdAt": "2017-01-25T00:23:30Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-01-25T00:23:30Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/10430495?v=4",
+                "login": "joeynotjoe",
+                "resourcePath": "/joeynotjoe",
+                "url": "https://github.com/joeynotjoe"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Remove pycrypto",
+              "number": 819,
+              "url": "https://github.com/vinta/awesome-python/issues/819",
+              "body": "It appears pycrypto is no longer maintained and has known vulnerabilities, see:\r\nhttps://github.com/dlitz/pycrypto/issues/176\r\nhttps://github.com/dlitz/pycrypto/issues/173\r\n\r\nAppears that larger projects ([paramiko](https://github.com/paramiko/paramiko/pull/394), [ansible](https://github.com/ansible/ansible/issues/13075), [twisted](https://twistedmatrix.com/trac/ticket/7413)) have moved over to PyCA's cryptography, which is already on the list.",
+              "createdAt": "2017-01-26T11:41:49Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-01-26T11:57:09Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/12776142?v=4",
+                "login": "conradlink",
+                "resourcePath": "/conradlink",
+                "url": "https://github.com/conradlink"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Dead links and corrections",
+              "number": 833,
+              "url": "https://github.com/vinta/awesome-python/issues/833",
+              "body": "Noticed some links not working and some could be updated\r\n\r\n| link | description |\r\n|----|----|\r\n| http://developer.echonest.com/ | probably http://echonest.github.io/pyechonest/  |\r\n| http://www.django-cms.org/en/ | https   |\r\n| http://wxpython.org/ | https   |\r\n| http://pyrorobotics.com/ | dead   |\r\n| http://grump.io | redirected to https://github.com/google/grumpy |\r\n| http://xlwings.org/ | https   |\r\n| http://pytest.org/latest/ | redirected to http://docs.pytest.org/en/latest/ |\r\n| http://pythonpaste.org/ | dead   |\r\n",
+              "createdAt": "2017-02-15T13:58:41Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-02-16T08:41:27Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/17766317?v=4",
+                "login": "learnbyexample",
+                "resourcePath": "/learnbyexample",
+                "url": "https://github.com/learnbyexample"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "How to handle unmaintained projects?",
+              "number": 841,
+              "url": "https://github.com/vinta/awesome-python/issues/841",
+              "body": "[ino](https://github.com/amperka/ino) has not had any commits for 3 years and is broken for newer versions of Arduino for about just as long. There are over 30 open pull requests.\r\n\r\nWhat's the process for removing unmaintained projects from the list? Could not find anything about that in contributing.md.",
+              "createdAt": "2017-02-27T12:42:57Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-02-27T20:08:37Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/23618713?v=4",
+                "login": "caedn",
+                "resourcePath": "/caedn",
+                "url": "https://github.com/caedn"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Add SCOOP ",
+              "number": 883,
+              "url": "https://github.com/vinta/awesome-python/issues/883",
+              "body": "SCOOP (Scalable COncurrent Operations in Python) is a distributed task module allowing concurrent parallel programming.\r\nhttps://github.com/soravux/scoop",
+              "createdAt": "2017-05-04T00:59:26Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-05-04T00:59:26Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/11193981?v=4",
+                "login": "SUHAR1K",
+                "resourcePath": "/SUHAR1K",
+                "url": "https://github.com/SUHAR1K"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "vinta/awesome-python"
+              },
+              "title": "Didn't found Tapioca Wrapper project",
+              "number": 906,
+              "url": "https://github.com/vinta/awesome-python/issues/906",
+              "body": "It is on the list??\r\n\r\nhttps://github.com/vintasoftware/tapioca-wrapper\r\n\r\nIf not can i pull request in \"Third-party APIs\" section??\r\n\r\nGreat work in this repo!!\r\n\r\n",
+              "createdAt": "2017-07-22T21:59:16Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-22T21:59:16Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/917516?v=4",
+                "login": "rdenadai",
+                "resourcePath": "/rdenadai",
+                "url": "https://github.com/rdenadai"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+
+@httpie_issues = {
+  "data": {
+    "repository": {
+      "issues": {
+        "edges": [
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Windows package",
+              "number": 58,
+              "url": "https://github.com/jakubroztocil/httpie/issues/58",
+              "body": "I think someone should use py2exe or a similar tool to make an msi package for httpie.\n\nInstalling python and pip is a major hassle for anyone who just wants to use httpie on windows, which doesn't come with python installed by default.\n",
+              "createdAt": "2012-07-02T18:38:04Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-04-16T11:38:49Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 7
+              },
+              "comments": {
+                "totalCount": 10
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/619795?v=4",
+                "login": "mahmoudhossam",
+                "resourcePath": "/mahmoudhossam",
+                "url": "https://github.com/mahmoudhossam"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "planned"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "windows"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Syntax for nested JSON ",
+              "number": 78,
+              "url": "https://github.com/jakubroztocil/httpie/issues/78",
+              "body": "The simple examples work, but what about nested data?\nIn curl I do something like this:\n\n-d \\\n'\"credentials\": {\n    \"username\": \"me\",\n    \"key\": \"my-key\"}\n}'\n\nHow can I do this with httpie?\n",
+              "createdAt": "2012-07-26T23:52:27Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-10-12T09:46:57Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 8
+              },
+              "comments": {
+                "totalCount": 11
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/224222?v=4",
+                "login": "sym3tri",
+                "resourcePath": "/sym3tri",
+                "url": "https://github.com/sym3tri"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Add -4 and -6 switches to force IP protocol version",
+              "number": 94,
+              "url": "https://github.com/jakubroztocil/httpie/issues/94",
+              "body": "Would be useful in some cases, e.g. when a host serves different responses depending on the IP version.\n\n`-4`and `-6` are pretty common for this anyway.\n",
+              "createdAt": "2012-10-02T07:11:18Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2012-10-02T07:11:18Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/179599?v=4",
+                "login": "ThiefMaster",
+                "resourcePath": "/ThiefMaster",
+                "url": "https://github.com/ThiefMaster"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "upstream"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Add equivalent cURL --resolve flag",
+              "number": 99,
+              "url": "https://github.com/jakubroztocil/httpie/issues/99",
+              "body": "Per cURL --help:\n\n--resolve HOST:PORT:ADDRESS  Force resolve of HOST:PORT to ADDRESS\n\n(bypasses hosts file)\n\nexample usage:\n\n`http --resolve \"www.foo.com:127.0.0.1\" GET www.foo.com/whatever`\n\nOR\n\n`http --resolve \"www.foo.com:8080:127.0.0.1\" GET www.foo.com:8080/whatever`\n",
+              "createdAt": "2012-10-26T22:25:08Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-05-11T20:06:38Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 6
+              },
+              "comments": {
+                "totalCount": 5
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/75315?v=4",
+                "login": "aventurella",
+                "resourcePath": "/aventurella",
+                "url": "https://github.com/aventurella"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "UnicodeDecodeError on localized error messages in Windows",
+              "number": 119,
+              "url": "https://github.com/jakubroztocil/httpie/issues/119",
+              "body": "I'm getting a socket-related error on Windows when the host can't be connected to:\n\n```\nTraceback (most recent call last):\n  File \"C:\\Python27\\Scripts\\http-script.py\", line 8, in <module>\n    load_entry_point('httpie==0.3.1', 'console_scripts', 'http')()\n  File \"C:\\Python27\\lib\\site-packages\\httpie\\core.py\", line 120, in main\n    error('%s: %s', type(e).__name__, str(e))\nUnicodeDecodeError: 'ascii' codec can't decode byte 0xf6 in position 33: ordinal not in range(128)\n```\n\nOn Windows, error messages relating to sockets are localized so `str(e)` is wrong and the text should be in unicode.\n",
+              "createdAt": "2013-01-04T16:35:00Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-04-03T00:08:57Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/142475?v=4",
+                "login": "bjourne",
+                "resourcePath": "/bjourne",
+                "url": "https://github.com/bjourne"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "bug"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "windows"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Support timing output similar to Curl's -w option",
+              "number": 122,
+              "url": "https://github.com/jakubroztocil/httpie/issues/122",
+              "body": "Similar to timing output options in [Curl's -w argument](http://curl.haxx.se/docs/manpage.html#-w), and [the data you see using browser debug tools that produce those pretty waterfall charts](http://www.softwareishard.com/blog/har-12-spec/#timings). A custom [requests connection adapter](https://github.com/kennethreitz/requests/blob/master/requests/adapters.py) might do the job.\n",
+              "createdAt": "2013-01-11T15:37:24Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-02-01T01:53:33Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 8
+              },
+              "comments": {
+                "totalCount": 8
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/121895?v=4",
+                "login": "marklap",
+                "resourcePath": "/marklap",
+                "url": "https://github.com/marklap"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Option to allow pretty print without alpha sorting",
+              "number": 128,
+              "url": "https://github.com/jakubroztocil/httpie/issues/128",
+              "body": "Right now, the options are `colors`, `format`, and `all`, but often the order of the json returned is intentional and for clarify. It would be nice to be able to pretty print the json without having it's keys sorted :)\n\nAwesome tool, and thanks very much for everything!\n",
+              "createdAt": "2013-02-10T21:56:58Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-09T15:51:19Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 12
+              },
+              "comments": {
+                "totalCount": 18
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/305339?v=4",
+                "login": "patcon",
+                "resourcePath": "/patcon",
+                "url": "https://github.com/patcon"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "can't use multiple HTTP Headers with the same name",
+              "number": 130,
+              "url": "https://github.com/jakubroztocil/httpie/issues/130",
+              "body": "In HTTP it allows multiple headers with the same name.  However, when I went to test\nwebapp that seems to break when IE10 sends multiple cookie headers, I can't use httpie to test it as it only puts in the last header value in the request.\n\nexample:\n\ninput: http -v example.org Cookie:foo1=bar1 User-Agent:BAM\\1.0 Cookie:foo2=bar2\n\n==actual output==\nGET / HTTP/1.1\nAccept: _/_\nAccept-Encoding: gzip, deflate, compress\nCookie: foo2=bar2\nHost: example.org\nUser-Agent: BAM1.0\n\n//response omitted\n\n==expected output==\nGET / HTTP/1.1\nAccept: _/_\nAccept-Encoding: gzip, deflate, compress\nCookie: foo1=bar1\nCookie: foo2=bar2\nHost: example.org\nUser-Agent: BAM1.0\n\nReally http headers should be represented as a case insensitive MultiMap of some sort, not a  Dict.\n",
+              "createdAt": "2013-02-21T22:51:37Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2013-02-22T12:13:46Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/99422?v=4",
+                "login": "cythrawll",
+                "resourcePath": "/cythrawll",
+                "url": "https://github.com/cythrawll"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "bug"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "upstream"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Cookies retrieved with a custom HOST header don't survive sessions",
+              "number": 143,
+              "url": "https://github.com/jakubroztocil/httpie/issues/143",
+              "body": "I'm not 100% sure this is a bug yet, as opposed to a missing feature, but either way:\n\nif you curl something, and use a cookie file, and set a custom host header, e.g.\n\n```\ncurl -v -b cookies -c cookies -h HOST my.cool.site.com http://the.example.com\n```\n\nthen if the response contains `Set-Cookie` domain headers curl will be sure to save those and send those along for further requests with the same host.\n\n`cookielib` however, at least in the way it's currently being used by requests and transitively by `httpie`, will strip out the headers because they don't match the `erhn`. (See http://hg.python.org/cpython/file/d1aa8a9eba44/Lib/cookielib.py#l590 which is called by http://hg.python.org/cpython/file/d1aa8a9eba44/Lib/cookielib.py#l977).\n\nAnd so creating an httpie session does not persist those cookies. E.g. via\n\n```\nhttp --session test the.example.com HOST:my.cool.site.com\n```\n\nwill not store the cookies that are set by the server in the session file.\n\nIIRC I have done similar things when wanting to evade `set_ok_domain` by mucking with `CookieJar` subclasses, though `cookielib` is really bad and hard to work with,  but it would be nice if this worked.\n",
+              "createdAt": "2013-05-02T03:28:45Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2013-06-16T04:26:25Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 8
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/329822?v=4",
+                "login": "Julian",
+                "resourcePath": "/Julian",
+                "url": "https://github.com/Julian"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "planned"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Follow the XDG base directory specification",
+              "number": 145,
+              "url": "https://github.com/jakubroztocil/httpie/issues/145",
+              "body": "Instead of using config at `$HOME/.httpie`, the default should be `${XDG_CONFIG_HOME:-$HOME/.config}/httpie` for unix-based operating systems according to [the XDG Base Directory Specification](http://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html).\n\nAs well as keeping the home directory clean, the semantic separation of config, runtime data, cache data and user-local software by the spec is helpful to users and other tools (e.g. backup software).\n\nIn terms of migration, I would suggest using the xdg-compilant config location if it exists and falling back to the current default location. This would also negate the need for the `$HTTPIE_CONFIG_DIR` variable, so it could be removed/de-emphasised from the documentation but still checked for at least a few versions for compatibility.\n",
+              "createdAt": "2013-06-04T08:31:02Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-02-29T22:28:56Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 6
+              },
+              "comments": {
+                "totalCount": 7
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/322256?v=4",
+                "login": "arcresu",
+                "resourcePath": "/arcresu",
+                "url": "https://github.com/arcresu"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Support 100 Continue",
+              "number": 152,
+              "url": "https://github.com/jakubroztocil/httpie/issues/152",
+              "body": "Hey there,\n\nReally great work on HTTPie. I've come to love it a lot -- so much nicer than cURL. =)\n\nJust chiming in w/ a feature request: it'd be great if HTTPie supported `100 Continue`:\n\nhttp://www.w3.org/Protocols/rfc2616/rfc2616-sec8.html\n\nYou probably already know what this is, but if not, a client can send an `Expect: 100-continue` request header, giving the server a chance to respond either with `100 Continue` or a different, final status code -- before the client sends along the request body.\n\nE.g. Amazon S3 recommends using this:\n\nhttp://docs.aws.amazon.com/AmazonS3/latest/dev/RESTRedirect.html\n\nI've tried passing along this header myself, which \"works\" -- but HTTPie doesn't actually take that into account at all; it still sends the request body.\n\nhttps://gist.github.com/aseemk/6116887\n\nThanks much for the consideration!\n",
+              "createdAt": "2013-07-30T21:00:35Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2013-07-31T00:04:18Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/537838?v=4",
+                "login": "aseemk",
+                "resourcePath": "/aseemk",
+                "url": "https://github.com/aseemk"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "upstream"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "IPv6 addresses",
+              "number": 155,
+              "url": "https://github.com/jakubroztocil/httpie/issues/155",
+              "body": "I'm able to `http -h 173.194.33.34` and get a valid response, but using `http -h 2607:f8b0:400a:801::100e` produces the following for me:\n\n```\nhttp: error: LocationParseError: Failed to parse: Failed to parse: 2607:f8b0:400a:801::100e\n```\n\nIt would seem that httpie doesn't support direct IPv6 address input as `http -h ipv6.google.com` works fine.\n",
+              "createdAt": "2013-08-11T18:14:15Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-08-19T11:09:06Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": nil,
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "bug"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "upstream"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Doesn't work behind proxy in corporate Windows network (NTLM)",
+              "number": 159,
+              "url": "https://github.com/jakubroztocil/httpie/issues/159",
+              "body": "HTTPie doesn't work in my office because our computers are behind an proxy. It still doesn't work even after specifying the `--proxy` argument, because the proxy is superevil. It uses a proprietary technology called [NTLM](https://en.wikipedia.org/wiki/NTLM) that breaks most free software (Ruby and Nodejs as well as Python).\n\nHere's a related issue—NTLM authentication for direct (unproxied requests)  https://github.com/jkbr/httpie/issues/76\n\nThis library will probably be useful in any fix https://github.com/requests/requests-ntlm\n",
+              "createdAt": "2013-09-02T16:16:00Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-03-26T00:26:43Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/105314?v=4",
+                "login": "hickford",
+                "resourcePath": "/hickford",
+                "url": "https://github.com/hickford"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "upstream"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Detect Content-Type of stdin via file util / \"magic\" heuristics",
+              "number": 175,
+              "url": "https://github.com/jakubroztocil/httpie/issues/175",
+              "body": "When setting the body of a request via piped input (stdin), it would be nice to still auto-detect the Content-Type, using [pymagic](https://pypi.python.org/pypi/pymagic) or [python-magic](https://pypi.python.org/pypi/python-magic) or similar.\n",
+              "createdAt": "2013-10-24T17:36:26Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2014-09-10T09:13:04Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/920250?v=4",
+                "login": "jbyler",
+                "resourcePath": "/jbyler",
+                "url": "https://github.com/jbyler"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Generic plugin API (for output processors and such)",
+              "number": 177,
+              "url": "https://github.com/jakubroztocil/httpie/issues/177",
+              "body": "Add a more generic plugin API that would allow adding new output processors. \n\n(There already is an API for [auth plugins](https://github.com/jkbr/httpie/blob/master/httpie/plugins/manager.py)).\n#### Candidates / use cases\n- [ ] msgpack support #284 \n- [x] http over unix domain sockets #209\n- [ ] Akamai debugging https://github.com/jakubroztocil/httpie/compare/master...matteck:master\n- [ ] WebSocket #371\n- [ ] triggering action upon receiving specific header #369\n",
+              "createdAt": "2013-11-08T15:44:28Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-09-11T12:50:24Z",
+              "assignees": {
+                "totalCount": 1
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/326885?v=4",
+                "login": "jakubroztocil",
+                "resourcePath": "/jakubroztocil",
+                "url": "https://github.com/jakubroztocil"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "extensions"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "planned"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Streamed uploads",
+              "number": 201,
+              "url": "https://github.com/jakubroztocil/httpie/issues/201",
+              "body": "It would be sometimes very nice to be able to PUT a large file without buffering it first.\nAnd it seems that requests supports the chunked encoding well: http://docs.python-requests.org/en/latest/user/advanced/#chunk-encoded-requests\n\nCreating a generator in `_body_from_file` if a `--chunked` option is set seems simple enough, but I guess something would have to be done for `--print=B` to work (or maybe suppress the output with a reasonable message - since the (or at least my) use case would be large, generally binary, files).\n",
+              "createdAt": "2014-02-05T10:32:21Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-03-07T05:45:00Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 5
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/1316848?v=4",
+                "login": "mpol",
+                "resourcePath": "/mpol",
+                "url": "https://github.com/mpol"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "planned"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Add API support",
+              "number": 205,
+              "url": "https://github.com/jakubroztocil/httpie/issues/205",
+              "body": "httpie is a very cool CLI tool, far better than curl.\nIt would be great if there would a minimal documented API support so that it can also be used as a Python module you can import and make requests with.\nThe way I would expect it to work might be something like this:\n\n```\n>>> from httpie import interpret_args\n>>> resp = interpret_args(\"http GET http://localhost:8000/help\")\n>>> resp\n<Response [200]>\n>>> resp.status_code\n200\n>>> \n```\n\nThoughts?\n",
+              "createdAt": "2014-02-27T18:03:30Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-12-11T03:52:54Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 6
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/681260?v=4",
+                "login": "giampaolo",
+                "resourcePath": "/giampaolo",
+                "url": "https://github.com/giampaolo"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Adding cookie to cookiejar (or allowing multiple Cookie: headers)",
+              "number": 214,
+              "url": "https://github.com/jakubroztocil/httpie/issues/214",
+              "body": "Hi there,\n\nI am having issues with httpie in a rather contrived use-case. I was hoping that I perhaps help people solve this issue in the future or rather get some suggestions on how to solve it myself.\n\nThe issue arises when a server expects a cookie set by the client side using JS. In order to work around this, I need to add a cookie with a static value to my session. I was hoping to do so in a way similar to this.\n\n```\n#!/bin/bash\n                                                                                                                                         . include.sh\n\nfunction accept_terms {\n    email=\"john_ra+86@zoho.com\"                                                                                                                                     \n    # login\n    #http $sess https://coinbase.com/signin\n    csrf_token=`http $sess https://site.com/signin | grep 'csrf-token' | awk -F'\"' '{print $2}' | awk -F'\"' '{print $1}'`\n\n   # this line below >>>\n    http $sess -f POST https://site.com/sessions \"Cookie:df=579d23557fc4619cb01656425512a9db\" \"utf8=%E2%9C%93\" \"authenticity_token=$csrf_token\" \"email=$email\" \"pas#\n\n    # accept terms\n    http $sess -f POST https://site.com/users/accept_terms \"_method=post\" \"authenticity_token=$csrf_token\"\n}\n\naccept_terms\n```\n\nIn the line where I set the cookie header, httpie replaces the session cookie with the cookie I manually set. I've checked and if I were allowed to put two cookie headers apache would accept it, albeit a method to embed a custom cookie into the cookiejar might be a bit tidier!\n\nThanks,\nPedro\n",
+              "createdAt": "2014-04-27T09:27:31Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2014-05-11T16:53:14Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/152786?v=4",
+                "login": "droope",
+                "resourcePath": "/droope",
+                "url": "https://github.com/droope"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "planned"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Support proxy digest authentication",
+              "number": 221,
+              "url": "https://github.com/jakubroztocil/httpie/issues/221",
+              "body": "As far as I can see httpie doesn't support authentication on proxies. It would be nice to have such feature.\n",
+              "createdAt": "2014-05-13T09:57:28Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2014-05-13T12:38:42Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/217860?v=4",
+                "login": "thekvs",
+                "resourcePath": "/thekvs",
+                "url": "https://github.com/thekvs"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Improve CLI usability",
+              "number": 239,
+              "url": "https://github.com/jakubroztocil/httpie/issues/239",
+              "body": "Either allow request items to be specified before URL or improve the error message.\n\nhttps://twitter.com/akrabat/status/488285985672019968\n",
+              "createdAt": "2014-07-14T09:39:14Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2014-09-07T12:09:25Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/326885?v=4",
+                "login": "jakubroztocil",
+                "resourcePath": "/jakubroztocil",
+                "url": "https://github.com/jakubroztocil"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "cli"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Response time",
+              "number": 243,
+              "url": "https://github.com/jakubroztocil/httpie/issues/243",
+              "body": "Could be handy to see a requests response time in verbose or with some other flag.\n",
+              "createdAt": "2014-07-19T22:00:12Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-19T10:45:32Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 19
+              },
+              "comments": {
+                "totalCount": 18
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/2881655?v=4",
+                "login": "whodidthis",
+                "resourcePath": "/whodidthis",
+                "url": "https://github.com/whodidthis"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "planned"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Man page",
+              "number": 248,
+              "url": "https://github.com/jakubroztocil/httpie/issues/248",
+              "body": "I find myself doing \"man http\" very often, and IT'S NOT THERE, oh no\n\nAnd having to visit github to view documentation is... not very ideal.\n\nCould use `rst2man` to generate one man page, but it supports a more limited amount of markup so it failed to parse the README when i tried.\n",
+              "createdAt": "2014-08-10T09:47:14Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-03-01T15:26:58Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/94108?v=4",
+                "login": "dequis",
+                "resourcePath": "/dequis",
+                "url": "https://github.com/dequis"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "planned"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "add time option",
+              "number": 258,
+              "url": "https://github.com/jakubroztocil/httpie/issues/258",
+              "body": "could you consider to add time option like cURL?\neg:\n![2014-09-19 4 52 14](https://cloud.githubusercontent.com/assets/7813288/4332940/5a7741ec-3fda-11e4-8aa6-44239bfa6c0e.png)\n",
+              "createdAt": "2014-09-19T08:53:02Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-08-19T20:15:19Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/7813288?v=4",
+                "login": "beepony",
+                "resourcePath": "/beepony",
+                "url": "https://github.com/beepony"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "\"SSLError: hostname <x> doesn't match <y>\" - but Curl/Chrome don't report SSL issues?",
+              "number": 262,
+              "url": "https://github.com/jakubroztocil/httpie/issues/262",
+              "body": "I'm attempting to use httpie with the JIRA REST API.\n\nThe command fails with an \"SSLError: hostname <blah> doesn't match\" style message:\n\n```\nbash-3.2$ http https://jira.mongodb.org/rest/api/2/search?jql=assignee=bob\n\nhttp: error: SSLError: hostname 'jira.mongodb.org' doesn't match either of '*.mongodb.com', 'mongodb.com'\n```\n\nMy understanding is that `requests` should normally throw up that error if the SSL certificate isn't valid. The message seems to imply that the cert is for *.mongodb.com, which jira.mongodb.org wouldn't fall under.\n\nHowever, the same command works fine via CuRL, with no SSL warnings:\n\n```\nbash-3.2$ curl -v  https://jira.mongodb.org/rest/api/2/search?jql=assignee=free\n* Adding handle: conn: 0x7fbe2b003a00\n* Adding handle: send: 0\n* Adding handle: recv: 0\n* Curl_addHandleToPipeline: length: 1\n* - Conn 0 (0x7fbe2b003a00) send_pipe: 1, recv_pipe: 0\n* About to connect() to jira.mongodb.org port 443 (#0)\n*   Trying 54.221.213.229...\n* Connected to jira.mongodb.org (54.221.213.229) port 443 (#0)\n* TLS 1.1 connection using TLS_RSA_WITH_AES_256_CBC_SHA\n* Server certificate: jira.mongodb.org\n* Server certificate: Go Daddy Secure Certification Authority\n* Server certificate: Go Daddy Class 2 Certification Authority\n> GET /rest/api/2/search?jql=assignee=free HTTP/1.1\n> User-Agent: curl/7.30.0\n> Host: jira.mongodb.org\n> Accept: */*\n>\n< HTTP/1.1 200 OK\n* Server Apache-Coyote/1.1 is not blacklisted\n< Server: Apache-Coyote/1.1\n< Vary: Accept-Encoding\n< Cache-Control: no-cache, no-store, no-transform\n< Content-Type: application/json;charset=UTF-8\n< Date: Fri, 26 Sep 2014 02:14:22 GMT\n< X-AREQUESTID: 134x54195573x2\n< Transfer-Encoding: chunked\n< X-AUSERNAME: anonymous\n< Set-Cookie: atlassian.xsrf.token=ASGJ-NC06-6R0X-EKH7|4d65065ad638afb4fe7edb9b04e81379cc315e06|lout; Path=/\n<\n* Connection #0 to host jira.mongodb.org left intact\n{\"startAt\":0,\"maxResults\":50,\"total\":0,\"issues\":[]}\n```\n\nFurthermore, it also loads up fine in my browser (Chrome), and no SSL warnings are give.\n\n![screen shot 2014-09-26 at 12 12 05 pm](https://cloud.githubusercontent.com/assets/243499/4414975/bc2b760e-4522-11e4-800b-667e1668794f.png)\n\nAny thoughts on what might be going on please?\n",
+              "createdAt": "2014-09-26T02:15:31Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-14T16:16:22Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/243499?v=4",
+                "login": "victorhooi",
+                "resourcePath": "/victorhooi",
+                "url": "https://github.com/victorhooi"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Should error on incomplete transfer with `Transfer-Encoding: chunked`",
+              "number": 296,
+              "url": "https://github.com/jakubroztocil/httpie/issues/296",
+              "body": "When streaming content from a server where the response is `Transfer-Encoding: chunked`, if the transfer is somehow stopped half way. `curl` will error `curl: (18) transfer closed with outstanding read data remaining` with `18` as the return code, while `httpie` reports everything is fine with return code `0`.\n",
+              "createdAt": "2015-01-27T23:50:40Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-03-01T15:35:24Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": nil,
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "upstream"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Odd ASCII characters in response",
+              "number": 313,
+              "url": "https://github.com/jakubroztocil/httpie/issues/313",
+              "body": "```\nE:\\>http HEAD :5555/api/signup\n←[38;5;202;01mHTTP←[39;00m←[38;5;15m/←[39m←[38;5;33;01m1.0←[39;00m←[38;5;15m ←[3\n9m←[38;5;33;01m404←[39;00m←[38;5;15m ←[39m←[38;5;15mNot Found←[39m\n←[38;5;198;01mContent-Length←[39;00m←[38;5;15m:←[39m←[38;5;15m ←[39m←[38;5;32m74\n0←[39m\n←[38;5;198;01mContent-Type←[39;00m←[38;5;15m:←[39m←[38;5;15m ←[39m←[38;5;32mtext\n/html; charset=UTF-8←[39m\n←[38;5;198;01mDate←[39;00m←[38;5;15m:←[39m←[38;5;15m ←[39m←[38;5;32mSun, 15 Feb\n2015 21:28:42 GMT←[39m\n←[38;5;198;01mServer←[39;00m←[38;5;15m:←[39m←[38;5;15m ←[39m←[38;5;32mWSGIServer\n/0.1 Python/2.7.9←[39m←[0m\n\n←[0m←[0m\n\n←[0m\n```\n\nSimilar appears `←[0` on just running `http` without args. My cmd is using a Unicode font, and has clink (GNU Readline port) installed.\n\n**Is there some property I can set to make this work like its Linux equivalent?**\n\nEDIT: Trying with ConEmu cmd wrapper and everything works. Still would like this to work in regular cmd…\n",
+              "createdAt": "2015-02-16T08:31:11Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-11-07T11:39:57Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/807580?v=4",
+                "login": "SamuelMarks",
+                "resourcePath": "/SamuelMarks",
+                "url": "https://github.com/SamuelMarks"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "bug"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "windows"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "cURL output of HTTPie ",
+              "number": 325,
+              "url": "https://github.com/jakubroztocil/httpie/issues/325",
+              "body": "I've been a user of HTTPie for a brief bit of time and I haven't seen this feature anywhere, but it might be useful if HTTPie could generate a cURL output of a request. I'm not sure if every particular request could be done in cURL, but this option could be helpful for sharing translatable requests with others that don't have HTTPie.\n",
+              "createdAt": "2015-03-23T00:07:42Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-20T09:29:40Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 16
+              },
+              "comments": {
+                "totalCount": 15
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/5114666?v=4",
+                "login": "ryanmcdermott",
+                "resourcePath": "/ryanmcdermott",
+                "url": "https://github.com/ryanmcdermott"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "More curl like verbosity",
+              "number": 329,
+              "url": "https://github.com/jakubroztocil/httpie/issues/329",
+              "body": "Hello Developers,\n\nCould you please consider making httpie more like curl in terms of its verbosity?\n\nhttpie:\nhttp://pastiebin.com/551182f6bec63\n\nvs.\n\ncurl:\nhttp://pastiebin.com/5511831e301ad\n",
+              "createdAt": "2015-03-24T15:33:26Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-06-26T15:55:25Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/1111743?v=4",
+                "login": "jungle-boogie",
+                "resourcePath": "/jungle-boogie",
+                "url": "https://github.com/jungle-boogie"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Bash completion improvements",
+              "number": 331,
+              "url": "https://github.com/jakubroztocil/httpie/issues/331",
+              "body": "- [ ] Complete common HTTP method names\n- [ ] Complete common HTTP header names\n- [ ] Complete URLs: perhaps using known hosts like `ping` or `ssh` does and known URLs from various sources\n- [ ] Complete options values (e.g. `-s <tab>`, `--style=<tab>`, `--auth-type<tab>`, etc.)\n- [ ] Update the [Homebrew formula](https://github.com/Homebrew/homebrew/blob/master/Library/Formula/httpie.rb) to install the completion support\n\n// #330 #326\n",
+              "createdAt": "2015-03-25T21:16:38Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-03-27T10:34:46Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/326885?v=4",
+                "login": "jakubroztocil",
+                "resourcePath": "/jakubroztocil",
+                "url": "https://github.com/jakubroztocil"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Hide Authorization header credentials in verbose mode",
+              "number": 335,
+              "url": "https://github.com/jakubroztocil/httpie/issues/335",
+              "body": "When the request headers are being echoed back, I'd like the default behavior to be to ***\\* out the credentials.\n\nInstead of this being displayed:\n`Authorization: Basic aHR0cGllOmlzQXdlc29tZQ==`\nI'd like to see:\n`Authorization: Basic ************************`\n\nSimilarly:\n`Authorization: Bearer *******************************`\n\nMaybe a new option (like --show-creds) could be used to show the credentials.\n",
+              "createdAt": "2015-04-06T23:48:48Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-06-26T15:54:56Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/5167965?v=4",
+                "login": "mikedunker",
+                "resourcePath": "/mikedunker",
+                "url": "https://github.com/mikedunker"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Accept input from a pipe for a multipart form",
+              "number": 342,
+              "url": "https://github.com/jakubroztocil/httpie/issues/342",
+              "body": "I'm able to upload a file using the following form syntax:\n\n```\n$ http -f POST 127.0.0.1/upload file@some_file.txt\n```\n\nbut I was wondering if there is a way to pipe stdout to the form, for example:\n\n```\n$ date | http -f POST 127.0.0.1/upload file@-\n```\n\nThis results in the following error:\n\n```\nhttp: error: \"file@-\": [Errno 2] No such file or directory: u'-'\n```\n\nI can achieve the same thing with curl:\n\n```\n$ date | curl -XPOST 127.0.0.1/upload -H 'Content-Type:multipart/form-data' --form file=@-\n```\n\nSo I was wondering whether I was doing something wrong with httpie.\n",
+              "createdAt": "2015-04-22T09:47:33Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-03-02T15:05:46Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/14088?v=4",
+                "login": "0x6e6562",
+                "resourcePath": "/0x6e6562",
+                "url": "https://github.com/0x6e6562"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "planned"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Default to encoding specified in XML declaration",
+              "number": 358,
+              "url": "https://github.com/jakubroztocil/httpie/issues/358",
+              "body": "HTTPie seems to assume ISO-8859-1 when decoding XML in UTF-8 form. Below I show the difference between the HTTPie and cURL outputs. The last element displays as “FinanciÃ«n | Begroting”, respectively “Financiën | Begroting” (Dutch for “Finance | Budget”).\n\n$ http 'https://zoek.officielebekendmakingen.nl/kst-34200-14/metadata_owms.xml'\n\n``` xml\nHTTP/1.1 200 OK\nCache-Control: private\nConnection: keep-alive\nContent-Disposition: attachment; filename=metadata_owms.xml\nContent-Encoding: gzip\nContent-Type: text/xml\nDate: Fri, 29 May 2015 09:14:39 GMT\nServer: nginx\nSet-Cookie: ASP.NET_SessionId=d5rme4n4tyrzt52z4hrto5fk; path=/; secure; HttpOnly\nTransfer-Encoding: chunked\nVary: Accept-Encoding\nX-Frame-Options: SAMEORIGIN\n\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<owms-metadata xmlns:ns0=\"http://purl.org/dc/terms/\" xmlns:ns1=\"http://standaarden.overheid.nl/oep/meta/\" xmlns:ns2=\"http://standaarden.overheid.nl/owms/terms/\">\n    <owmskern>\n        <ns0:identifier>kst-34200-14</ns0:identifier>\n        <ns0:title>Financieel jaarverslag van het Rijk 2014; Motie; Motie van het lid Krol over het continueren van het verlaagde btw-tarief voor verbouwingen en renovaties</ns0:title>\n        <ns0:language>nl</ns0:language>\n        <ns0:type scheme=\"OVERHEIDop.KamerstukTypen\">Motie</ns0:type>\n        <ns0:type scheme=\"OVERHEIDop.Parlementair\">Kamerstuk</ns0:type>\n        <ns0:creator scheme=\"OVERHEID.StatenGeneraal\">Tweede Kamer der Staten-Generaal</ns0:creator>\n        <dcterms.modified>2015-05-27</dcterms.modified>\n    </owmskern>\n    <owmsmantel>\n        <ns0:available>2015-05-27</ns0:available>\n        <ns0:issued>2015-05-26</ns0:issued>\n    </owmsmantel>\n    <oep>\n        <ns1:documentStatus>Opgemaakt na onopgemaakt</ns1:documentStatus>\n        <ns1:documenttitel>Motie van het lid Krol over het continueren van het verlaagde btw-tarief voor verbouwingen en renovaties</ns1:documenttitel>\n        <ns1:dossiernummer>34200</ns1:dossiernummer>\n        <ns1:dossiertitel>Financieel jaarverslag van het Rijk 2014</ns1:dossiertitel>\n        <ns1:indiener>H.C.M. Krol</ns1:indiener>\n        <ns1:ondernummer>14</ns1:ondernummer>\n        <ns1:publicationName>Kamerstuk</ns1:publicationName>\n        <ns1:vergaderjaar>2014-2015</ns1:vergaderjaar>\n        <ns2:organisationType>staten generaal</ns2:organisationType>\n        <ns2:category scheme=\"OVERHEID.TaxonomieBeleidsagenda\">FinanciÃ«n | Begroting</ns2:category>\n    </oep>\n</owms-metadata>\n```\n\n$ curl 'https://zoek.officielebekendmakingen.nl/kst-34200-14/metadata_owms.xml'\n\n``` xml\n<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!--Generatie: versie XSLT 1.1 op 2015-05-27+02:00--><owms-metadata xmlns:dcterms=\"http://purl.org/dc/terms/\"\n               xmlns:overheid=\"http://standaarden.overheid.nl/owms/terms/\"\n               xmlns:overheidop=\"http://standaarden.overheid.nl/oep/meta/\">\n   <owmskern>\n      <dcterms:identifier>kst-34200-14</dcterms:identifier>\n      <dcterms:title>Financieel jaarverslag van het Rijk 2014; Motie; Motie van het lid Krol over het continueren van het verlaagde btw-tarief voor verbouwingen en renovaties</dcterms:title>\n      <dcterms:language>nl</dcterms:language>\n      <dcterms:type scheme=\"OVERHEIDop.KamerstukTypen\">Motie</dcterms:type>\n      <dcterms:type scheme=\"OVERHEIDop.Parlementair\">Kamerstuk</dcterms:type>\n      <dcterms:creator scheme=\"OVERHEID.StatenGeneraal\">Tweede Kamer der Staten-Generaal</dcterms:creator>\n      <dcterms.modified>2015-05-27</dcterms.modified>\n   </owmskern>\n   <owmsmantel>\n      <dcterms:available>2015-05-27</dcterms:available>\n      <dcterms:issued>2015-05-26</dcterms:issued>\n   </owmsmantel>\n   <oep>\n      <overheidop:documentStatus>Opgemaakt na onopgemaakt</overheidop:documentStatus>\n      <overheidop:documenttitel>Motie van het lid Krol over het continueren van het verlaagde btw-tarief voor verbouwingen en renovaties</overheidop:documenttitel>\n      <overheidop:dossiernummer>34200</overheidop:dossiernummer>\n      <overheidop:dossiertitel>Financieel jaarverslag van het Rijk 2014</overheidop:dossiertitel>\n      <overheidop:indiener>H.C.M. Krol</overheidop:indiener>\n      <overheidop:ondernummer>14</overheidop:ondernummer>\n      <overheidop:publicationName>Kamerstuk</overheidop:publicationName>\n      <overheidop:vergaderjaar>2014-2015</overheidop:vergaderjaar>\n      <overheid:organisationType>staten generaal</overheid:organisationType>\n      <overheid:category scheme=\"OVERHEID.TaxonomieBeleidsagenda\">Financiën | Begroting</overheid:category>\n   </oep>\n</owms-metadata>\n```\n",
+              "createdAt": "2015-05-29T09:30:24Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-06-26T15:20:47Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/1536228?v=4",
+                "login": "vovtz",
+                "resourcePath": "/vovtz",
+                "url": "https://github.com/vovtz"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Implement curl's --resolve to overwrite DNS records",
+              "number": 362,
+              "url": "https://github.com/jakubroztocil/httpie/issues/362",
+              "body": "Hello,\n\nFrom time to time we have the need to direct a request to a specific host (Ex: testing, comparison between servers, etc...)\n\nEx: I want to do a \"GET /\" on 127.0.0.1 but with \"Host: httpie.org\"\n\nYou can change the \"hostname\" of the URL with one that points to your other server (if this server supports being requested with another hostname) ; you can temporarily change the DNS resolution by editing your \"host\" file.\n(Changing the \"Host:\" header is another trick that can be valid for http, but may have some issues on https : certificate validation + SNI issues)\n\nHowever, these options are not easy to script (for testing) ; and require some extra steps.\n\ncURL has a specific options for this ( --resolve ) which I find great for this usage, that works by pre-loading a DNS cache with your mappings, and using this cache for the request.\n\nWould it be possible to add something similar to httpie ?\n\nThanks.\n",
+              "createdAt": "2015-06-24T10:10:12Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-02-15T22:28:13Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/222432?v=4",
+                "login": "llange",
+                "resourcePath": "/llange",
+                "url": "https://github.com/llange"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Is there a plugin hook for triggering action upon receiving specific header?",
+              "number": 369,
+              "url": "https://github.com/jakubroztocil/httpie/issues/369",
+              "body": "I can't find any docs for the plugin hooks so I don't really know what is available. \n",
+              "createdAt": "2015-07-23T09:47:22Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-09-11T12:50:35Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/554780?v=4",
+                "login": "te-je",
+                "resourcePath": "/te-je",
+                "url": "https://github.com/te-je"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "extensions"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "order & color ouput header fields by their categories.",
+              "number": 374,
+              "url": "https://github.com/jakubroztocil/httpie/issues/374",
+              "body": "As per rfc2616 section 4.2:\n\n> The order in which header fields with differing field names are received is not significant. However, it is “good practice” to send general-header fields first, followed by request-header or response-header fields, and ending with the entity-header fields.\n\nCan httpie provide a switch to order & color the header fields by their categories. I think it would be a little feature for those HTTP protocol learners to distinguish different kind of headers at a glance.\n",
+              "createdAt": "2015-08-12T22:23:48Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-02-18T06:59:26Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/2283394?v=4",
+                "login": "mudox",
+                "resourcePath": "/mudox",
+                "url": "https://github.com/mudox"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Server-sent events explicitly requires --stream",
+              "number": 376,
+              "url": "https://github.com/jakubroztocil/httpie/issues/376",
+              "body": "If I have a [server-sent event](https://en.wikipedia.org/wiki/Server-sent_events) source and try to simply do\n\n```\nhttp get http://localhost:1729/stream/all\n```\n\nI get output that looks something like this:\n\n```\nHTTP/1.1 200 OK\nCache-Control: no-cache\nContent-Type: text/event-stream\nDate: Sat, 29 Aug 2015 12:18:00 GMT\nServer: TornadoServer/4.2.1\nTransfer-Encoding: chunked\n\n```\n\nfollowed by none of the streamed data. This can be worked around by setting the `--stream` flag. However, better behavior would be to automatically enable streaming support when `Content-Type` is `text/event-stream`.\n",
+              "createdAt": "2015-08-29T12:20:15Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-27T05:05:20Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/2805515?v=4",
+                "login": "mivade",
+                "resourcePath": "/mivade",
+                "url": "https://github.com/mivade"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Support for reading cookies from files",
+              "number": 404,
+              "url": "https://github.com/jakubroztocil/httpie/issues/404",
+              "body": "Hi,\n\nI really like the interface of this util and I do understand that cookies can be passed on in the GET requests as key-value pairs but some websites require quite a few cookies to be able to serve a page. I use the add-on https://chrome.google.com/webstore/detail/cookiestxt/njabckikapfpffapmjgojcnbfjonfjfg?utm_source=chrome-app-launcher-info-dialog that lets you save all the cookies on a webpage into a file that can be used with wget or curl. Alternatively, the cookies set by the server using the set-cookie header primitives can be dumped to a cookie-jar file using both of those tools. Curl lets you read cookies either directly from stdin or from a file with the -b flag. \n\nWould it be possible to incorporate that into this tool?\n\nThanks,\nBhupi\n",
+              "createdAt": "2015-10-29T18:11:40Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-12-08T01:45:56Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/15384712?v=4",
+                "login": "Bsiyag",
+                "resourcePath": "/Bsiyag",
+                "url": "https://github.com/Bsiyag"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Exec cURL -b -c option",
+              "number": 409,
+              "url": "https://github.com/jakubroztocil/httpie/issues/409",
+              "body": "How to exec cURL with cookie files?\n\n``` shell\ncurl -b cookies.txt -c cookies.txt -o trackchartgetus.json \"http://example.org/\"\n```\n\n``` shell\n -b, --cookie STRING/FILE  Read cookies from STRING/FILE (H)\n -c, --cookie-jar FILE  Write cookies to FILE after operation (H)\n```\n",
+              "createdAt": "2015-11-12T09:48:09Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2015-11-12T09:52:04Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/163333?v=4",
+                "login": "loretoparisi",
+                "resourcePath": "/loretoparisi",
+                "url": "https://github.com/loretoparisi"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Should use the user-provided Host header for SNI",
+              "number": 414,
+              "url": "https://github.com/jakubroztocil/httpie/issues/414",
+              "body": "I'm trying to test Apache configuration in a Vagrant VM that forwards port 8443 to VM's port 443.  The command I'm running is:\n\n```\n$ http get https://localhost:443/ Host:www.example.com --verify=no\n```\n\nand I get a 400 Bad Request from Apache, because\n\n```\n[Mon Nov 23 09:43:17 2015] [error] Hostname localhost provided via SNI and hostname www.example.com provided via HTTP are different\n```\n\nI think httpie should use the user-provided Host header for the SSL negotiation, or perhaps even provide a command-line option to explicitly specify a hostname to use in SNI.\n",
+              "createdAt": "2015-11-23T09:48:32Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-02-15T10:36:16Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 6
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/159967?v=4",
+                "login": "mgedmin",
+                "resourcePath": "/mgedmin",
+                "url": "https://github.com/mgedmin"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Conditional host resolving ",
+              "number": 422,
+              "url": "https://github.com/jakubroztocil/httpie/issues/422",
+              "body": "Hey ,\n\nFirst of all really great tool. Cannot imagine work without now  :) What I would be looking for is what we have in cURL which allows resolve host name on the fly when making request\n\n``` bash\ncurl --resolve example.com:443:1.2.3.4 https://example.com\n```\n\nIs it already available and I'm missing something or could that be a feature request ? \n",
+              "createdAt": "2015-12-17T10:35:08Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-02-15T22:28:36Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/9809655?v=4",
+                "login": "RafPe",
+                "resourcePath": "/RafPe",
+                "url": "https://github.com/RafPe"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "considering"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "`--download` reports an \"incomplete download\" with Content-Encoding: gzip and content-length.",
+              "number": 423,
+              "url": "https://github.com/jakubroztocil/httpie/issues/423",
+              "body": "When using HTTPie to download a file which is both gzip'd and has a content-length header sent, the final output report says that the download is incomplete. This is apparently because HTTPie tracks the number of bytes it wrote, not the number of bytes it received.\n\nHere is an example, which reproduces in HTTPie head as of about 10 minutes ago.\n\n```\n$ http --debug --download GET http://torcache.net/torrent/640FE84C613C17F663551D218689A64E8AEBEABE.torrent \nHTTPie 1.0.0-dev\nHTTPie data: /Users/pi/.httpie\nRequests 2.6.0\nPygments 2.0.2\nPython 2.7.10 (default, Oct 23 2015, 18:05:06) \n[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] darwin\n\n>>> requests.request(**{'allow_redirects': True,\n 'auth': None,\n 'cert': None,\n 'data': OrderedDict(),\n 'files': DataDict(),\n 'headers': {'Accept-Encoding': None, 'User-Agent': 'HTTPie/1.0.0-dev'},\n 'method': u'get',\n 'params': ParamsDict(),\n 'proxies': {},\n 'stream': True,\n 'timeout': 30,\n 'url': u'http://torcache.net/torrent/640FE84C613C17F663551D218689A64E8AEBEABE.torrent',\n 'verify': True})\n\nHTTP/1.1 200 OK\nAccept-Ranges: bytes\nConnection: close\nContent-Encoding: gzip\nContent-Length: 40082\nContent-Type: application/x-bittorrent\nDate: Fri, 25 Dec 2015 04:39:03 GMT\nETag: \"567c9773-9c92\"\nLast-Modified: Fri, 25 Dec 2015 01:10:11 GMT\nServer: nginx\n\nDownloading 39.14 kB to \"640FE84C613C17F663551D218689A64E8AEBEABE.torrent\"\n -   0.00 %     0.00 B     0.00 B/s  -:--:-- ETA\nhttp: error: Incomplete download: size=40082; downloaded=40260\nDone. 39.32 kB in 0.22557s (174.30 kB/s)\n```\n\nNote that `size` is the value of `Content-length`, but `downloaded` is greater than `size` because of the gzip encoding.\n",
+              "createdAt": "2015-12-25T04:42:06Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-03-06T17:41:04Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 5
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/377384?v=4",
+                "login": "twopir",
+                "resourcePath": "/twopir",
+                "url": "https://github.com/twopir"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "bug"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "httpie changing the json fields order in the output",
+              "number": 427,
+              "url": "https://github.com/jakubroztocil/httpie/issues/427",
+              "body": "Wondering how can I force httpie to not change the json fields order? \n\n```\ncurl -i http://localhost:8080/v1/notes/569766aed4c661fba8d85a12\n\n{\n  \"id\": \"569766aed4c661fba8d85a12\",\n  \"content\": \"hi\"\n}\n```\n\nwith httpie\n\n```\nhttp get :8080/v1/notes/569766aed4c661fba8d85a12 \n\n{\n  \"content\": \"hi\",\n  \"id\": \"569766aed4c661fba8d85a12\"\n}\n```\n\nI prefer the `id` field to be always the first. Any thoughts? \n",
+              "createdAt": "2016-01-14T09:49:55Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-09T23:43:46Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 13
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/1025546?v=4",
+                "login": "altfatterz",
+                "resourcePath": "/altfatterz",
+                "url": "https://github.com/altfatterz"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Compact help",
+              "number": 428,
+              "url": "https://github.com/jakubroztocil/httpie/issues/428",
+              "body": "It would be nice if httpie had a compact help.\n\nI tend to forget the various request item delimiters, but `http --help` spams the terminal scrollback with lots of unrelated information (I know, I can use less, but meh, I'm lazy). Why not include this in the compact \"usage\" printed when just running `http`?\n",
+              "createdAt": "2016-01-14T20:02:04Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-03-06T17:23:42Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 5
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/179599?v=4",
+                "login": "ThiefMaster",
+                "resourcePath": "/ThiefMaster",
+                "url": "https://github.com/ThiefMaster"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Newer release broke auth_type edge grid",
+              "number": 439,
+              "url": "https://github.com/jakubroztocil/httpie/issues/439",
+              "body": "Hello,\n\nI’ve been encouraging my customers to use HTTPie instead of Curl for interfacing with our APIs - however in order to make the plugin work well I had to override the :/ setup for localhost to use it for the host in the configuration file.  It was working fine with httpie 0.7.0 but has since been broken by your more recent changes.  Would it be possible for you to take a look and see what changed to make this stop working?\n\n```\ndef get_auth(self, username, password):\n    home = os.environ['HOME']   \n    rc = EdgeRc(\"%s/.edgerc\" % home) \n\n    if not rc.has_section(username):\n        err_msg = \"\\nERROR: No section named '%s' was found in your .edgerc file\\n\" % username\n        err_msg += \"ERROR: Please generate credentials for the script functionality\\n\"\n        err_msg += \"ERROR: and run 'python gen_edgerc.py %s' to generate the credential file\\n\"\n        sys.stderr.write(err_msg)\n        sys.exit(1)\n\n    host=rc.get(username, 'host')\n    host=host.replace(\"https://\", \"\")\n    host= host.replace (\"/\",\"\")\n    host += \"/\"\n    auth = HTTPieEdgeGridAuth(\n        hostname = host,\n        client_token=rc.get(username, 'client_token'),\n        client_secret=rc.get(username, 'client_secret'),\n        access_token=rc.get(username, 'access_token'),\n        max_body=rc.getint(username, 'max_body')\n    )\n    return auth\n```\n",
+              "createdAt": "2016-02-06T23:21:11Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-03-01T16:18:27Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/372880?v=4",
+                "login": "synedra",
+                "resourcePath": "/synedra",
+                "url": "https://github.com/synedra"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "extensions"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "httpie doesn't work in msysgit",
+              "number": 445,
+              "url": "https://github.com/jakubroztocil/httpie/issues/445",
+              "body": "after running an httpie command apart from --help or --debug, nothing appears but httpie doesn't stop executing either (there's just a blinking cursor, doesn't return to normal command prompt). httpie works normally in windows command prompt though.\n\nHTTPie 0.9.3\nHTTPie data: C:\\Users\\me\\AppData\\Roaming\\httpie\nRequests 2.9.1\nPygments 2.1.3\nPython 3.4.1 (v3.4.1:c0e311e010fc, May 18 2014, 10:45:13) [MSC v.1600 64 bit (AMD64)] win32\n\nMINGW32_NT-10.0-WOW\n",
+              "createdAt": "2016-03-04T07:25:29Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-02-27T17:37:02Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 6
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1664819?v=4",
+                "login": "ctian1",
+                "resourcePath": "/ctian1",
+                "url": "https://github.com/ctian1"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "windows"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Development docs shown on the GitHub repo confuse users",
+              "number": 448,
+              "url": "https://github.com/jakubroztocil/httpie/issues/448",
+              "body": "Make it show the stable docs by default or switch to an off-repo docs website.\n\nE.g. #447.\n",
+              "createdAt": "2016-03-09T04:14:05Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-03-09T05:39:47Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/326885?v=4",
+                "login": "jakubroztocil",
+                "resourcePath": "/jakubroztocil",
+                "url": "https://github.com/jakubroztocil"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "[Enhancement] Provide support for streaming uploads and progress bar",
+              "number": 452,
+              "url": "https://github.com/jakubroztocil/httpie/issues/452",
+              "body": "Uploading files using input redirection fails for large files.\nI presume the whole file is getting read into memory first. \n\nLast time I checked requests library can perform streaming uploads.\nhttp://docs.python-requests.org/en/master/user/advanced/#streaming-uploads\n\nIt would be nice to integrate this logic into httpie client may be using a command line switch.\nThe file upload should show a progress bar (ETA) as well.\n\nPlease let me know if this functionality already exists. I can have a look at the code if required.\n",
+              "createdAt": "2016-03-24T17:34:40Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-03-06T19:51:52Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 6
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/500899?v=4",
+                "login": "sandeep048",
+                "resourcePath": "/sandeep048",
+                "url": "https://github.com/sandeep048"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Include plugin info in --debug output",
+              "number": 455,
+              "url": "https://github.com/jakubroztocil/httpie/issues/455",
+              "body": "",
+              "createdAt": "2016-03-29T03:22:02Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-18T19:27:18Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/326885?v=4",
+                "login": "jakubroztocil",
+                "resourcePath": "/jakubroztocil",
+                "url": "https://github.com/jakubroztocil"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "planned"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "\"default\" netrc authorization results in \"403 Forbidden\" errors",
+              "number": 464,
+              "url": "https://github.com/jakubroztocil/httpie/issues/464",
+              "body": "I have a suggestion to at least edit the readme file to alert users of a confusing \"403 Forbidden\" error, if not update httpie to include relevant hints in the `--debug` output.\n\nWhile trying to debug my [bashhub](https://bashhub.com/) installation, I tried the following command suggested by the author:\n\n`http --debug https://bashhub.com/api/v1/system?mac=181219917565350 \"Authorization:Bearer $BH_AUTH\"`\n\nand got the following output:\n\n```\nHTTPie 0.9.3\nHTTPie data: /Users/ftod/.httpie\nRequests 2.9.1\nPygments 2.0.2\nPython 2.7.10 (default, Oct 23 2015, 19:19:21) \n[GCC 4.2.1 Compatible Apple LLVM 7.0.0 (clang-700.0.59.5)] darwin\n\n>>> requests.request(**{'allow_redirects': False,\n 'auth': None,\n 'cert': None,\n 'data': OrderedDict(),\n 'files': DataDict(),\n 'headers': {u'Authorization': 'Bearer <redacted>',\n             'User-Agent': 'HTTPie/0.9.3'},\n 'method': 'get',\n 'params': ParamsDict(),\n 'proxies': {},\n 'stream': True,\n 'timeout': 30,\n 'url': u'https://bashhub.com/api/v1/system?mac=181219917565350',\n 'verify': True})\n\nHTTP/1.1 403 Forbidden\nConnection: keep-alive\nContent-Length: 0\nDate: Sat, 23 Apr 2016 02:34:09 GMT\nServer: nginx\nVia: 1.1 vegur\n```\n\nI investigated using the suggestions from #139:\n\n`python -m netrc`\n\nand got the following output:\n\n```\nmachine default\n    login 'anonymous'\n    password 'francis.odonovan@gmail.com'\n```\n\nThat's when I realized that httpie was trying to connect using this old `default` login that I have for `ftp` clients, rather than the authentication token I had given it. \n\nI'm suggesting that the readme file be updated to warn users of this confusing situation, and/or that httpie be updated to include information used from the .netrc file in the `--debug` output. I'm happy to do the former, and could take a crack at the latter. \n",
+              "createdAt": "2016-04-23T02:54:10Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-04-23T19:45:13Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/2073530?v=4",
+                "login": "proinsias",
+                "resourcePath": "/proinsias",
+                "url": "https://github.com/proinsias"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "no man page",
+              "number": 477,
+              "url": "https://github.com/jakubroztocil/httpie/issues/477",
+              "body": "Lacks documentation other than a basic usage message when run w/o arguments. A man file would be nice.\n",
+              "createdAt": "2016-06-08T07:30:40Z",
+              "lastEditedAt": "2016-06-08T10:22:37Z",
+              "updatedAt": "2017-04-11T10:40:38Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/3610557?v=4",
+                "login": "ggl",
+                "resourcePath": "/ggl",
+                "url": "https://github.com/ggl"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Feature request: support S3 authentication",
+              "number": 479,
+              "url": "https://github.com/jakubroztocil/httpie/issues/479",
+              "body": "It would be great if httpie supported S3 authentication. That would make interacting with AWS S3 and S3-compatible servers so much easier than using a crusty S3 client like s3curl.pl (https://aws.amazon.com/code/128).\n\nHopefully it's easy to use https://github.com/tax/python-requests-aws to add the \"Authorization: AWS access-key:hash\" and other request headers. \n\nBeing able to handle the different types of endpoints might be tricky:\n\nhttps://s3.amazonaws.com/mybucket\nhttps://mybucket.s3.amazonaws.com/\nhttps://s3compatible.example.com/mybucket\n",
+              "createdAt": "2016-06-08T17:53:07Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-06-16T19:02:46Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/8549?v=4",
+                "login": "jamshid",
+                "resourcePath": "/jamshid",
+                "url": "https://github.com/jamshid"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "extensions"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "HTTPie ignores system certificates",
+              "number": 480,
+              "url": "https://github.com/jakubroztocil/httpie/issues/480",
+              "body": "HTTPie ignores system certificates\n\n```\nhttp --debug -j https://example_using_my_ca.com\n\nHTTPie 0.9.3\nHTTPie data: /home/lukas/.httpie\nRequests 2.10.0\nPygments 1.6\nPython 3.4.3 (default, Oct 14 2015, 20:28:29) \n[GCC 4.8.4] linux\n\n>>> requests.request(**{'allow_redirects': False,\n 'auth': None,\n 'cert': None,\n 'data': '',\n 'files': DataDict(),\n 'headers': {'Accept': b'application/json',\n             'Content-Type': b'application/json',\n             'User-Agent': b'HTTPie/0.9.3'},\n 'method': 'get',\n 'params': ParamsDict(),\n 'proxies': {},\n 'stream': True,\n 'timeout': 30,\n 'url': 'https://example_using_my_ca.com',\n 'verify': True})\n\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.4/dist-packages/requests/packages/urllib3/connectionpool.py\", line 578, in urlopen\n    chunked=chunked)\n  File \"/usr/local/lib/python3.4/dist-packages/requests/packages/urllib3/connectionpool.py\", line 351, in _make_request\n    self._validate_conn(conn)\n  File \"/usr/local/lib/python3.4/dist-packages/requests/packages/urllib3/connectionpool.py\", line 814, in _validate_conn\n    conn.connect()\n  File \"/usr/local/lib/python3.4/dist-packages/requests/packages/urllib3/connection.py\", line 289, in connect\n    ssl_version=resolved_ssl_version)\n  File \"/usr/local/lib/python3.4/dist-packages/requests/packages/urllib3/util/ssl_.py\", line 308, in ssl_wrap_socket\n    return context.wrap_socket(sock, server_hostname=server_hostname)\n  File \"/usr/lib/python3.4/ssl.py\", line 365, in wrap_socket\n    _context=self)\n  File \"/usr/lib/python3.4/ssl.py\", line 601, in __init__\n    self.do_handshake()\n  File \"/usr/lib/python3.4/ssl.py\", line 828, in do_handshake\n    self._sslobj.do_handshake()\nssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:600)\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.4/dist-packages/requests/adapters.py\", line 403, in send\n    timeout=timeout\n  File \"/usr/local/lib/python3.4/dist-packages/requests/packages/urllib3/connectionpool.py\", line 604, in urlopen\n    raise SSLError(e)\nrequests.packages.urllib3.exceptions.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:600)\n\nDuring handling of the above exception, another exception occurred:\n\nTraceback (most recent call last):\n  File \"/usr/local/bin/http\", line 11, in <module>\n    sys.exit(main())\n  File \"/usr/local/lib/python3.4/dist-packages/httpie/core.py\", line 115, in main\n    response = get_response(args, config_dir=env.config.directory)\n  File \"/usr/local/lib/python3.4/dist-packages/httpie/client.py\", line 48, in get_response\n    response = requests_session.request(**kwargs)\n  File \"/usr/local/lib/python3.4/dist-packages/requests/sessions.py\", line 475, in request\n    resp = self.send(prep, **send_kwargs)\n  File \"/usr/local/lib/python3.4/dist-packages/requests/sessions.py\", line 585, in send\n    r = adapter.send(request, **kwargs)\n  File \"/usr/local/lib/python3.4/dist-packages/requests/adapters.py\", line 477, in send\n    raise SSLError(e, request=request)\nrequests.exceptions.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:600)\n```\n\nFor reference, curl works fine: `curl https://example_using_my_ca.com`\n",
+              "createdAt": "2016-06-09T12:35:33Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-06-10T13:55:30Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 13
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/1266756?v=4",
+                "login": "luv",
+                "resourcePath": "/luv",
+                "url": "https://github.com/luv"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "bug"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Non-conformant Accept header",
+              "number": 488,
+              "url": "https://github.com/jakubroztocil/httpie/issues/488",
+              "body": "With the recent fix for #470, HTTPie sends:\n\n```\nAccept: application/json, */*\n```\n\nThis header is not quite correct. According to [RFC 7231 § 5.3.2](https://tools.ietf.org/html/rfc7231#section-5.3.2), it says: “I accept JSON or anything else”. Because there are no explicit quality values (`q=`) specified for either media range, they are both assumed to be 1, so `application/json` and `*/*` are equally acceptable.\n\n`*/*` should be marked with a lower quality value, for example:\n\n```\nAccept: application/json, */*;q=0.5\n```\n",
+              "createdAt": "2016-07-12T13:57:26Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-07-13T06:52:16Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/300211?v=4",
+                "login": "vfaronov",
+                "resourcePath": "/vfaronov",
+                "url": "https://github.com/vfaronov"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Accept private key password on command line in lieu of prompting",
+              "number": 490,
+              "url": "https://github.com/jakubroztocil/httpie/issues/490",
+              "body": "When providing the `--cert` and `--cert-key` options, please accept the private key password as an argument and only prompt for password if not provided on command line.\n\ncURL accomplishes this like:\n\n```\ncurl --cert /some/path/to/cert:$CERT_KEY_PASSWD ...\n```\n\nThanks!\n",
+              "createdAt": "2016-07-14T20:28:23Z",
+              "lastEditedAt": "2016-07-14T20:28:35Z",
+              "updatedAt": "2016-07-14T20:51:41Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/53811?v=4",
+                "login": "midas",
+                "resourcePath": "/midas",
+                "url": "https://github.com/midas"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Mechanism to pass custom headers before URL",
+              "number": 491,
+              "url": "https://github.com/jakubroztocil/httpie/issues/491",
+              "body": "The input format for custom headers (`http URL customer-header customer-header...`) is very strange compared to cURL. cURL offers -H for custom headers. This makes it easy to define presets (like bash aliases) that include headers. I'm not a bash expert, but there doesn't seem to be an easy way to do that with http.\n",
+              "createdAt": "2016-07-19T03:45:43Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-11-10T19:27:02Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1753270?v=4",
+                "login": "giskard22",
+                "resourcePath": "/giskard22",
+                "url": "https://github.com/giskard22"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Multiple cookies with attributes",
+              "number": 498,
+              "url": "https://github.com/jakubroztocil/httpie/issues/498",
+              "body": "How can I send two cookies each of which has some attributes.\n\nThe current syntax uses `;` as a separator for multiple cookies, but that is a bit odd since cookies can have attributes which are separated by `;`.\n\nUsing multiple `Cookie` headers doesn't work! :/\n\n```\n$ http http://httpbin.org/cookies 'Cookie:doo=dar; Path=/; Max-Age=0' 'Cookie:foo=bar; Path=/; Max-Age=0'\n\nHTTP/1.1 200 OK\nContent-Length: 40\nContent-Type: application/json\nDate: Wed, 03 Aug 2016 11:43:35 GMT\n\n{\n    \"cookies\": {\n        \"foo\": \"bar\"\n    }\n}\n```\n",
+              "createdAt": "2016-08-03T11:53:54Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-08-03T11:53:54Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/1449512?v=4",
+                "login": "dufferzafar",
+                "resourcePath": "/dufferzafar",
+                "url": "https://github.com/dufferzafar"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "http command not found",
+              "number": 500,
+              "url": "https://github.com/jakubroztocil/httpie/issues/500",
+              "body": "Hi,\n\nI have installed httpie using pip on OS X. However, I am not able to use it. I get the following errorL\n\n```\n-bash: http: command not found\n```\n",
+              "createdAt": "2016-08-05T05:00:03Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-14T14:26:43Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/5400513?v=4",
+                "login": "ayushidalmia",
+                "resourcePath": "/ayushidalmia",
+                "url": "https://github.com/ayushidalmia"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Headers being droped",
+              "number": 502,
+              "url": "https://github.com/jakubroztocil/httpie/issues/502",
+              "body": "Not sure why is this happening, but when I got a redirect, the header's Authorization token is dropped, causing an unauthorized error in the final server.\n\nOutput: http://pastiebin.com/57ad0ec278c36\n\nThis does not happen with cURL\n",
+              "createdAt": "2016-08-11T23:51:13Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-08-12T16:12:08Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/6983510?v=4",
+                "login": "iax7",
+                "resourcePath": "/iax7",
+                "url": "https://github.com/iax7"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Add 'httpie' as a default entry point alias",
+              "number": 505,
+              "url": "https://github.com/jakubroztocil/httpie/issues/505",
+              "body": "This might just be me being lazy, but every damn time I try to use this tool, I type `$ httpie blah.com`, then get `-bash: httpie: command not found`, then I `$ pip install httpie` and get `Requirement already satisfied (use --upgrade to upgrade): httpie in /usr/local/lib/python2.7/site-packages`, then I have to go to this page to see that the tool is actually called `http`.\n\nSince the repo is called `httpie`, can you please add `httpie` as an entry point alias in setup.py so that I don't get stuck in this loop any more? It'd be far more symmetrical - installing a package at one name and then executing it another is really annoying.\n\nJust a thought,\nR\n",
+              "createdAt": "2016-08-15T22:36:30Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-08-15T22:36:30Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/139987?v=4",
+                "login": "Miserlou",
+                "resourcePath": "/Miserlou",
+                "url": "https://github.com/Miserlou"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Feature request: support trust on first use (TOFU)",
+              "number": 507,
+              "url": "https://github.com/jakubroztocil/httpie/issues/507",
+              "body": "Despite Let's Encrypt's awesomeness, there are still plenty legacy systems around in various intranets that use self-signed certificates.\n\nWhen one faces a server with self-signed (or expired, or otherwise botched) certificate, and wants to interact with httpie with it, options are:\n- `--verify yes` (default) that provides strong trust guarantee, but usability is lost completely in this particular case;\n- `--verify no` restores usability at cost of trust, which is lost completely.\n\nMiddle-ground is TOFU a.k.a. SSH-style certificate verification. OpenSSH client does this. GnuTLS client can do this if `--tofu` option was specified. Whole thing boils down to:\n- On first use, prompt user to manually verify key fingerprint, and stash away a copy;\n- On subsequent use, verify server public key against fingerprint learned on first use.\n\nHaving `--verify tofu` as a third option would really nice. Or, without requiring stdio/terminal interaction, one way to implement this would be to print key fingerprint as a part of CERTIFICATE_VERIFY_FAILED error, and verify server's key against fingerprint if one was specified, something like this:\n\n```\n$ http https://old.crusty.server.com/foo\nhttp: error: SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:590) while doing GET request to URL: https://old.crusty.server.com/foo\nhttp: info: add \"--verify CvuIbn2kasZx0NS6A+Pdzfw1nQ40qtUc6eZXyIH92nM=\" to trust this certificate\n\n$ http --verify CvuIbn2kasZx0NS6A+Pdzfw1nQ40qtUc6eZXyIH92nM= https://old.crusty.server.com/foo\nHTTP/1.1 200 OK\n...\n```\n",
+              "createdAt": "2016-08-17T19:23:27Z",
+              "lastEditedAt": "2016-08-17T19:37:40Z",
+              "updatedAt": "2016-08-17T19:37:40Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/1040844?v=4",
+                "login": "aexaey",
+                "resourcePath": "/aexaey",
+                "url": "https://github.com/aexaey"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "http error ",
+              "number": 508,
+              "url": "https://github.com/jakubroztocil/httpie/issues/508",
+              "body": "➜  ~ http --help\nTraceback (most recent call last):\n  File \"/usr/local/Cellar/httpie/0.9.4/libexec/bin/http\", line 5, in <module>\n    from pkg_resources import load_entry_point\nImportError: No module named 'pkg_resources'\n",
+              "createdAt": "2016-08-19T03:20:42Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-12-27T22:32:42Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 7
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/10149308?v=4",
+                "login": "cunde",
+                "resourcePath": "/cunde",
+                "url": "https://github.com/cunde"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Allow user override response header to parse response body?",
+              "number": 509,
+              "url": "https://github.com/jakubroztocil/httpie/issues/509",
+              "body": "For example, if server response with header `Content-Type: text/html`, but the response body's format is json, I need to parse it to print pretty.\n\nAdd a config option to do it?\n\nexample:\n\n``` js\n// server code\nvar http = require('http');\nhttp.createServer(function(req, res) {\n    res.setHeader('Content-Type', 'text/html');\n    res.end(JSON.stringify({code: 0, data: 'hello world'}));\n}).listen(3000);\n```\n\n``` bash\n# http client\nMacBook-Pro-4:~ acrazing$ http localhost:3000\nHTTP/1.1 200 OK\nConnection: keep-alive\nContent-Length: 31\nContent-Type: text/html\nDate: Fri, 19 Aug 2016 05:18:43 GMT\n\n{\"code\":0,\"data\":\"hello world\"}\n```\n\nI hope add a param to parse response as json!\n",
+              "createdAt": "2016-08-19T05:21:21Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-08-19T05:21:21Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/10029810?v=4",
+                "login": "acrazing",
+                "resourcePath": "/acrazing",
+                "url": "https://github.com/acrazing"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Invalid `Content-Range` handling",
+              "number": 515,
+              "url": "https://github.com/jakubroztocil/httpie/issues/515",
+              "body": "``` http\nHTTP/1.1 206 Partial Content\nAccept-Ranges: bytes\nContent-Disposition: attachment;fileName=EX85XL.rar\nContent-Length: 0\nContent-Range: bytes 473276580-/473276580\nDate: Sat, 27 Aug 2016 16:27:28 GMT\nServer: Resin/4.0.40\n\n\nhttp: error: ContentRangeError: Invalid Content-Range format 'bytes 473276580-/473276580'\n```\n",
+              "createdAt": "2016-08-27T16:37:54Z",
+              "lastEditedAt": "2016-08-27T17:39:13Z",
+              "updatedAt": "2016-08-28T09:07:25Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/8926331?v=4",
+                "login": "aeeq",
+                "resourcePath": "/aeeq",
+                "url": "https://github.com/aeeq"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "only send credentials when using working https URLs",
+              "number": 522,
+              "url": "https://github.com/jakubroztocil/httpie/issues/522",
+              "body": "It'd be great if there was a way to specify httpie should only send credentials from netrc or similar when https is in use and working. This would help prevent accidentally sending credentials over http when one types `http http://foobar.org` when they meant `http https://foobar.org`.\n",
+              "createdAt": "2016-09-27T15:24:50Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-09-27T15:24:50Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/2182?v=4",
+                "login": "danp",
+                "resourcePath": "/danp",
+                "url": "https://github.com/danp"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "enable quic protocol",
+              "number": 523,
+              "url": "https://github.com/jakubroztocil/httpie/issues/523",
+              "body": "Httpie will support [QUIC](https://github.com/google/proto-quic) protocol?\n",
+              "createdAt": "2016-09-29T06:59:16Z",
+              "lastEditedAt": "2016-09-29T06:59:29Z",
+              "updatedAt": "2016-09-29T06:59:29Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/7778755?v=4",
+                "login": "sunisdown",
+                "resourcePath": "/sunisdown",
+                "url": "https://github.com/sunisdown"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "httpie hangs in MobaXterm",
+              "number": 527,
+              "url": "https://github.com/jakubroztocil/httpie/issues/527",
+              "body": "I am attempting to use httpie in [mobaXterm](http://mobaxterm.mobatek.net/) (version 8.6) on Windows 7 Ultimate, but httpie hangs and never returns a result.\n\n![ss](https://cloud.githubusercontent.com/assets/20407777/19347367/6e362696-9116-11e6-95e1-1e328baf1cf6.png)\n\n![ss2](https://cloud.githubusercontent.com/assets/20407777/19347372/72c3817c-9116-11e6-92c3-9c812ff7caf8.png)\n\nI configured mobaXterm to use my Windows PATH, and both python and http are on my path:\n\n![ss3](https://cloud.githubusercontent.com/assets/20407777/19347395/96099982-9116-11e6-8096-9a13a221e0f3.PNG)\n\n![ss4](https://cloud.githubusercontent.com/assets/20407777/19347404/9d7bfd68-9116-11e6-9017-2e13b0b3d8f2.png)\n\nAlthough httpie does not work in mobaXterm, it does work in cmd.exe:\n\n![ss5](https://cloud.githubusercontent.com/assets/20407777/19347421/b38e19ba-9116-11e6-8154-f6cd9b0a0269.png)\n\n![ss6](https://cloud.githubusercontent.com/assets/20407777/19347422/b5effafc-9116-11e6-8541-d646dffa8ed6.png)\n\nI think this issue might be related to another similar issue that I found on StackOverflow:\nhttp://stackoverflow.com/questions/3250749/using-windows-python-from-cygwin\n",
+              "createdAt": "2016-10-13T11:32:23Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-10-13T12:36:02Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/20407777?v=4",
+                "login": "knilling",
+                "resourcePath": "/knilling",
+                "url": "https://github.com/knilling"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Some times Ctrl+C launch a `KeyboardInterrupt` exception traceback in the console",
+              "number": 531,
+              "url": "https://github.com/jakubroztocil/httpie/issues/531",
+              "body": "Some times when you press `Ctrl+C` to abort the request, this unhandled exception is launched in the console:\n\n```\nTraceback (most recent call last):\n  File \"/usr/local/bin/http\", line 7, in <module>\n    from httpie.__main__ import main\n  File \"/usr/local/lib/python2.7/dist-packages/httpie/__main__.py\", line 6, in <module>\n    from .core import main\n  File \"/usr/local/lib/python2.7/dist-packages/httpie/core.py\", line 23, in <module>\n    from httpie.client import get_response\n  File \"/usr/local/lib/python2.7/dist-packages/httpie/client.py\", line 8, in <module>\n    from httpie import sessions\n  File \"/usr/local/lib/python2.7/dist-packages/httpie/sessions.py\", line 11, in <module>\n    from httpie.plugins import plugin_manager\n  File \"/usr/local/lib/python2.7/dist-packages/httpie/plugins/__init__.py\", line 10, in <module>\n    from httpie.plugins.manager import PluginManager\n  File \"/usr/local/lib/python2.7/dist-packages/httpie/plugins/manager.py\", line 2, in <module>\n    from pkg_resources import iter_entry_points\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/__init__.py\", line 2985, in <module>\n    @_call_aside\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/__init__.py\", line 2971, in _call_aside\n    f(*args, **kwargs)\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/__init__.py\", line 2998, in _initialize_master_working_set\n    working_set = WorkingSet._build_master()\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/__init__.py\", line 651, in _build_master\n    ws = cls()\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/__init__.py\", line 644, in __init__\n    self.add_entry(entry)\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/__init__.py\", line 700, in add_entry\n    for dist in find_distributions(entry, True):\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/__init__.py\", line 1990, in find_on_path\n    path_item, entry, metadata, precedence=DEVELOP_DIST\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/__init__.py\", line 2399, in from_location\n    py_version=py_version, platform=platform, **kw\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/__init__.py\", line 2740, in _reload_version\n    md_version = _version_from_file(self._get_metadata(self.PKG_INFO))\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/__init__.py\", line 2366, in _version_from_file\n    return safe_version(value.strip()) or None\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/__init__.py\", line 1387, in safe_version\n    return str(packaging.version.Version(version))\n  File \"/usr/local/lib/python2.7/dist-packages/pkg_resources/_vendor/packaging/version.py\", line 200, in __init__\n    match = self._regex.search(version)\nKeyboardInterrupt\n```\n\nI know it's a normal Python exception launched in this circumstance, but it could be silent with a proper `try-except` block. I'm using the latest stable version _0.9.6_.\n\nI test it only with GET operations, without any other param, like `http https://somesite.com`, and the exception is showed only some times.\n",
+              "createdAt": "2016-10-20T22:01:24Z",
+              "lastEditedAt": "2016-10-20T22:11:06Z",
+              "updatedAt": "2016-11-05T17:14:51Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 6
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1608415?v=4",
+                "login": "mrsarm",
+                "resourcePath": "/mrsarm",
+                "url": "https://github.com/mrsarm"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Request to add `-d, --data` option for raw body like curl",
+              "number": 534,
+              "url": "https://github.com/jakubroztocil/httpie/issues/534",
+              "body": "The request is simple, just to add an option to pass raw data like `curl` does:\r\n\r\n    http :/api/user -d 'MyRawData...'\r\n\r\nI know that in mostly cases if you are sending JSON or form data, it can be achieved with the _\"request items\"_, like:\r\n\r\n    http :/api/hey say=Hello to=me …\r\n\r\nAnd it will converted to the proper format depending of the content type, that is awesome! And if you have something that is not a JSON or form data to send, you can do something like:\r\n\r\n    echo 'MyRawData...' | http :/api/hey\r\n\r\nBut this is impractical, the main idea of HTTPie is _cURL-like tool for humans_ , and this case is far of that principle, in fact, `curl` is more practical than HTTPie for the previous example. Adding more than one command and pipe them with ugly characters like `|` `<` just because a simple option is missing doesn't sound _human-friendly_.\r\n\r\nWhat's wrong with add the `-d` option to `http`?",
+              "createdAt": "2016-10-31T15:41:54Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-30T13:40:00Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 6
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1608415?v=4",
+                "login": "mrsarm",
+                "resourcePath": "/mrsarm",
+                "url": "https://github.com/mrsarm"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Collections in httpie?",
+              "number": 537,
+              "url": "https://github.com/jakubroztocil/httpie/issues/537",
+              "body": "I'm regular user of Postman, I have there lot of requests in structured collections, is there any recommended option how to store or create 'book' of requests for each project?\r\nThanks!",
+              "createdAt": "2016-11-10T14:47:01Z",
+              "lastEditedAt": "2016-11-10T14:47:33Z",
+              "updatedAt": "2017-06-27T05:23:32Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 6
+              },
+              "comments": {
+                "totalCount": 6
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/5887929?v=4",
+                "login": "yangwao",
+                "resourcePath": "/yangwao",
+                "url": "https://github.com/yangwao"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "support multipart/related upload ?",
+              "number": 539,
+              "url": "https://github.com/jakubroztocil/httpie/issues/539",
+              "body": "I'm using this tool to debug / simulate some interaction with Google Drive API, not sure how can httpie simulate a multipart/related POST? or if I am right, this will be a new feature request, how about a user interface like this; the boundary string can be automatically generated, that doesn't matter (or allow user to specify by --boundary ???)\r\n\r\n```console\r\n$ http POST https://www.googleapis.com/upload/drive/v3/files?uploadType=multipart \\\r\n  \"Authorization: Bearer $access_token\" \\\r\n  --part \"application/json\" name=\"My File\" attr2=value2 attr3=value3 \\\r\n  --part \"image/jpeg\" @./path/to/a/picture.jpeg\r\n```\r\n\r\nhttps://developers.google.com/drive/v3/web/manage-uploads#multipart\r\n\r\n```console\r\nPOST /upload/drive/v3/files?uploadType=multipart HTTP/1.1\r\nHost: www.googleapis.com\r\nAuthorization: Bearer your_auth_token\r\nContent-Type: multipart/related; boundary=foo_bar_baz\r\nContent-Length: number_of_bytes_in_entire_request_body\r\n\r\n--foo_bar_baz\r\nContent-Type: application/json; charset=UTF-8\r\n\r\n{\r\n  \"name\": \"My File\"\r\n}\r\n\r\n--foo_bar_baz\r\nContent-Type: image/jpeg\r\n\r\nJPEG data\r\n--foo_bar_baz--\r\n```",
+              "createdAt": "2016-12-02T04:19:30Z",
+              "lastEditedAt": "2016-12-02T04:21:26Z",
+              "updatedAt": "2016-12-10T02:43:56Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/14798161?v=4",
+                "login": "c0b",
+                "resourcePath": "/c0b",
+                "url": "https://github.com/c0b"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "feature"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "show me the SSL certificate the server is using?",
+              "number": 549,
+              "url": "https://github.com/jakubroztocil/httpie/issues/549",
+              "body": "It would be handy for HTTPie to show me the certificate that the server used to deliver me a response.",
+              "createdAt": "2016-12-20T00:53:37Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-12-20T01:05:35Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/716529?v=4",
+                "login": "glyph",
+                "resourcePath": "/glyph",
+                "url": "https://github.com/glyph"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Python API",
+              "number": 551,
+              "url": "https://github.com/jakubroztocil/httpie/issues/551",
+              "body": "HTTP Prompt* heavily relies on `httpie.core.main()` function to send actual HTTP requests. Some HTTP Prompt's features, like setting incoming cookies, require us to access the response object (`requests.Response`, to be more specific) in Python, but `httpie.core.main()` doesn't provide such an API. So HTTP Prompt \"hacks\" HTTPie with `sys.settrace()` to get the response object returned by `httpie.core.get_response()`, as the following code shows:\r\n\r\nhttps://github.com/eliangcs/http-prompt/blob/cbd092299/http_prompt/execution.py#L430\r\n\r\nI wonder if HTTPie could offer an API for developers to access the internal response object easier.\r\n\r\n\\* For those who haven't already known: HTTP Prompt is a wrapper that provides an interactive interface of HTTPie.",
+              "createdAt": "2017-01-08T03:57:47Z",
+              "lastEditedAt": "2017-01-08T04:00:29Z",
+              "updatedAt": "2017-03-11T12:15:30Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 5
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/740461?v=4",
+                "login": "eliangcs",
+                "resourcePath": "/eliangcs",
+                "url": "https://github.com/eliangcs"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "support store request history ",
+              "number": 554,
+              "url": "https://github.com/jakubroztocil/httpie/issues/554",
+              "body": "hope httpie support store request history like bash history ,and  can group or tag these histories  like insomnia .",
+              "createdAt": "2017-01-18T06:58:33Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-03-02T10:48:44Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/6326405?v=4",
+                "login": "lmyyao",
+                "resourcePath": "/lmyyao",
+                "url": "https://github.com/lmyyao"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "[enhancement]There is a Cygwin version of httpie on Windows",
+              "number": 564,
+              "url": "https://github.com/jakubroztocil/httpie/issues/564",
+              "body": "There is the package \"httpie\" on Cygwin, but the \"Installation\" part of README.rst doesn't mention it.\r\nSo, please add it to the README.rst.",
+              "createdAt": "2017-03-02T05:40:38Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-03-02T14:12:38Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/2140029?v=4",
+                "login": "TurnOffNOD",
+                "resourcePath": "/TurnOffNOD",
+                "url": "https://github.com/TurnOffNOD"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "BlockingIOError: [Errno 35] write could not complete without blocking",
+              "number": 565,
+              "url": "https://github.com/jakubroztocil/httpie/issues/565",
+              "body": "httpie version 0.9.8 installed on macos using `brew install httpie` reportts this error \r\nVersion of pythin used 3.6\r\n\r\n```\r\nhttp https://start.spring.io/\r\nHTTP/1.1 200 OK\r\nCF-RAY: 33934ec27b514463-BRU\r\nConnection: keep-alive\r\nContent-Encoding: gzip\r\nContent-Type: text/plain\r\nDate: Thu, 02 Mar 2017 09:25:15 GMT\r\nEtag: W/\"fbb270434e42fe999924581cd52aab20\"\r\nServer: cloudflare-nginx\r\nSet-Cookie: __cfduid=db25749d6d8d8fa5487fa77a8e609442a1488446715; expires=Fri, 02-Mar-18 09:25:15 GMT; path=/; domain=.spring.io; HttpOnly\r\nTransfer-Encoding\r\nttp: error: BlockingIOError: [Errno 35] write could not complete without blocking\r\nm: chunked\r\nX-Application-Context: start:cloud:1\r\nX-Vcap-Request-Id: 4a3f150b-a469-4efb-6d64-7312dd2a238fTraceback (most recent call last):\r\n  File \"/usr/local/Cellar/httpie/0.9.8_2/libexec/lib/python3.6/site-packages/httpie/core.py\", line 227, in main\r\n    log_error=log_error,\r\n  File \"/usr/local/Cellar/httpie/0.9.8_2/libexec/lib/python3.6/site-packages/httpie/core.py\", line 138, in program\r\n    write_stream(**write_stream_kwargs)\r\n  File \"/usr/local/Cellar/httpie/0.9.8_2/libexec/lib/python3.6/site-packages/httpie/output/streams.py\", line 38, in write_stream\r\n    outfile.flush()\r\nBlockingIOError: [Errno 35] write could not complete without blocking\r\n\r\nDuring handling of the above exception, another exception occurred:\r\n\r\nTraceback (most recent call last):\r\n  File \"/usr/local/bin/http\", line 11, in <module>\r\n    load_entry_point('httpie==0.9.8', 'console_scripts', 'http')()\r\n  File \"/usr/local/Cellar/httpie/0.9.8_2/libexec/lib/python3.6/site-packages/httpie/__main__.py\", line 11, in main\r\n    sys.exit(main())\r\n  File \"/usr/local/Cellar/httpie/0.9.8_2/libexec/lib/python3.6/site-packages/httpie/core.py\", line 255, in main\r\n    log_error('%s: %s', type(e).__name__, msg)\r\n  File \"/usr/local/Cellar/httpie/0.9.8_2/libexec/lib/python3.6/site-packages/httpie/core.py\", line 189, in log_error\r\n    env.stderr.write('\\nhttp: %s: %s\\n' % (level, msg))\r\nBlockingIOError: [Errno 35] write could not complete without blocking\r\n```",
+              "createdAt": "2017-03-02T09:27:36Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-03-02T11:15:59Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/463790?v=4",
+                "login": "cmoulliard",
+                "resourcePath": "/cmoulliard",
+                "url": "https://github.com/cmoulliard"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Brew installed version doesn't work with plugins",
+              "number": 566,
+              "url": "https://github.com/jakubroztocil/httpie/issues/566",
+              "body": "Brew is listed as the recommended way of installing httpie on macOS. However, it doesn't work with auth plugins.\r\n\r\nFor example, if you `pip3 install requests-hawk` and then run `http --help` hawk will not show as an auth type. If you `pip3 install httpie-oauth` it will install httpie via pip as a dependency and overwrite the brew installed link in `/usr/local/bin/http` and now all the plugins will show because it isn't using the brew installed version.\r\n\r\nI suggest changing the documentation to read `pip3 install httpie` as the recommended method of installing on macOS.",
+              "createdAt": "2017-03-08T20:53:12Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-03-16T21:51:55Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1779472?v=4",
+                "login": "rshurts",
+                "resourcePath": "/rshurts",
+                "url": "https://github.com/rshurts"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "-4 and -6 options, like curl",
+              "number": 569,
+              "url": "https://github.com/jakubroztocil/httpie/issues/569",
+              "body": "It would be great if `-4` and `-6` were honored in the same way `curl` does, which is to say, only attempt to connect to IPv4 addresses, and only attempt to connect to IPv6 addresses.\r\n\r\nThank you!",
+              "createdAt": "2017-03-10T23:01:02Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-03-13T19:30:19Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/716529?v=4",
+                "login": "glyph",
+                "resourcePath": "/glyph",
+                "url": "https://github.com/glyph"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Idea: create a separate curl2httpie tool",
+              "number": 570,
+              "url": "https://github.com/jakubroztocil/httpie/issues/570",
+              "body": "My idea is simple:\r\nCreate a tool (e.g. curl2httpie) which accepts all the commands curl also does. \r\nIt tries to parse a curl command with all options\r\n- if it fails, by default it executes the command via curl\r\n- if it succeeds,by default it prints out the corresponding httpie command\r\n- by default, it runs the corresponding httpie command\r\n\r\nIt could be symlinked to `curl`, so any time you copy paste a curl command into your terminal, you learn how you would have achieved the same command with httpie plus you get all the benefits in output and so on of actually running httpie.\r\n\r\nWhat do you think?\r\nThe reason I am asking here is to make sure I did not miss something like this if it already exists.\r\nI would enjoy implementing this, but only if it does not exist yet.",
+              "createdAt": "2017-03-17T17:05:58Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-04-22T15:47:59Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/3106990?v=4",
+                "login": "brasilikum",
+                "resourcePath": "/brasilikum",
+                "url": "https://github.com/brasilikum"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Should build official Docker image and add usage instructions",
+              "number": 571,
+              "url": "https://github.com/jakubroztocil/httpie/issues/571",
+              "body": "I created this: https://github.com/teracyhq/docker-files/tree/master/httpie-jwt-auth\r\n\r\nand I'd like to do the same for official Docker image of httpie (instead of under teracy/ umbrella)\r\n\r\nLet's discuss here for anyone interested and I could lead the effort.\r\n\r\nrelated: https://github.com/jakubroztocil/httpie/pull/236",
+              "createdAt": "2017-03-23T18:23:12Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-03-23T18:43:35Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/83062?v=4",
+                "login": "hoatle",
+                "resourcePath": "/hoatle",
+                "url": "https://github.com/hoatle"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Unable to fetch IDN URL on Windows",
+              "number": 572,
+              "url": "https://github.com/jakubroztocil/httpie/issues/572",
+              "body": "`http --debug POST 115.бел` fails, because arguments are not read with Unicode Windows API - https://stackoverflow.com/questions/846850/read-unicode-characters-from-command-line-arguments-in-python-2-x-on-windows/846931#846931\r\n\r\n```\r\nHTTPie 0.9.9\r\nRequests 2.13.0\r\nPygments 2.1.3\r\nPython 2.7.12 (v2.7.12:d33e0cf91556, Jun 27 2016, 15:19:22) [MSC v.1500 32 bit (Intel)]\r\nc:\\python27\\python.exe\r\nWindows Vista\r\n\r\n<Environment {\r\n    \"colors\": 256, \r\n    \"config\": {\r\n        \"__meta__\": {\r\n            \"about\": \"u'HTTPie configuration file'\", \r\n            \"help\": \"u'https://httpie.org/docs#config'\", \r\n            \"httpie\": \"u'0.9.9'\"\r\n        }, \r\n        \"default_options\": \"[]\"\r\n    }, \r\n    \"config_dir\": \"C:\\\\Users\\\\user\\\\AppData\\\\Roaming\\\\\\\\httpie\", \r\n    \"is_windows\": true, \r\n    \"stderr\": \"<colorama.ansitowin32.StreamWrapper object at 0x02F65670>\", \r\n    \"stderr_isatty\": false, \r\n    \"stdin\": \"<open file '<stdin>', mode 'r' at 0x018BD020>\", \r\n    \"stdin_encoding\": \"cp437\", \r\n    \"stdin_isatty\": true, \r\n    \"stdout\": \"<colorama.ansitowin32.StreamWrapper object at 0x02F65530>\", \r\n    \"stdout_encoding\": \"cp437\", \r\n    \"stdout_isatty\": true\r\n}>\r\n\r\n>>> requests.request(**{\r\n    \"allow_redirects\": false, \r\n    \"auth\": \"None\", \r\n    \"cert\": \"None\", \r\n    \"data\": {}, \r\n    \"files\": {}, \r\n    \"headers\": {\r\n        \"User-Agent\": \"HTTPie/0.9.9\"\r\n    }, \r\n    \"method\": \"u'post'\", \r\n    \"params\": {}, \r\n    \"proxies\": {}, \r\n    \"stream\": true, \r\n    \"timeout\": 30, \r\n    \"url\": \"u'http://115.???'\", \r\n    \"verify\": true\r\n})\r\n\r\n\r\nhttp: error: ConnectionError: HTTPConnectionPool(host='115.', port=80): Max retries exceeded with url: /??? (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x0305BDF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',)) while doing POST request to URL: http://115./???\r\nTraceback (most recent call last):\r\n  File \"c:\\python27\\lib\\runpy.py\", line 174, in _run_module_as_main\r\n    \"__main__\", fname, loader, pkg_name)\r\n  File \"c:\\python27\\lib\\runpy.py\", line 72, in _run_code\r\n    exec code in run_globals\r\n  File \"C:\\Python27\\Scripts\\http.exe\\__main__.py\", line 9, in <module>\r\n  File \"c:\\python27\\lib\\site-packages\\httpie\\__main__.py\", line 11, in main\r\n    sys.exit(main())\r\n  File \"c:\\python27\\lib\\site-packages\\httpie\\core.py\", line 227, in main\r\n    log_error=log_error,\r\n  File \"c:\\python27\\lib\\site-packages\\httpie\\core.py\", line 99, in program\r\n    final_response = get_response(args, config_dir=env.config.directory)\r\n  File \"c:\\python27\\lib\\site-packages\\httpie\\client.py\", line 70, in get_response\r\n    response = requests_session.request(**kwargs)\r\n  File \"c:\\python27\\lib\\site-packages\\requests\\sessions.py\", line 488, in request\r\n    resp = self.send(prep, **send_kwargs)\r\n  File \"c:\\python27\\lib\\site-packages\\requests\\sessions.py\", line 609, in send\r\n    r = adapter.send(request, **kwargs)\r\n  File \"c:\\python27\\lib\\site-packages\\requests\\adapters.py\", line 487, in send\r\n    raise ConnectionError(e, request=request)\r\nrequests.exceptions.ConnectionError: HTTPConnectionPool(host='115.', port=80): Max retries exceeded with url: /??? (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x0305BDF0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed',))\r\n```",
+              "createdAt": "2017-04-01T11:11:52Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-04-01T14:57:05Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/515889?v=4",
+                "login": "techtonik",
+                "resourcePath": "/techtonik",
+                "url": "https://github.com/techtonik"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Incorrectly parsing JSON",
+              "number": 574,
+              "url": "https://github.com/jakubroztocil/httpie/issues/574",
+              "body": "Hey,\r\n\r\nFirst of all, httpie is a magnificent piece of software. I can't remember how many colleagues I recommended using it. \r\n\r\nThere's a problem I've encountered. According to the spec providing JSON params is done via the `:=` operator.  But launching httpie 0.9.9 with these params:\r\n```\r\nhttp post localhost/example/ param1=\"a b c\" param2=d jparam:='[\"test string\"]'\r\n```\r\nResults in a message about invalid JSON. But `[\"test string\"]` is valid JSON afaik.\r\n```\r\nhttp: error: \"jparam:='[test string]'\": Expecting value: line 1 column 1 (char 0)\r\n```\r\nMaybe anyone could shed some line on what seems to be wrong?",
+              "createdAt": "2017-04-13T06:55:21Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-19T12:21:20Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 6
+              },
+              "comments": {
+                "totalCount": 7
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/9307795?v=4",
+                "login": "poskadesign",
+                "resourcePath": "/poskadesign",
+                "url": "https://github.com/poskadesign"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "httpie refuses to trust a self-signed certificate",
+              "number": 576,
+              "url": "https://github.com/jakubroztocil/httpie/issues/576",
+              "body": "I don't entirely understand the discussion for issue #480 but I think the root cause may be the same for this issue. I need httpie to trust a self-signed certificate. Technically it is a self-signed intermediate certificate authority, but I can use one of the actual server certificates from that authority and get the same result. This certificate satisfies every other application on my Mac (OS 10.12), including curl. Httpie simply won't trust it. Sample output:\r\n\r\n```\r\n$ http --debug -j --verify=/usr/local/etc/openssl/certs/intermediate-authority.pem https://www.testdomain.com/robots.txt\r\nHTTPie 0.9.9\r\nRequests 2.12.3\r\nPygments 2.1.3\r\nPython 3.6.1 (default, Mar 24 2017, 17:14:46)\r\n[GCC 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1)]\r\n/usr/local/Cellar/httpie/0.9.9/libexec/bin/python3.6\r\nDarwin 16.5.0\r\n\r\n<Environment {\r\n    \"colors\": 256,\r\n    \"config\": {\r\n        \"__meta__\": {\r\n            \"about\": \"HTTPie configuration file\",\r\n            \"help\": \"https://github.com/jkbrzt/httpie#config\",\r\n            \"httpie\": \"0.9.4\"\r\n        },\r\n        \"default_options\": \"[]\"\r\n    },\r\n    \"config_dir\": \"/Users/username/.httpie\",\r\n    \"is_windows\": false,\r\n    \"stderr\": \"<_io.TextIOWrapper name='<stderr>' mode='w' encoding='UTF-8'>\",\r\n    \"stderr_isatty\": true,\r\n    \"stdin\": \"<_io.TextIOWrapper name='<stdin>' mode='r' encoding='UTF-8'>\",\r\n    \"stdin_encoding\": \"UTF-8\",\r\n    \"stdin_isatty\": true,\r\n    \"stdout\": \"<_io.TextIOWrapper name='<stdout>' mode='w' encoding='UTF-8'>\",\r\n    \"stdout_encoding\": \"UTF-8\",\r\n    \"stdout_isatty\": true\r\n}>\r\n\r\n>>> requests.request(**{\r\n    \"allow_redirects\": false,\r\n    \"auth\": \"None\",\r\n    \"cert\": \"None\",\r\n    \"data\": \"\",\r\n    \"files\": {},\r\n    \"headers\": {\r\n        \"Accept\": \"application/json, */*\",\r\n        \"Content-Type\": \"application/json\",\r\n        \"User-Agent\": \"HTTPie/0.9.9\"\r\n    },\r\n    \"method\": \"get\",\r\n    \"params\": {},\r\n    \"proxies\": {},\r\n    \"stream\": true,\r\n    \"timeout\": 30,\r\n    \"url\": \"https://www.testdomain.com/robots.txt\",\r\n    \"verify\": \"/usr/local/etc/openssl/certs/intermediate-authority.pem\"\r\n})\r\n\r\n\r\nhttp: error: SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:749) while doing GET request to URL: https://www.testdomain.com/robots.txt\r\nTraceback (most recent call last):\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py\", line 588, in urlopen\r\n    self._prepare_proxy(conn)\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py\", line 801, in _prepare_proxy\r\n    conn.connect()\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/requests/packages/urllib3/connection.py\", line 323, in connect\r\n    ssl_context=context)\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/requests/packages/urllib3/util/ssl_.py\", line 324, in ssl_wrap_socket\r\n    return context.wrap_socket(sock, server_hostname=server_hostname)\r\n  File \"/usr/local/opt/python3/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ssl.py\", line 401, in wrap_socket\r\n    _context=self, _session=session)\r\n  File \"/usr/local/opt/python3/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ssl.py\", line 808, in __init__\r\n    self.do_handshake()\r\n  File \"/usr/local/opt/python3/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ssl.py\", line 1061, in do_handshake\r\n    self._sslobj.do_handshake()\r\n  File \"/usr/local/opt/python3/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ssl.py\", line 683, in do_handshake\r\n    self._sslobj.do_handshake()\r\nssl.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:749)\r\n\r\nDuring handling of the above exception, another exception occurred:\r\n\r\nTraceback (most recent call last):\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/requests/adapters.py\", line 423, in send\r\n    timeout=timeout\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/requests/packages/urllib3/connectionpool.py\", line 624, in urlopen\r\n    raise SSLError(e)\r\nrequests.packages.urllib3.exceptions.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:749)\r\n\r\nDuring handling of the above exception, another exception occurred:\r\n\r\nTraceback (most recent call last):\r\n  File \"/usr/local/bin/http\", line 11, in <module>\r\n    load_entry_point('httpie==0.9.9', 'console_scripts', 'http')()\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/httpie/__main__.py\", line 11, in main\r\n    sys.exit(main())\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/httpie/core.py\", line 227, in main\r\n    log_error=log_error,\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/httpie/core.py\", line 99, in program\r\n    final_response = get_response(args, config_dir=env.config.directory)\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/httpie/client.py\", line 70, in get_response\r\n    response = requests_session.request(**kwargs)\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/requests/sessions.py\", line 488, in request\r\n    resp = self.send(prep, **send_kwargs)\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/requests/sessions.py\", line 609, in send\r\n    r = adapter.send(request, **kwargs)\r\n  File \"/usr/local/Cellar/httpie/0.9.9/libexec/lib/python3.6/site-packages/requests/adapters.py\", line 497, in send\r\n    raise SSLError(e, request=request)\r\nrequests.exceptions.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:749)\r\n```\r\n\r\nIf I use `--verify=no`, the connection is accepted. I've tried converting the certificate file to DER format instead of PEM with no change. \r\n\r\nHttpie was installed via Homebrew, which installed its own Python3 as a dependency.",
+              "createdAt": "2017-04-25T16:30:25Z",
+              "lastEditedAt": "2017-04-25T16:31:39Z",
+              "updatedAt": "2017-06-01T19:18:23Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 6
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1753270?v=4",
+                "login": "giskard22",
+                "resourcePath": "/giskard22",
+                "url": "https://github.com/giskard22"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "url with gbk encode report UnicodeDecodeError",
+              "number": 578,
+              "url": "https://github.com/jakubroztocil/httpie/issues/578",
+              "body": "I have an API which use `gbk` encode, I have to call like this:\r\n\r\n    echo http://10.202.15.197:20176?user_id=1&query_type=GEOSPLIT&address=广东省深圳市宝安&ret_splitinfo=1 | iconv -f utf-8 -t gbk | xargs curl | iconv -f gbk -t utf-8\r\n\r\nbut if I change `cURL` to `httpie` it will report :\r\n\r\n    Traceback (most recent call last):\r\n      File \"/usr/bin/http\", line 11, in <module>\r\n        load_entry_point('httpie==0.9.8', 'console_scripts', 'http')()\r\n      File \"/usr/lib/python2.7/dist-packages/httpie/__main__.py\", line 11, in main\r\n        sys.exit(main())\r\n      File \"/usr/lib/python2.7/dist-packages/httpie/core.py\", line 182, in main\r\n        args = decode_args(args, env.stdin_encoding)\r\n      File \"/usr/lib/python2.7/dist-packages/httpie/core.py\", line 71, in decode_args\r\n        for arg in args\r\n      File \"/usr/lib/python2.7/encodings/utf_8.py\", line 16, in decode\r\n        return codecs.utf_8_decode(input, errors, True)\r\n    UnicodeDecodeError: 'utf8' codec can't decode byte 0xb9 in position 65: invalid start byte\r\n",
+              "createdAt": "2017-04-27T05:06:42Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-04-27T05:06:42Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/6434311?v=4",
+                "login": "rogerdehe",
+                "resourcePath": "/rogerdehe",
+                "url": "https://github.com/rogerdehe"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "httpie - support for manipulating hostheaders?",
+              "number": 579,
+              "url": "https://github.com/jakubroztocil/httpie/issues/579",
+              "body": "I am using httpie when debugging and publishing websites within a larger corporation. Are there any plans to support tweaking of the hostheader-information in a request? This is for manipulating a request to an IP-address with several virtual hosts (and SNI).\r\n\r\nBest regards,\r\nJan Henrik",
+              "createdAt": "2017-04-27T17:55:11Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-04-27T17:55:27Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/2220970?v=4",
+                "login": "janhenriko",
+                "resourcePath": "/janhenriko",
+                "url": "https://github.com/janhenriko"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "ModuleNotFoundError: No module named 'enum'",
+              "number": 580,
+              "url": "https://github.com/jakubroztocil/httpie/issues/580",
+              "body": "I install Homebrew at $HOME/homebrew.\r\n```bash\r\n$ brew install httpie\r\n$ http --debug\r\n```\r\n```\r\nTraceback (most recent call last):\r\n  File \"/Users/hillma/homebrew/bin/http\", line 4, in <module>\r\n    import re\r\n  File \"/Users/hillma/homebrew/Cellar/httpie/0.9.9/libexec/lib/python3.6/re.py\", line 122, in >><module>\r\n    import enum\r\nModuleNotFoundError: No module named 'enum'\r\n```",
+              "createdAt": "2017-05-01T17:53:42Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-05-31T22:10:08Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 5
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1404381?v=4",
+                "login": "mahiuchun",
+                "resourcePath": "/mahiuchun",
+                "url": "https://github.com/mahiuchun"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Many tests fail",
+              "number": 581,
+              "url": "https://github.com/jakubroztocil/httpie/issues/581",
+              "body": "Ubuntu 16.10\r\ntag: 0.9.8\r\n\r\nBuilding & testing with:\r\n```\r\n        echo --------\r\n        echo Cleaning\r\n        echo --------\r\n        cd git-httpie\r\n        sudo -u actionmystique -H git-reset-clean-pull-checkout.sh $branch $tag\r\n\r\n        echo -----------------------\r\n        echo Installing Dependencies\r\n        echo -----------------------\r\n        pip install -r requirements-dev.txt -U\r\n\r\n        echo --------\r\n        echo Building\r\n        echo --------\r\n        sudo -u actionmystique -H python setup.py build\r\n\r\n        echo ---------\r\n        echo Installing\r\n        echo ---------\r\n        python setup.py install\r\n\r\n        echo --------\r\n        echo Testing\r\n        echo --------\r\n        python setup.py test\r\n```\r\nleads to:\r\n```\r\n--------\r\nTesting\r\n--------\r\nrunning test\r\nrunning egg_info\r\nwriting requirements to httpie.egg-info/requires.txt\r\nwriting httpie.egg-info/PKG-INFO\r\nwriting top-level names to httpie.egg-info/top_level.txt\r\nwriting dependency_links to httpie.egg-info/dependency_links.txt\r\nwriting entry points to httpie.egg-info/entry_points.txt\r\nreading manifest file 'httpie.egg-info/SOURCES.txt'\r\nreading manifest template 'MANIFEST.in'\r\nwriting manifest file 'httpie.egg-info/SOURCES.txt'\r\nrunning build_ext\r\n============================================================================ test session starts ============================================================================\r\nplatform linux2 -- Python 2.7.12+, pytest-3.0.7, py-1.4.33, pluggy-0.4.0 -- /usr/bin/python\r\ncachedir: .cache\r\nrootdir: /home/actionmystique/src/HTTPie/git-httpie, inifile: pytest.ini\r\nplugins: xdist-1.15.0, timeout-1.2.0, httpbin-0.2.3, cov-2.4.0, catchlog-1.2.2\r\ncollected 236 items \r\n\r\nhttpie/utils.py::httpie.utils.humanize_bytes PASSED\r\ntests/test_auth.py::test_basic_auth[http] PASSED\r\ntests/test_auth.py::test_digest_auth[http---auth-type] PASSED\r\ntests/test_auth.py::test_digest_auth[http--A] PASSED\r\ntests/test_auth.py::test_credentials_in_url[http] PASSED\r\ntests/test_auth.py::test_credentials_in_url_auth_flag_has_priority[http] PASSED\r\ntests/test_downloads.py::TestDownloads::test_actual_download[http] PASSED\r\ntests/test_downloads.py::TestDownloads::test_download_with_Content_Length[http] PASSED\r\ntests/test_downloads.py::TestDownloads::test_download_no_Content_Length[http] PASSED\r\ntests/test_downloads.py::TestDownloads::test_download_interrupted[http] PASSED\r\ntests/test_httpie.py::test_GET[http] PASSED\r\ntests/test_httpie.py::test_DELETE[http] PASSED\r\ntests/test_httpie.py::test_PUT[http] PASSED\r\ntests/test_httpie.py::test_POST_JSON_data[http] PASSED\r\ntests/test_httpie.py::test_POST_form[http] PASSED\r\ntests/test_httpie.py::test_POST_form_multiple_values[http] PASSED\r\ntests/test_httpie.py::test_POST_stdin[http] PASSED\r\ntests/test_httpie.py::test_headers[http] PASSED\r\ntests/test_httpie.py::test_headers_unset[http] PASSED\r\ntests/test_httpie.py::test_unset_host_header[http] SKIPPED\r\ntests/test_httpie.py::test_headers_empty_value[http] PASSED\r\ntests/test_httpie.py::test_json_input_preserve_order[http] PASSED\r\ntests/test_auth.py::test_basic_auth[https] PASSED\r\ntests/test_auth.py::test_digest_auth[https---auth-type] PASSED\r\ntests/test_auth.py::test_digest_auth[https--A] PASSED\r\ntests/test_auth.py::test_credentials_in_url[https] PASSED\r\ntests/test_auth.py::test_credentials_in_url_auth_flag_has_priority[https] PASSED\r\ntests/test_downloads.py::TestDownloads::test_actual_download[https] PASSED\r\ntests/test_downloads.py::TestDownloads::test_download_with_Content_Length[https] PASSED\r\ntests/test_downloads.py::TestDownloads::test_download_no_Content_Length[https] PASSED\r\ntests/test_downloads.py::TestDownloads::test_download_interrupted[https] PASSED\r\ntests/test_httpie.py::test_GET[https] PASSED\r\ntests/test_httpie.py::test_DELETE[https] PASSED\r\ntests/test_httpie.py::test_PUT[https] PASSED\r\ntests/test_httpie.py::test_POST_JSON_data[https] PASSED\r\ntests/test_httpie.py::test_POST_form[https] PASSED\r\ntests/test_httpie.py::test_POST_form_multiple_values[https] PASSED\r\ntests/test_httpie.py::test_POST_stdin[https] PASSED\r\ntests/test_httpie.py::test_headers[https] PASSED\r\ntests/test_httpie.py::test_headers_unset[https] PASSED\r\ntests/test_httpie.py::test_unset_host_header[https] SKIPPED\r\ntests/test_httpie.py::test_headers_empty_value[https] PASSED\r\ntests/test_httpie.py::test_json_input_preserve_order[https] PASSED\r\ntests/test_auth.py::test_password_prompt PASSED\r\ntests/test_auth.py::test_only_username_in_url[username@example.org] PASSED\r\ntests/test_auth.py::test_only_username_in_url[username:@example.org] PASSED\r\ntests/test_auth.py::test_missing_auth PASSED\r\ntests/test_auth_plugins.py::test_auth_plugin_parse_auth_false PASSED\r\ntests/test_auth_plugins.py::test_auth_plugin_require_auth_false PASSED\r\ntests/test_auth_plugins.py::test_auth_plugin_require_auth_false_and_auth_provided PASSED\r\ntests/test_auth_plugins.py::test_auth_plugin_prompt_password_false PASSED\r\ntests/test_binary.py::TestBinaryRequestData::test_binary_stdin PASSED\r\ntests/test_binary.py::TestBinaryRequestData::test_binary_file_path PASSED\r\ntests/test_binary.py::TestBinaryRequestData::test_binary_file_form PASSED\r\ntests/test_binary.py::TestBinaryResponseData::test_binary_suppresses_when_terminal PASSED\r\ntests/test_binary.py::TestBinaryResponseData::test_binary_suppresses_when_not_terminal_but_pretty PASSED\r\ntests/test_binary.py::TestBinaryResponseData::test_binary_included_and_correct_when_suitable PASSED\r\ntests/test_cli.py::TestItemParsing::test_invalid_items PASSED\r\ntests/test_cli.py::TestItemParsing::test_escape_separator PASSED\r\ntests/test_cli.py::TestItemParsing::test_backslash_before_non_special_character_does_not_escape[path=c:\\windows-path-=-c:\\windows] PASSED\r\ntests/test_cli.py::TestItemParsing::test_backslash_before_non_special_character_does_not_escape[path=c:\\windows\\-path-=-c:\\windows\\] PASSED\r\ntests/test_cli.py::TestItemParsing::test_backslash_before_non_special_character_does_not_escape[path\\==c:\\windows-path=-=-c:\\windows] PASSED\r\ntests/test_cli.py::TestItemParsing::test_escape_longsep PASSED\r\ntests/test_cli.py::TestItemParsing::test_valid_items PASSED\r\ntests/test_cli.py::TestItemParsing::test_multiple_file_fields_with_same_field_name PASSED\r\ntests/test_cli.py::TestItemParsing::test_multiple_text_fields_with_same_field_name PASSED\r\ntests/test_cli.py::TestQuerystring::test_query_string_params_in_url PASSED\r\ntests/test_cli.py::TestQuerystring::test_query_string_params_items PASSED\r\ntests/test_cli.py::TestQuerystring::test_query_string_params_in_url_and_items_with_duplicates PASSED\r\ntests/test_cli.py::TestLocalhostShorthand::test_expand_localhost_shorthand PASSED\r\ntests/test_cli.py::TestLocalhostShorthand::test_expand_localhost_shorthand_with_slash PASSED\r\ntests/test_cli.py::TestLocalhostShorthand::test_expand_localhost_shorthand_with_port PASSED\r\ntests/test_cli.py::TestLocalhostShorthand::test_expand_localhost_shorthand_with_path PASSED\r\ntests/test_cli.py::TestLocalhostShorthand::test_expand_localhost_shorthand_with_port_and_slash PASSED\r\ntests/test_cli.py::TestLocalhostShorthand::test_expand_localhost_shorthand_with_port_and_path PASSED\r\ntests/test_cli.py::TestLocalhostShorthand::test_dont_expand_shorthand_ipv6_as_shorthand PASSED\r\ntests/test_cli.py::TestLocalhostShorthand::test_dont_expand_longer_ipv6_as_shorthand PASSED\r\ntests/test_cli.py::TestLocalhostShorthand::test_dont_expand_full_ipv6_as_shorthand PASSED\r\ntests/test_cli.py::TestArgumentParser::test_guess_when_method_set_and_valid PASSED\r\ntests/test_cli.py::TestArgumentParser::test_guess_when_method_not_set PASSED\r\ntests/test_cli.py::TestArgumentParser::test_guess_when_method_set_but_invalid_and_data_field PASSED\r\ntests/test_cli.py::TestArgumentParser::test_guess_when_method_set_but_invalid_and_header_field PASSED\r\ntests/test_cli.py::TestArgumentParser::test_guess_when_method_set_but_invalid_and_item_exists PASSED\r\ntests/test_cli.py::TestNoOptions::test_valid_no_options PASSED\r\ntests/test_cli.py::TestNoOptions::test_invalid_no_options PASSED\r\ntests/test_cli.py::TestIgnoreStdin::test_ignore_stdin PASSED\r\ntests/test_cli.py::TestIgnoreStdin::test_ignore_stdin_cannot_prompt_password PASSED\r\ntests/test_cli.py::TestSchemes::test_invalid_custom_scheme PASSED\r\ntests/test_cli.py::TestSchemes::test_invalid_scheme_via_via_default_scheme PASSED\r\ntests/test_cli.py::TestSchemes::test_default_scheme PASSED\r\ntests/test_config.py::test_default_options PASSED\r\ntests/test_config.py::test_default_options_overwrite PASSED\r\ntests/test_config.py::test_migrate_implicit_content_type PASSED\r\ntests/test_defaults.py::TestImplicitHTTPMethod::test_implicit_GET PASSED\r\ntests/test_defaults.py::TestImplicitHTTPMethod::test_implicit_GET_with_headers PASSED\r\ntests/test_defaults.py::TestImplicitHTTPMethod::test_implicit_POST_json PASSED\r\ntests/test_defaults.py::TestImplicitHTTPMethod::test_implicit_POST_form PASSED\r\ntests/test_defaults.py::TestImplicitHTTPMethod::test_implicit_POST_stdin PASSED\r\ntests/test_defaults.py::TestAutoContentTypeAndAcceptHeaders::test_GET_no_data_no_auto_headers PASSED\r\ntests/test_defaults.py::TestAutoContentTypeAndAcceptHeaders::test_POST_no_data_no_auto_headers PASSED\r\ntests/test_defaults.py::TestAutoContentTypeAndAcceptHeaders::test_POST_with_data_auto_JSON_headers PASSED\r\ntests/test_defaults.py::TestAutoContentTypeAndAcceptHeaders::test_GET_with_data_auto_JSON_headers PASSED\r\ntests/test_defaults.py::TestAutoContentTypeAndAcceptHeaders::test_POST_explicit_JSON_auto_JSON_accept PASSED\r\ntests/test_defaults.py::TestAutoContentTypeAndAcceptHeaders::test_GET_explicit_JSON_explicit_headers PASSED\r\ntests/test_defaults.py::TestAutoContentTypeAndAcceptHeaders::test_POST_form_auto_Content_Type PASSED\r\ntests/test_defaults.py::TestAutoContentTypeAndAcceptHeaders::test_POST_form_Content_Type_override PASSED\r\ntests/test_defaults.py::TestAutoContentTypeAndAcceptHeaders::test_print_only_body_when_stdout_redirected_by_default PASSED\r\ntests/test_defaults.py::TestAutoContentTypeAndAcceptHeaders::test_print_overridable_when_stdout_redirected PASSED\r\ntests/test_docs.py::test_rst_file_syntax[/home/actionmystique/src/HTTPie/git-httpie/AUTHORS.rst] FAILED\r\ntests/test_docs.py::test_rst_file_syntax[/home/actionmystique/src/HTTPie/git-httpie/CONTRIBUTING.rst] FAILED\r\ntests/test_docs.py::test_rst_file_syntax[/home/actionmystique/src/HTTPie/git-httpie/CHANGELOG.rst] FAILED\r\ntests/test_docs.py::test_rst_file_syntax[/home/actionmystique/src/HTTPie/git-httpie/README.rst] FAILED\r\ntests/test_docs.py::test_rst_file_syntax[/home/actionmystique/src/HTTPie/git-httpie/tests/README.rst] FAILED\r\ntests/test_downloads.py::TestDownloadUtils::test_Content_Range_parsing PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_Content_Disposition_parsing[attachment; filename=hello-WORLD_123.txt-hello-WORLD_123.txt] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_Content_Disposition_parsing[attachment; filename=\".hello-WORLD_123.txt\"-hello-WORLD_123.txt] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_Content_Disposition_parsing[attachment; filename=\"white space.txt\"-white space.txt] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_Content_Disposition_parsing[attachment; filename=\"\\\"quotes\\\".txt\"-\"quotes\".txt] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_Content_Disposition_parsing[attachment; filename=/etc/hosts-hosts] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_Content_Disposition_parsing[attachment; filename=-None] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_filename_from_url PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.bar-0-foo.bar] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.bar-1-foo.bar-1] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.bar-10-foo.bar-10] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_unique_filename[AAAAAAAAAAAAAAAAAAAA-0-AAAAAAAAAA] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_unique_filename[AAAAAAAAAAAAAAAAAAAA-1-AAAAAAAA-1] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_unique_filename[AAAAAAAAAAAAAAAAAAAA-10-AAAAAAA-10] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_unique_filename[AAAAAAAAAAAAAAAAAAAA.txt-0-AAAAAA.txt] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_unique_filename[AAAAAAAAAAAAAAAAAAAA.txt-1-AAAA.txt-1] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.AAAAAAAAAAAAAAAAAAAA-0-foo.AAAAAA] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.AAAAAAAAAAAAAAAAAAAA-1-foo.AAAA-1] PASSED\r\ntests/test_downloads.py::TestDownloadUtils::test_unique_filename[foo.AAAAAAAAAAAAAAAAAAAA-10-foo.AAA-10] PASSED\r\ntests/test_errors.py::test_error PASSED\r\ntests/test_errors.py::test_error_traceback PASSED\r\ntests/test_errors.py::test_timeout PASSED\r\ntests/test_exit_status.py::test_keyboard_interrupt_during_arg_parsing_exit_status PASSED\r\ntests/test_exit_status.py::test_keyboard_interrupt_in_program_exit_status PASSED\r\ntests/test_exit_status.py::test_ok_response_exits_0 PASSED\r\ntests/test_exit_status.py::test_error_response_exits_0_without_check_status PASSED\r\ntests/test_exit_status.py::test_timeout_exit_status PASSED\r\ntests/test_exit_status.py::test_3xx_check_status_exits_3_and_stderr_when_stdout_redirected PASSED\r\ntests/test_exit_status.py::test_3xx_check_status_redirects_allowed_exits_0 PASSED\r\ntests/test_exit_status.py::test_4xx_check_status_exits_4 PASSED\r\ntests/test_exit_status.py::test_5xx_check_status_exits_5 PASSED\r\ntests/test_httpie.py::test_debug PASSED\r\ntests/test_httpie.py::test_help PASSED\r\ntests/test_httpie.py::test_version PASSED\r\ntests/test_httpie.py::test_headers_empty_value_with_value_gives_error PASSED\r\ntests/test_output.py::test_output_option[True] PASSED\r\ntests/test_output.py::test_output_option[False] PASSED\r\ntests/test_output.py::TestVerboseFlag::test_verbose PASSED\r\ntests/test_output.py::TestVerboseFlag::test_verbose_form PASSED\r\ntests/test_output.py::TestVerboseFlag::test_verbose_json PASSED\r\ntests/test_output.py::TestVerboseFlag::test_verbose_implies_all PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[application/json-False-None-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[application/json+foo-False-None-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[application/foo+json-False-None-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[application/json-foo-False-None-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[application/x-json-False-None-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[foo/json-False-None-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[foo/json+bar-False-None-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[foo/bar+json-False-None-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[foo/json-foo-False-None-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[foo/x-json-False-None-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[application/vnd.comverge.grid+hal+json-False-None-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[text/plain-True-{}-JSON] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer[text/plain-True-foo-Text only] PASSED\r\ntests/test_output.py::TestColors::test_get_lexer_not_found PASSED\r\ntests/test_output.py::TestPrettyOptions::test_pretty_enabled_by_default PASSED\r\ntests/test_output.py::TestPrettyOptions::test_pretty_enabled_by_default_unless_stdout_redirected PASSED\r\ntests/test_output.py::TestPrettyOptions::test_force_pretty PASSED\r\ntests/test_output.py::TestPrettyOptions::test_force_ugly PASSED\r\ntests/test_output.py::TestPrettyOptions::test_subtype_based_pygments_lexer_match PASSED\r\ntests/test_output.py::TestPrettyOptions::test_colors_option PASSED\r\ntests/test_output.py::TestPrettyOptions::test_format_option PASSED\r\ntests/test_output.py::TestLineEndings::test_CRLF_headers_only PASSED\r\ntests/test_output.py::TestLineEndings::test_CRLF_ugly_response PASSED\r\ntests/test_output.py::TestLineEndings::test_CRLF_formatted_response PASSED\r\ntests/test_output.py::TestLineEndings::test_CRLF_ugly_request PASSED\r\ntests/test_output.py::TestLineEndings::test_CRLF_formatted_request PASSED\r\ntests/test_redirects.py::test_follow_all_redirects_shown PASSED\r\ntests/test_redirects.py::test_follow_without_all_redirects_hidden[--follow] PASSED\r\ntests/test_redirects.py::test_follow_without_all_redirects_hidden[-F] PASSED\r\ntests/test_redirects.py::test_follow_all_output_options_used_for_redirects PASSED\r\ntests/test_redirects.py::test_follow_redirect_output_options PASSED\r\ntests/test_redirects.py::test_max_redirects PASSED\r\ntests/test_regressions.py::test_Host_header_overwrite PASSED\r\ntests/test_regressions.py::test_output_devnil PASSED\r\ntests/test_sessions.py::TestSessionFlow::test_session_created_and_reused PASSED\r\ntests/test_sessions.py::TestSessionFlow::test_session_update PASSED\r\ntests/test_sessions.py::TestSessionFlow::test_session_read_only PASSED\r\ntests/test_sessions.py::TestSession::test_session_ignored_header_prefixes PASSED\r\ntests/test_sessions.py::TestSession::test_session_by_path PASSED\r\ntests/test_sessions.py::TestSession::test_session_unicode PASSED\r\ntests/test_sessions.py::TestSession::test_session_default_header_value_overwritten PASSED\r\ntests/test_sessions.py::TestSession::test_download_in_session PASSED\r\ntests/test_ssl.py::test_ssl_version[ssl2.3] PASSED\r\ntests/test_ssl.py::test_ssl_version[tls1] PASSED\r\ntests/test_ssl.py::test_ssl_version[tls1.1] PASSED\r\ntests/test_ssl.py::test_ssl_version[tls1.2] PASSED\r\ntests/test_ssl.py::TestClientCert::test_cert_and_key PASSED\r\ntests/test_ssl.py::TestClientCert::test_cert_pem PASSED\r\ntests/test_ssl.py::TestClientCert::test_cert_file_not_found PASSED\r\ntests/test_ssl.py::TestClientCert::test_cert_file_invalid FAILED\r\ntests/test_ssl.py::TestClientCert::test_cert_ok_but_missing_key FAILED\r\ntests/test_ssl.py::TestServerCert::test_verify_no_OK PASSED\r\ntests/test_ssl.py::TestServerCert::test_verify_custom_ca_bundle_path PASSED\r\ntests/test_ssl.py::TestServerCert::test_self_signed_server_cert_by_default_raises_ssl_error PASSED\r\ntests/test_ssl.py::TestServerCert::test_verify_custom_ca_bundle_invalid_path FAILED\r\ntests/test_ssl.py::TestServerCert::test_verify_custom_ca_bundle_invalid_bundle pytest-httpbin server hit an exception serving request: EOF occurred in violation of protocol (_ssl.c:590)\r\nattempting to ignore so the rest of the tests can run\r\nFAILED\r\ntests/test_stream.py::test_pretty_redirected_stream PASSED\r\ntests/test_stream.py::test_encoded_stream PASSED\r\ntests/test_stream.py::test_redirected_stream PASSED\r\ntests/test_unicode.py::test_unicode_headers PASSED\r\ntests/test_unicode.py::test_unicode_headers_verbose PASSED\r\ntests/test_unicode.py::test_unicode_form_item PASSED\r\ntests/test_unicode.py::test_unicode_form_item_verbose PASSED\r\ntests/test_unicode.py::test_unicode_json_item PASSED\r\ntests/test_unicode.py::test_unicode_json_item_verbose PASSED\r\ntests/test_unicode.py::test_unicode_raw_json_item PASSED\r\ntests/test_unicode.py::test_unicode_raw_json_item_verbose PASSED\r\ntests/test_unicode.py::test_unicode_url_query_arg_item PASSED\r\ntests/test_unicode.py::test_unicode_url_query_arg_item_verbose PASSED\r\ntests/test_unicode.py::test_unicode_url PASSED\r\ntests/test_unicode.py::test_unicode_basic_auth PASSED\r\ntests/test_unicode.py::test_unicode_digest_auth PASSED\r\ntests/test_uploads.py::TestMultipartFormDataFileUpload::test_non_existent_file_raises_parse_error PASSED\r\ntests/test_uploads.py::TestMultipartFormDataFileUpload::test_upload_ok PASSED\r\ntests/test_uploads.py::TestMultipartFormDataFileUpload::test_upload_multiple_fields_with_the_same_name PASSED\r\ntests/test_uploads.py::TestRequestBodyFromFilePath::test_request_body_from_file_by_path PASSED\r\ntests/test_uploads.py::TestRequestBodyFromFilePath::test_request_body_from_file_by_path_with_explicit_content_type PASSED\r\ntests/test_uploads.py::TestRequestBodyFromFilePath::test_request_body_from_file_by_path_no_field_name_allowed PASSED\r\ntests/test_uploads.py::TestRequestBodyFromFilePath::test_request_body_from_file_by_path_no_data_items_allowed PASSED\r\ntests/test_windows.py::TestWindowsOnly::test_windows_colorized_output SKIPPED\r\ntests/test_windows.py::TestFakeWindows::test_output_file_pretty_not_allowed_on_windows PASSED\r\ntests/utils.py::utils.http PASSED\r\n\r\n================================================================================= FAILURES ==================================================================================\r\n_______________________________________________ test_rst_file_syntax[/home/actionmystique/src/HTTPie/git-httpie/AUTHORS.rst] ________________________________________________\r\n\r\nfilename = '/home/actionmystique/src/HTTPie/git-httpie/AUTHORS.rst'\r\n\r\n    @pytest.mark.skipif(not has_docutils(), reason='docutils not installed')\r\n    @pytest.mark.parametrize('filename', filenames)\r\n    def test_rst_file_syntax(filename):\r\n        p = subprocess.Popen(\r\n            ['rst2pseudoxml.py', '--report=1', '--exit-status=1', filename],\r\n            stderr=subprocess.PIPE,\r\n            stdout=subprocess.PIPE\r\n        )\r\n        err = p.communicate()[1]\r\n>       assert p.returncode == 0, err.decode('utf8')\r\nE       AssertionError: Traceback (most recent call last):\r\nE           File \"/usr/local/bin/rst2pseudoxml.py\", line 17, in <module>\r\nE             from docutils.core import publish_cmdline, default_description\r\nE           File \"/usr/local/lib/python2.7/dist-packages/docutils/__init__.py\", line 68, in <module>\r\nE             class ApplicationError(StandardError):\r\nE         NameError: name 'StandardError' is not defined\r\nE         \r\nE       assert 1 == 0\r\nE        +  where 1 = <subprocess.Popen object at 0x7f6c45daf8d0>.returncode\r\n\r\ntests/test_docs.py:39: AssertionError\r\n_____________________________________________ test_rst_file_syntax[/home/actionmystique/src/HTTPie/git-httpie/CONTRIBUTING.rst] _____________________________________________\r\n\r\nfilename = '/home/actionmystique/src/HTTPie/git-httpie/CONTRIBUTING.rst'\r\n\r\n    @pytest.mark.skipif(not has_docutils(), reason='docutils not installed')\r\n    @pytest.mark.parametrize('filename', filenames)\r\n    def test_rst_file_syntax(filename):\r\n        p = subprocess.Popen(\r\n            ['rst2pseudoxml.py', '--report=1', '--exit-status=1', filename],\r\n            stderr=subprocess.PIPE,\r\n            stdout=subprocess.PIPE\r\n        )\r\n        err = p.communicate()[1]\r\n>       assert p.returncode == 0, err.decode('utf8')\r\nE       AssertionError: Traceback (most recent call last):\r\nE           File \"/usr/local/bin/rst2pseudoxml.py\", line 17, in <module>\r\nE             from docutils.core import publish_cmdline, default_description\r\nE           File \"/usr/local/lib/python2.7/dist-packages/docutils/__init__.py\", line 68, in <module>\r\nE             class ApplicationError(StandardError):\r\nE         NameError: name 'StandardError' is not defined\r\nE         \r\nE       assert 1 == 0\r\nE        +  where 1 = <subprocess.Popen object at 0x7f6c44de4950>.returncode\r\n\r\ntests/test_docs.py:39: AssertionError\r\n______________________________________________ test_rst_file_syntax[/home/actionmystique/src/HTTPie/git-httpie/CHANGELOG.rst] _______________________________________________\r\n\r\nfilename = '/home/actionmystique/src/HTTPie/git-httpie/CHANGELOG.rst'\r\n\r\n    @pytest.mark.skipif(not has_docutils(), reason='docutils not installed')\r\n    @pytest.mark.parametrize('filename', filenames)\r\n    def test_rst_file_syntax(filename):\r\n        p = subprocess.Popen(\r\n            ['rst2pseudoxml.py', '--report=1', '--exit-status=1', filename],\r\n            stderr=subprocess.PIPE,\r\n            stdout=subprocess.PIPE\r\n        )\r\n        err = p.communicate()[1]\r\n>       assert p.returncode == 0, err.decode('utf8')\r\nE       AssertionError: Traceback (most recent call last):\r\nE           File \"/usr/local/bin/rst2pseudoxml.py\", line 17, in <module>\r\nE             from docutils.core import publish_cmdline, default_description\r\nE           File \"/usr/local/lib/python2.7/dist-packages/docutils/__init__.py\", line 68, in <module>\r\nE             class ApplicationError(StandardError):\r\nE         NameError: name 'StandardError' is not defined\r\nE         \r\nE       assert 1 == 0\r\nE        +  where 1 = <subprocess.Popen object at 0x7f6c44e22c90>.returncode\r\n\r\ntests/test_docs.py:39: AssertionError\r\n________________________________________________ test_rst_file_syntax[/home/actionmystique/src/HTTPie/git-httpie/README.rst] ________________________________________________\r\n\r\nfilename = '/home/actionmystique/src/HTTPie/git-httpie/README.rst'\r\n\r\n    @pytest.mark.skipif(not has_docutils(), reason='docutils not installed')\r\n    @pytest.mark.parametrize('filename', filenames)\r\n    def test_rst_file_syntax(filename):\r\n        p = subprocess.Popen(\r\n            ['rst2pseudoxml.py', '--report=1', '--exit-status=1', filename],\r\n            stderr=subprocess.PIPE,\r\n            stdout=subprocess.PIPE\r\n        )\r\n        err = p.communicate()[1]\r\n>       assert p.returncode == 0, err.decode('utf8')\r\nE       AssertionError: Traceback (most recent call last):\r\nE           File \"/usr/local/bin/rst2pseudoxml.py\", line 17, in <module>\r\nE             from docutils.core import publish_cmdline, default_description\r\nE           File \"/usr/local/lib/python2.7/dist-packages/docutils/__init__.py\", line 68, in <module>\r\nE             class ApplicationError(StandardError):\r\nE         NameError: name 'StandardError' is not defined\r\nE         \r\nE       assert 1 == 0\r\nE        +  where 1 = <subprocess.Popen object at 0x7f6c44de4e10>.returncode\r\n\r\ntests/test_docs.py:39: AssertionError\r\n_____________________________________________ test_rst_file_syntax[/home/actionmystique/src/HTTPie/git-httpie/tests/README.rst] _____________________________________________\r\n\r\nfilename = '/home/actionmystique/src/HTTPie/git-httpie/tests/README.rst'\r\n\r\n    @pytest.mark.skipif(not has_docutils(), reason='docutils not installed')\r\n    @pytest.mark.parametrize('filename', filenames)\r\n    def test_rst_file_syntax(filename):\r\n        p = subprocess.Popen(\r\n            ['rst2pseudoxml.py', '--report=1', '--exit-status=1', filename],\r\n            stderr=subprocess.PIPE,\r\n            stdout=subprocess.PIPE\r\n        )\r\n        err = p.communicate()[1]\r\n>       assert p.returncode == 0, err.decode('utf8')\r\nE       AssertionError: Traceback (most recent call last):\r\nE           File \"/usr/local/bin/rst2pseudoxml.py\", line 17, in <module>\r\nE             from docutils.core import publish_cmdline, default_description\r\nE           File \"/usr/local/lib/python2.7/dist-packages/docutils/__init__.py\", line 68, in <module>\r\nE             class ApplicationError(StandardError):\r\nE         NameError: name 'StandardError' is not defined\r\nE         \r\nE       assert 1 == 0\r\nE        +  where 1 = <subprocess.Popen object at 0x7f6c44e1cfd0>.returncode\r\n\r\ntests/test_docs.py:39: AssertionError\r\n___________________________________________________________________ TestClientCert.test_cert_file_invalid ___________________________________________________________________\r\n\r\nself = <test_ssl.TestClientCert instance at 0x7f6c3d403998>, httpbin_secure = <SecureServer(<class 'pytest_httpbin.serve.SecureServer'>, started 140102906935040)>\r\n\r\n    def test_cert_file_invalid(self, httpbin_secure):\r\n        with pytest.raises(SSLError):\r\n            http(httpbin_secure + '/get',\r\n>                '--cert', __file__)\r\n\r\ntests/test_ssl.py:62: \r\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\r\ntests/utils.py:207: in http\r\n    exit_status = main(args=args, **kwargs)\r\nhttpie/core.py:227: in main\r\n    log_error=log_error,\r\nhttpie/core.py:99: in program\r\n    final_response = get_response(args, config_dir=env.config.directory)\r\nhttpie/client.py:70: in get_response\r\n    response = requests_session.request(**kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/sessions.py:488: in request\r\n    resp = self.send(prep, **send_kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/sessions.py:609: in send\r\n    r = adapter.send(request, **kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/adapters.py:423: in send\r\n    timeout=timeout\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:600: in urlopen\r\n    chunked=chunked)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:345: in _make_request\r\n    self._validate_conn(conn)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:844: in _validate_conn\r\n    conn.connect()\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connection.py:326: in connect\r\n    ssl_context=context)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:322: in ssl_wrap_socket\r\n    context.load_cert_chain(certfile, keyfile)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/contrib/pyopenssl.py:416: in load_cert_chain\r\n    self._ctx.use_certificate_file(certfile)\r\n/usr/local/lib/python2.7/dist-packages/OpenSSL/SSL.py:740: in use_certificate_file\r\n    _raise_current_error()\r\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\r\n\r\nexception_type = <class 'OpenSSL.SSL.Error'>\r\n\r\n    def exception_from_error_queue(exception_type):\r\n        \"\"\"\r\n        Convert an OpenSSL library failure into a Python exception.\r\n    \r\n        When a call to the native OpenSSL library fails, this is usually signalled\r\n        by the return value, and an error code is stored in an error queue\r\n        associated with the current thread. The err library provides functions to\r\n        obtain these error codes and textual error messages.\r\n        \"\"\"\r\n        errors = []\r\n    \r\n        while True:\r\n            error = lib.ERR_get_error()\r\n            if error == 0:\r\n                break\r\n            errors.append((\r\n                text(lib.ERR_lib_error_string(error)),\r\n                text(lib.ERR_func_error_string(error)),\r\n                text(lib.ERR_reason_error_string(error))))\r\n    \r\n>       raise exception_type(errors)\r\nE       Error: [('PEM routines', 'PEM_read_bio', 'no start line'), ('SSL routines', 'SSL_CTX_use_certificate_file', 'PEM lib')]\r\n\r\n/usr/local/lib/python2.7/dist-packages/OpenSSL/_util.py:54: Error\r\n--------------------------------------------------------------------------- Captured stderr call ----------------------------------------------------------------------------\r\n\r\nhttp: error: Error: [('PEM routines', 'PEM_read_bio', 'no start line'), ('SSL routines', 'SSL_CTX_use_certificate_file', 'PEM lib')]\r\n----------------------------------------------------------------------------- Captured log call -----------------------------------------------------------------------------\r\nconnectionpool.py          818 DEBUG    Starting new HTTPS connection (1): 127.0.0.1\r\n________________________________________________________________ TestClientCert.test_cert_ok_but_missing_key ________________________________________________________________\r\n\r\nself = <test_ssl.TestClientCert instance at 0x7f6c3d2b9b00>, httpbin_secure = <SecureServer(<class 'pytest_httpbin.serve.SecureServer'>, started 140102906935040)>\r\n\r\n    def test_cert_ok_but_missing_key(self, httpbin_secure):\r\n        with pytest.raises(SSLError):\r\n            http(httpbin_secure + '/get',\r\n>                '--cert', CLIENT_CERT)\r\n\r\ntests/test_ssl.py:67: \r\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\r\ntests/utils.py:207: in http\r\n    exit_status = main(args=args, **kwargs)\r\nhttpie/core.py:227: in main\r\n    log_error=log_error,\r\nhttpie/core.py:99: in program\r\n    final_response = get_response(args, config_dir=env.config.directory)\r\nhttpie/client.py:70: in get_response\r\n    response = requests_session.request(**kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/sessions.py:488: in request\r\n    resp = self.send(prep, **send_kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/sessions.py:609: in send\r\n    r = adapter.send(request, **kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/adapters.py:423: in send\r\n    timeout=timeout\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:600: in urlopen\r\n    chunked=chunked)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:345: in _make_request\r\n    self._validate_conn(conn)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:844: in _validate_conn\r\n    conn.connect()\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connection.py:326: in connect\r\n    ssl_context=context)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:322: in ssl_wrap_socket\r\n    context.load_cert_chain(certfile, keyfile)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/contrib/pyopenssl.py:419: in load_cert_chain\r\n    self._ctx.use_privatekey_file(keyfile or certfile)\r\n/usr/local/lib/python2.7/dist-packages/OpenSSL/SSL.py:798: in use_privatekey_file\r\n    self._raise_passphrase_exception()\r\n/usr/local/lib/python2.7/dist-packages/OpenSSL/SSL.py:777: in _raise_passphrase_exception\r\n    _raise_current_error()\r\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\r\n\r\nexception_type = <class 'OpenSSL.SSL.Error'>\r\n\r\n    def exception_from_error_queue(exception_type):\r\n        \"\"\"\r\n        Convert an OpenSSL library failure into a Python exception.\r\n    \r\n        When a call to the native OpenSSL library fails, this is usually signalled\r\n        by the return value, and an error code is stored in an error queue\r\n        associated with the current thread. The err library provides functions to\r\n        obtain these error codes and textual error messages.\r\n        \"\"\"\r\n        errors = []\r\n    \r\n        while True:\r\n            error = lib.ERR_get_error()\r\n            if error == 0:\r\n                break\r\n            errors.append((\r\n                text(lib.ERR_lib_error_string(error)),\r\n                text(lib.ERR_func_error_string(error)),\r\n                text(lib.ERR_reason_error_string(error))))\r\n    \r\n>       raise exception_type(errors)\r\nE       Error: [('PEM routines', 'PEM_read_bio', 'no start line'), ('SSL routines', 'SSL_CTX_use_PrivateKey_file', 'PEM lib')]\r\n\r\n/usr/local/lib/python2.7/dist-packages/OpenSSL/_util.py:54: Error\r\n--------------------------------------------------------------------------- Captured stderr call ----------------------------------------------------------------------------\r\n\r\nhttp: error: Error: [('PEM routines', 'PEM_read_bio', 'no start line'), ('SSL routines', 'SSL_CTX_use_PrivateKey_file', 'PEM lib')]\r\n----------------------------------------------------------------------------- Captured log call -----------------------------------------------------------------------------\r\nconnectionpool.py          818 DEBUG    Starting new HTTPS connection (1): 127.0.0.1\r\n_________________________________________________________ TestServerCert.test_verify_custom_ca_bundle_invalid_path __________________________________________________________\r\n\r\nself = <test_ssl.TestServerCert instance at 0x7f6c45eab638>, httpbin_secure = <SecureServer(<class 'pytest_httpbin.serve.SecureServer'>, started 140102906935040)>\r\n\r\n    def test_verify_custom_ca_bundle_invalid_path(self, httpbin_secure):\r\n        with pytest.raises(SSLError):\r\n>           http(httpbin_secure.url + '/get', '--verify', '/__not_found__')\r\n\r\ntests/test_ssl.py:89: \r\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\r\ntests/utils.py:207: in http\r\n    exit_status = main(args=args, **kwargs)\r\nhttpie/core.py:227: in main\r\n    log_error=log_error,\r\nhttpie/core.py:99: in program\r\n    final_response = get_response(args, config_dir=env.config.directory)\r\nhttpie/client.py:70: in get_response\r\n    response = requests_session.request(**kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/sessions.py:488: in request\r\n    resp = self.send(prep, **send_kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/sessions.py:609: in send\r\n    r = adapter.send(request, **kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/adapters.py:423: in send\r\n    timeout=timeout\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:600: in urlopen\r\n    chunked=chunked)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:345: in _make_request\r\n    self._validate_conn(conn)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:844: in _validate_conn\r\n    conn.connect()\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connection.py:326: in connect\r\n    ssl_context=context)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:308: in ssl_wrap_socket\r\n    context.load_verify_locations(ca_certs, ca_cert_dir)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/contrib/pyopenssl.py:411: in load_verify_locations\r\n    self._ctx.load_verify_locations(cafile, capath)\r\n/usr/local/lib/python2.7/dist-packages/OpenSSL/SSL.py:669: in load_verify_locations\r\n    _raise_current_error()\r\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\r\n\r\nexception_type = <class 'OpenSSL.SSL.Error'>\r\n\r\n    def exception_from_error_queue(exception_type):\r\n        \"\"\"\r\n        Convert an OpenSSL library failure into a Python exception.\r\n    \r\n        When a call to the native OpenSSL library fails, this is usually signalled\r\n        by the return value, and an error code is stored in an error queue\r\n        associated with the current thread. The err library provides functions to\r\n        obtain these error codes and textual error messages.\r\n        \"\"\"\r\n        errors = []\r\n    \r\n        while True:\r\n            error = lib.ERR_get_error()\r\n            if error == 0:\r\n                break\r\n            errors.append((\r\n                text(lib.ERR_lib_error_string(error)),\r\n                text(lib.ERR_func_error_string(error)),\r\n                text(lib.ERR_reason_error_string(error))))\r\n    \r\n>       raise exception_type(errors)\r\nE       Error: [('system library', 'fopen', 'No such file or directory'), ('BIO routines', 'BIO_new_file', 'no such file'), ('x509 certificate routines', 'X509_load_cert_crl_file', 'system lib')]\r\n\r\n/usr/local/lib/python2.7/dist-packages/OpenSSL/_util.py:54: Error\r\n--------------------------------------------------------------------------- Captured stderr call ----------------------------------------------------------------------------\r\n\r\nhttp: error: Error: [('system library', 'fopen', 'No such file or directory'), ('BIO routines', 'BIO_new_file', 'no such file'), ('x509 certificate routines', 'X509_load_cert_crl_file', 'system lib')]\r\n----------------------------------------------------------------------------- Captured log call -----------------------------------------------------------------------------\r\nconnectionpool.py          818 DEBUG    Starting new HTTPS connection (1): 127.0.0.1\r\n________________________________________________________ TestServerCert.test_verify_custom_ca_bundle_invalid_bundle _________________________________________________________\r\n\r\nself = <test_ssl.TestServerCert instance at 0x7f6c3d2e27e8>, httpbin_secure = <SecureServer(<class 'pytest_httpbin.serve.SecureServer'>, started 140102906935040)>\r\n\r\n    def test_verify_custom_ca_bundle_invalid_bundle(self, httpbin_secure):\r\n        with pytest.raises(SSLError):\r\n>           http(httpbin_secure.url + '/get', '--verify', __file__)\r\n\r\ntests/test_ssl.py:93: \r\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\r\ntests/utils.py:207: in http\r\n    exit_status = main(args=args, **kwargs)\r\nhttpie/core.py:227: in main\r\n    log_error=log_error,\r\nhttpie/core.py:99: in program\r\n    final_response = get_response(args, config_dir=env.config.directory)\r\nhttpie/client.py:70: in get_response\r\n    response = requests_session.request(**kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/sessions.py:488: in request\r\n    resp = self.send(prep, **send_kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/sessions.py:609: in send\r\n    r = adapter.send(request, **kwargs)\r\n/usr/local/lib/python2.7/dist-packages/requests/adapters.py:423: in send\r\n    timeout=timeout\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:600: in urlopen\r\n    chunked=chunked)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:345: in _make_request\r\n    self._validate_conn(conn)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connectionpool.py:844: in _validate_conn\r\n    conn.connect()\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/connection.py:326: in connect\r\n    ssl_context=context)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/util/ssl_.py:308: in ssl_wrap_socket\r\n    context.load_verify_locations(ca_certs, ca_cert_dir)\r\n/usr/local/lib/python2.7/dist-packages/requests/packages/urllib3/contrib/pyopenssl.py:411: in load_verify_locations\r\n    self._ctx.load_verify_locations(cafile, capath)\r\n/usr/local/lib/python2.7/dist-packages/OpenSSL/SSL.py:669: in load_verify_locations\r\n    _raise_current_error()\r\n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\r\n\r\nexception_type = <class 'OpenSSL.SSL.Error'>\r\n\r\n    def exception_from_error_queue(exception_type):\r\n        \"\"\"\r\n        Convert an OpenSSL library failure into a Python exception.\r\n    \r\n        When a call to the native OpenSSL library fails, this is usually signalled\r\n        by the return value, and an error code is stored in an error queue\r\n        associated with the current thread. The err library provides functions to\r\n        obtain these error codes and textual error messages.\r\n        \"\"\"\r\n        errors = []\r\n    \r\n        while True:\r\n            error = lib.ERR_get_error()\r\n            if error == 0:\r\n                break\r\n            errors.append((\r\n                text(lib.ERR_lib_error_string(error)),\r\n                text(lib.ERR_func_error_string(error)),\r\n                text(lib.ERR_reason_error_string(error))))\r\n    \r\n>       raise exception_type(errors)\r\nE       Error: []\r\n\r\n/usr/local/lib/python2.7/dist-packages/OpenSSL/_util.py:54: Error\r\n--------------------------------------------------------------------------- Captured stderr call ----------------------------------------------------------------------------\r\n\r\nhttp: error: Error: []\r\n----------------------------------------------------------------------------- Captured log call -----------------------------------------------------------------------------\r\nconnectionpool.py          818 DEBUG    Starting new HTTPS connection (1): 127.0.0.1\r\n========================================================================== pytest-warning summary ===========================================================================\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_auth.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_binary.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_cli.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_config.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_defaults.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_downloads.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_exit_status.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_httpie.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_output.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_sessions.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_stream.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_uploads.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\nWC1 /home/actionmystique/src/HTTPie/git-httpie/tests/test_windows.py cannot collect test class 'TestEnvironment' because it has a __init__ constructor\r\n=================================================== 9 failed, 224 passed, 3 skipped, 13 pytest-warnings in 14.51 seconds ====================================================\r\n```",
+              "createdAt": "2017-05-01T18:14:35Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-25T03:17:18Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 6
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/13176858?v=4",
+                "login": "jean-christophe-manciot",
+                "resourcePath": "/jean-christophe-manciot",
+                "url": "https://github.com/jean-christophe-manciot"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Need Offline install method/package on linux.",
+              "number": 585,
+              "url": "https://github.com/jakubroztocil/httpie/issues/585",
+              "body": "my linux server cannot access internet, when I try \"python setup.py install\", it's failed with following hint:\r\n`Installed /usr/lib/python2.6/site-packages/httpie-1.0.0_dev-py2.6.egg\r\nProcessing dependencies for httpie==1.0.0-dev\r\nSearching for argparse>=1.2.1\r\nReading http://pypi.python.org/simple/argparse/\r\nDownload error: [Errno 101] Network is unreachable -- Some packages may not be found!\r\nReading http://pypi.python.org/simple/argparse/\r\nDownload error: [Errno 101] Network is unreachable -- Some packages may not be found!\r\nCouldn't find index page for 'argparse' (maybe misspelled?)\r\nScanning index of all packages (this may take a while)\r\nReading http://pypi.python.org/simple/\r\nDownload error: [Errno 101] Network is unreachable -- Some packages may not be found!\r\nNo local packages or download links found for argparse>=1.2.1\r\nerror: Could not find suitable distribution for Requirement.parse('argparse>=1.2.1')`",
+              "createdAt": "2017-05-25T03:04:35Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-05-25T11:20:52Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/4566514?v=4",
+                "login": "figozhu",
+                "resourcePath": "/figozhu",
+                "url": "https://github.com/figozhu"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Is there a way to output httpie GET request in a browser-compatible format?",
+              "number": 587,
+              "url": "https://github.com/jakubroztocil/httpie/issues/587",
+              "body": "Let's say I use this command:\r\n\r\n    http httpbin.org/get key1==value1 key2==value2\r\n\r\nand then I want to check this request in a browser. \r\n\r\nI need to convert it to:\r\n\r\n    https://httpbin.org/get?key1=value1&key2=value2\r\n\r\nIs there a command line option I can use to format it that way? (instead of manually)\r\n\r\nThanks",
+              "createdAt": "2017-06-20T13:16:45Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-29T19:20:47Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 5
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/117240?v=4",
+                "login": "eyalev",
+                "resourcePath": "/eyalev",
+                "url": "https://github.com/eyalev"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Print only one header field",
+              "number": 588,
+              "url": "https://github.com/jakubroztocil/httpie/issues/588",
+              "body": "Is it possible to print only one, or multiple header fields?\r\nBased on this,\r\n```\r\n'H' request headers\r\n'B' request body\r\n'h' response headers\r\n'b' response body\r\n```\r\nLike, `http --print=H[Host,User-Agent]b <url>`\r\n",
+              "createdAt": "2017-06-22T22:48:38Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-26T12:45:36Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/16053355?v=4",
+                "login": "john-bonachon",
+                "resourcePath": "/john-bonachon",
+                "url": "https://github.com/john-bonachon"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "gitter link doesn't work",
+              "number": 590,
+              "url": "https://github.com/jakubroztocil/httpie/issues/590",
+              "body": "The link in the README doesn't work: https://gitter.im/jakubroztocil/httpie\r\n\r\nIt looks like this:\r\n![screenshot from 2017-06-29 14-53-51](https://user-images.githubusercontent.com/50637/27705093-ccee3634-5cda-11e7-9393-656975de2d93.png)\r\n\r\nThis link still seems to work though? https://gitter.im/jkbrzt/httpie",
+              "createdAt": "2017-06-29T18:55:26Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-29T18:55:26Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/50637?v=4",
+                "login": "agriffis",
+                "resourcePath": "/agriffis",
+                "url": "https://github.com/agriffis"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Why the Cookie header is removed when follow redirects?",
+              "number": 592,
+              "url": "https://github.com/jakubroztocil/httpie/issues/592",
+              "body": "I test as follow:\r\n\r\n```bash\r\nhttp -p H --all --follow github.com AnyHeader:name=value\r\nGET / HTTP/1.1\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAnyHeader: name=value\r\nConnection: keep-alive\r\nHost: github.com\r\nUser-Agent: HTTPie/0.9.9\r\n\r\nGET / HTTP/1.1\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nAnyHeader: name=value # This header is passed\r\nConnection: keep-alive\r\nHost: github.com\r\nUser-Agent: HTTPie/0.9.9\r\n\r\n\r\nhttp -p H --all --follow github.com Cookie:name=value\r\nGET / HTTP/1.1\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\nCookie: name=value\r\nHost: github.com\r\nUser-Agent: HTTPie/0.9.9\r\n\r\nGET / HTTP/1.1\r\nAccept: */*\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\nHost: github.com\r\nUser-Agent: HTTPie/0.9.9\r\n\r\n# The last request without cookie field\r\n```\r\n\r\nEnv:\r\n\r\n```bash\r\nuname -mprs\r\nDarwin 16.5.0 x86_64 i386\r\n\r\nhttp --version\r\n0.9.9\r\n```\r\n",
+              "createdAt": "2017-07-09T15:18:01Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-09T15:18:01Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/10029810?v=4",
+                "login": "acrazing",
+                "resourcePath": "/acrazing",
+                "url": "https://github.com/acrazing"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Emoji not displayed correctly",
+              "number": 593,
+              "url": "https://github.com/jakubroztocil/httpie/issues/593",
+              "body": "Nothing extremely important - I just noticed it when looking at @scotthelme's website\r\n\r\n\r\n#### HTTPie:\r\n```\r\nlenovouser@ntos ~> http https://scotthelme.co.uk/\r\nHTTP/1.1 200 OK\r\nCache-Control: public, max-age=0\r\nConnection: keep-alive\r\nContent-Encoding: gzip\r\nContent-Security-Policy: default-src 'none'; script-src 'self' cdnjs.cloudflare.com code.jquery.com scotthelme.disqus.com a.disquscdn.com www.google-analytics.com go.disqus.com platform.twitter.com cdn.syndication.twimg.com; style-src 'self' a.disquscdn.com fonts.googleapis.com cdnjs.cloudflare.com platform.twitter.com; img-src 'self' data: www.gravatar.com www.google-analytics.com links.services.disqus.com referrer.disqus.com a.disquscdn.com cdn.syndication.twimg.com syndication.twitter.com pbs.twimg.com platform.twitter.com abs.twimg.com cdn.ampproject.org amp.cloudflare.com; child-src fusiontables.googleusercontent.com fusiontables.google.com www.google.com disqus.com www.youtube.com syndication.twitter.com platform.twitter.com; frame-src fusiontables.googleusercontent.com fusiontables.google.com www.google.com disqus.com www.youtube.com syndication.twitter.com platform.twitter.com; connect-src 'self' links.services.disqus.com; font-src 'self' cdnjs.cloudflare.com fonts.gstatic.com fonts.googleapis.com; form-action 'self'; upgrade-insecure-requests; report-uri https://scotthelme.report-uri.io/r/default/csp/enforce\r\nContent-Security-Policy-Report-Only: default-src 'nonce-t5slRAfVLPIw0JeOc7ftbn3b2d0Hgmx6' 'strict-dynamic'; img-src *; child-src fusiontables.googleusercontent.com fusiontables.google.com www.google.com disqus.com www.youtube.com syndication.twitter.com platform.twitter.com; frame-src fusiontables.googleusercontent.com fusiontables.google.com www.google.com disqus.com www.youtube.com syndication.twitter.com platform.twitter.com; connect-src 'self' links.services.disqus.com; font-src cdnjs.cloudflare.com fonts.gstatic.com fonts.googleapis.com; form-action 'self'; report-uri https://scotthelme.report-uri.io/r/default/csp/reportOnly\r\nContent-Type: text/html; charset=utf-8\r\nDate: Sun, 09 Jul 2017 18:31:37 GMT\r\nPublic-Key-Pins: pin-sha256=\"9dNiZZueNZmyaf3pTkXxDgOzLkjKvI+Nza0ACF5IDwg=\"; pin-sha256=\"X3pGTSOuJeEVw989IJ/cEtXUEmy52zs1TZQrU06KUKg=\"; pin-sha256=\"V+J+7lHvE6X0pqGKVqLtxuvk+0f+xowyr3obtq8tbSw=\"; pin-sha256=\"9lBW+k9EF6yyG9413/fPiHhQy5Ok4UI5sBpBTuOaa/U=\"; pin-sha256=\"ipMu2Xu72A086/35thucbjLfrPaSjuw4HIjSWsxqkb8=\"; pin-sha256=\"+5JdLySIa9rS6xJM+2KHN9CatGKln78GjnDpf4WmI3g=\"; pin-sha256=\"MWfCxyqG2b5RBmYFQuLllhQvYZ3mjZghXTRn9BL9q10=\"; includeSubDomains; max-age=2592000; report-uri=\"https://scotthelme.report-uri.io/r/default/hpkp/enforce\"\r\nPublic-Key-Pins-Report-Only: pin-sha256=\"X3pGTSOuJeEVw989IJ/cEtXUEmy52zs1TZQrU06KUKg=\"; pin-sha256=\"Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys=\"; pin-sha256=\"IQBnNBEiFuhj+8x6X8XLgh01V9Ic5/V3IRQLNFFc7v4=\"; max-age=2592000; report-uri=\"https://scotthelme.report-uri.io/r/default/hpkp/reportOnly\"\r\nReferrer-Policy: strict-origin-when-cross-origin\r\nServer: Encrypt All The Things!!!\r\nStrict-Transport-Security: max-age=31536000; includeSubDomains; preload\r\nTransfer-Encoding: chunked\r\nVary: Accept-Encoding\r\nVary: Accept-Encoding\r\nX-CSP-Nonce: t5slRAfVLPIw0JeOc7ftbn3b2d0Hgmx6\r\nX-Content-Type-Options: nosniff\r\nX-Emoji: ððð\r\nX-Frame-Options: DENY\r\nX-Proxy-Cache: HIT\r\nX-Xss-Protection: 1; mode=block; report=https://scotthelme.report-uri.io/r/default/xss/enforce\r\n```\r\n\r\nScreenshot:\r\n![](https://i.lenovouser.me/6P1KZka2.png)\r\n\r\n#### cURL:\r\n\r\n```\r\nHTTP/2 200\r\nserver: Encrypt All The Things!!!\r\ndate: Sun, 09 Jul 2017 18:37:31 GMT\r\ncontent-type: text/html; charset=utf-8\r\nvary: Accept-Encoding\r\ncache-control: public, max-age=0\r\nvary: Accept-Encoding\r\nstrict-transport-security: max-age=31536000; includeSubDomains; preload\r\ncontent-security-policy: default-src 'none'; script-src 'self' cdnjs.cloudflare.com code.jquery.com scotthelme.disqus.com a.disquscdn.com www.google-analytics.com go.disqus.com platform.twitter.com cdn.syndication.twimg.com; style-src 'self' a.disquscdn.com fonts.googleapis.com cdnjs.cloudflare.com platform.twitter.com; img-src 'self' data: www.gravatar.com www.google-analytics.com links.services.disqus.com referrer.disqus.com a.disquscdn.com cdn.syndication.twimg.com syndication.twitter.com pbs.twimg.com platform.twitter.com abs.twimg.com cdn.ampproject.org amp.cloudflare.com; child-src fusiontables.googleusercontent.com fusiontables.google.com www.google.com disqus.com www.youtube.com syndication.twitter.com platform.twitter.com; frame-src fusiontables.googleusercontent.com fusiontables.google.com www.google.com disqus.com www.youtube.com syndication.twitter.com platform.twitter.com; connect-src 'self' links.services.disqus.com; font-src 'self' cdnjs.cloudflare.com fonts.gstatic.com fonts.googleapis.com; form-action 'self'; upgrade-insecure-requests; report-uri https://scotthelme.report-uri.io/r/default/csp/enforce\r\ncontent-security-policy-report-only: default-src 'nonce-qdLyaIO4fRJfnBCSc0EfuFkdw8Ce4NQF' 'strict-dynamic'; img-src *; child-src fusiontables.googleusercontent.com fusiontables.google.com www.google.com disqus.com www.youtube.com syndication.twitter.com platform.twitter.com; frame-src fusiontables.googleusercontent.com fusiontables.google.com www.google.com disqus.com www.youtube.com syndication.twitter.com platform.twitter.com; connect-src 'self' links.services.disqus.com; font-src cdnjs.cloudflare.com fonts.gstatic.com fonts.googleapis.com; form-action 'self'; report-uri https://scotthelme.report-uri.io/r/default/csp/reportOnly\r\npublic-key-pins: pin-sha256=\"9dNiZZueNZmyaf3pTkXxDgOzLkjKvI+Nza0ACF5IDwg=\"; pin-sha256=\"X3pGTSOuJeEVw989IJ/cEtXUEmy52zs1TZQrU06KUKg=\"; pin-sha256=\"V+J+7lHvE6X0pqGKVqLtxuvk+0f+xowyr3obtq8tbSw=\"; pin-sha256=\"9lBW+k9EF6yyG9413/fPiHhQy5Ok4UI5sBpBTuOaa/U=\"; pin-sha256=\"ipMu2Xu72A086/35thucbjLfrPaSjuw4HIjSWsxqkb8=\"; pin-sha256=\"+5JdLySIa9rS6xJM+2KHN9CatGKln78GjnDpf4WmI3g=\"; pin-sha256=\"MWfCxyqG2b5RBmYFQuLllhQvYZ3mjZghXTRn9BL9q10=\"; includeSubDomains; max-age=2592000; report-uri=\"https://scotthelme.report-uri.io/r/default/hpkp/enforce\"\r\npublic-key-pins-report-only: pin-sha256=\"X3pGTSOuJeEVw989IJ/cEtXUEmy52zs1TZQrU06KUKg=\"; pin-sha256=\"Vjs8r4z+80wjNcr1YKepWQboSIRi63WsWXhIMN+eWys=\"; pin-sha256=\"IQBnNBEiFuhj+8x6X8XLgh01V9Ic5/V3IRQLNFFc7v4=\"; max-age=2592000; report-uri=\"https://scotthelme.report-uri.io/r/default/hpkp/reportOnly\"\r\nx-frame-options: DENY\r\nx-xss-protection: 1; mode=block; report=https://scotthelme.report-uri.io/r/default/xss/enforce\r\nx-content-type-options: nosniff\r\nreferrer-policy: strict-origin-when-cross-origin\r\nx-emoji: 🔒🔒🔒\r\nx-csp-nonce: qdLyaIO4fRJfnBCSc0EfuFkdw8Ce4NQF\r\nx-proxy-cache: EXPIRED\r\n```\r\n\r\nScreenshot:\r\n![](https://i.lenovouser.me/TvfikLWr.png)",
+              "createdAt": "2017-07-09T18:40:31Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-25T15:15:14Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/7549136?v=4",
+                "login": "lenovouser",
+                "resourcePath": "/lenovouser",
+                "url": "https://github.com/lenovouser"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "jakubroztocil/httpie"
+              },
+              "title": "Error at login",
+              "number": 597,
+              "url": "https://github.com/jakubroztocil/httpie/issues/597",
+              "body": "Does not log into any site. Gives the same result, i.e. takes to the login page no matter what the credentials are\r\n![testscraper](https://user-images.githubusercontent.com/23145920/28555317-bf763726-711c-11e7-9a44-dcaf4e353b0e.png)\r\n",
+              "createdAt": "2017-07-25T04:07:14Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-25T11:37:23Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 1
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/23145920?v=4",
+                "login": "rwish",
+                "resourcePath": "/rwish",
+                "url": "https://github.com/rwish"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}
+
+@flask_issues = {
+  "data": {
+    "repository": {
+      "issues": {
+        "edges": [
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Blueprints and Extensions and SQLAlchemy",
+              "number": 289,
+              "url": "https://github.com/pallets/flask/issues/289",
+              "body": "We do not encourage people to create more than one database connection and to connect to databases in arbitrary extensions. The obvious exception are extensions whose sole purpose is to connect to databases. Dependency resolving is done by the developer. Eg:\n\n``` #!python\napp = Flask(__name__)\ndb = SQLAlchemy(app)\nsomething = SomethingElse(app, db)\n```\n\nThe problem comes with blueprints. If SomethingElse wants to define models it has to do that at a local scope where it has the reference to the db. Assuming it provides blueprints, how does the blueprint's views and other code get to the models? The sad truth is that if you make up blueprints on the fly the views in that blueprint don't know how to reference it.\n",
+              "createdAt": "2011-07-30T08:39:56Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-05-25T22:11:56Z",
+              "assignees": {
+                "totalCount": 1
+              },
+              "participants": {
+                "totalCount": 9
+              },
+              "comments": {
+                "totalCount": 7
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/7396?v=4",
+                "login": "mitsuhiko",
+                "resourcePath": "/mitsuhiko",
+                "url": "https://github.com/mitsuhiko"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "blueprints"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "static file would not send to browser correctly ",
+              "number": 331,
+              "url": "https://github.com/pallets/flask/issues/331",
+              "body": "Hi, \n\nI've got a issue about static file.\n\nWhen I put css file in /static/css/style.css in static directory and I described view function with `Variable Rules`.\nPlease see sample code on https://gist.github.com/1254213\n\n`GET /static/css/style.css` request dispatch to view function and css file did not send to browser correctly.\nI expected to `GET /static/css/style.css` should send css file to browser, not dispatch to view function.\n\nRegards.\n",
+              "createdAt": "2011-09-30T16:36:26Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-05T18:02:23Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/56591?v=4",
+                "login": "heavenshell",
+                "resourcePath": "/heavenshell",
+                "url": "https://github.com/heavenshell"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Static files only work for blueprints registered with url_prefix",
+              "number": 348,
+              "url": "https://github.com/pallets/flask/issues/348",
+              "body": "The option `static_folder` for blueprints only works correctly when the blueprint has been registered with a `url_prefix`, otherwise the application's default static URL takes precedence.\n\nThere is nothing wrong in that behavior, but it is not documented. It would be nice to have that fact mentioned at http://flask.pocoo.org/docs/blueprints/#static-files and/or http://flask.pocoo.org/docs/api/#blueprint-objects\n",
+              "createdAt": "2011-11-08T17:50:06Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-31T15:28:27Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 22
+              },
+              "comments": {
+                "totalCount": 21
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/1181357?v=4",
+                "login": "deshipu",
+                "resourcePath": "/deshipu",
+                "url": "https://github.com/deshipu"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "blueprints"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Nestable blueprints",
+              "number": 593,
+              "url": "https://github.com/pallets/flask/issues/593",
+              "body": "I'd like to be able to register \"sub-blueprints\" using `Blueprint.register_blueprint(*args, **kwargs)`. This would register the nested blueprints with an app when the \"parent\" is registered with it. All parameters are preserved, other than `url_prefix`, which is handled similarly to in `add_url_rule`. A naíve implementation could look like this:\n\n``` python\nclass Blueprint(object):\n    ...\n\n    def register_blueprint(self, blueprint, **options):\n        def deferred(state):\n            url_prefix = options.get('url_prefix')\n            if url_prefix is None:\n                url_prefix = blueprint.url_prefix\n            if 'url_prefix' in options:\n                del options['url_prefix']\n\n            state.app.register_blueprint(blueprint, url_prefix, **options)\n        self.record(deferred)\n```\n",
+              "createdAt": "2012-09-13T13:35:35Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-04-19T14:55:23Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 18
+              },
+              "comments": {
+                "totalCount": 28
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/649832?v=4",
+                "login": "teozkr",
+                "resourcePath": "/teozkr",
+                "url": "https://github.com/teozkr"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "blueprints"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Allow subdomains to work with no SERVER_NAME",
+              "number": 905,
+              "url": "https://github.com/pallets/flask/issues/905",
+              "body": "Would you be open to a patch allowing the use of subdomain routing with no SERVER_NAME pre-configured?\n\nThe motivation is to allow multiple domains to match a request, just like it does when SERVER_NAME is None, while still benefiting from the nice subdomain matcher. This is particularly useful in DEV to be able to develop on machine.local but also tunnel the instance to a vpn, and use things like xip.io (which all change the host).\n\nThe change would probably be mostly focused on create_url_adapter(). I imagine a configuration variable switching a different logic on for this function: it would look for subdomains and deduce the server_name which is the reverse of what's going on today.\nThe list of subdomains could come from the configuration I suppose, or better be deduced from the compilation of the routes.\n\n1) What do you think of this idea?\n2) If you are opposed to it, what alternative approach do you suggest instead?\n3) If you are not opposed to it, how do you think the implementation should look like?\n",
+              "createdAt": "2013-11-04T22:07:09Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-03-24T06:11:56Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/40152?v=4",
+                "login": "yannk",
+                "resourcePath": "/yannk",
+                "url": "https://github.com/yannk"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "SERVER_NAME configuration should not implicitly change routing behavior.",
+              "number": 998,
+              "url": "https://github.com/pallets/flask/issues/998",
+              "body": "When `Flask.config['SERVER_NAME']` is set to a domain (_thedomain.com:8080_) it alters the route matching behavior. Requests on \"subdomained\" urls (_sub1.thedomain.com:8080/some/route_) then only resolve to subdomained Blueprints (Blueprints with their 'subdomain' attribute set). With `app.config['SERVER_NAME']` set to `None`, subdomained url would also properly resolve to non-subdomained Blueprints.\n\nIn other words, the presence of `app.config['SERVER_NAME']` effectively serves as an _implicit_ switch to subdomain matching behaviour for Blueprints.\n\n(1) if this is intentional the documentation is not clear about it.\n(2) the naming of that config is not very indicative of this behavior altering property either.\n(3) this is not always the desirable behavior. Sometimes one still wants to use subdomains and set `app.config['SERVER_NAME']`, but does not want to map blueprints to subdomains. Such is the case for example, when using the value contained by `app.config['SERVER_NAME']` to extract the subdomain info from the requested url in one's own user-defined function (a `before_request` handler for example). As it stands, the behavior altering property of `app.config['SERVER_NAME']` forces developers in the latter use-case to set another more innocuous config property with the same value (e.g. `app.config['SERVER_DOMAIN']`).\n\nI propose that a new config flag that will explicitly enable subdomain matching behavior be added. The presence of which would make `app.config['SERVER_NAME']` mandatory (can't have subdomain support without it). But the presence of `app.config['SERVER_NAME']` should not impose subdomain matching behavior.\n",
+              "createdAt": "2014-03-13T06:28:07Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-14T20:42:34Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 7
+              },
+              "comments": {
+                "totalCount": 8
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/966912?v=4",
+                "login": "ekoka",
+                "resourcePath": "/ekoka",
+                "url": "https://github.com/ekoka"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "About flask docs translations",
+              "number": 1023,
+              "url": "https://github.com/pallets/flask/issues/1023",
+              "body": "#756\n\nHello @kennethreitz , We've created 'flask-docs-kr' project in readthedocs.org. \n(http://flask-docs-kr.readthedocs.org/ko/latest/)\nWe hope to enable 'flask.readthedocs.org/ko/latest' URL.\n\nPlease add our flask-docs-kr project to official flask readthedocs.org project. \n('Admin -> Translations -> Existing Translations')\n\nThanks.\n",
+              "createdAt": "2014-04-14T01:31:17Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-05-31T19:08:48Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 8
+              },
+              "comments": {
+                "totalCount": 7
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/955846?v=4",
+                "login": "liks79",
+                "resourcePath": "/liks79",
+                "url": "https://github.com/liks79"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "relative url_for with a blueprint mounted two times",
+              "number": 1091,
+              "url": "https://github.com/pallets/flask/issues/1091",
+              "body": "Based on blueprint concept, I expected it to handle relative `url_for` nicely:\n\n```\nfrom flask import Blueprint, Flask, url_for\n\nbp = Blueprint('foo', __name__)\n\n@bp.route('/')\ndef func():\n    return url_for('.func')\n\napp = Flask(__name__)\napp.register_blueprint(bp, url_prefix='/foo')\napp.register_blueprint(bp, url_prefix='/bar')\n\nclient = app.test_client()\nprint client.get('/foo/').data\nprint client.get('/bar/').data\n```\n\nBoth prints write the URL to the first blueprint registered (`/foo/`). Is it possible to mount two times the same blueprint and make relative `url_for` work? Is this behaviour expected?\n",
+              "createdAt": "2014-06-16T20:21:08Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-13T19:15:10Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 6
+              },
+              "comments": {
+                "totalCount": 18
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/105852?v=4",
+                "login": "iurisilvio",
+                "resourcePath": "/iurisilvio",
+                "url": "https://github.com/iurisilvio"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "blueprints"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Documention for \"The Application Context\" is confusing",
+              "number": 1151,
+              "url": "https://github.com/pallets/flask/issues/1151",
+              "body": "See: http://flask.pocoo.org/docs/appcontext/\n\nThere seems to be two main issues with this page.\n1. I'm not sure how to say it, but the prose is vague and lacks focus. The effect in any case is that the concepts are difficult to grasp. [1] [2] [3]\n2. Syntax errors and wordiness [4] [5] [6]\n\n[1] \"The application setup state in which the application implicitly is on the module level.\"\n[2] \"In contrast, during request handling, a couple of other rules exist\"\n[3] \"There is a third state which is sitting in between a little bit.\"\n[4] \"The main reason for the application’s context existence is that in the past a bunch of functionality was attached to the request context in lack of a better solution. Since one of the pillar’s of Flask’s design is that you can have more than one application in the same Python process.\"\n[5] \"To make an application context there are two ways.\"\n[6] \"The context is typically used to cache resources on there that need to be created on a per-request or usage case.\"\n",
+              "createdAt": "2014-08-15T16:48:13Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-31T15:28:27Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 8
+              },
+              "comments": {
+                "totalCount": 14
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/625822?v=4",
+                "login": "Ceasar",
+                "resourcePath": "/Ceasar",
+                "url": "https://github.com/Ceasar"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Support for @blueprint.cli.command",
+              "number": 1357,
+              "url": "https://github.com/pallets/flask/issues/1357",
+              "body": "It would be great to have access to the functionality of `app.cli.command` via blueprints - i.e. something like:\n\n``` python\nblueprint = Blueprint('myblueprint', __name__,)\n\n@blueprint.cli.command()\ndef doblueprintstuff():\n    \"\"\"Initialize the database.\"\"\"\n    #....\n```\n\nIt would help a lot when building modular applications.\n",
+              "createdAt": "2015-02-20T12:57:19Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-05-29T21:43:00Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/1698163?v=4",
+                "login": "lnielsen",
+                "resourcePath": "/lnielsen",
+                "url": "https://github.com/lnielsen"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "blueprints"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "cli"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "flaskr tutorial doesn't match flaskr repo",
+              "number": 1374,
+              "url": "https://github.com/pallets/flask/issues/1374",
+              "body": "This is making it difficult as I am getting an error, I check the repo and the code is completely different. This makes it difficult for a beginner. \n",
+              "createdAt": "2015-03-11T19:18:33Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-31T15:29:27Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 8
+              },
+              "comments": {
+                "totalCount": 11
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/8335176?v=4",
+                "login": "kissmygritts",
+                "resourcePath": "/kissmygritts",
+                "url": "https://github.com/kissmygritts"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "request.json and a lot of other attributes don't use autodoc",
+              "number": 1430,
+              "url": "https://github.com/pallets/flask/issues/1430",
+              "body": "Some attributes and methods have custom documentation in api.rst, while there doesn't seem to be a reason why that couldn't be generated through autodoc.\n",
+              "createdAt": "2015-04-11T16:22:28Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-02T17:39:21Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/837573?v=4",
+                "login": "untitaker",
+                "resourcePath": "/untitaker",
+                "url": "https://github.com/untitaker"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Consider adding documentation about script-name-stripping middleware to CGI deployment documentation",
+              "number": 1485,
+              "url": "https://github.com/pallets/flask/issues/1485",
+              "body": "The FastCGI deployment documentation mentions that it may be necessary to configure some middleware to strip the `SCRIPT_NAME` environment variable of the actual script file name in order to prevent it appearing in the URL (e.g. `example.com/yourapplication.fcgi/news/`).\n\nThe default `mod_rewrite` configuration given in the CGI deployment documentation has the same issues yet no mention of this workaround is given. Please consider mentioning this on this page also.\n",
+              "createdAt": "2015-06-07T10:57:47Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-31T15:28:27Z",
+              "assignees": {
+                "totalCount": 1
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/2750246?v=4",
+                "login": "DanielGibbsNZ",
+                "resourcePath": "/DanielGibbsNZ",
+                "url": "https://github.com/DanielGibbsNZ"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Support zero-ceremony sub-app mounting (including Blueprints)",
+              "number": 1548,
+              "url": "https://github.com/pallets/flask/issues/1548",
+              "body": "#1361, #1498, and #1494 seem to indicate that some people don't see Blueprints as templates for application behavior, but want to treat them as little self-contained applications that are composed onto the main application.  Effectively, we would be taking [the app composition pattern](http://flask.pocoo.org/docs/0.10/patterns/appdispatch/#app-dispatch) and building it into the API.\n\nWhat sort of an API would we need to properly support app composition for such purposes, since that would solve all of these use cases (404 / 405 error handlers at the \"Blueprint\" level, only able to see its own templates, etc.)?\n\nThe minimum API is `Flask#mount_app(app_or_blueprint)` - but that still leaves a few questions:\n1. Does the parent app need to be able to route to sub-app routes via `url_for`?\n2. Does the child app need to be able to route to parent or sibling-app routes via `url_for`?\n3. Ditto for `static` and `templates` (although #1361 suggests that such uses would want the static and template folders to be distinct).\n4. Other questions which I am certainly missing\n\nWhat do _you_ need from Blueprints?  What else would you _expect_ `Flask#mout_app` to do?\n",
+              "createdAt": "2015-08-03T13:05:24Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-01T04:21:42Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 7
+              },
+              "comments": {
+                "totalCount": 7
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/143435?v=4",
+                "login": "svieira",
+                "resourcePath": "/svieira",
+                "url": "https://github.com/svieira"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "blueprints"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "OPTIONS requests sometimes match the wrong url_rule if there are multiple route handlers for different methods",
+              "number": 1604,
+              "url": "https://github.com/pallets/flask/issues/1604",
+              "body": "I have multiple route handlers with the same path but with different methods that they handles, e.g.\n\n```\n@app.route('/users', methods=['GET'])\n@app.route('/users', methods=['POST'])\n```\n\nThe problem occurs when a CORS pre-flight OPTIONS request is made to `/users`. Since the route and method match both endpoints, the wrong endpoint is sometimes returned which is problematic if you are trying to use the matched `url_rule` for any logic. In my case, I was using `request.url_rule.methods` to add the `Access-Control-Allow-Methods` header to the response.\n",
+              "createdAt": "2015-11-02T16:57:17Z",
+              "lastEditedAt": "2016-06-03T21:32:30Z",
+              "updatedAt": "2016-06-03T21:43:58Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/174270?v=4",
+                "login": "ahuling13",
+                "resourcePath": "/ahuling13",
+                "url": "https://github.com/ahuling13"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Allow debugger to be controlled from application configuration",
+              "number": 1641,
+              "url": "https://github.com/pallets/flask/issues/1641",
+              "body": "I submitted a patch for this but learned that it was incomplete with further testing. https://github.com/mitsuhiko/flask/pull/1640\n\nBasically, it would be nice to allow `DEBUG` on the application to control the activation of the debugger and reloader when running the CLI like `app.run` does.\n",
+              "createdAt": "2015-12-06T02:02:11Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-12-28T21:50:18Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/276212?v=4",
+                "login": "nZac",
+                "resourcePath": "/nZac",
+                "url": "https://github.com/nZac"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Update the list of Approved Extensions",
+              "number": 1775,
+              "url": "https://github.com/pallets/flask/issues/1775",
+              "body": "http://flask.pocoo.org/docs/dev/extensiondev/#approved-extensions\n\nDoes anyone keep this updated? \nShould the concept of \"approved\" extensions get dropped?\n\nSimilarly, with the transition to `pallets`, what's going to happen to the extensions list itself? http://flask.pocoo.org/extensions/ \n\nWill it get dropped like snippets are?\n\nSee also #865 about updating the docs on approved extensions.\n",
+              "createdAt": "2016-04-08T07:21:12Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2016-05-12T21:33:02Z",
+              "assignees": {
+                "totalCount": 1
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 4
+              },
+              "author": {
+                "avatarUrl": "https://avatars2.githubusercontent.com/u/483314?v=4",
+                "login": "jeffwidman",
+                "resourcePath": "/jeffwidman",
+                "url": "https://github.com/jeffwidman"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Remove version info from Werkzeug in the docs",
+              "number": 1852,
+              "url": "https://github.com/pallets/flask/issues/1852",
+              "body": "The following version information is coming from the Werkzeug docs: \"New in version 0.6: The location can now be a unicode string that is encoded using the iri_to_uri() function.\" See http://flask.pocoo.org/docs/0.11/api/#flask.redirect.\n\nThere might be more of this kind of issue in the documentation. For this particular one, you can trace the code to docs/api.rst,: \n\n```\n.. autofunction:: redirect\n```\n",
+              "createdAt": "2016-06-02T18:50:50Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-06-09T17:37:10Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 4
+              },
+              "comments": {
+                "totalCount": 5
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/4307599?v=4",
+                "login": "dawran6",
+                "resourcePath": "/dawran6",
+                "url": "https://github.com/dawran6"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Documentation for Flask + mod_wsgi + pyvenv + Python 3 doesn't work",
+              "number": 1948,
+              "url": "https://github.com/pallets/flask/issues/1948",
+              "body": "It says [in the documentation](http://flask.pocoo.org/docs/0.11/deploying/mod_wsgi/) (the last section - \"Working with Virtual Environments\"):\n\n> For Python 3 add the following lines to the top of your .wsgi file:\n> \n> ```\n> activate_this = '/path/to/env/bin/activate_this.py'\n> with open(activate_this) as file_:\n>     exec(file_.read(), dict(__file__=activate_this))\n> ```\n\nHowever `activate_this.py` is no longer present in pyvenv (see http://bugs.python.org/issue21496), thus the above code doesn't work. I found a stackoverflow answer where it said that just copying `activate_this.py` from a 2.7 virtualenv might work, however I didn't go down that route.\n\nHow I managed to get it working:\n\nI added `WSGIPythonHome /path/to/env` to the top level of my apache config (ie. outside of VirtualEnv). However that might be a little to big of a hammer if people want to run multiple applications in the same Apache instance. In that case setting `python-path` on `WSGIDaemonProcess` might work (however I didn't try it out).\n",
+              "createdAt": "2016-07-07T12:52:37Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-31T15:28:27Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 2
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/838250?v=4",
+                "login": "cdman",
+                "resourcePath": "/cdman",
+                "url": "https://github.com/cdman"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Update app factory docs for Flask's CLI",
+              "number": 2027,
+              "url": "https://github.com/pallets/flask/issues/2027",
+              "body": "see https://github.com/pallets/flask/pull/1536\n",
+              "createdAt": "2016-09-18T12:17:46Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-08-01T15:54:34Z",
+              "assignees": {
+                "totalCount": 1
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 11
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/837573?v=4",
+                "login": "untitaker",
+                "resourcePath": "/untitaker",
+                "url": "https://github.com/untitaker"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "cli"
+                    }
+                  },
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Input stream not automatically drained at teardown.",
+              "number": 2188,
+              "url": "https://github.com/pallets/flask/issues/2188",
+              "body": "I'm not sure if this is intended behaviour and maybe I should know better, but I spent ages trying to figure out why I was getting a `code 400, message Bad request syntax` error and it turned out to be because I was not consuming the data associated with a request when raising an `Unauthorized` exception.\r\n\r\nThis seems to be a massive hole because if you are not expecting data with a request and so don't read anything then that data is left in the input stream (assuming `keep-alive`) and so forms the start of the next request.  In fact I have even tried sending a request with another request in the data and Flask processes that data as if it were the next request and sends that in response to the following request.\r\n\r\nI have resolved this issue by copying the body of the `finally` clause in the `wrapper` function inside `exhaust_stream` from `formparser.py` in [pallets/werkzeug](http://github.com/pallets/werkzeug) and having this new function decorated with `@app.teardown_request`.  This ensures that the input stream is always drained after every request and so left over data is not mis-interpreted as the start of the next request.\r\n\r\nAnyway, if I am expected to handle this situation manually as I have done can something be added to the documentation (or if it's already there can you point it out to me, somehow I couldn't find it).  Otherwise, I think Flask should drain the input stream so that subsequent requests are always correctly aligned.",
+              "createdAt": "2017-02-20T04:32:41Z",
+              "lastEditedAt": "2017-02-20T04:33:43Z",
+              "updatedAt": "2017-07-10T17:29:41Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 16
+              },
+              "author": {
+                "avatarUrl": "https://avatars3.githubusercontent.com/u/11205202?v=4",
+                "login": "Parakleta",
+                "resourcePath": "/Parakleta",
+                "url": "https://github.com/Parakleta"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Problem with partial video content: send_from_directory() + x-sendfile + mod_wsgi",
+              "number": 2384,
+              "url": "https://github.com/pallets/flask/issues/2384",
+              "body": "I found that using send_file() to serve video (mp4) files works fine but the same content is not served using send_from_directory(). Only small parts (hundreds of bytes) are delivered to browser.\r\nOn Firefox video embedded through \\<video\\> tags is playable in most cases but opened directly from address bar not. On Chrome both methods are not working.\r\n\r\nWith x-sendfile switched off, send_from_directory() works ok.\r\n\r\nTested on:\r\nDebian: python 3.5.3, flask  0.12.2, apache 2.4.25, mod_wsgi 4.5.11\r\nUbuntu: python 3.5.2, flask 0.12.2, apache 2.4.18, mod_wsgi 4.3.0",
+              "createdAt": "2017-06-19T15:19:07Z",
+              "lastEditedAt": "2017-06-19T15:20:20Z",
+              "updatedAt": "2017-06-19T15:20:20Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 1
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/5732649?v=4",
+                "login": "xplwowi",
+                "resourcePath": "/xplwowi",
+                "url": "https://github.com/xplwowi"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Suggestions for Tutorial",
+              "number": 2408,
+              "url": "https://github.com/pallets/flask/issues/2408",
+              "body": "### Environment\r\n\r\n* Python version: 3.5\r\n* Flask version: 0.12\r\n\r\nNotes and suggestions from working through the 0.12 Tutorial:\r\n\r\n* Step 1\r\n\r\nSo ... do I run this schema.sql file? Will Flask run it for me?\r\n\r\n\r\n* Step 2\r\n\r\nThat \"import ... g ...\"\" looks like a typo. I left it out until I\r\nread step 4.\r\n\r\n\"The SECRET_KEY is needed...\"\r\nWhat do real systems do? No need to go into details, just mention\r\nsomething. SHA1? SSH keys?\r\n\r\n\r\n* Step 3\r\n\r\n\"Flask is now shipped with built-in support for Click.\"\r\nThat's nice I guess, but what does it have to do with anything else\r\nin this step?\r\n\r\n\"A useful pattern to manage a Flask application...\"\r\nWhy? Will it make deployment in my production environment easier? To\r\nother people? What happens if I don't?\r\n\r\nIt would be better if the text said which directory to use\r\nbefore the command\r\n\r\n\r\n* Step 4\r\n\r\n\"def get_db():\"\r\n\r\nLooks like an unsafe singleton. Does Flask use threads or processes?\r\n\r\n\"Hint: Where do I put this code?\"\r\n\r\nI'd been using Flask for 30 minutes, I had no idea where to put the\r\ncode. This should be at the start.\r\n\r\n\r\n* Step 5\r\n\r\n    (flask) /home/hugh/Flask/Tutorial/flaskr/$ flask initdb\r\n    Usage: flask [OPTIONS] COMMAND [ARGS]...\r\n\r\n    Error: No such command \"initdb\".\r\n\r\nHmm, function has to have same name as in decorator?\r\nNo\r\n\r\nMaybe the command is really flask --initdb?\r\nNo\r\n\r\nHave I screwed up the environment var?\r\n    $ flask run\r\nThat seems to work.\r\n\r\n(And yes I worked out shortly afterwards that this is an illusion, trying\r\nto load a page will throw a \"does not appear to exist\" exception.)\r\n\r\n    $ cd flaskr\r\n    $ flask initdb\r\nAha!\r\n\r\nGeneral note: having two identically named dirs is confusing, need\r\nto be clearer about where you should be at each step\r\n\r\n\r\nUseful exercise that could be added:\r\n\r\nIf you want the second database attribute, the blog entry HTML, to\r\nbe named \"body\" instead of \"text\", how many files do you need to edit?\r\n\r\n",
+              "createdAt": "2017-07-07T04:44:48Z",
+              "lastEditedAt": "2017-07-10T14:21:04Z",
+              "updatedAt": "2017-07-31T15:28:27Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/8109719?v=4",
+                "login": "laranzu",
+                "resourcePath": "/laranzu",
+                "url": "https://github.com/laranzu"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Flask CLI doesn't support application context in argument callbacks",
+              "number": 2410,
+              "url": "https://github.com/pallets/flask/issues/2410",
+              "body": "I recently converted an old managing script to use Flask's built in CLI instead. I have a table for clients that are identified using a shortname/slug. I thought about using Click's argument callback for this. Given a shortname my function would get an instance of the client from my ORM. The problem is that the application context is not active when the callback is run.\r\n\r\n### Expected Behavior\r\n\r\nSince many scripts will rely on a database connection it makes sense to have the application context be available in arguments.\r\n\r\n```python\r\nimport click\r\nfrom flask import current_app, Flask\r\n\r\napp = Flask(\"demo\")\r\n\r\ndef example_callback(ctx, param, value):\r\n    # Access the application context to trigger an exception\r\n    click.echo(current_app.config)\r\n    return {\"id\": 1, \"shortname\": value}\r\n\r\n@app.cli.command()\r\n@click.argument(\"arg\", callback=example_callback)\r\ndef view(arg):\r\n    click.echo(arg)\r\n```\r\n\r\nI run this using `flask view foobar`.\r\n\r\n### Actual Behavior\r\n\r\n```pytb\r\nTraceback (most recent call last):\r\n  File \"/dev/flask-cli-demo/venv/bin/flask\", line 11, in <module>\r\n    sys.exit(main())\r\n  File \"/dev/flask-cli-demo/venv/local/lib/python2.7/site-packages/flask/cli.py\", line 513, in main\r\n    cli.main(args=args, prog_name=name)\r\n  File \"/dev/flask-cli-demo/venv/local/lib/python2.7/site-packages/flask/cli.py\", line 380, in main\r\n    return AppGroup.main(self, *args, **kwargs)\r\n  File \"/dev/flask-cli-demo/venv/local/lib/python2.7/site-packages/click/core.py\", line 697, in main\r\n    rv = self.invoke(ctx)\r\n  File \"/dev/flask-cli-demo/venv/local/lib/python2.7/site-packages/click/core.py\", line 1064, in invoke\r\n    sub_ctx = cmd.make_context(cmd_name, args, parent=ctx)\r\n  File \"/dev/flask-cli-demo/venv/local/lib/python2.7/site-packages/click/core.py\", line 621, in make_context\r\n    self.parse_args(ctx, args)\r\n  File \"/dev/flask-cli-demo/venv/local/lib/python2.7/site-packages/click/core.py\", line 880, in parse_args\r\n    value, args = param.handle_parse_result(ctx, opts, args)\r\n  File \"/dev/flask-cli-demo/venv/local/lib/python2.7/site-packages/click/core.py\", line 1404, in handle_parse_result\r\n    self.callback, ctx, self, value)\r\n  File \"/dev/flask-cli-demo/venv/local/lib/python2.7/site-packages/click/core.py\", line 78, in invoke_param_callback\r\n    return callback(ctx, param, value)\r\n  File \"/dev/flask-cli-demo/app.py\", line 8, in example_callback\r\n    click.echo(current_app.config)\r\n  File \"/dev/flask-cli-demo/venv/local/lib/python2.7/site-packages/werkzeug/local.py\", line 347, in __getattr__\r\n    return getattr(self._get_current_object(), name)\r\n  File \"/dev/flask-cli-demo/venv/local/lib/python2.7/site-packages/werkzeug/local.py\", line 306, in _get_current_object\r\n    return self.__local()\r\n  File \"/dev/flask-cli-demo/venv/local/lib/python2.7/site-packages/flask/globals.py\", line 51, in _find_app\r\n    raise RuntimeError(_app_ctx_err_msg)\r\nRuntimeError: Working outside of application context.\r\n```\r\n\r\n### Environment\r\n```\r\nclick==6.7\r\nFlask==0.12.2\r\nitsdangerous==0.24\r\nJinja2==2.9.6\r\nMarkupSafe==1.0\r\npkg-resources==0.0.0\r\nWerkzeug==0.12.2\r\n```\r\n\r\n### Workaround\r\nThe only workaround I've found is doing the same thing `@with_appcontext` does which is:\r\n\r\n```python\r\nwith ctx.ensure_object(ScriptInfo).load_app().app_context():\r\n```\r\n\r\nUsing `@with_appcontext` on `example_callback` doesn't work since that gives a warning about using a deprecated function signature (from before Click 2.0).\r\n\r\n### Why is this a problem?\r\nThis results in two separate instantiations of my ORM. Some ORM's (like the one I'm using) doesn't allow sharing objects across instances (for good reason) which makes the client object I produce unusable anyway.",
+              "createdAt": "2017-07-10T14:17:27Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-15T03:54:27Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 2
+              },
+              "comments": {
+                "totalCount": 0
+              },
+              "author": {
+                "avatarUrl": "https://avatars1.githubusercontent.com/u/864128?v=4",
+                "login": "runfalk",
+                "resourcePath": "/runfalk",
+                "url": "https://github.com/runfalk"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "cli"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Tutorial: step 3 (Installing as package) needs rationale",
+              "number": 2421,
+              "url": "https://github.com/pallets/flask/issues/2421",
+              "body": "Step 3 of the tutorial ([installing flaskr as a package](http://flask.pocoo.org/docs/0.12/tutorial/packaging/)) needs rationale at the top. As it stands, that section of the tutorial tells the user out of the blue that they should install their webapp as a package, but doesn't say why. The user can already run their webapp via `flask run`, so it's not clear why they should at this point set up and install their package into their venv.\r\n",
+              "createdAt": "2017-07-18T14:37:21Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-31T15:28:28Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 7
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/212308?v=4",
+                "login": "uvtc",
+                "resourcePath": "/uvtc",
+                "url": "https://github.com/uvtc"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "Reloader fails to reload after SyntaxError when the app is in an __init__.py file",
+              "number": 2423,
+              "url": "https://github.com/pallets/flask/issues/2423",
+              "body": "### Expected Behavior\r\n\r\nThe reloader should work correctly even for an app in a package's `__init__.py` file.\r\n\r\nIn `hello/__init__.py`:\r\n```python\r\nfrom flask import Flask\r\napp = Flask(__name__)\r\n\r\n@app.route('/')\r\ndef hello_world():\r\n    return 'Hello, World!'\r\n```\r\n\r\n```cmd\r\nset FLASK_APP=hello\r\nset FLASK_DEBUG=1\r\nflask run\r\n```\r\n\r\nThan edit `__init__.py` and introduce a syntax error.\r\n\r\n### Actual Behavior\r\n\r\nI get the SyntaxError the first time I try to browse and afterwards get:\r\n\r\n```pytb\r\nTraceback (most recent call last):\r\n  File \"flask\\cli.py\", line 48, in find_best_app\r\n    'using a factory function.' % modules.__name__)\r\nNoAppException: Failed to find application in module \"hello\". Are you sure it contains a Flask application? Maybe you wrapped it in WSGI middleware or you are using a factory function.\r\n```\r\n\r\n### Cause\r\n\r\nThis is caused by weird CPython behavior which might be a bug:\r\n```py\r\n>>> __import__('syntax_error')\r\n...\r\nSyntaxError: ...\r\n>>> a = __import__('syntax_error')  # woot it works?!\r\n>>> a.__file__\r\n'<path to the directory containing __init__.py>'  # Instead of path to __init__.py\r\n```\r\n\r\nAfter the `SyntaxError` in the app, the Wekzeug reloader won't know about the `__init__.py` file any more since it iterates `sys.modules` and the entry there contains the path to the directory instead of the path to the `__init__.py` file, and Flask will call `__import__` repeatedly but will get the weird empty module and will fail to find an app in it, leading to the described exception.\r\n\r\n### Environment\r\n\r\n* Python version: 2.7.13\r\n* Flask version: 0.12.2\r\n* Werkzeug version: 0.12.2\r\n\r\nNot sure if this happens in Python 3.",
+              "createdAt": "2017-07-19T08:23:42Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-19T12:33:03Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 3
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/24731903?v=4",
+                "login": "segevfiner",
+                "resourcePath": "/segevfiner",
+                "url": "https://github.com/segevfiner"
+              },
+              "labels": {
+                "edges": []
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "The reloader fails on SyntaxError when using a custom cli entry point",
+              "number": 2424,
+              "url": "https://github.com/pallets/flask/issues/2424",
+              "body": "### Expected Behavior\r\n\r\nThe reloader should keep working even on SyntaxError when using a custom cli entry point. Obviously it might be diffcult to make it work as is, so it might require the cli entry point to be written in a certain way for this to work. For example it should be in a separate file that is not modified often during app development and should import the app only from the `create_app` function. This might just require documenting this more clearly.\r\n\r\n```python\r\nimport click\r\nfrom flask import Flask\r\nfrom flask.cli import FlaskGroup\r\n\r\napp = Flask(__name__)\r\n\r\n@app.route('/')\r\ndef hello_world():\r\n    return 'Hello, World!'\r\n\r\n@click.group(cls=FlaskGroup, create_app=lambda info: app)\r\ndef cli():\r\n    pass\r\n\r\nif __name__ == '__main__':\r\n    cli()\r\n```\r\n\r\n```cmd\r\nset FLASK_DEBUG=1\r\npython app.py run\r\n```\r\n\r\n### Actual Behavior\r\n\r\nIntroucing a SyntaxError into the file will cause the reloader to exit.\r\n\r\n### Environment\r\n\r\n* Python version: 2.7.13\r\n* Flask version: 0.12.2\r\n* Werkzeug version: 0.12.2\r\n",
+              "createdAt": "2017-07-20T07:46:15Z",
+              "lastEditedAt": nil,
+              "updatedAt": "2017-07-31T15:28:39Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 5
+              },
+              "comments": {
+                "totalCount": 10
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/24731903?v=4",
+                "login": "segevfiner",
+                "resourcePath": "/segevfiner",
+                "url": "https://github.com/segevfiner"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "node": {
+              "repository": {
+                "nameWithOwner": "pallets/flask"
+              },
+              "title": "The example flaskr can't easily be run by a beginner in Flask framework",
+              "number": 2437,
+              "url": "https://github.com/pallets/flask/issues/2437",
+              "body": "Even if I followed the instruction sequences in the README file in the project flaskr, I still couldn't correctly run this application. It's so depressing. I have already seen another similar issue #1902, but it is not helpful.\r\n",
+              "createdAt": "2017-07-29T08:54:50Z",
+              "lastEditedAt": "2017-07-29T08:57:08Z",
+              "updatedAt": "2017-07-31T15:28:28Z",
+              "assignees": {
+                "totalCount": 0
+              },
+              "participants": {
+                "totalCount": 3
+              },
+              "comments": {
+                "totalCount": 5
+              },
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/8125675?v=4",
+                "login": "nuaalida",
+                "resourcePath": "/nuaalida",
+                "url": "https://github.com/nuaalida"
+              },
+              "labels": {
+                "edges": [
+                  {
+                    "node": {
+                      "name": "docs"
+                    }
+                  }
+                ]
               }
             }
           }

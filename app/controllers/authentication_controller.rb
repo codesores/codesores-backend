@@ -23,7 +23,6 @@
       public_repos: public_repos
     )
     response.set_cookie 'token', {value: token, domain: 'opensores.herokuapp.com', path: "/"}
-    response.set_cookie 'token', {value: token, domain: 'opensores-back.herokuapp.com', path: "/"}
     # ... and redirect to client app.
     # redirect_to "#{issuer}?token=#{token}"
     redirect_to "#{issuer}search"

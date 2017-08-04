@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
 
   resource :users, only: [:show]
+  get '/users/stars', to: 'users#user_stars'
   get '/auth/github', to: 'authentication#github', format: false
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
   get '/issues/start', to: 'issues#start'
@@ -11,7 +12,9 @@ Rails.application.routes.draw do
 
   post '/issues/search', to: 'issues#search'
 
+  get '/user_feedbacks', to: 'user_feedbacks#all'
   post '/user_feedbacks', to: 'user_feedbacks#create'
+
 
   get '/graphqlexample', to: 'application#graphqlexample'
 

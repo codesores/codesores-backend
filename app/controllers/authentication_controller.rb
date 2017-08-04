@@ -1,4 +1,4 @@
-class AuthenticationController < ApplicationController
+  class AuthenticationController < ApplicationController
   def github
     authenticator = Authenticator.new
     user_info = authenticator.github(params[:code])
@@ -23,7 +23,7 @@ class AuthenticationController < ApplicationController
       public_repos: public_repos
     )
     # ... and redirect to client app.
-    redirect_to "#{issuer}?token=#{token}"
+    redirect_to "#{issuer}search?token=#{token}"
   rescue StandardError => error
     redirect_to "#{issuer}?error=#{error.message}"
   end

@@ -7,7 +7,7 @@ class  IssuesController < ApplicationController
     @issues = Issue.hot_issues
     render json: {
       languages: @languages.as_json,
-      issues: @issues.as_json(include: :repo)
+      issues: @issues.as_json(include: [:repo, :language])
     }
   end
 
@@ -30,7 +30,7 @@ class  IssuesController < ApplicationController
   def search
     @issues = Issue.advanced_search(params['bugs'], params['documentation'], params['features'], params['other'], params['language'], params['difficulty'].to_i, params["keywords"])
 
-    render json: @issues.as_json(include: :repo)
+    render json: @issues.as_json(include: [:repo, :language])
   end
 
   def results

@@ -59,7 +59,7 @@ end
 
     # Obtain predicted request_type_id using Watson API
     nlc_text_input = issue[:title].tr('^A-Za-z0-9', ' ')
-    url = URI("https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/359f3fx202-nlc-259546/classify?text=#{nlc_text_input}")
+    url = URI("https://gateway.watsonplatform.net/natural-language-classifier/api/v1/classifiers/ad940ex207-nlc-98/classify?text=#{nlc_text_input}")
 
     http = Net::HTTP.new(url.host, url.port)
     http.use_ssl = true

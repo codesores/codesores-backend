@@ -45,7 +45,7 @@ module CodesoresBackend
 
     config.middleware.insert_before 0, Rack::Cors do
       allow do
-        origins 'localhost:3000', 'localhost:3001', 'codesores.herokuapp.com', 'http://localhost:3001'
+        origins 'localhost:3000', 'localhost:3001', 'codesores.herokuapp.com', 'http://localhost:3001', 'https://codesores.herokuapp.com', 'codesores-back.herokuapp.com'
         resource '*', :headers => :any, :methods => [:get, :post, :delete, :put, :patch, :options, :head]
       end
     end

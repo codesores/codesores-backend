@@ -41,7 +41,7 @@ module CodesoresBackend
 
     config.middleware.insert_before 0, Rack::Cors do
       allow do
-        origins ENV["CODESORES_CLIENT_URL"]
+        origins ENV['CODESORES_CLIENT_URL']
         resource '*', :headers => :any, :methods => [:get, :post, :delete, :put, :patch, :options, :head]
       end
     end

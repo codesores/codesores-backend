@@ -5,26 +5,32 @@ class  IssuesController < ApplicationController
     @languages = Language.all.pluck(:language)
     # @issues = Issue.most_recent(10)
     @issues = Issue.hot_issues
-    # render json: @languages, @issues
-    render :json => {
-      :languages => @languages.as_json,
-      :issues => @issues.as_json
+    render json: {
+      languages: @languages.as_json,
+      issues: @issues.as_json(include: [:repo, :language])
     }
   end
 
   def index
-    render json: @issues
+    @issues = Issue.includes(:repo).limit(20)
+    render json: {issues: @issues, repo: @issues.repo}
   end
 
   def show
-    issue = Issue.includes(:repo, :language, :user_feedbacks).find(params[:id])
-    render json: issue
+    issue = Issue.includes(:repo, :language, :user_feedbacks, :stars).find(params[:id])
+    feedback = {
+      count: issue.user_feedbacks.count,
+      average_validity: issue.user_feedbacks.average(:validity),
+      average_difficulty: issue.user_feedbacks.average(:difficulty),
+      feedback_ids: issue.user_feedbacks.pluck(:user_id)
+    }
+    render json: {issue: issue, feedbacks: feedback, language: issue.language.language, repo: issue.repo, stars: issue.stars, request_type: RequestType.find(issue.request_type_id)}
   end
 
   def search
-    @issues = Issue.advanced_search(params['bugs'], params['documentation'], params['language'], params['difficulty'].to_i, params["keywords"])
+    @issues = Issue.advanced_search(params['bugs'], params['documentation'], params['features'], params['other'], params['language'], params['difficulty'].to_i, params["keywords"])
 
-    render json: @issues
+    render json: @issues.as_json(include: [:repo, :language])
   end
 
   def results

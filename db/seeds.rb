@@ -73,7 +73,7 @@ end
     response = http.request(request)
     response_body = response.read_body
     p result = JSON.parse(response_body)
-    p predicted_request_type = result["top_class"].to_i
+    predicted_request_type = result["top_class"].to_i
 
     # Create issue instance
     issue_entry = Issue.new(
@@ -89,9 +89,9 @@ end
     repo_id: Repo.find_by(name: issue[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]).id,
     repo_name: issue[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)],
     request_type_id: predicted_request_type
-    # issue[:repository][:nameWithOwner].match(/\/.*/).to_s[(1..-1)]
     )
 
+    p issue[:title]
     issue_entry.save
     issue_entry.title
   end
@@ -106,10 +106,9 @@ Issue.all.each do |issue|
       issue_id: issue.id,
       validity: rand(0..1),
       difficulty: rand(1..5),
-      request_type_id: rand(1..4)
+      request_type_id: RequestType.all.sample.id
     )
-    p input.valid?
-    p input.errors.full_messages
+    p input
     input.save
   end
 end
@@ -124,5 +123,6 @@ User.all.each do |user|
     issue_id: select_issue_id
     )
     all_issue_id.delete(select_issue_id)
+    p star
   end
 end

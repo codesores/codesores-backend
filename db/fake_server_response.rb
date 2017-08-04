@@ -27391,7 +27391,12 @@
               "comments": {
                 "totalCount": 2
               },
-              "author": nil,
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/6894066?v=4",
+                "login": "rvalenzuelar",
+                "resourcePath": "/rvalenzuelar",
+                "url": "https://github.com/rvalenzuelar"
+              },
               "labels": {
                 "edges": []
               }
@@ -28900,7 +28905,12 @@
               "comments": {
                 "totalCount": 4
               },
-              "author": nil,
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/6894066?v=4",
+                "login": "rvalenzuelar",
+                "resourcePath": "/rvalenzuelar",
+                "url": "https://github.com/rvalenzuelar"
+              },
               "labels": {
                 "edges": [
                   {
@@ -29428,7 +29438,12 @@
               "comments": {
                 "totalCount": 3
               },
-              "author": nil,
+              "author": {
+                "avatarUrl": "https://avatars0.githubusercontent.com/u/6894066?v=4",
+                "login": "rvalenzuelar",
+                "resourcePath": "/rvalenzuelar",
+                "url": "https://github.com/rvalenzuelar"
+              },
               "labels": {
                 "edges": [
                   {

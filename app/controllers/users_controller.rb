@@ -5,6 +5,11 @@ class UsersController < ApplicationController
     render json: @current_user
   end
 
+  def user_stars
+    @stars = Star.where(user: @current_user)
+    render json: @stars
+  end
+
   # before_action :set_user, only: [:show, :update, :destroy]
   #
   # # GET /users

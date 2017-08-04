@@ -1,6 +1,7 @@
 Rails.application.routes.draw do
 
   resource :users, only: [:show]
+  get '/users/stars', to: 'users#user_stars'
   get '/auth/github', to: 'authentication#github', format: false
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
   get '/issues/start', to: 'issues#start'

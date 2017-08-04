@@ -21,7 +21,8 @@ class  IssuesController < ApplicationController
     feedback = {
       count: issue.user_feedbacks.count,
       average_validity: issue.user_feedbacks.average(:validity),
-      average_difficulty: issue.user_feedbacks.average(:difficulty)
+      average_difficulty: issue.user_feedbacks.average(:difficulty),
+      feedback_ids: issue.user_feedbacks.pluck(:user_id)
     }
     render json: {issue: issue, feedbacks: feedback, language: issue.language.language, repo: issue.repo, stars: issue.stars, request_type: RequestType.find(issue.request_type_id)}
   end

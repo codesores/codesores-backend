@@ -12,7 +12,9 @@ Rails.application.routes.draw do
 
   post '/issues/search', to: 'issues#search'
 
+  get '/user_feedbacks', to: 'user_feedbacks#all'
   post '/user_feedbacks', to: 'user_feedbacks#create'
+
 
   get '/graphqlexample', to: 'application#graphqlexample'
 

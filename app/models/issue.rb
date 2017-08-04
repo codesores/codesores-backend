@@ -42,10 +42,10 @@ class Issue < ApplicationRecord
 
     def filter_request_type(bugs, documentation, features, other, issue_array)
       results = issue_array
-      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'bug').id } if bugs == false
-      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'docs').id } if documentation == false
-      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'feature').id } if features == false
-      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'other').id } if other == false
+      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'bug').id } if bugs == "false"
+      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'docs').id } if documentation == "false"
+      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'feature').id } if features == "false"
+      results = results.reject { |issue| issue.request_type_id == RequestType.find_by(scope: 'other').id } if other == "false"
       return results
     end
 

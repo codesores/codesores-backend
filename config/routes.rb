@@ -20,6 +20,7 @@ Rails.application.routes.draw do
 
   post '/stars/create', to: 'stars#create'
   post '/stars/delete', to: 'stars#delete'
+  get '/logout', to: 'authentication#logout', format: false
 
 
 end

@@ -1,0 +1,400 @@
+Add test CSS Transform support in SVG,3
+Detect support for scrollIntoView(scrollIntoViewOptions),1
+cssvwunit/cssvhunit tests give false negative in some browser zoom/widths,1
+False positive on pointer lock,1
+Double font file loading (via google API) in Firefox when modernizr is loaded at end of body,1
+CORS detection in Chrome when on file protocol,1
+video autoplay gives incorrect value in IE and Edge,1
+softhyphensfind bug,1
+"test for ""w"" syntax support in <img srcset>",3
+"Occasional 'Aw, Snap!' in Chrome when devtools open",1
+testAllProps set twice,1
+chunit test false positive for MSIE,1
+Configuration Options not working,1
+Emoji test produces false negative in Firefox 41.0 on OS X 10.10,1
+transform3d detected false in chrome,1
+Certain builds contain syntax errors,1
+webkit bug (csstransforms3d),1
+Installing using Build-URL via Bower strips off dash in class-prefix,1
+Breaking change in no-js/js behavior moving from v2 to v3,1
+Detect data URI in links support with Modernizr,3
+"CSS ""vw unit"" test fails when <body> css is ""overflow-y: scroll""",1
+Modernizr.csstransforms3d returns false negative in chrome 46,1
+Add feature test for box-decoration-break,3
+hiddenscroll not working on Chrome (OS X),1
+Builder on site returning undefined,1
+Using csshyphens test breaks anchors on page load,1
+Modernizr v3 flash detect always returning {block: true} on Mac Safari 9.0 and Windows 10 Edge,1
+@font-face false negative on Android/Firefox 42.0.2,1
+"false detect: CSS-filters, svg-filters",1
+No longer possible to pass path to custom tests to Modernizr.build,1
+Updated Test for CSS Scroll Snap,3
+vh unit issue on ios safari,1
+New getUserMedia API,3
+Modernizr.csstransforms3d returns false negative in chrome iFrame,1
+No no-js→js swap if Add CSS Classes is unselected,1
+Modernizr.localizednumber moves head below body,1
+`datauri` false negative in Firefox 43.0.x,1
+bug forms/inputnumber-l10n,1
+Publish each feature detect as a stand-alone npm module,1
+Possible to add Dolby Digital Plus to Modernizr?,3
+Optionally set an element to append classes to,3
+Flash blocking detection fails if the tab is out of focus,1
+Can we re-run tests ?,1
+Download builder doesn't work properly in Safari,1
+vwunit issue in IOS browser,1
+"FeatureDetects for audiopreload, videoautoplay, and blobworkers are flakey.",1
+Chrome 50 no longer allows geolocation on unsecure pages (http),1
+CSS transforms on SVG elements,1
+On pageload HTML5 input element with autofocus losing focus,1
+Modernizr.hasEvent doesn't work with animationend,1
+Modernizr failing to know when WebGL has been disabled.,1
+modernizr cli can run into problems with backslashes,1
+detect ability to open multiple video streams concurrently,1
+CSS: Generated Content Transition,3
+How about automatic commit message style validation?,3
+ES5 feature test fails with the minified build version,1
+videoautoplay test inconsistent on mobile Chrome,1
+New release?,3
+webaudio detect description wrong,1
+prefixed requestFullscreen failing on Firefox 49,1
+deprecating old detect code,1
+"generatedcontent + chrome + zoom, part deux",3
+gradient safari 9.1,1
+Wrongly detects cssvhunit when Chrome DevTools device mode is open,1
+flexwrap not being returned.,1
+False Positive with Modernizr.inputtypes.date in Chrome.,1
+"Uncaught SecurityError: Failed to execute ""getImageData"" on emoji test",1
+WebM Video Alpha Detection,3
+Including csspseudotransitions causes issues with build,1
+Add a function to test all features at once,3
+Please add for a new datalist polyfill,3
+Modernizr.inputtypes no class set.,1
+`touchevents` is `true` on Chrome 54+ Windows,1
+ES6 arrow feature detect is not being released,1
+Console error in Firefox due to getComputedStyle in hidden IFrame,1
+modernizr interferes w/ correct display of embed/iframe player,1
+docs: error API item of CSS class/JS property,2
+Modernizr + bootstrap only showing blank white page issue,1
+touchevents check gives a false positive in Chrome for some specific scenarios with zoom involved,1
+Sanitization bypass using HTML Entities (SEVERITY: HIGH),1
+Wrong version number in license file.,1
+Video autoplay detection is outdated for iOS 10,1
+Web Cryptography and IE11 Support,3
+input-formtarget detection not working,1
+Page scrolls to iframe that includes modernizr,1
+Form input types not working,1
+Details-test broken on Firefox 49+ (Modernizr v.3.3.1),1
+exiforientation feature detection fails on iOS,1
+"When can i use css grid, varibles,and so on..",2
+test_hyphens_find causes page to scroll to the top,1
+bdi test failing in RTL mode,1
+Hoping for support for Variable Fonts (via support for font-variation-settings),3
+Modernizr says flex-wrap is supported in UC on Android,2
+media-query max-resolution not working anymore,1
+CSS :nth-child pseudo-selector test fails in Chrome when zoomed out,1
+getusermedia not returning correct values,1
+EINTEGRITY: npm 5.0 integrity check and modernizr.com dependency,1
+Uncaught TypeError: _modernizr2.default.mq is not a function,1
+Finer-grained selection for the inputtypes detect,1
+H265 check,2
+[WASM] - Add ability to extend DependenciesBlock<Module>,3
+[WASM] - Create WASM Module type,3
+[WASM] - It is possible to import and bundle WASM Modules,2
+[WASM] There is a (temporary) runtime in chunk load code - Part 1: Sequential,1
+[WASM] - Implementation and first uses complete - User Surface,3
+[WASM] - Implement parallel WASM compilation,3
+[WASM] - Implement DepBlock templates for WASM code.,3
+[WASM] - Create runtime for WASM Module Compilation - Part 2,3
+[WASM] - It is possible to import function from other modules from WASM,2
+"[WASM] - Rust, LLVM Frontend Loaders",1
+[WASM] - Handle shared memory across any/all WASMModules,3
+loaderContext.loadModule does not load modules recursively,1
+Show more accurate validation information for initial configuration,1
+webpackUniversalModuleDefinition wrapper missing __webpack_require__ parameter,1
+Provide option to disable initial compilation when watching,3
+"require.resolveWeak does not have the same static resolution capabilities as import, require, etc",1
+No global object available for {target: 'webworker'}|,1
+UglifyJsPlugin: typescript sourcemap not match,1
+Module parse failed should show which loaders it applied by default,1
+Circular dependency in node utility module calling node's console module causes nil references,1
+Wrong paths for css source maps,1
+"Consider adding dynamic import's webpackMode as a configuration option, or eval the comment contents to get value",3
+Reduce Circular Dependency Friction with Better Error Messages,1
+"Webpack is slow to start and always performs work, even if it is unnecessary",1
+Break library bundles into pieces,3
+Compiler.run gives an error,1
+Load chunked assets from path relative to a variable entry location on CDN,3
+V4 Architecture: DependenciesBlock<Module> extensibility API,1
+Having troubles resolving node_modules with main set to ./,1
+Consider making all requires lazy (inline requires),3
+It isn't made clear exactly how to use non-javascript webpack configs.,2
+Resolve Modules Doesn't Resolve Modules,1
+Failed to resolve es6 harmony import,1
+"""module"" field in package.json breaks if author uses it",1
+Able to track file removal in `watch-run`,3
+file does not match the corresponding path on disk - File does not exist,1
+This in module not undefined,1
+Get error when dynamic require,1
+CommonsChunkPlugin with children option unsafe for children with multiple parents,1
+Problems with pnpm and the way loaders are resolved,1
+"Webpack 3 RC ModuleConcatenationPlugin crash, out of memory",1
+webpack is not generating source maps,1
+Variable name mapping issue *only* when using ModuleConcatentationPlugin,1
+Include only parts of Buffer interface,3
+commonsChunkPlugins async  options  Invalid,1
+Webpack 3 and babel-polyfill issue at runtime,1
+Webpack 3 seems to have/cause a memory leak,1
+naming chunk names in webpack configuration.,3
+Base64 hashes in filenames should be URL-safe,1
+Post Loaders don't work correctly (Webpack v3),1
+[Webpack 3] Possible regression in cacheable packages (like react),3
+Dynamic import behavior is inconsistent with static import,1
+Webpack should not modify bundles on disk unless changed,1
+output.pathinfo results in invalid javascript,1
+resolve module in manifest.json when add the DllReferencePlugin,1
+commonsChunkPlugins troubles with code splitting,1
+Feature Request: Make the plugin API play nicely with type systems.,3
+[enhancement] ModuleConcatenationPlugin - drop webpack bootstrap if possible,1
+[Feature Request] Handle external missing in runtime. (Or make a guarantee before bootstrap),3
+libraryTarget: umd' with nested namespace for optional dependency causes an error,1
+Referencing `require` causes immediate exception,1
+convert-argv.js adds HotModuleReplacementPlugin even when already available,1
+Webpack keeps compiling,1
+Add Chrome content script target,3
+"Bug: ""Dead code"" eliminate media files",1
+"Missing module at 1st build, present at consecutive build only from webpack@3",1
+BUG: Uncaught (in promise) Error: Loading chunk 0 failed.,1
+Module API require with dynamic load module causes variable  not defined,1
+Use ModuleConcatenationPlugin generates code that raises exceptions,1
+webpack --version reports 2.4.1,1
+Wrong 'externals' processing,1
+add missingNodeModulesPlugin support,3
+ModuleConcatenationPlugin: Unexpected token,1
+Provide clear output about when a build finishes,2
+Webpack no longer supports define correctly,1
+Unclear error message in case of Exclamation mark in project path breaking the build on Windows,2
+Plugins always emitted in watch mode,1
+Webpack should avoid including file content which contains no explicitly imported modules,3
+Error in webpack-sources,1
+"Filtering assets within the stats, like modules",3
+Webpack 3 compile more than one time and webpack 2.7.0 and 2.6.1 no,1
+bug: ExtendedAPIPlugin incorrectly causes 'cannot use [chunkhash] error',1
+External replacing global variable in browser,1
+WebPack fails to bundle libraryTarget: 'amd',1
+help-output test fails on OSX,1
+Warn user about duplicate plugins,1
+UMD build does not export,1
+Complex dynamic require doesn't map modules in resolve.modules,1
+AggressiveSplittingPlugin and watch mode with multiple entry points.,2
+Common chunks cannot find scripts in resolve.alias,1
+Import error based on paths in resolve.modules,1
+Loaders with same test parameter operate with one source.,1
+EnvironmentPlugin: destructuring process.env doesn't work,1
+[name] and [filebase] templates don't work in output.filename,1
+Hot Module Replacement doesn't notice when a symlink is changed,1
+Webpack dynamic require injects http script on a https server.,1
+webpack --watch breaking site after modifying a file,1
+Specify output directory with dynamic import,2
+dynamic require inside if block fails to compile,3
+stats.assetsByChunkName does not include dynamic chunks,1
+Challenge [Search and Replace] - Tests are insufficient,3
+I can't continue to next lesson all the page does is refresh and loads the same lesson over and over again,1
+Error Checking If h2 Is Blue,1
+Front end doesn't work,1
+Test passes with typo in <link href ..> that prevents Lobster font loading,1
+passed with funky code.,1
+"""Identifier 'dataset' has already been declared""  (Works only when const is commented out)",1
+Tests passing with wrong text,1
+The code seems right to me but the test fails,1
+"code is correct but still telling me to ""keep trying""",1
+console statements not displaying result,1
+Not giving error when semicolon is missing at the return statement,1
+Test fails in Firefox but passes in Chrome:,1
+Create an ordered list has an issue with test cases.,1
+Test case bug in 'Generate Random Whole Numbers within a Range',1
+"CodePen to all-HTTPS, breaking all ajax calls to HTTP endpoints",1
+Test seem to pass even if code is incorrect,1
+Inappropriate use of variables teaches bad habit,3
+Rename Link from Smallest Common Multiple to Least Common Multiple,2
+"CSS Naming Methodology, Unit and Integration Testing",3
+"Broken in Firefox, but Works in Chrome.",1
+"Remove the views for CoC, Privacy and the ToS",1
+Wrong output test in advanced algorith challange: symmetric difference,1
+Applied Visual Design: Learn about Tertiary Colors,2
+Map the Debris uses a straight equality check for double precision floating point numbers numbers.,2
+Requesting several new lessons regarding functions in the Basic JavaScript Track,2
+Challenge create-a-more-complex-shape-using-css-and-html has an issue.,1
+On Android not working,1
+Learner can erroneously change myArray by hand,1
+Adjusting the Padding of an Element-not mobile friendly,1
+Wrong text in https://www.freecodecamp.com/challenges/use-spans-for-inline-elements,2
+Excercise based on deprecated API,1
+Link to profile on beta fcc doesn't work,1
+Error in Theory of JS,1
+"Bug in the Editor, Applied Accessibility: Use tabindex to Specify the Order of Keyboard Focus for Several Elements",1
+Counting Cards,2
+"Pass allowed with wonkey result, Add Font Awesome Icons to our Buttons(76)",3
+Tests for Basic Node and Express doesn't work. [Beta],1
+"Feedback on page ""Basic Front End Development Projects"" / ""Get Set for our Front End Development Projects""",2
+FreeCodeCamp Badges,3
+Border-radius displays as right angle,1
+Challenge [use-class-syntax-to-define-a-constructor-function] passes with incorrect solution,1
+Sum All Odd Fibonacci Numbers,2
+its not going further i wrote the code right,1
+"""Hello World"" Run Test issue on Win 10 Edge Browser",1
+Issue: Not registering the task is complete,1
+Cant' understand how we are going to target 2nd child of 'well' if we have not mentioned element 'well' anywhere in the query..,2
+Beta: ES6: Create an Export Fallback with export default,3
+Sticky Highlighting on 'Community' Nav Bar Button,1
+Sass Use @each to map over items in a list,2
+Sass  Apply a Style Until a Condition is Met with @while,2
+"Create static page to replace current ""How our Nonprofit Projects Work"" page",3
+Move from freecodecamp.com to freecodecamp.org,3
+error on api of fcc,1
+Lessons that I've Taken are Not Showing as Completed!,1
+Applied Visual Design: Adjust the background-color Property of Text,3
+Escaping Literal Quotes in Strings,1
+Solution is not flexible?,2
+Firefox doesn't play animations on first try,1
+Change color/background color in Night Mode preview,3
+React : Challenge no. 47,2
+Missing tests. Poss related to issue #13498,1
+Functional Programming Challenges introduced later,2
+Use Colorblind-OK colors in box model challenges,3
+Manage a Book Trading Club Application Error,1
+"Recieveing error stating that i used a case, switch, or if else statement but did not use any of them.",1
+"I don't understand the instructions to ""use strict"";",2
+Modal heading color scheme,1
+Bug in Build a Recipe Box reference implementation,1
+Use a Mixin Under Object Oriented Programming FCC Beta,2
+Testing bug,1
+JSON & API curriculum doesn't prepare students for Intermediate Front-End Challenges,2
+Archive and close Core Team chat room in favor of Contributors room,2
+Accessing Nested Objects - get a hint - link private?,1
+issue found inspite the right code (target even number elements using jQuery),1
+Counting Cards is unclear or too difficult,2
+Profile Lookup is unclear or too difficult,2
+Word Blanks challenge is too hard or unclear,2
+Code Golf is too hard or unclear,2
+beta HTML does not preload for any challenge,1
+Return statement  not displaying in Beta,1
+Display meaningful placeholder usernames in for new signups,3
+Invisible Challenge in Basic Algorithm Scripting (Beta),1
+Accessibility: Windows and Mac: Screen Reader Will Not Speak the Edit Box in the Code Window,1
+Screen Reader Can't Get to the Button To Confirm a Code Reset,1
+`box-sizing` for adding border css challenge,2
+"Change mention of ""operator"" to ""notation"" in Object Access",2
+Find longest word in a string function naming,3
+Understanding Uninitialized Variables | Allows you to edit variable directly below allowed edits line.,2
+Accessibility: Please add main landmark to indicate where main content starts  exercise screens for more efficient Navigation,3
+[FCC Beta] Test suite failing on SASS Challenge (Use @each to Map Over Items in a List),1
+Beta - Test Case Broken - Sass: Use @for to Create a Sass Loop,1
+Move Fahrenheit Variable Below Comment Line,3
+"""Ask for help"" button that pre-populates forum post",3
+Name attribute considered obsolete on anchor tags (Beta),1
+Choose 5 algorithm challenges to be required for the new Algorithms and Data Structures certificate,2
+"Course Idea: Online Interactivity (Canvas, SVG, etc)",3
+"Stuck on ""running tests"" for entire APIs and Microservices section",1
+User Profile Streak Chart uses different date/time than the table below it,1
+Create a Controlled Form challenge does not actually create a form,1
+rails new does not work with --webpack and --skip-bundle on Rails 5.1,1
+head method inside a format.any results in an incorrect Content-Type,1
+System test with Selenium Fails with EOFError,1
+ActiveRecord::RecordNotUnique: Mysql2::Error: Duplicate entry '' for key 'PRIMARY': INSERT INTO ar_internal_metadata,1
+`#blank?` fails on non-UTF8 strings,1
+How to disable stdout logger in development in 5.1,2
+Inflector + I18n fallbacks do not play well together,1
+Rails constant autoloading fails to load modules transitively.,1
+assert_routing fails due to assert_recognizes not returning path in expected options,1
+Unexpected count value with Rspec + Worker +.deliveries.count,1
+AR::Base#save doesn't assert valid keys,1
+Arrays of hashes deserialized with HWIA,1
+MissingAttributeError goes away after save,1
+url_for() produces path with double namespace,1
+Bring back before_filter and friends as aliases,3
+Validation run twice in association if parent updated since rails 5.1,1
+Flash.now is not rendered when form_with is used,1
+AR containing an attribute of it's pluralized name cause typecasting exceptions.,1
+form_with - rails_ujs error on submit,1
+More info on previous_changes deprecation message.,2
+Multiple calls to validate with same symbol will overwrite it,1
+db:structure:load broken on linux with a default postgres install,1
+Record not touched when removing associated has_many through,1
+enable_extension regression in 5.1?,1
+weird behavior of per_form_csrf_tokens,1
+Special characters in app directory path causes 'rails server' to fail on Windows systems,1
+"When migrating down, enable_extension will delete every column from every table that use the extension",1
+Clarify ActiveSupport String#first and String#last behavior for negative limit value,2
+rails db:migrate db:seed cannot be run in the same command as of v5.1,1
+rails 5.1: validates_associated in polymorphic associations: parent is not set,1
+ActiveRecord::HasManyThroughOrderError,1
+Using .unscope with a default_scope that has .or(where....) in it,1
+`db:schema:load_if_ruby` also runs `db:create`,1
+"where.not(postgres_array_column: [nil, '{}']) generates different query in 5.1",1
+Interface of ajax callbacks.,2
+Random ActiveRecord::StatementInvalid: PG::UndefinedTable: ERROR(s) after upgrading to Rails 5.1.1,1
+Bug with tz aware range types array,1
+Creating a scaffold for a Model with a reference shows the memory address of the associated model rather than the id in the index and show html files.,1
+ActionCable: disconnect/unsubscribed never called,1
+ActiveSupport::TimeZone.us_zones behavior changed between Rails 5.0.2 and 5.0.3,2
+ActiveRecord::AttributeMethods::Dirty 5.1 stuck in inconsistent state if autosave :has_many aborts save.,1
+Reformat implicit render exception,3
+"PG::AmbiguousColumn: ERROR:  column reference ""name"" is ambiguous",1
+Rails 5.1 STI - STI associations cannot be used with has_one,1
+rails dev:cache failed to restart the Rails server with custom pid file path,1
+ActionCable::Connection::Base#disconnect not called if cable client lost network connection,1
+after_commit doesn't work with optimistic locking,1
+Order of query results is inconsistent,1
+model w/o primary key defined as association beeing eager loaded is not populated,1
+action cable disconnects when files change,1
+Segmentation fault with postgresql_adapter,1
+:format in routes gets appended to url even if it's not there,1
+Rails 5.1.x does blow up when queries are executed within model class definition,1
+Inconsistent collection setter behaviour (has_many / has_many through),1
+Getting_started.md Basic Auth required twice,1
+"""Couldn't find template for digesting"" error with js.erb views",1
+"database.yml, Only numbers in database name",1
+Session in controller to not always have the same class,1
+Scopes behaviour change?,4
+Active Model cache is out of date after using db:migrate as a prerequisite,1
+Can't find partial when controller subclasses another controller,4
+rails-ujs prematurely enables disabled elements for XHR requests with redirects,1
+Problem in ActiveJob::QueueAdapters::SneakersAdapter::JobWrapper reads only from default queue,1
+Rails stats command counts files only from the hardcoded list,1
+Objects built by ActiveRecord::AssociationRelation#or have incorrect associations?,1
+`rails server` doesn't listen on `localhost` on Linux,1
+`ActionDispatch::DebugExceptions` won't show an exception if it itself throws an exception,1
+actioncable reconnect same connection and resend same actions again.,4
+"No route matches [GET] ""/favicon.ico""",1
+Params wrapper is trying to safe_constantize wrong class based on url instead of what is present,1
+When LoadError#path is nil LoadError#is_missing? throws NoMethodError,1
+A question about cursors support,4
+"Can't download attachments with russian letters in name (from issue) in Redmine 3.4.0 with Rails 4.2.9, but work corect with Rails 4.2.8",1
+Deadlock between ParamsWrapper#model and Loadable#require_or_load,1
+eager_loading has_one association not taking default scoped order into account,1
+Which is the proper order to handle exception.cause  in ActiveSupport::Rescuable#rescue_from ?,4
+[ActiveRecord] after_commit callback is called when update fails within explicit transaction block,1
+"rails new --webpack --skip-sprockets still creates the assets folder, doesn't set up Webpacker for CSS",1
+Entire Rails.root is being watched when watchable_dirs contains non-existing directory,1
+Error in production env not manifested in dev/test environments,1
+ActiveRecord::Relation#cache_key throws error for some distinct collections.,1
+"Polymorphic has_many :through, #association= does not delete existing join records if source is polymorphic",1
+bug template does not run,1
+Reseeding ignores engines' migrations paths,1
+Stray characters may be returned on render as xml,1
+namespaced controller inside engine cannot be called in production,1
+ActiveRecord's before_update is called on create,1
+ruby  on rails guide 5.1.2 kindle download link is broken,1
+Rails::Secrets.encrypt should work even if secrets.yml.key doesn't exist,3
+Unnecessary number of deprecation warnings in ActiveRecord::AttributeMethods::Dirty,3
+Strong parameters doesn't permit all nested attributes if key is not numeric,1
+The X-Forwarded-Host HTTP header is always trusted and is used in url_for,1
+bin/test is not using the Rails test reporter,1
+Autoloading guide should mention `eager_load_paths`,3
+Unable to parse `filter_parameters` in development environment leads to unclear error message,1
+Class-specific virtual attribute not writable after using `becomes`,1
+Support for multiple foreign keys in ActiveRecord::Associations?,3
+ActionController::RoutingError returns 500 (via fail-safe) rather than the expected 400 when POST parameters are invalid,1
+"Calling ""unscope"" from inside another scope breaks STI in 5.0.5",1
+bundle exec rails new ~/my-test-app --dev failed on window host,1
